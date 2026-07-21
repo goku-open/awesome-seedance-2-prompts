@@ -27,7 +27,8 @@ export interface Prompt {
   translatedContent?: string;
   sourceLink?: string;
   sourcePublishedAt: string;
-  sourceMedia: string[];
+  video?: string;
+  poster?: string;
   author: { name: string; link?: string };
   language: string;
   featured: boolean;
@@ -72,15 +73,14 @@ function tryParseJson(value: string): Record<string, any> | null {
   }
 }
 
-function getMediaImages(media: Record<string, any> | string | null): string[] {
-  if (!media) return [];
+function getMediaVideo(media: Record<string, any> | string | null): { video?: string; poster?: string } {
+  if (!media) return {};
   const parsed = typeof media === "string" ? tryParseJson(media) : media;
-  if (!parsed || typeof parsed !== "object") return [];
-  if (Array.isArray(parsed.images)) {
-    return parsed.images.filter((img: any): img is string => typeof img === "string");
-  }
-  if (typeof parsed.c === "string") return [parsed.c];
-  return [];
+  if (!parsed || typeof parsed !== "object") return {};
+  return {
+    video: typeof parsed.v === "string" ? parsed.v : undefined,
+    poster: typeof parsed.c === "string" ? parsed.c : undefined,
+  };
 }
 
 function getAuthorName(sourceLink: string | null, platform: string | null): string {
@@ -134,6 +134,8 @@ function mapPrompt(item: D1PromptItem, locale: string): Prompt {
     160
   );
 
+  const { video, poster } = getMediaVideo(item.media);
+
   return {
     id: item.id,
     title: localizedTitle,
@@ -142,7 +144,8 @@ function mapPrompt(item: D1PromptItem, locale: string): Prompt {
     translatedContent: localizedContent !== rawContent ? rawContent : undefined,
     sourceLink: item.sourceLink || undefined,
     sourcePublishedAt: item.date || "",
-    sourceMedia: getMediaImages(item.media),
+    video,
+    poster,
     author: {
       name: getAuthorName(item.sourceLink, item.platform),
       link: getAuthorLink(item.sourceLink),

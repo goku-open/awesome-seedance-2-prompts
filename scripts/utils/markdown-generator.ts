@@ -28,7 +28,7 @@ const en = {
   count: "Count",
   description: "Description",
   prompt: "Prompt",
-  generatedImages: "Generated Images",
+  generatedVideos: "Generated Videos",
   details: "Details",
   author: "Author",
   source: "Source",
@@ -79,7 +79,7 @@ const zh: typeof en = {
   count: "数量",
   description: "描述",
   prompt: "提示词",
-  generatedImages: "生成图片",
+  generatedVideos: "生成视频",
   details: "详情",
   author: "作者",
   source: "来源",
@@ -264,15 +264,13 @@ function generatePromptSection(
   md += `\n#### 📖 ${t("description", locale)}\n\n${prompt.description}\n\n`;
   md += `#### 📝 ${t("prompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
 
-  if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
-    md += `#### 🖼️ ${t("generatedImages", locale)}\n\n`;
-
-    prompt.sourceMedia.forEach((imageUrl, imgIndex) => {
-      md += `##### Image ${imgIndex + 1}\n\n`;
-      md += `<div align="center">\n`;
-      md += `<img src="${imageUrl}" width="600" alt="${prompt.title} - Image ${imgIndex + 1}">\n`;
-      md += `</div>\n\n`;
-    });
+  if (prompt.video) {
+    md += `#### 🎬 ${t("generatedVideos", locale)}\n\n`;
+    md += `<div align="center">\n`;
+    md += `<video src="${prompt.video}" controls width="600"${prompt.poster ? ` poster="${prompt.poster}"` : ""}>\n`;
+    md += `  Your browser does not support the video tag.\n`;
+    md += `</video>\n`;
+    md += `</div>\n\n`;
   }
 
   md += `**[${t("tryItNow", locale)}](${APP_HOME_URL})**\n\n`;
