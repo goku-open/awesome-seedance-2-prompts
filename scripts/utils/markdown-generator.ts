@@ -28,7 +28,7 @@ const en = {
   count: "Count",
   description: "Description",
   prompt: "Prompt",
-  generatedVideos: "Generated Videos",
+  generatedVideos: "Generated Videos (Click to play ↗)",
   details: "Details",
   author: "Author",
   source: "Source",
@@ -79,7 +79,7 @@ const zh: typeof en = {
   count: "数量",
   description: "描述",
   prompt: "提示词",
-  generatedVideos: "生成视频",
+  generatedVideos: "生成视频（点击播放 ↗）",
   details: "详情",
   author: "作者",
   source: "来源",
@@ -267,9 +267,9 @@ function generatePromptSection(
   if (prompt.video) {
     md += `#### 🎬 ${t("generatedVideos", locale)}\n\n`;
     md += `<div align="center">\n`;
-    md += `<video src="${prompt.video}" controls width="600"${prompt.poster ? ` poster="${prompt.poster}"` : ""}>\n`;
-    md += `  Your browser does not support the video tag.\n`;
-    md += `</video>\n`;
+    md += `<a href="${prompt.video}" target="_blank" rel="noreferrer">\n`;
+    md += `  <img src="${prompt.poster || prompt.video}" width="600" alt="${prompt.title}" style="cursor:pointer">\n`;
+    md += `</a>\n`;
     md += `</div>\n\n`;
   }
 
