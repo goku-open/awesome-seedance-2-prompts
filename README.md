@@ -50,67 +50,32 @@ Contains 8,720+ SeedDance 2 prompts and generated images, suitable for batch ana
 | Metric | Count |
 |--------|-------|
 | 📝 Total Prompts | **8720** |
-| 🔄 Last Updated | **Tuesday, August 25, 2026 at 1:17:07 AM UTC** |
+| 🔄 Last Updated | **Wednesday, August 26, 2026 at 1:19:55 AM UTC** |
 
 </div>
 
 ---
 ## 📋 All Prompts
 
-### No. 1: Demon Lord Ramen Day Off
+### No. 1: Morning Latte Dreams
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a 15-second anime-style video clip in 9:16 vertical format. Concept: The Demon Lord’s Day Off A terrifying but exhausted Demon Lord takes a break from w…
+Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a…
 
 #### 📝 Prompt
 
 ```
-Create a 15-second anime-style video clip in 9:16 vertical format.
-
-Concept: The Demon Lord’s Day Off
-A terrifying but exhausted Demon Lord takes a break from world domination to quietly eat ramen in a small Japanese ramen shop. Tone: cinematic, slightly funny, and emotionally grounded.
-
-Style:
-90s anime film style, fantasy slice-of-life, subtle gritty realism, moody lighting, slightly desaturated colors, warm ramen-shop highlights, expressive character acting, polished hand-drawn anime look, soft film grain.
-
-Character:
-Male Demon Lord with black horns, long dark hair, red eyes, dark armor, and a cape. He looks powerful but tired, intimidating yet relatable.
-
-Setting:
-A cozy ramen shop at night in Japan. Warm lantern light, wooden counter, rising steam, soft reflections, quiet customers, and a subtle rainy-night atmosphere.
-
-Audio:
-Natural Japanese dialogue, English subtitles only, soft ambient ramen shop sounds, and gentle emotional background music.
-
-Shots / Timing:
-
-[00–05s]
-Medium-wide shot. The Demon Lord enters or sits at the counter, exhausted. Steam drifts through the warm shop.
-Japanese: 「今日は世界を滅ぼさない。」
-Subtitle: “Today, I’m not destroying the world.”
-
-[05–10s]
-Medium shot. A steaming bowl of ramen is placed in front of him. He visibly relaxes.
-Japanese: 「今日は休みだ。ラーメンを食べる。」
-Subtitle: “It’s my day off. I’m eating ramen.”
-
-[10–15s]
-Close-up. He takes a bite of ramen and finally looks at peace. End on a calm, composed shot with subtle humor.
-Japanese: 「世界征服は、また明日だ。」
-Subtitle: “Taking over the world can wait until tomorrow.”
-
-Camera / Constraints:
-Use cinematic anime framing with medium-wide, medium, and close-up shots. Smooth motion, subtle push-ins, and strong atmosphere. Keep it simple, readable, and emotionally clear. No extra on-screen text besides English subtitles.
+Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a Starbucks Caffè Latte from a convenience store, takes a refreshing sip, then works and socializes with friends in a cozy café while using his laptop and notebook. Warm sunlight, soft colors, expressive character animation, and upbeat acoustic music create a cheerful, inspiring atmosphere. End with a close-up of the Starbucks Caffè Latte bottles.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04038.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04038.jpg" width="600" alt="Demon Lord Ramen Day Off" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10773.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10773.jpg" width="600" alt="Morning Latte Dreams" style="cursor:pointer">
 </a>
 </div>
 
@@ -118,25 +83,25 @@ Use cinematic anime framing with medium-wide, medium, and close-up shots. Smooth
 
 ---
 
-### No. 2: First Lunar New Year Lion Dance NYC
+### No. 2: Sexy Victory Dance Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-From the angle of a girl holding up her phone to take a selfie. She occasionally glanced around, seemingly hoping to find signs of Chinese New Year in New York…
+In a live-action style, a beautiful girl with long black wavy hair wears a white cropped top and a JK mini skirt, demanding sexiness and fair skin. She is play…
 
 #### 📝 Prompt
 
 ```
-From the angle of a girl holding up her phone to take a selfie. She occasionally glanced around, seemingly hoping to find signs of Chinese New Year in New York, and as she walked, she said, "I wish I had the chance to see people celebrating Chinese New Year in Times Square." Then the girl noticed something and ran over, exclaiming, "This is it." This was my first Lunar New Year in New York. Behind her, the lively sounds of lion dance performances filled the air, creating a festive and bustling atmosphere full of Chinese New Year spirit.
+In a live-action style, a beautiful girl with long black wavy hair wears a white cropped top and a JK mini skirt, demanding sexiness and fair skin. She is playfully dancing to the DJ dance track of "Victory Dance," with movements including playful hip swings, arm wave steps, and fixed poses, perfectly matching the music rhythm; The camera moves back and forth in sync with the music, with the background in the bedroom. Soft spotlights shine down from above, illuminating the girl. The overall lighting is soft and the atmosphere is strong, with a 9:16 aspect ratio. Elimination: blurry, low-definition, noise, watermark, text, logo, distortion, distortion, distorted features, stiff movements, image shaking, disproportionate. Model 2.0, aspect ratio 9:16, duration 10s.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05149.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05149.jpg" width="600" alt="First Lunar New Year Lion Dance NYC" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08966.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08966.jpg" width="600" alt="Sexy Victory Dance Girl" style="cursor:pointer">
 </a>
 </div>
 
@@ -144,31 +109,25 @@ From the angle of a girl holding up her phone to take a selfie. She occasionally
 
 ---
 
-### No. 3: Rooftop Escape: Jetstream Pilot
+### No. 3: Four Symbols Ancient Costume Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Ultra-realistic rooftop airport on top of a ruined megacity, storm clouds below the skyscrapers. Female pilot runs across the landing deck toward the final dep…
+@image, dreamy ancient-style costume change theme, sequentially transforming into the Four Symbols: Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoi…
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic rooftop airport on top of a ruined megacity, storm clouds below the skyscrapers.
-Female pilot runs across the landing deck toward the final departing ship.
-Jetstream armor forms around her body from spinning turbine air.
-Enemy drones descend from clouds.
-Camera chases behind her across the runway.
-She slides under one drone, launches another off the roof edge.
-Final frame: front of the ship view, ship engines ignite as city lights vanish below clouds.
+@image, dreamy ancient-style costume change theme, sequentially transforming into the Four Symbols: Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise, ultimately gathering the essence of the Four Symbols in the palm; the overall scene is filled with an ancient atmosphere, high-definition quality, delicate and layered lighting and shadows, with magnificent special effects that align with the traits of the Four Symbols - Azure Dragon transformation: dominant cyan-blue tones, surrounded by flowing cloud and water ripple light effects, a dragon-shaped phantom encircles, the attire is flowing with scale-like textures, movements agile like a swimming dragon - Vermilion Bird transformation: dominant red, gold, and orange tones, fire particles fluttering everywhere, the phantom of Vermilion Bird wings spreading, the attire features feather patterns, movements graceful like a flame bird flapping its wings - White Tiger transformation: dominant silver-white and ink-black tones, lightning patterns coursing around the body, the White Tiger phantom raises its head and roars, the attire is sharp with beast patterns, movements vigorous like a White Tiger charging - Black Tortoise transformation: dominant pitch-black and dark brown tones, tortoise shell shield patterns and light shadows emerge, the Black Tortoise and snake phantoms coil around, the attire is heavy with a metallic and stone texture, movements steady like a Black Tortoise lurking in the abyss - Final scene: the phantoms of the Four Symbols simultaneously appear behind, with cyan, red, white, and black spiritual energy converging from all directions into the palm, forming a brilliant combined light sphere of the Four Symbols, the camera focuses on the palm, the atmosphere is fully charged, and the ancient-style special effects are delicate and natural
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02273.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02273.jpg" width="600" alt="Rooftop Escape: Jetstream Pilot" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01206.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01206.jpg" width="600" alt="Four Symbols Ancient Costume Transformation" style="cursor:pointer">
 </a>
 </div>
 
@@ -176,25 +135,25 @@ Final frame: front of the ship view, ship engines ignite as city lights vanish b
 
 ---
 
-### No. 4: Rainy Night Sword Energy Battle
+### No. 4: Urban Parkour Cat Leap Action
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[@图1] Sword practice on a rainy night, sword energy, sword shadows, particle effects, all in one continuous take, with the camera moving around the characters,…
+Cinematic parkour action video, a 22-year-old Asian male with messy black hair, wearing an oversized charcoal grey t-shirt and black techwear cargo pants. He i…
 
 #### 📝 Prompt
 
 ```
-[@图1] Sword practice on a rainy night, sword energy, sword shadows, particle effects, all in one continuous take, with the camera moving around the characters, smooth camera movement, tight fights, intense and thrilling progress, and a realistic style almost cinematic.
+Cinematic parkour action video, a 22-year-old Asian male with messy black hair, wearing an oversized charcoal grey t-shirt and black techwear cargo pants. He is performing a high-speed cat leap and precision jump across urban concrete ruins.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04837.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04837.jpg" width="600" alt="Rainy Night Sword Energy Battle" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02720.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02720.jpg" width="600" alt="Urban Parkour Cat Leap Action" style="cursor:pointer">
 </a>
 </div>
 
@@ -202,25 +161,25 @@ Final frame: front of the ship view, ship engines ignite as city lights vanish b
 
 ---
 
-### No. 5: Hero Blink Close-Up Portrait
+### No. 5: Post-Apocalyptic Superhuman Brawl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Images 2, 3, 4, and 5 define only the four consecutive hero compositions, props, and colors; they must not redesign the character. Open immediately on the clos…
+Image1 character as the subject a male, black oversized hoodie, black oversized baggy jeans, black sneakers. Radiation-enhanced superhuman speed and strength,…
 
 #### 📝 Prompt
 
 ```
-Images 2, 3, 4, and 5 define only the four consecutive hero compositions, props, and colors; they must not redesign the character. Open immediately on the close portrait in Image 2. She gives a gentle blink, lifts one eyebrow, and looks toward camera
+Image1 character as the subject a male, black oversized hoodie, black oversized baggy jeans, black sneakers. Radiation-enhanced superhuman speed and strength, awakened orange-yellow glowing pupils, veins bulging. intense aura. Scene: Abandoned Chicago high-rise ruins, exposed rebar, cracked concrete, suspended derelict vehicles, rusted steel walkways, mutant vines, broken glass shards, dim moonlight, glitching neon flicker, thick fog, extreme high-altitude tension. One-take continuous shot, 15 seconds, cinematic, 120fps high frame rate, ultra-realistic dark American post-apocalyptic sci-fi thriller, desaturated cold gray palette with orange-yellow accent. 0-3s: Low angle wide shot character stands at edge of cracked floor slab, panting after clearing small enemies. orange-vellow pupils coldly scanning ruins. Building violently shakes. Upgraded Giant Tracker bursts through fog, slams floor with massive claws, concrete explodes. Handheld slight tremor, wide angle oppressive framing. 3-6s: Giant Tracker sweeps massive claw character side-dashes at extreme speed with strong motion blur afterimage. Claw shatters steel column, dust blast. Monster strikes repeatedly, character serpentine-sprints through debris gaps at high speed. Ground-level chase track shot, full motion blur. 6-8s: Character kicks off suspended vehicle in mid-air, rotates at high speed, launches spinning kick at monster's head. Monster roars, snapping jaw barely grazes his sneaker. Hitchcock spiral orbit shot, high-altitude danger. 8-10s: Character lands and explodes forward -three rapid heavy punches to monster's chest and jaw, each blow forcing it back, bone-crushing thuds. Low sweep kick destabilizes monster's footing. Medium close-up tracking, 120fps slow-motion captures fist impact force. 10-13s: Character grabs monster arm, reverse-twists exoskeleton cracks and bursts. Leaps onto monster's back, legs lock around throat, both arms pry apart neck armor. Monster thrashes violently, character holds firm. Back overhead shot with fast lateral cuts, strong motion blur afterimage. 13-15s: Character vaults off, charges full-force punch into monster's split skull jaw kinetic force detonates through the head, monster collapses, shockwave shatters surrounding vines and glass. Final freeze frame: character stands atop monster corpse, orange-yellow
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10267.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10267.jpg" width="600" alt="Hero Blink Close-Up Portrait" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00138.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00138.jpg" width="600" alt="Post-Apocalyptic Superhuman Brawl" style="cursor:pointer">
 </a>
 </div>
 
@@ -228,28 +187,25 @@ Images 2, 3, 4, and 5 define only the four consecutive hero compositions, props,
 
 ---
 
-### No. 6: Dark Exorcist's Golden Purge
+### No. 6: Titans Rising from Alien Seas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A dark anime exorcist with long black hair, golden prayer beads floating around his neck, spear wrapped in glowing talismans, focused eyes and calm deadly post…
+The camera is already racing across the back of a colossal biomechanical titan walking through an alien ocean. Its body is the size of a city, covered in fores…
 
 #### 📝 Prompt
 
 ```
-A dark anime exorcist with long black hair, golden prayer beads floating around his neck, spear wrapped in glowing talismans, focused eyes and calm deadly posture + 0–4s: stands inside an abandoned temple lit by daylight beams as shadow yokai crawl from walls and ceilings, camera slowly pushes through dust toward his spear; 
-4–10s: he spins into combat, spear cutting arcs of golden fire, talismans exploding into sacred symbols, yokai disintegrating into black smoke, camera orbits through the fight, whip pans between enemies, crash zooms on spear impacts, MAPPA-style black-and-gold impact frames filling the screen; 
-10–15s: he drives the spear into the floor, releasing a massive circular purification wave that vaporizes every monster, temple bells ring silently as dust clears, camera pulls back to show him alone in the restored sunlight
-Ancient Japanese temple, broken statues, floating dust, black smoke, golden holy VFX, supernatural combat climax. epic anime
+The camera is already racing across the back of a colossal biomechanical titan walking through an alien ocean. Its body is the size of a city, covered in forests, rivers, glowing machinery, and moving architecture. Two flight craft skim along its shoulders and spine as the giant creature strides through clouds and water, each footstep sending kilometer-wide waves across the sea below. The chase weaves through moving structures embedded in the creature's body, across rotating mechanical joints, and through gaps between enormous armored plates. Midway, the camera passes through a transparent observation chamber built into the titan's neck where a lone observer watches the world slide by beneath them. The final ascent follows the craft up the creature's towering head before revealing dozens of other giants emerging from the ocean across the horizon.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03042.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03042.jpg" width="600" alt="Dark Exorcist's Golden Purge" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03501.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03501.jpg" width="600" alt="Titans Rising from Alien Seas" style="cursor:pointer">
 </a>
 </div>
 
@@ -257,25 +213,25 @@ Ancient Japanese temple, broken statues, floating dust, black smoke, golden holy
 
 ---
 
-### No. 7: Skateboard Motion Effects Animation
+### No. 7: Bull Race Car Transforms Into Robot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+The sleek lines of the bull race car with an aerodynamic body are mechanical robots transforming from vehicles into human forms.
 
 #### 📝 Prompt
 
 ```
-Edit this keeping everything the same. Add animated motion effects coming out of the skateboard.
+The sleek lines of the bull race car with an aerodynamic body are mechanical robots transforming from vehicles into human forms.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09966.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09966.jpg" width="600" alt="Skateboard Motion Effects Animation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05111.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05111.jpg" width="600" alt="Bull Race Car Transforms Into Robot" style="cursor:pointer">
 </a>
 </div>
 
@@ -283,25 +239,25 @@ Edit this keeping everything the same. Add animated motion effects coming out of
 
 ---
 
-### No. 8: Chibi Anime Girl in Snowy Mountain
+### No. 8: Arena Time Gate Dragon Invasion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Cinematic 3D chibi anime girl, ultra-detailed AI render, kawaii style with realistic textures. Adorable young female character with black bob haircut and strai…
+Use @[ref image] as the main reference for the giant circular silver arena gate, two colossal king statues, packed crowd, bright daylight sky, tall white tower…
 
 #### 📝 Prompt
 
 ```
-Cinematic 3D chibi anime girl, ultra-detailed AI render, kawaii style with realistic textures. Adorable young female character with black bob haircut and straight bangs, huge glossy brown eyes with sharp eyeliner, rosy cheeks, small pouty mouth. Wearing a fluffy black-and-white penguin onesie hood with yellow beak and feet, soft white belly fur, black sleeves and legs. Silver metal shackle lock and chain collar around her neck over a plaid scarf. Holding two bright colorful plastic toy water guns (one hot pink/yellow/green, one purple/orange/green). Full-body dynamic dancing pose, energetic and playful movement, subtle motion blur on limbs and hair. Standing in a pristine snowy mountain landscape under clear bright blue sky with soft white clouds. Crisp white snow, distant icy peaks, natural daylight lighting with soft diffused highlights and gentle shadows. Vibrant color palette: cool whites and blues contrasted with warm skin tones and saturated neon gun colors. Highly detailed fluffy fur, glossy eyes, realistic fabric and metal textures, depth of field, cinematic composition, centered subject with vast background, rule of thirds, 8k resolution, masterpiece, best quality, trending on TikTok #aichibi #aianime
+Use @[ref image] as the main reference for the giant circular silver arena gate, two colossal king statues, packed crowd, bright daylight sky, tall white towers, and smartphone POV from inside the crowd.\nA continuous horizontal smartphone video from a frightened bystander. The camera shakes naturally, pans, tilts up, stumbles backward, loses framing behind heads, raised phones, dust, flags, and running people. No cuts, no UI, no timestamp, no subtitles, no music.\nIn a colossal silver-white futuristic arena, the circular time gate stands closed at first, glowing softly with blue-white energy. The crowd is silent, tense, and filming. Suddenly, ancient runes around the gate light up one by one. A deep hum shakes the plaza. Dust rises, banners snap, and a controlled blue-white time vortex forms on the sealed gate surface.\nThe vortex spins faster, compresses into a vertical crack of light, then tears open with a violent shockwave. D1, a broad-horned dragon, bursts out airborne directly toward the camera. The crowd screams and breaks into panic, people ducking, falling, dropping phones, shoving, and running in every direction.\nThe camera whips left as D1 flies low over the crowd. D2, a long-necked sky serpent, emerges behind it. The camera swings back to the still-glowing gate as D3, a heavy armored drake, forces through the opening, followed by D4, a narrow-winged blade-like dragon slicing through the air. The gate remains active, bright, and unstable the entire time.\nFinally, D5, the largest dragon, fills the entire circular gate with glowing eyes, huge claws, armored chest, and massive wings. It erupts into the sky, spreads wider than the gate, roars above the arena, then breathes a huge golden-orange fire blast across the sky. Blue-white gate light mixes with orange firelight, illuminating the statues, towers, banners, dust, and fleeing crowd. The video ends with D5 dominating the sky while the time gate still glows behind it.\nNegative prompt: no galaxy portal, no space tunnel, no visible other world, no gate turning off, no dragons walking or landing, no calm crowd, no clean cinematic camera, no drone shot, no subtitles, no UI, no timestamp, no music.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00911.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00911.jpg" width="600" alt="Chibi Anime Girl in Snowy Mountain" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05193.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05193.jpg" width="600" alt="Arena Time Gate Dragon Invasion" style="cursor:pointer">
 </a>
 </div>
 
@@ -309,25 +265,25 @@ Cinematic 3D chibi anime girl, ultra-detailed AI render, kawaii style with reali
 
 ---
 
-### No. 9: Midnight Bookstore Time Portal Fantasy
+### No. 9: Sweet Valentine's Day Anime Drama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-At midnight, the used bookstore suddenly opens a door to time and space, the pages swirl like a vortex, and customers are transported into streetscapes from di…
+A video packed with various heartwarming Valentine's Day dramas. Ultra-fast cuts of up to 0.2 seconds per shot. Different compositions, angles, and scenes with…
 
 #### 📝 Prompt
 
 ```
-At midnight, the used bookstore suddenly opens a door to time and space, the pages swirl like a vortex, and customers are transported into streetscapes from different eras. The camera rapidly rotates around an open book, switching between multiple eras and scenes. Fantasy storytelling, smooth transitions, and rich details.
+A video packed with various heartwarming Valentine's Day dramas. Ultra-fast cuts of up to 0.2 seconds per shot. Different compositions, angles, and scenes with each cut. Cutely wrapped chocolates. High-quality Japanese animation. Advanced lighting and shading. Impressive and dynamic camera angles, camera work, and transitions. At the end, a cute logo with the words 'Happy Valentine's Day♥' is impressively drawn, accompanied by the Japanese line 'Happy Valentine!' A design that seems to incorporate chocolates. Cute actions with bouncing hearts.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09301.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09301.jpg" width="600" alt="Midnight Bookstore Time Portal Fantasy" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01657.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01657.jpg" width="600" alt="Sweet Valentine's Day Anime Drama" style="cursor:pointer">
 </a>
 </div>
 
@@ -335,25 +291,25 @@ At midnight, the used bookstore suddenly opens a door to time and space, the pag
 
 ---
 
-### No. 10: Gangster Queen Seamless Transformation
+### No. 10: Captain Orders Action
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A silky costume short video that strikingly transitions from modern everyday indoor scenes to the world of retro gangster movies from the 1920s. The total dura…
+Fixed shot. A burly man standing there (the captain) clenches his fist, his expression serious, and says to the camera, &quot;Prepare for action!&quot; A milit…
 
 #### 📝 Prompt
 
 ```
-A silky costume short video that strikingly transitions from modern everyday indoor scenes to the world of retro gangster movies from the 1920s. The total duration is 7 seconds, combining the impact of vertical screen fashion transformations with cinematic frame size, delivering extremely exquisite visuals and texture comparable to high-end theatrical films. Part One (0:00-0:02): Fixed camera position, subjective frontal view. The footage is completely obscured by the broad backs of two men dressed in black casual wear, wearing black baseball caps and black masks, standing close to the camera. They suddenly split apart to the left and right, as if drawing back a curtain, revealing a young Asian woman in the center. The interior is bright, clean, and evenly lit; behind her is a gray-white marble textured wall, with black storage cabinets below. She sports striking reddish-brown long curls, wears thick black-rimmed glasses, and a light-colored floral long-sleeved shirt, exuding a cold and commanding demeanor. She raised her right hand, pointing straight at the camera with a fierce and forceful posture, lips pressed together, exuding an intimidating presence, as if declaring: Those who oppose us must behave themselves. Part Two (0:02-0:07): At the moment her fingertip points at the camera, she cuts hard to achieve seamless costume transformation. The scene instantly shifts to a misty, retro late-night alley, filled with the cinematic atmosphere of "Peaky Blinders." Thick fog envelops the entire space, and in the distance, warm amber streetlights create a highly oppressive backlight, outlining dramatic contours for the characters. The overall visuals shift to a low, gloomy dark tone, paired with delicate film graininess, fully showcasing the texture of an epic gangster film. The red-haired woman had transformed: she took off her glasses, wore a gray newsboy hat, a white shirt, black tie, and a gray patterned vest underneath, paired with a slim skirt, a deep charcoal gray long wool coat draped over her shoulders with a commanding presence, and black leather gloves on both hands. She gently raised her hand to adjust the brim of her hat, her gaze arrogant and cold, making it hard to approach. The two men beside her also completed their costume changes, removing their masks to reveal a cold and handsome face, dressed in vintage gangster attire: newsboy hats, shirts, ties, and thick long wool coats. The camera shifts to a steady rear-end follow-up, with the three lined up neatly and walking slowly through thick fog, exuding an imposing presence that fully displays the boldness and authority of a gang boss. Film-level contrasts, stunning appearances, seamless costume changes, authentic and natural fabric movements, and powerful character presences fully showcase the style of high-end period crime films.
+Fixed shot. A burly man standing there (the captain) clenches his fist, his expression serious, and says to the camera, &quot;Prepare for action!&quot; A military-themed scene, creating a tense atmosphere.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08480.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08480.jpg" width="600" alt="Gangster Queen Seamless Transformation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09780.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09780.jpg" width="600" alt="Captain Orders Action" style="cursor:pointer">
 </a>
 </div>
 
@@ -361,25 +317,25 @@ A silky costume short video that strikingly transitions from modern everyday ind
 
 ---
 
-### No. 11: Paris Seasons Dissolve Like Sugar
+### No. 11: IPL Crowd Cam Live Match Fan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A poetic prompt for a video of Parisian boulevards transforming through seasons like dissolving sugar.
+Ultra realistic IPL live TV broadcast crowd cam video of the EXACT SAME person from the reference image sitting in the crowd during a Royal Challengers Bengalu…
 
 #### 📝 Prompt
 
 ```
-A poetic prompt for a video of Parisian boulevards transforming through seasons like dissolving sugar.
+Ultra realistic IPL live TV broadcast crowd cam video of the EXACT SAME person from the reference image sitting in the crowd during a Royal Challengers Bengaluru (RCB) match. STRICT FACE PRESERVATION: Keep the face, hairstyle, beard, jawline, skin tone, lips, nose, and facial proportions EXACTLY identical to the reference image. Do not beautify the face. No Al glow-up, no model look, no cinematic hero face, no face reshaping. Scene:
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09997.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09997.jpg" width="600" alt="Paris Seasons Dissolve Like Sugar" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04155.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04155.jpg" width="600" alt="IPL Crowd Cam Live Match Fan" style="cursor:pointer">
 </a>
 </div>
 
@@ -387,25 +343,25 @@ A poetic prompt for a video of Parisian boulevards transforming through seasons 
 
 ---
 
-### No. 12: Don't Look Back: Survive the Night
+### No. 12: Nervous Flower at Police Station
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-0-3s (Hook), dim bedroom, surveillance camera view, female lead (sleeping), high energy from the start: the surveillance screen flashes red light, a pale hand…
+A man arrives at a police station and parks. [cut] Smoke from the hood. [cut] He takes the flower and gets out. [cut] He enters; a police officer is suspicious…
 
 #### 📝 Prompt
 
 ```
-0-3s (Hook), dim bedroom, surveillance camera view, female lead (sleeping), high energy from the start: the surveillance screen flashes red light, a pale hand slowly extends from under the bed. The camera suddenly zooms in. (Female scream, abruptly stops), [LIVE] 03:14 AM 🆘 Don't look back! Harsh microphone feedback sound, heartbeat sound (thump, thump) 3-7s (Agitate), screen switches to phone app interface, player (terrified), player's fingers slide rapidly across the screen, trying to lock onto the monster in the surveillance. The monster crawls quickly in the shadows, unnaturally fast. "Damn it, it's coming in... I can feel it!" 0.5 meters away from you ⚠️ Warning: Unknown creature detected, rapid breathing sound, system alarm sound (beep-beep-beep) 7-12s (Payoff), bedroom real scene, female lead (suddenly opens eyes), camera switches to the female lead's first-person perspective. She looks down at the bottom of the bed, a twisted smiling face instantly rushes toward the camera. The screen goes black instantly with a shattering effect. "Found you." (ethereal, eerie whisper), [Mission Failed] 💀 You didn't survive the night, heavy thud sound (Impact), bone cracking sound, piercing scream 12-15s (CTA), game logo / download page, brand display, a large "Download Now" button appears in the center of the screen. The background is countless eyes peeping in the darkness. "How long can you survive? Try it for free now." 👇 Click to download 🔥 Challenge survival, only 1% of people can pass, fast-paced drumbeats, low heavy metal sound effects
+A man arrives at a police station and parks. [cut] Smoke from the hood. [cut] He takes the flower and gets out. [cut] He enters; a police officer is suspicious behind the counter. Sign: 'License Renewal'. [cut] He leaves the flower and ID. [cut] She is astonished. [cut] He laughs nervously. No music.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01269.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01269.jpg" width="600" alt="Don't Look Back: Survive the Night" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00371.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00371.jpg" width="600" alt="Nervous Flower at Police Station" style="cursor:pointer">
 </a>
 </div>
 
@@ -413,35 +369,43 @@ A poetic prompt for a video of Parisian boulevards transforming through seasons 
 
 ---
 
-### No. 13: Icebreaker Snowmobile Glacier Escape
+### No. 13: Roller Skater Rail Grind Stunt Fail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A woman in her mid-30s wearing a heavy arctic survival suit races across the deck of a massive icebreaker ship cutting through frozen seas. Behind her a toweri…
+A wide cinematic landscape shot of a large outdoor concrete staircase beside a massive modern building covered with tall rectangular glass panels. Warm late af…
 
 #### 📝 Prompt
 
 ```
-A woman in her mid-30s wearing a heavy arctic survival suit races across the deck of a massive icebreaker ship cutting through frozen seas.
+A wide cinematic landscape shot of a large outdoor concrete staircase beside a massive modern building covered with tall rectangular glass panels. Warm late afternoon sunlight creates realistic golden highlights and long shadows across the stairs and open concrete plaza. A broad sloping silver metal handrail runs diagonally down the center of the staircase toward the camera.
 
-Behind her a towering wall of collapsing glacier ice crashes into the ocean.
+A young female roller skater stands near the upper-right side of the stairs, wearing an oversized mustard-yellow sweatshirt with a red graphic on the chest, fitted black pants, a white baseball cap, and white quad roller skates with subtle pink details. Her long brown ponytail moves naturally in the breeze.
 
-At the 2-second mark she jumps onto a snowmobile and accelerates toward the bow ramp as the ship tilts from the impact.
+0–3 seconds: One continuous stationary smartphone-style wide shot. The skater rolls carefully into position at the top of the sloping rail, looks down its length, bends her knees and raises her arms, preparing for the stunt. A few distant people sit casually on the stairs in the background.
 
-The snowmobile launches off the ramp and lands on a drifting iceberg.
+3–6 seconds: She gathers confidence, rolls forward and crouches lower. Her wheels vibrate realistically over the stone surface. She jumps upward, turning her body slightly sideways, attempting to land both roller skates on top of the wide rail.
 
-Camera drone captures the small vehicle racing across floating ice fragments while the glacier collapses behind.
+6–9 seconds: She lands in a deep crouch on the rail and begins sliding downward. For a brief moment the stunt appears successful. Her arms stretch outward for balance, her sweatshirt flutters, her ponytail swings and the roller skates scrape realistically against the metal.
 
-Arctic ocean chaos, snowmobile iceberg landing, collapsing glacier wall, icy debris explosions, cinematic realism, 4K.
+9–12 seconds: Her weight suddenly shifts to one side. One skate slips from the rail, causing her hips to rotate awkwardly. She grabs at the rail but cannot recover. She slides sideways, tumbles off the lower end and falls onto the flat concrete plaza. Her white cap flies off and bounces nearby. Use convincing gravity, momentum, body weight and natural protective arm movements.
+
+12–15 seconds: She completes a small shoulder roll and ends lying on her side beside the staircase, one knee bent and one leg extended. Her loose hair spreads across the ground while the cap rests a short distance away. She remains still for a moment, then gives a tiny embarrassed movement showing that she is unharmed. The camera continues recording without cutting.
+
+Photorealistic human anatomy, authentic roller-skating movement, physically accurate fall, realistic fabric and hair simulation, natural facial reactions, documentary style exposure, subtle handheld micro shake, crisp environmental detail, believable sunlight and shadows, real-world motion blur, 30 fps, no cinematic slow motion, no camera cuts.
+
+Audio: quiet outdoor city ambience, roller wheels rumbling over stone, brief metal scraping sound during the slide, clothing movement, a realistic soft impact and the cap tapping against the pavement.
+
+Avoid: serious injury, blood, exaggerated violence, impossible acrobatics, floating body, rubber lim
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01342.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01342.jpg" width="600" alt="Icebreaker Snowmobile Glacier Escape" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10140.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10140.jpg" width="600" alt="Roller Skater Rail Grind Stunt Fail" style="cursor:pointer">
 </a>
 </div>
 
@@ -449,29 +413,27 @@ Arctic ocean chaos, snowmobile iceberg landing, collapsing glacier wall, icy deb
 
 ---
 
-### No. 14: Ninja Girl Summons Demon God
+### No. 14: Character Reference Guide Tutorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The scene where the girlfriend in Figure 1 uses a summoning technique as shown in Figure 2. Scene 1: She quickly makes a mark, close-up from her chest upward.…
+Instruction: CHARACTER REFERENCE [Character Reference: @image1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the refer…
 
 #### 📝 Prompt
 
 ```
-The scene where the girlfriend in Figure 1 uses a summoning technique as shown in Figure 2.
-Scene 1: She quickly makes a mark, close-up from her chest upward.
-Scene 2: Squat down and place your hands on the ground. The whole body.
-Scene 3: Close-up of her hands on the ground. A top-down perspective. Centered around her hand, the curse mark spread across the ground.
-シーン４:サークルショット。 From the close-up of her profile in Figure 1, finally lift her face directly from below. Behind her, a massive demon emerges from the ground, creating a spectacular scene
+Instruction:
+ CHARACTER REFERENCE
+[Character Reference: @image1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the reference character, do not alter identity or facial structure, appearance must remain consistent: glowing dark eyes,
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03815.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03815.jpg" width="600" alt="Ninja Girl Summons Demon God" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08906.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08906.jpg" width="600" alt="Character Reference Guide Tutorial" style="cursor:pointer">
 </a>
 </div>
 
@@ -479,38 +441,25 @@ Scene 3: Close-up of her hands on the ground. A top-down perspective. Centered a
 
 ---
 
-### No. 15: Skater's Handrail Grind Kickflip Combo
+### No. 15: Ghibli Dragon vs Monkey Wrestling
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Subject: Black man, long dark dreadlocks, black knit beanie, plain black crew neck tee, black cuffed jeans, black gum-sole skate shoes. Starts atop a staircase…
+Studio Ghibli animation style. Scene 1: In the wrestling arena, a fat but muscular dragon wrestling champion is competing against a monkey wrestler. Suddenly,…
 
 #### 📝 Prompt
 
 ```
-Subject: Black man, long dark dreadlocks, black knit beanie, plain black crew neck tee, black cuffed jeans, black gum-sole skate shoes. Starts atop a staircase, ollies onto a handrail, grinds the full rail to the bottom, lands clean, rolls out briefly, then kickflips and lands smoothly.
-Location: Outdoor CA plaza — light gray concrete stairs, steel center handrail, minimalist architecture, palm trees casting long shadows, bright warm midday sun with natural lens flare.
-Visual Style: Clean realistic skate-video look — natural skin tones, true-to-life fabric/hair movement, crisp daylight contrast between gray concrete and black wardrobe. Subtle motion blur on fast movement, sharp focus on rider throughout.
-Camera: Low-angle tracking cam at stair top for the ollie-on, then follows alongside the rail at board height matching descent speed. Brief slow-motion holds at the apex of each trick (ollie-on, kickflip). Ends on steady tracking shot as he rolls away.
-Timestamps:
- 00:00–00:01 Set-up: skater at stair top, board angled toward rail, low-angle cam facing him before push-off.
- 00:01–00:02 Ollie-on: board pops, ~35% slow-mo hold at apex as trucks align over rail top, cam tracks upward with pop.
- 00:02–00:02.5 Rail contact: trucks land on rail top, full-speed impact, subtle cam jitter to sell contact.
- 00:02.5–00:05 Grind descent: cam tracks down alongside rail, level with skater grinding full staircase, arms out for balance, stairs blur slightly past cam.
- 00:05–00:05.5 Landing: pops off rail bottom, lands grind clean on flat ground, cam holds steady at ground level.
- 00:05.5–00:06.5 Rollout: brief forward roll at normal speed, cam tracks alongside at slight distance.
- 00:06.5–00:08 Kickflip: board flips mid-air, ~35% slow-mo hold at peak showing rotation, side-profile cam at board height.
- 00:08–00:09 Kickflip landing: rotation completes, lands squarely on grip tape, full speed resumes, slight cam shake on impact.
- 00:09–00:10 Resolution: cam pulls back to steady tracking wide shot as he rolls away clean, natural sun flare across frame.
+Studio Ghibli animation style. Scene 1: In the wrestling arena, a fat but muscular dragon wrestling champion is competing against a monkey wrestler. Suddenly, the dragon grabbed the monkey's tail, lifted it up, and arrogantly grinned at the monkey, saying, "The game is over." "He raised the armpit of the monkey's arm, exposing it. Scene 2: The monkey grinned slyly, reached out to scratch the dragon's armpit, twisting his fingers to tease the dragon, leaving the dragon puzzled. Scene 3: The monkey scratches the dragon's armpits with both fingers. The dragon immediately closes its eyes and laughs loudly, still holding the monkey, but its strength gradually weakens. Scene 4: The monkey continues to scratch the dragon's armpits with both hands. The dragon laughs even harder, stomping its feet and moving involuntarily, while the monkey keeps scratching. Scene 5: The dragon laughs so hard it can't breathe, lets go of the monkey, hugs itself tightly, and giggles nonstop. The monkey quickly put some distance between himself and the dragon. Scene 6: The dragon stops laughing, angrily tells the monkey that this is cheating, then angrily attacks the monkey. The dragon's voice was low and hoarse. The dragon's armpits are tickled. Dialogue is in English
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07669.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07669.jpg" width="600" alt="Skater's Handrail Grind Kickflip Combo" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03784.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03784.jpg" width="600" alt="Ghibli Dragon vs Monkey Wrestling" style="cursor:pointer">
 </a>
 </div>
 
@@ -518,25 +467,37 @@ Timestamps:
 
 ---
 
-### No. 16: Help Me Load the Lobster
+### No. 16: Award Ceremony Cinematic Victory Sequence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A sweet, delicate young woman with clear facial features and a stable expression, her eyes conveying an innocent plea for help. Action: The woman playfully act…
+Large-format cinema camera, anamorphic lenses, 23.976fps, shallow depth of field, horizontal lens flares, ISO 1600 film grain, warm champagne highlights, deep…
 
 #### 📝 Prompt
 
 ```
-A sweet, delicate young woman with clear facial features and a stable expression, her eyes conveying an innocent plea for help. Action: The woman playfully acts coy toward the camera, slightly parting her lips to mouth the words, 'Can you help me load the lobster? I’ll agree to whatever you want,' then gently tugs at the viewer’s (first-person perspective) sleeve, swaying it slowly, softly, and naturally. Scene: A tech-filled home studio, with soft computer screen light in the background, creating an ambiguous side-backlight effect with gentle shadows. Camera movement: First-person perspective (POV), slowly pushing in and smoothly panning to a close-up of the woman, stable tracking without shaking. Style/Quality: 4K ultra-high definition, natural colors, rich details, sharp clarity, cinematic texture. Constraints: Normal human anatomy, stable facial features without distortion or stiffness, smooth and fluid movements without shaking. Model 2.0, aspect ratio 9:16, duration 10s.
+Large-format cinema camera, anamorphic lenses, 23.976fps, shallow depth of field, horizontal lens flares, ISO 1600 film grain, warm champagne highlights, deep cool shadows, tungsten cinematic color grade. Hyper-realistic skin — pores, subsurface scattering, perspiration under spotlights, individual hair strands, natural fabric drape. Asymmetric faces, micro-expressions, no CGI smoothing. All lighting from practical in-frame sources.
+
+0–3s: Broadcast close-up, female host at podium, 5600K spotlight. Opens envelope, paper crinkle, hand tension. Leans into mic, says: "And the winner is… [YOUR NAME]." Room reverb, crowd inhale.
+
+3–6s: Hard cut. Handheld low-angle pushing through audience. Spotlight locks on [YOUR NAME] — black suit, white shirt. 0.5s freeze, eyes widen with moisture, asymmetric smile breaks naturally. Neighbors rise, hands on shoulders. Crowd erupts.
+
+6–9s: Documentary handheld follows from left through aisle. Camera breathing, micro-shake, shallow focus. Deliberate steps, shoe heels on hard floor. Face lit by passing aisle practicals — emotional, composed, processing.
+
+9–12s: Tracks him up polished wood stage steps, rack focus to stage. 3200K golden follow-spot hits — specular bloom on suit, warm wrap on face. Host extends brushed metal and glass award plaque. Real handshake, genuine eye contact. Behind them: curved LED wall displays his portrait — bold elegant text: [YOUR NAME] — [YOUR TITLE] — celebratory pulse, LED pixels visible.
+
+12–15s: Crane descends revealing full venue — thousands of attendees, orchestra pit, confetti falling, anamorphic lens flare sweeps frame. Stereo crowd roar, orchestral swell, cascading applause.
+
+Every human reaction has 0.3–0.8s natural delay. No over-acting. Clothing reacts to gravity. Cinematic continuity across all cuts. Broadcast-realistic footage quality.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01288.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01288.jpg" width="600" alt="Help Me Load the Lobster" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02548.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02548.jpg" width="600" alt="Award Ceremony Cinematic Victory Sequence" style="cursor:pointer">
 </a>
 </div>
 
@@ -544,25 +505,28 @@ A sweet, delicate young woman with clear facial features and a stable expression
 
 ---
 
-### No. 17: Dark Fantasy Church Battle
+### No. 17: Burger vs Pizza Street Brawl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmos…
+Animated burger and pizza slice characters in a playful street fight, food truck background, exaggerated fighting poses, flying toppings, comic-book action sty…
 
 #### 📝 Prompt
 
 ```
-Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned.
+Animated burger and pizza slice characters in a playful street fight, food truck background, exaggerated fighting poses, flying toppings, comic-book action style with motion lines.
+Dynamic mid-air action moment with cheese stretching and lettuce flying, dramatic impact effects like POW and BAM floating in the air.
+Bright neon street lights and colorful graffiti walls behind them, energetic urban vibe, cinematic lighting and depth of field.
+Highly detailed 3D cartoon style, ultra vibrant colors, playful humor, crisp textures, trending animated movie aesthetic.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00491.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00491.jpg" width="600" alt="Dark Fantasy Church Battle" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01305.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01305.jpg" width="600" alt="Burger vs Pizza Street Brawl" style="cursor:pointer">
 </a>
 </div>
 
@@ -570,25 +534,25 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 ---
 
-### No. 18: Akihabara Night Height Difference
+### No. 18: Glowing Bean Transforms Into Café
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The girl's height is 153 cm and the man's height is 185 cm. shot1 On the street in Aki…
+A cinematic video where a single glowing coffee bean rotates and magically transforms into a fully furnished café.
 
 #### 📝 Prompt
 
 ```
-Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The girl's height is 153 cm and the man's height is 185 cm. shot1 On the street in Akihabara at night. Bust shot of the girl. The girl's height is 153 cm. The girl closes her eyes painfully and looks down. The camera also PANs down according to her movement.
+A cinematic video where a single glowing coffee bean rotates and magically transforms into a fully furnished café.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04551.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04551.jpg" width="600" alt="Akihabara Night Height Difference" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10005.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10005.jpg" width="600" alt="Glowing Bean Transforms Into Café" style="cursor:pointer">
 </a>
 </div>
 
@@ -596,35 +560,28 @@ Photorealistic, high-definition 2.5D anime. All dialogue is in Japanese. The gir
 
 ---
 
-### No. 19: Sunset Skateboard 360 Big Air
+### No. 19: Medieval Market at Dusk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one sk…
+FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crowded medieval market street inside a stone city at dusk. Narrow cobblestone road…
 
 #### 📝 Prompt
 
 ```
-15-second live-action big-air skateboarding highlight continuing at the same huge outdoor ramp during deep golden sunset. Only one skateboarder and only one skateboard exist in the entire video. Do not duplicate the rider. Do not add extra skateboarders in the background.
+FORMAT: cinematic continuous shot / motivated camera movement / 15s
 
-Start with a fast low side-rear tracking shot as the rider accelerates toward the largest ramp, not only from directly behind. Use one quick close-up of the wheels, feet, and board while the rider climbs the ramp with power and control. Briefly switch to a low side angle just before takeoff to show the ramp height and speed.
-
-The rider launches into the highest big air and performs one clean 360 aerial rotation near the peak of the jump. Keep the aerial action clear and readable. Use a brief stop-motion-style freeze effect only at the peak moment of the rotation, then continue the motion naturally. Do not make the whole aerial section slow motion. Do not create ghost trails, overlapping silhouettes, or multiple riders. The real rider remains one person, and the skateboard stays controlled under the rider’s feet.
-
-After the peak rotation, return to normal motion for a clear descent and landing. Show the board aligning for touchdown, the wheels touching down, a short controlled slide, and a strong impact.
-
-End with the rider gliding away into the sunset in a short cinematic silhouette from behind.
-
-Strong sports highlight energy, dynamic but simple camera changes, low tracking shot, side-rear angle, brief side angle during takeoff and air, ground-level landing angle, clear takeoff and clear landing, dramatic height difference, readable body silhouette, realistic skateboard motion, no static sports introduction. No clear spoken commentary, no narration, no understandable dialogue. Sound effects only: fast rolling wheels, ramp rumble, wind rush, brief silence at the peak freeze, heavy landing impact, distant crowd reaction. No logo, no watermark, no readable text.
+SCENE
+A crowded medieval market street inside a stone city at dusk. Narrow cobblestone road, wooden stalls, hanging banners, livestock moving through the crowd. Warm torchlight reflects on damp stones
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03723.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03723.jpg" width="600" alt="Sunset Skateboard 360 Big Air" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01242.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01242.jpg" width="600" alt="Medieval Market at Dusk" style="cursor:pointer">
 </a>
 </div>
 
@@ -632,25 +589,25 @@ Strong sports highlight energy, dynamic but simple camera changes, low tracking 
 
 ---
 
-### No. 20: Blonde Rider BMW S1000RR Golden Hour
+### No. 20: Awakening in the Ancient Ruins
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Ultra realistic blonde female rider leaning into a turn on a matte black BMW S1000RR, golden hour mountain road, low-angle tracking shot, messy ponytail, natur…
+16:9 landscape, a fantasy adventure game visual style combining cel shading with watercolor wash effects, dominated by cool blue-green tones with warm light ac…
 
 #### 📝 Prompt
 
 ```
-Ultra realistic blonde female rider leaning into a turn on a matte black BMW S1000RR, golden hour mountain road, low-angle tracking shot, messy ponytail, natural skin texture, realistic leather suit, cinematic motion blur, authentic motorsport photography, Sony A7R V, RAW realism.
+16:9 landscape, a fantasy adventure game visual style combining cel shading with watercolor wash effects, dominated by cool blue-green tones with warm light accents, a 15-second exploration of an ancient ruin. 0-4 seconds: In the darkness, a pair of eyes slowly opens, azure pupils reflecting a blue glow. The camera pulls back to reveal a blonde-haired boy lying on a glowing stone altar, slowly sitting up. Surrounding him is a dim ancient stone chamber, with walls covered in mysterious glowing blue patterns that pulse and flicker like circuits extending in all directions. Water drips from the stone walls, echoing distantly. 5-9 seconds: The boy steps barefoot onto the cold stone floor and walks toward a massive stone door at the end of the chamber. He reaches out to touch a circular mechanism engraved with runes on the door. Blue light radiates from the point of contact like ripples on water, activating the ancient patterns on the entire stone door one by one. The door rumbles open, and blinding white natural light floods in from outside, engulfing the entire scene. The camera follows the boy as he steps into the light. 10-15 seconds: The light fades, revealing a grand wide shot. The boy stands at the edge of a towering cliff, facing an endless panoramic fantasy world—emerald forests, sapphire lakes, massive floating islands in the distance, snow-capped mountains shrouded in mist, and a colossal castle ruin emitting a golden glow on the horizon. The wind blows through the boy's hair and clothes. The camera slowly pulls back and rises from behind him, taking in the entire magnificent world. Sound effects: The opening features dripping water echoes and a low, resonant temple hum. The activation of the stone door mechanism produces layered electronic sounds, followed by the heavy rumbling of the door opening. As the world unfolds, orchestral music bursts from silence into a grand, majestic main theme, with wind sounds persisting through the end. Prohibited: Any text, subtitles, logos, or watermarks.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03922.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03922.jpg" width="600" alt="Blonde Rider BMW S1000RR Golden Hour" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01770.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01770.jpg" width="600" alt="Awakening in the Ancient Ruins" style="cursor:pointer">
 </a>
 </div>
 
@@ -658,28 +615,25 @@ Ultra realistic blonde female rider leaning into a turn on a matte black BMW S10
 
 ---
 
-### No. 21: Lam Ching-ying vs Gyutaro Showdown
+### No. 21: Futuristic Yacht Speed Run
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Lam Ching-ying 🆚 Gyutaro.⚡️ Classic Hong Kong cinema meets Demon Slayer. 👹🤯🔥
+Fast-paced tracking shot of a futuristic yacht moving swiftly through choppy waters. Camera maintains a constant distance from the yacht’s side, capturing the…
 
 #### 📝 Prompt
 
 ```
-Lam Ching-ying 🆚 Gyutaro.⚡️
-
-Classic Hong Kong cinema meets Demon Slayer.
-👹🤯🔥
+Fast-paced tracking shot of a futuristic yacht moving swiftly through choppy waters. Camera maintains a constant distance from the yacht’s side, capturing the spray and wake as it accelerates. Quick cuts between the exterior hull and glimpses of the illuminated interior display. Energetic music with driving rhythm. Several people are dancing inside the yacht. Conveying speed, precision, and purpose. 15 seconds.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01758.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01758.jpg" width="600" alt="Lam Ching-ying vs Gyutaro Showdown" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03737.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03737.jpg" width="600" alt="Futuristic Yacht Speed Run" style="cursor:pointer">
 </a>
 </div>
 
@@ -687,25 +641,25 @@ Classic Hong Kong cinema meets Demon Slayer.
 
 ---
 
-### No. 22: Silver Dragon in Cosmic Fire
+### No. 22: The Kind Dentist's Day
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A majestic silver dragon stands atop a floating shattered platform in deep space, slowly shifting its weight while gazing at a colossal fiery star. The camera…
+Use the attached THE DENTIST storyboard as exact visual reference. Create a 12-second 16:9 Pixar 3D animated sequence following all 8 shots exactly. Same young…
 
 #### 📝 Prompt
 
 ```
-A majestic silver dragon stands atop a floating shattered platform in deep space, slowly shifting its weight while gazing at a colossal fiery star. The camera orbits right to left around the scene, tilting upward to emphasize the dragon's regal posture and the star's solar flares. Glowing debris drifts in zero gravity as the dragon's scales shimmer with subsurface scattering, its tail making subtle balancing movements against the cosmic backdrop.
+Use the attached THE DENTIST storyboard as exact visual reference. Create a 12-second 16:9 Pixar 3D animated sequence following all 8 shots exactly. Same young male dentist — warm kind face, dark hair, sky blue scrubs, blue latex gloves — bright modern
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01986.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01986.jpg" width="600" alt="Silver Dragon in Cosmic Fire" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03199.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03199.jpg" width="600" alt="The Kind Dentist's Day" style="cursor:pointer">
 </a>
 </div>
 
@@ -713,25 +667,25 @@ A majestic silver dragon stands atop a floating shattered platform in deep space
 
 ---
 
-### No. 23: Ghibli Croissant Birth Animation
+### No. 23: Ancient Stone Door Escape
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. FOOD: Raw bu…
+Side angle cinematic shot. A massive ancient stone door grinds downward rapidly, rumbling and scraping stone-on-stone. At the last possible second, a figure in…
 
 #### 📝 Prompt
 
 ```
-Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. FOOD: Raw butter block, cold and pale yellow. Laminated dough with visible layered strata. Rolled out dough sheet, pale gold. Folded dough triangle, uncurled. Shaped croissant crescents on a tray, unbaked and pale. Egg wash brushed golden over dough. Finished croissant, deep golden brown, flaky shattered layers, steam rising, a torn piece showing honeycomb interior. TOOLS: Wooden rolling pin, bench scraper, pastry brush, proofing tray, oven interior glowing warm gold. COLOR PALETTE: Butter yellow #F4D58D, dough pale gold #EFDDB5, baked crust gold-brown #C68E3F, deep golden brown #8B5A2B, egg wash sheen #E8B84B, steam white #FAF8F3, shadow brown #4A2F1B. Bold anime outlines, cel shading, Ghibli bakery illustration style, multiple reference panels clearly labeled. Anime bakery short film, Ghibli pastry aesthetic, warm golden morning light, flour dust drifting in sunbeams, cozy bakery kitchen, 16:9. A series of rapid close-up macro shots: hands placing a cold butter block onto rolled dough, dough being folded over the butter and sealed at the edges, rolling pin pressing and elongating the dough in long even strokes, dough being folded into thirds in one smooth motion, rolling pin flattening the dough again into a long sheet, dough being rolled up tightly into a spiral, dough cut into triangles with a sharp knife, fingers rolling a triangle from base to tip into a crescent shape, shaped croissants being placed on a tray in a neat row, pastry brush sweeping golden egg wash across the surface, tray sliding into a warm glowing oven, close-up of croissants slowly puffing and browning under heat, layers visibly separating and flaking as they bake, croissants pulled from the oven golden and steaming, extreme close-up of a croissant being torn in half revealing airy honeycomb layers, steam curling up from the warm interior. Each shot lasts under one second, cinematic food film pacing, hyper-detailed anime illustration, warm amber and buttery gold tones throughout.
+Side angle cinematic shot. A massive ancient stone door grinds downward rapidly, rumbling and scraping stone-on-stone. At the last possible second, a figure in silhouette — leather jacket, hat brim — drops and slides along the dusty floor underneath the closing gap, barely making it through. The stone door SLAMS shut with a thunderous boom that shakes the frame. Dust explosion. The figure rolls, comes up onto one knee, breathing hard. Torch flames on the wall whip violently from the shockwave then settle. Silence except for settling dust and heavy breathing. The figure is backlit, silhouette only — no face visible. The rumbling is now muffled behind the sealed door. Deep cinematic sound design — stone grinding, the massive slam reverberating, then sudden quiet. Warm torchlight, deep shadow, film grain. Cinematic adventure, Indiana Jones tone.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10717.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10717.jpg" width="600" alt="Ghibli Croissant Birth Animation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08502.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08502.jpg" width="600" alt="Ancient Stone Door Escape" style="cursor:pointer">
 </a>
 </div>
 
@@ -739,25 +693,25 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 
 ---
 
-### No. 24: The Villain's Awakening
+### No. 24: BMX Girl Shreds Favela Stairs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunde…
+A Brazilian woman in her twenties, her dark curly hair tied up in a structured white bucket hat, wearing an oversized black cargo jacket, loose black pants, an…
 
 #### 📝 Prompt
 
 ```
-Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of his face as he slowly lifts his head. Rain streams down his face. His eyes are bloodshot. He starts laughing maniacally and says through the laughter: "You want me to be the villain? FINE!" He stands up abruptly, yanking the sword from the ground. Mud flies. Cut to low-angle shot looking up at him as lightning strikes behind him, silhouetting his figure. His hair whips wildly in the wind. He points the sword at the camera and screams: "I'll give you a monster!" His eyes glow bright silver. The camera rapidly zooms into his glowing eye. White flash. Cut to black.
+A Brazilian woman in her twenties, her dark curly hair tied up in a structured white bucket hat, wearing an oversized black cargo jacket, loose black pants, and thick white boots, rides a bright chrome BMX bike through a densely populated hillside community made up of narrow stone alleys and painted walls. At 2 seconds, she climbed a section of stairs, climbing sixty stone steps after ten consecutive tire strikes. Her sense of rhythm was clearly visible through camera shaking, and she...
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01654.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01654.jpg" width="600" alt="The Villain's Awakening" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10061.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10061.jpg" width="600" alt="BMX Girl Shreds Favela Stairs" style="cursor:pointer">
 </a>
 </div>
 
@@ -765,85 +719,25 @@ Live-action cinematic sequence. Static camera. The warrior kneels in the rain, h
 
 ---
 
-### No. 25: Sevenfold Morph: Cinematic Motion Art
+### No. 25: Pigeon Owns The Red Carpet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[Basic Settings] Structure: Single consecutive shot (no cut) progression: Morphing seven images in sequence Visibility: Each image can be clearly recognized fo…
+15-second glam-comedy fashion short, luxury event lighting. Same subject throughout: a plump city pigeon with glossy feathers and absurd confidence strutting d…
 
 #### 📝 Prompt
 
 ```
-[Basic Settings]
-Structure: Single consecutive shot (no cut)
-progression: Morphing seven images in sequence
-Visibility: Each image can be clearly recognized for a moment (no stopping required)
-transition: Always smooth and continuous
-Style: Cinematic, high definition, dynamic, no flicker
-[Prompt Body]
-<< <Image1>Starting from >>.
-The footage unfolds in a completely seamless single take, <Image1>>> → << << <Image2><Image3>>> → << >> → << <Image4><Image5>>> → << <Image6>>> → <<>> → <<<Image7>>> deforms continuously in that order.
-The whole scene is not static; morphing occurs within dynamic footage where the camera is constantly moving.
-However, the subject's recognition is maintained, and the composition is controlled so as not to be distorted.
-Each image has a peak state that can be clearly seen for a brief moment within the flow, but it does not stop or hold.
-Everything is expressed as a continuous "evolution within motion."
-[Modified Logic (Fixed Order, No Duplicates)]
-<<<Image1>>>  → <<<Image2>>>  ：
-The camera smoothly pushes forward while the transformation begins.
-Gradually changes in the order of contour, →, parts, →, color→, texture, and texture.
-Fine particle decomposition → reconstruction
-<<<Image2>>>  → <<<Image3>>>  ：
-Tracking movement where the camera moves horizontally.
-Structure is rewritten by light scanning (light scan)
-The lighting line flows, and the shape changes continuously.
-*Particle representations are prohibited
-<<<Image3>>>  → <<<Image4>>>  ：
-Move the orbit so the camera circles around the subject
-Spatial distortion and lens warp stretch and deform the shape
-<<<Image4>>>  → <<<Image5>>>  ：
-Changing perspectives while the camera pulls slightly (light pullout + angle change)
-The subject melts like a liquid and is reshaped as it flows
-<<<Image5>>>   → <<<Image6>>>  ：
-The camera accelerates for a moment, gaining momentum in the movement.
-After the subjects fragment and scatter across space, they reassemble and reconstruct into new forms.
-<<<Image6>>>  → <<<Image7>>>  ：
-The camera stabilizes as it moves back to center
-Energy converges at the center and is integrated into its final form through light and vibration
-[Camera Behavior (Important)]
-・Constantly moving but controlled movements
-・Available for:
-  - Push-in / Pull-out
-  - Lateral tracking
-  - Orbit (circumvention)
-  - Light perspective changes
-・Prohibition:
-  - Sudden shaking
-  - Lost Subject
-  - Unnatural jumps
-[Constraints (Important)]
-・No cuts or editing allowed (complete one-shot)
-・Reuse of the same effect is prohibited
-・No flicker, noise, or bankruptcy
-・Maintain the subject's position and scale without significantly distorting it
-・Each image must be clearly visible at least once
-・All changes must be continuous and meaningful structural deformations
-[Enhanced Keywords]
-dynamic camera movement
-cinematic motion flow
-smooth continuous morphing
-temporal coherence
-high detail preservation
-consistent subject identity
-seamless transformation flow
+15-second glam-comedy fashion short, luxury event lighting. Same subject throughout: a plump city pigeon with glossy feathers and absurd confidence strutting down a celebrity red carpet. 0–3s: photographers flash while the pigeon walks toward camera like a superstar. 3–6s: human celebrities step aside as the pigeon owns the runway, head bob perfectly in rhythm. 6–10s: it pauses for a dramatic wing-flare pose and the crowd goes louder. 10–15s: final close shot as the pigeon snatches a canapé from a silver tray without breaking stride, then keeps walking like nothing happened.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08896.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08896.jpg" width="600" alt="Sevenfold Morph: Cinematic Motion Art" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08313.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08313.jpg" width="600" alt="Pigeon Owns The Red Carpet" style="cursor:pointer">
 </a>
 </div>
 
@@ -851,85 +745,25 @@ seamless transformation flow
 
 ---
 
-### No. 26: Ferrari Capsule Car Emerges From Soil
+### No. 26: Epic Butterfly Symphony Ruins
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Hyper-realistic cinematic video, vertical [9:16], DSLR-quality realism. Opening shot: Extreme macro close-up of a tiny medicine-style capsule (pill-sized, appr…
+In the ancient piano hall ruins covered by vines, pianos play automatically, and the notes transform into glowing butterflies. The camera zooms in from the bro…
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic cinematic video, vertical [9:16], DSLR-quality realism.
-
-Opening shot:
-
-Extreme macro close-up of a tiny medicine-style capsule (pill-sized, approx. 3–4 cm) held delicately between a human thumb and index finger.
-
-The capsule looks exactly like a real pharmaceutical pill — smooth, rounded ends.
-
-One half of the capsule is transparent glass, the other half glossy Ferrari-red plastic.
-
-On the plastic half, a clear Ferrari logo (Prancing Horse) and the Ferrari name are printed sharply with premium reflections.
-
-Inside the glass half, a photorealistic miniature red Ferrari sports car 3D model floats perfectly centered, suspended in zero gravity.
-
-The Ferrari logo is clearly visible on the miniature car (front badge and wheel center caps), ultra-detailed.
-
-Camera performs a slow cinematic macro zoom-in.
-
-Below is a freshly dug planting hole with dry, loose soil, surrounded by short green grass, like soil prepared for planting a seed.
-
-No water, no mud.
-
-Action:
-
-The hand lowers the capsule into the hole.
-
-The capsule is fully buried and completely disappears under the soil.
-
-Fingers gently cover it with loose earth, soil settling naturally.
-
-Brief pause:
-
-The soil surface remains still for a moment.
-
-Transformation:
-
-The ground bulges and cracks from underneath, soil lifting and breaking apart.
-
-A large form pushes upward.
-
-Reveal:
-
-A FULL-SIZE, REAL-WORLD Ferrari sports car (1:1 scale) emerges from the ground —
-
-actual real-life car size, not miniature, not scaled.
-
-The Ferrari logo is clearly visible on the front badge, wheels, and rear, perfectly matching the miniature seen inside the capsule.
-
-Final frame:
-
-The life-sized Ferrari stands firmly on solid ground, dry soil around the tires, grass bent naturally.
-
-Paint reflections are sharp and realistic, luxury automotive finish.
-
-Background remains softly blurred, elegant, light-toned, professional studio lighting, cinematic depth of field.
-
-Style: ultra-realistic, premium luxury automotive reveal
-
-Camera: macro → wide cinematic transition
-
-No text, no UI, no glow, no cartoon look.
+In the ancient piano hall ruins covered by vines, pianos play automatically, and the notes transform into glowing butterflies. The camera zooms in from the broken piano keys into the hall, with beams of light passing through the shattered dome. Nostalgic and mysterious, dust particles visible, soft-focus cinematic feel. Keeping the story and characters unchanged, the version was changed to a more epic feel, adding large shots to create shots, switching between near and far, grand spatial scale, clouds, and beam changes, making the overall scene more impactful.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02698.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02698.jpg" width="600" alt="Ferrari Capsule Car Emerges From Soil" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09828.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09828.jpg" width="600" alt="Epic Butterfly Symphony Ruins" style="cursor:pointer">
 </a>
 </div>
 
@@ -937,25 +771,33 @@ No text, no UI, no glow, no cartoon look.
 
 ---
 
-### No. 27: Pianist Rewinds Time with Music
+### No. 27: Orange Wingsuit Sea Cave Flight
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The Pianist and the Ruins: A pianist plays in a bombed cathedral. As the music plays, time rewinds—walls rebuilt, stained glass reassembled, and ghostly audien…
+A wingsuit flyer in a bright orange suit leaps from a coastal cliff above the Pacific Ocean. The camera follows close behind as he dives through narrow rock ar…
 
 #### 📝 Prompt
 
 ```
-The Pianist and the Ruins: A pianist plays in a bombed cathedral. As the music plays, time rewinds—walls rebuilt, stained glass reassembled, and ghostly audiences fill the benches.
+A wingsuit flyer in a bright orange suit leaps from a coastal cliff above the Pacific Ocean.
+
+The camera follows close behind as he dives through narrow rock arches along the cliffside.
+
+At the 2-second mark he skims just meters above crashing waves.
+
+He pulls upward along the cliff wall and flies directly through a sea cave tunnel.
+
+Ocean wingsuit proximity flight, cliff dive speed run, water spray particles, cinematic aerial realism, 4K.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05077.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05077.jpg" width="600" alt="Pianist Rewinds Time with Music" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08674.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08674.jpg" width="600" alt="Orange Wingsuit Sea Cave Flight" style="cursor:pointer">
 </a>
 </div>
 
@@ -963,25 +805,32 @@ The Pianist and the Ruins: A pianist plays in a bombed cathedral. As the music p
 
 ---
 
-### No. 28: IMAX 8K Photorealistic Cinematic Visuals
+### No. 28: Adam Hat Cinematic Fashion Ad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Style : IMAX 8K. Photoréaliste aucun rendu 3D, aucun moteur de jeu, aucune esthétique de cinématique de jeu vidéo. Cinématographie : Emmanuel Lubezki × Roger D…
+[Main Feature]: Asian young beauty @【@图1】【Adam】Brand trendy knit hat/baseball cap (coarse grain texture, gold logo on the side). [Definition of Time-Segmented…
 
 #### 📝 Prompt
 
 ```
-Style : IMAX 8K. Photoréaliste aucun rendu 3D, aucun moteur de jeu, aucune esthétique de cinématique de jeu vidéo. Cinématographie : Emmanuel Lubezki × Roger Deakins. Éclairage : Lumière naturelle uniquement contre-jour, caméra placée du côté ombragé, légère brume atmosphérique présente tout au long de la scène. La lumière principale provient uniquement du ciel et des fenêtres. Couleurs : Répartition 60:30:10 dominante / secondaire / accent. Caméra : Objectif de cinéma réel. Flou de mouvement avec un obturateur à 180°. Peau : Réalisme au niveau des pores duvet visible, grains de beauté asymétriques, rougeurs capillaires, ombres des pores cohérentes avec l'éclairage de la scène. Jeu d'acteur : Niveau Hollywood micro-pauses avant les réactions, direction du regard précise, yeux humides et vivants avec reflets lumineux, respiration visible par les mouvements de la poitrine. Physique : Gravité et inertie respectées chaque masse possède un poids réaliste, ombres de contact correctes. Aucun objet flottant. Composition : Règle des tiers + nombre d'or. Chaque personnage est en mouvement dès la première image. Continuité : Les personnages, accessoires et environnement restent identiques d'un plan à l'autre. Aucune dérive d'identité. Technique : Mouvement fluide en 24 images par seconde. Détails en 8K. Aucun tremblement. Audio : Bruitages d'ambiance uniquement. Aucune musique. Aucun sous-titre. <<<580cbf5c-4d9d-48b4-bd6d-ca414ac81650>>> correspond à 100 % à l'image de référence. La canette <<>> est tenue dans sa main droite. À la fin de la séquence, il est entièrement transformé en <<<13ce0872-5dbd-4f81-9d78-bb440b750841>>> : l'armure s'assemble en temps réel pendant qu'il est en plein vol, et <<<13ce0872-5dbd-4f81-9d78-bb440b750841>>> correspond à 100 % à la référence. Balance des blancs : 6500 K. MULTI-PLANS montage cinématographique rapide avec une énergie qui monte progressivement durant toute la séquence de 15 secondes. <<<781dadcd-7026-4651-a9a2-181c3fc22064>>> sert uniquement de référence de style, et non de plan fixe. Utiliser cette référence pour le style visuel, l'ambiance, l'architecture et l'éclairage : une grande avenue déserte de type New York sous un soleil de midi intense. Seedance doit générer librement le reste du décor : nouveaux immeubles, nouvelles portions de l'avenue et nouveaux angles de caméra. Le personnage se déplace réellement dans l'espace d'un plan à l'autre. Il ne doit jamais rester figé à l'emplacement ou dans le cadrage de l'image de référence. Ne pas reproduire l'image de référence à l'identique. PLAN 1 (0:00–0:02) Très gros plan, du menton jusqu'au front. <<<580cbf5c-4d9d-48b4-bd6d-ca414ac81650>>> porte la canette <<>> à ses lèvres et boit une longue gorgée. Sa pomme d'Adam descend puis remonte deux fois. Coupe franche. PLAN 2 (0:02–0:04) Même cadrage rapproché. La canette redescend rapidement. Ses yeux s'ouvrent brusquement, vifs et parfaitement attentifs (détails naturels de la peau et de l'iris, aucun effet lumineux). Le muscle zygomatique se contracte : un véritable grand sourire apparaît en moins d'une seconde, les commissures des lèvres passant d'environ 2 mm à 8 mm. Le sternum se soulève lors d'une profonde inspiration. Il déborde d'énergie. Coupe franche. PLAN 3 (0:04–0:06) Plan large en contre-plongée. <<<580cbf5c-4d9d-48b4-bd6d-ca414ac81650>>> explose vers l'avant dans un sprint à 30 km/h, en poursuivant exactement la direction vers laquelle il regardait déjà. Il court tout droit dans l'avenue. Il ne se retourne jamais. À chaque foulée, ses baskets frappent violemment l'asphalte fissuré, projetant de petits nuages de poussière d'environ 10 cm. Coupe franche. PLAN 4 (0:06–0:08) Travelling suivant la course. Les bras effectuent un mouvement à environ 90°. La veste de survêtement flotte derrière lui sur environ 15 cm. Le sourire reste affiché. Les sourcils sont relevés. La bouche est légèrement entrouverte et détendue. La foulée s'allonge. Le temps de contact avec le sol diminue. Sa vitesse augmente. Coupe franche. PLAN 5 (0:08–0:10) Deux dernières foulées. Les genoux se compriment jusqu'à environ 110°. Le pied droit s'écrase dans l'asphalte. Le sol se fissure sur un rayon d'environ 20 cm. Il est propulsé vers le haut à 65 km/h. Coupe franche. PLAN 6 (0:10–0:13) En plein vol dans le canyon urbain de <<<781dadcd-7026-4651-a9a2-181c3fc22064>>>. Lecture en 24 images par seconde, vitesse normale. Aucun ralenti. Il ne reste jamais figé. Tout son corps continue de bouger pendant le saut : le torse pivote, les jambes continuent leur mouvement, les bras se déploient, la tête tourne pour suivre l'arrivée de l'armure. Pendant qu'il vole et tourne dans les airs, les différentes pièces de l'armure surgissent de l'environnement urbain et convergent vers lui. Le plastron se verrouille pendant la rotation. Les épaulières se referment lorsque ses épaules bougent. Les gantelets se verrouillent sur les avant-bras pendant que ses bras s'étendent. Les protections de tibia se fixent sur les jambes en mouvement. Le casque descend, puis la visière se referme brutalement lorsque sa tête revient vers l'avant. Toute la transformation se déroule en une seule séquence fluide et violente. Le corps reste constamment en mouvement. Un claquement métallique net accompagne la fermeture de la visière. Coupe franche. PLAN 7 (0:13–0:15) <<<13ce0872-5dbd-4f81-9d78-bb440b750841>>> s'écrase au sol dans <<<781dadcd-7026-4651-a9a2-181c3fc22064>>> en position accroupie. Les deux pieds blindés frappent simultanément l'asphalte. Une onde de poussière d'environ 80 cm de rayon se propage. Il se relève. Il ouvre puis referme brusquement ses poings blindés : d'abord le gauche, puis le droit. Il baisse ensuite le regard vers son plastron. Un léger rire étouffé se fait entendre derrière la visière fermée. Coupe nette vers un écran noir. Caméra portée extrêmement dynamique. Jamais statique. Jamais verrouillée. Forts tremblements naturels de l'opérateur dans chaque plan (rebonds de 4 à 8 cm), sans stabilisation. Angle néerlandais (Dutch Angle) très marqué durant toute la vidéo : inclinaison comprise entre 12° et 20°, variant d'un plan à l'autre et s'accentuant progressivement. Plan 1 : FOV 18°, très gros plan, inclinaison 15°, micro-tremblements violents. Plan 2 : FOV 18°, inclinaison inversée à environ 18°, caméra nerveuse. Plan 3 : FOV 84°, contre-plongée, inclinaison 12°, démarrage brutal de la course. Plan 4 : FOV 84°, caméra poursuivant physiquement le personnage, inclinaison 16°, forts rebonds synchronisés avec les foulées, flou de mouvement pendant les panoramiques. Plan 5 : FOV 63°, inclinaison 20°, bascule rapide vers le haut pendant le saut. Plan 6 : FOV 63°, caméra portée extrêmement dynamique. L'opérateur tourne autour du personnage en plein vol avec des rebonds de 6 à 8 cm, recadre rapidement chaque pièce d'armure lorsqu'elle se verrouille, inclinaison variant de 18° à 8°. Aucun ralenti. Plan 7 : FOV 63°, fort choc au moment de l'atterrissage, inclinaison 14°, la caméra recule d'environ 8 cm sous l'impact puis retrouve un léger mouvement respiratoire pendant l'inspection de l'armure. Dominante : gris clair de l'asphalte et canyon urbain (60 %). Secondaire : tenue bleu marine/crème évoluant progressivement vers une armure chromée (30 %). Accent : sourire, poussière, reflets chromés et LED bleue de la visière à l'atterrissage (10 %). Balance des blancs : 6500 K. Aucun effet lumineux dans les yeux. Les yeux sont uniquement éclairés par la lumière naturelle du soleil. CONTRAINTES
+[Main Feature]: Asian young beauty @【@图1】【Adam】Brand trendy knit hat/baseball cap (coarse grain texture, gold logo on the side).
+[Definition of Time-Segmented Shots]:
+- 0:00-0:04: [IMAX Wide / Close-up] 4K wide-format close-up. The camera is lowered, focusing on the female lead's eyes beneath the brim of his hat. Enhances light and shadow contrast, presenting a deep gaze. Coarse-grained film texture covers the entire image, eliminating digital noise.
+- 0:04-0:08: [Macro / Motion Match] Macro Action Matching. The camera quickly captures the details of the female lead adjusting the brim of her hat; the 【Adam】 gold-embossed logo instantly sharpens from blurry to sharp in shallow depth of field. Image details reshaped, with the fiber texture clearly visible.
+- 0:08-0:12: [Orbit / Medium Shot] 360-degree surround medium shot. The female lead wears a functional jacket and a 【Adam】 hat against the city's neon backdrop (Bokeh out of focus). Simulates handheld breathing sensation to enhance the sense of light and shadow stepped effects.
+- 0:12-0:15: [Pull Back / Freeze Frame] Freeze frame after pulling. The camera quickly pulls back, and the model confidently faces the camera. The frame freezes in frame, with blank space on both sides of the IMAX wide format highlighting the 【Adam】logo and brand slogan "Adam, Your Shade."
+[Image Quality/Style]: 4K IMAX, film grain, shallow depth of field, enhanced light and shadow contrast, image detail reconstruction, digital noise reduction, cinematic color grading, commercial blockbuster texture.
+[Constraints]: Human body structure normal, facial stability without deviation (100% reproduction of reference images), brand logo clear and distorted, movements smooth and avoided stuttering.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10130.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10130.jpg" width="600" alt="IMAX 8K Photorealistic Cinematic Visuals" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08545.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08545.jpg" width="600" alt="Adam Hat Cinematic Fashion Ad" style="cursor:pointer">
 </a>
 </div>
 
@@ -989,29 +838,25 @@ Style : IMAX 8K. Photoréaliste aucun rendu 3D, aucun moteur de jeu, aucune esth
 
 ---
 
-### No. 29: Creepy Chair Shadow Horror Scene
+### No. 29: Cyberpunk Sakura Night Romance
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-4. Horror scene 0–1.5s (Shot 1): Low-angle shot from the floor. A wooden chair drags slowly across the room on its own, stopping abruptly. Shadows stretch unna…
+8K ultra-detailed cyberpunk romance cinema, school anniversary night overflowing with holographic cherry blossoms, floating lantern swarms, glossy rain-wet pav…
 
 #### 📝 Prompt
 
 ```
-4. Horror scene
-
-0–1.5s (Shot 1): Low-angle shot from the floor. A wooden chair drags slowly across the room on its own, stopping abruptly. Shadows stretch unnaturally along the walls as a door creaks open in the background.
-VFX: shadow stretch, dust particles
-SFX: wood scrape,
+8K ultra-detailed cyberpunk romance cinema, school anniversary night overflowing with holographic cherry blossoms, floating lantern swarms, glossy rain-wet pavement, candy-colored neon, and a giant skyline ferris wheel above the academy. Two student lovers become a
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08281.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08281.jpg" width="600" alt="Creepy Chair Shadow Horror Scene" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08084.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08084.jpg" width="600" alt="Cyberpunk Sakura Night Romance" style="cursor:pointer">
 </a>
 </div>
 
@@ -1019,25 +864,37 @@ SFX: wood scrape,
 
 ---
 
-### No. 30: Gacha Pull Animation Magic
+### No. 30: Heartwarming Ice Cream Adventure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The reference image is to be used only as a reference, not as a starting frame. It should be in the style of a gacha pull animation in a social game. Upbeat, u…
+Pixar-quality cinematic animated short film, highly expressive 3D characters, warm golden-hour suburban neighborhood, emotional storytelling, consistent young…
 
 #### 📝 Prompt
 
 ```
-The reference image is to be used only as a reference, not as a starting frame. It should be in the style of a gacha pull animation in a social game. Upbeat, uplifting BGM, with sound effects such as electronic sounds, lottery sounds, and confirmation sounds. The girl with a pacifier does not speak, and her mouth does not move at all. All transitions are flashy, accompanied by impacts, flashes, and UI glow. Immediately after the start, the following sequence begins: Ultra-fast transition. The space distorts, shatters like glass, and the fragments transform into light and are absorbed. A strong whiteout. Immediately after, a cut. In a dark space, an "abnormally bizarre gacha machine" that extremely exaggerates the features suggested by the reference image is depicted as already existing. (Example: The character's hair color, motifs, and world view are mechanized as is.) - Excessively large structure - Unrealistic rotating mechanisms - Floating parts - Glowing pipes and energy channels - Incomprehensible but cool movements Energy circulates and pulses inside the device. In the center of the screen, operation UI such as "TAP," "PULL," or "OPEN" is displayed. The UI glows strongly in a neon style and vibrates lightly. Simultaneously with the operation, the device vibrates, rotates, and glows as if running wild. The energy reaches a critical point and converges into a single point. Cut change. Ejection sequence: A "container" suggested by the features of the reference image is casually ejected from the device. (Example) - Capsule - Egg - Crystal - Box - Can - Scroll - Food-like object The shape, texture, and color are determined from the reference image. The container bounces once, lightly collides with the floor or space, and rolls. At that moment, cracks, glow, and energy leak from the inside. Rarity determination sequence: - High rarity: Rainbow colors, prism, light spreading across the entire screen The container trembles and gradually rises. Cut change. The container bursts open explosively. Light and particles burst out from the inside, and a silhouette that exaggerates the features of the reference image appears. A strong flash. Cut change. A space that inherits the atmosphere of the reference image's background is depicted as already existing (not a switch, but as if it was there from the beginning). Incoming light, mist, particles, air currents. The character appears in the center. Camera effects: - Rapid pan from the feet to the face - Rotating around the character while zooming in - The character moves with a sense of dynamism - Slow motion → acceleration Around the character, attribute effects suggested by the reference image occur. (Example) - Fire, water, lightning, ice, light, darkness, machinery, nature, etc. - Colors and shapes are determined from the impression of the reference image Furthermore, attribute marks (emblems) appear behind or above the character, glowing, rotating, and splitting. At the same time, a large number of particles are generated across the entire screen, with lens flares, shockwaves, and streaks of light. In the center of the screen, a huge text: Rarity display such as "SSR," "UR," or "LEGEND" (automatically determined from the impression of the reference image). Next, an "abnormally exaggerated epithet" suggested by the appearance of the reference image is generated and displayed. Furthermore, the character's name is also generated and displayed. Additional UI effects: - A luxurious character card UI appears at the bottom of the screen - The frame glows strongly in gold, rainbow, etc. - The number of stars pops up one by one - The card rotates, slides, and glows Status display: - HP / ATK / DEF / SPEED, etc., count up at high speed - Values are automatically generated from the impression of the reference image Skill display: - Skill names are generated and displayed (Example: "Dimensional Collapse Break," "Infinite Reflection Aura," etc.) - Mini skill activation effects (short effects) Additional effects for rare cases: - The background momentarily changes (space, destruction, temple, etc.) - Screen shake + strong flash - Increased particle count Final cut: The character freezes in a cool pose. A "title" and a cool "name" suggested by the character are displayed on the screen with a cool, high-design logo. Behind, the attribute emblem and energy continue to circulate around. The UI continues to glow lightly, ending in a state that can be looped. Style: cinematic, gacha game UI overlay, ultra detailed, high contrast, fantasy summon machine, dynamic lighting, volumetric light, glow, particles, motion blur, lens flare, impact flashes
+Pixar-quality cinematic animated short film, highly expressive 3D characters, warm golden-hour suburban neighborhood, emotional storytelling, consistent young boy character, realistic environmental continuity, seamless scene transitions, cinematic camera work.
+
+A cheerful young boy approaches a colorful ice cream truck and excitedly buys his favorite ice cream cone. Close-up of his smiling face as he admires the perfect scoop. He happily walks away, taking a careful first step.
+
+Suddenly the cone slips from his hand in slow motion. The ice cream falls onto the sidewalk and splatters. Close-up of the boy's shocked expression turning into disappointment. He kneels beside the melted ice cream while other children enjoy theirs nearby. The atmosphere becomes quiet and emotional.
+
+As the boy sadly watches from a distance, the ice cream truck driver notices what happened through the service window. The driver looks concerned and smiles warmly. He steps out of the truck holding a fresh ice cream cone.
+
+The camera follows the driver walking toward the boy. The boy looks up in surprise. The driver gently hands him a brand-new ice cream. Close-up on the boy's widening eyes and grateful smile. Warm sunlight shines across the scene, creating a magical emotional moment.
+
+The boy happily enjoys his replacement ice cream. Nearby, a friendly stray puppy watches curiously. The boy kneels down and shares a small bite with the puppy. The puppy wags its tail excitedly, creating a heartwarming connection.
+
+Final cinematic sequence: the ice cream truck drives away down the glowing suburban street, the boy and puppy walking side by side through golden sunlight. Wide aerial pullback revealing a peaceful neighborhood, long sunset shadows, warm emotional atmosphere, wholesome family-friendly ending, cinematic depth of field, realistic animation physics, expressive facial acting, emotional orchestral music, Pixar-inspired storytelling, theme of kindness turning disappointment into happiness.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00315.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00315.jpg" width="600" alt="Gacha Pull Animation Magic" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03378.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03378.jpg" width="600" alt="Heartwarming Ice Cream Adventure" style="cursor:pointer">
 </a>
 </div>
 
@@ -1045,25 +902,25 @@ The reference image is to be used only as a reference, not as a starting frame. 
 
 ---
 
-### No. 31: Chubby Soccer Player Epic Comeback
+### No. 31: War Ruins Documentary Aerial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a 15-second 16:9 premium 3D animated commercial in a Pixar / Illumination-inspired style with bright saturated colors, sunny outdoor lighting, playful h…
+Generate a documentary-style aerial shot: A drone takes a high-altitude view of a city intersection ravaged by war, with a destroyed armored vehicle at its cen…
 
 #### 📝 Prompt
 
 ```
-Create a 15-second 16:9 premium 3D animated commercial in a Pixar / Illumination-inspired style with bright saturated colors, sunny outdoor lighting, playful humor, and strong cinematic sports energy. Main character: a short, chubby soccer player wearing blue jersey number 7. Supporting characters: several tall, slim teammates/opponents, creating a strong comedic contrast. Tone: starts funny and awkward, then turns energetic, uplifting, and heroic after drinking an energy drink. Story flow: Scene 1 (0–3s) – Underdog setup On a bright soccer field, tall players dominate the game. Camera tilts down to the short chubby player. He tries to dribble, slips in a clumsy funny way, and falls. From his low-angle POV, the tall players look down at him with smug expressions. He feels discouraged. Scene 2 (3–6s) – Energy appears A glowing blue “ENERGY” sports drink rolls to his side. He sits up, grabs it, opens it, and drinks. Immediately his eyes light up and a blue-red electric aura bursts around him. He jumps to his feet, now full of power and confidence. Scene 3 (6–10s) – Comeback dribble Game resumes. A streak of blue energy flashes past the tall players as the short player steals the ball. Show low-angle dynamic tracking shots of his rapid footwork. He dribbles at high speed, weaving through defenders, nutmegging one player, and charging toward the goal. His movements are fast, agile, and visually exciting. Scene 4 (10–13s) – Hero goal In dramatic slow motion, he leaps and winds up for a powerful kick. Then the action snaps into full speed as he strikes the ball hard. The soccer ball turns into a glowing fireball with a bright energy trail, flies past the shocked goalkeeper, and smashes into the net. The crowd erupts in celebration with confetti flying. Scene 5 (13–15s) – Packshot ending The hero stands proudly at midfield with one foot on the ball and one hand holding up the ENERGY drink. The sunlight behind him casts a long shadow shaped like a tall, strong soccer champion. Final close-up on the drink bottle as the product hero shot. Visual style: premium 3D animation Pixar / Illumination-inspired appeal bright sunny soccer field strong size contrast between short chubby hero and tall slim players expressive faces dynamic sports camera comedic beginning, hype ending blue energy aura and glowing effects cinematic motion blur clean brand-commercial finish Audio / rhythm: Start with goofy awkward music for the first 3 seconds, then switch to upbeat energetic electronic sports music after the drink. Add comedic fall sound, bottle opening sound, gulp, electric power-up sound, fast dribble sounds, explosive kick impact, crowd cheers, and a crisp product end sound.
+Generate a documentary-style aerial shot: A drone takes a high-altitude view of a city intersection ravaged by war, with a destroyed armored vehicle at its center, its body still burning and emitting thick black smoke. The road is littered with rubble, metal debris, and broken roadblocks, and the facades of buildings on both sides are charred and windows are broken. The sky is overcast and gray, with an overall desaturated color tone to emphasize tragedy and oppression. The camerawork establishes itself at high altitude and slowly descends to mid-high altitude, maintaining a steady pace to show the scale of destruction and spatial relationships. The movement of flames, smoke, heat waves, and dust must be realistic, with details possessing documentary-level credibility, and slight film grain added to the footage.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10996.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10996.jpg" width="600" alt="Chubby Soccer Player Epic Comeback" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09802.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09802.jpg" width="600" alt="War Ruins Documentary Aerial" style="cursor:pointer">
 </a>
 </div>
 
@@ -1071,39 +928,38 @@ Create a 15-second 16:9 premium 3D animated commercial in a Pixar / Illumination
 
 ---
 
-### No. 32: Demon Fairy vs Monkey King
+### No. 32: Storyboard Behind the Scenes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-0-2s [Demonization Awakening] Footage: Ultra-clear close-up of the fairy's face. His once clear pupils instantly turned purple (demonized), a dazzling red vein…
+Image 1 is A, Image 2 is B, and Image 3 is the storyboard. Please describe the following scenes. カット①:A「なあ、レオン」 カット②:B「なんだ、ガルド」 Cut (3): A: "It's a bit hard to…
 
 #### 📝 Prompt
 
 ```
-0-2s [Demonization Awakening]
-Footage: Ultra-clear close-up of the fairy's face. His once clear pupils instantly turned purple (demonized), a dazzling red vein appeared at the corners of his eyes, and a dangerous yet alluring sinister smile curled at the corner of his mouth.
-Action: The camera slowly retracts, and with a wave of her hands, purple mana gathers in the void, transforming into two longswords burning with crimson Crimson Fire. The flames were not ordinary fire, but demonic flames containing black particles.
-2-5s [Flame Charge]
-Image: The fairy steps on the ground, instantly erupting, trailing long light trails of interwoven purple and red behind her.
-Collision: The camera rapidly advances following the sword's point of view. The Monkey King snorted coldly and swept the Golden Cudgel across. The moment the twin swords collided with the Golden Cudgels, a dazzling white light and a shower of sparks erupted, and the shockwave shattered the surrounding dust in a circular shape.
-5-9s [Light and Shadow Entanglement]
-Visual: This section emphasizes "beauty." The fairy's movements were as agile as a dance, her twin swords swung in circles, and purple-red sword energy weaving a net in the air. The Monkey King's Golden Cudgel was wielded into a golden halo.
-Slow-motion detail (0.4x): Captures a moment of sword-and-staff clash—sparks flying like fireworks, reflecting the fierce gaze between the two, with a palace pillar sliced and sliding off by sword energy.
-9-12s [Air Slash]
-Scene: After being kicked away, the fairy gracefully flips in midair to dissipate force, crossing her twin swords to unleash two massive "X"-shaped fiery sword energies (Cross Slash).
-Response: The Monkey King wields the Golden Cudgel into a golden shield, directly blocking the sword energy. The explosion produced a huge black-red smoke ball, obscuring vision.
-12-15s [Ultimate Showdown]
-Scene: Amidst the smoke, the fairy's twin swords merge into one, transforming into a giant sword burning with soaring flames, descending from the sky to strike Mount Hua.
-Ending: The Monkey King raises his staff with both hands, holding up the sky. At the moment the weapons collided, the color of the screen flipped (black and white flashed in an instant), and a massive energy ripple swept across the arena, causing both to be knocked back at the same time. The fairy landed on one knee, her sword sliding down the ground. When she looked up, her hair was soaked with sweat—tragic yet powerful.
+Image 1 is A, Image 2 is B, and Image 3 is the storyboard. Please describe the following scenes.
+
+カット①:A「なあ、レオン」
+
+カット②:B「なんだ、ガルド」
+
+Cut (3): A: "It's a bit hard to say......"
+
+カット④:A「このシーンがはつとうじょうって、おかしくないか？」
+B:「それな？」
+
+カット⑤A:「ラーメンでもたべにいくか」
+
+カット⑥:A「おいしいみせしってるんだ」
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05087.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05087.jpg" width="600" alt="Demon Fairy vs Monkey King" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03127.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03127.jpg" width="600" alt="Storyboard Behind the Scenes" style="cursor:pointer">
 </a>
 </div>
 
@@ -1111,25 +967,42 @@ Ending: The Monkey King raises his staff with both hands, holding up the sky. At
 
 ---
 
-### No. 33: Flower Gift at License Renewal
+### No. 33: Luxury Desert Villa Sunrise Calm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] Takes the flower and gets out. [cut] Enters; a police officer is suspicious beh…
+Title: Luxury Desert Villa Sunrise — Golden Calm Morning 🏜️✨ Style: Ultra-realistic cinematic luxury, soft golden tones, calm minimal aesthetic, high-end arch…
 
 #### 📝 Prompt
 
 ```
-A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] Takes the flower and gets out. [cut] Enters; a police officer is suspicious behind the counter. Sign: 'License Renewal'. [cut] Leaves the flower and ID card. [cut] She is astonished. [cut] He laughs nervously. No music.
+Title: Luxury Desert Villa Sunrise — Golden Calm Morning 🏜️✨
+
+Style: Ultra-realistic cinematic luxury, soft golden tones, calm minimal aesthetic, high-end architectural photography, slow motion, shallow depth of field, warm natural light.
+
+0–3s — Desert Awakening
+Wide aerial shot of a luxury desert villa surrounded by endless dunes. Early sunrise light slowly rises over the horizon, soft wind moves across the sand.
+
+3–6s — Interior Glow
+Cut to a modern open villa interior: sunlight streams through large glass walls. Curtains gently move, casting soft shadows on marble floors and elegant furniture.
+
+6–9s — Calm Morning Ritual
+Close-up cinematic shots: coffee being poured into a cup, steam rising in golden light. A hand opens sliding glass doors revealing the desert view.
+
+9–12s — Pool Reflection
+Infinity pool reflects the rising sun. Water ripples slowly, mirroring the golden sky and desert landscape. Palm shadows move softly.
+
+12–15s — Peaceful Ending
+A figure stands quietly on the terrace, facing the sunrise. Wind flows gently as the camera slowly pulls back, fading into warm golden light.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04537.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04537.jpg" width="600" alt="Flower Gift at License Renewal" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02627.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02627.jpg" width="600" alt="Luxury Desert Villa Sunrise Calm" style="cursor:pointer">
 </a>
 </div>
 
@@ -1137,25 +1010,25 @@ A man arrives at the police station and parks. [cut] Smoke from the hood. [cut] 
 
 ---
 
-### No. 34: Wind Shapes Flowers Slowly
+### No. 34: Golden Morning Lifestyle Diary
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-as the wind moves the plants slowly, the flowers start to move together and create the final shape.
+Create an ultra-realistic cinematic lifestyle video featuring the same young East Asian woman throughout the entire sequence. Maintain identical facial feature…
 
 #### 📝 Prompt
 
 ```
-as the wind moves the plants slowly, the flowers start to move together and create the final shape.
+Create an ultra-realistic cinematic lifestyle video featuring the same young East Asian woman throughout the entire sequence. Maintain identical facial features, long soft ash-brown wavy hair, glowing skin, body proportions, and outfit in every shot. She wears a white ribbed crop top, beige high-waisted shorts, white sneakers, and carries a cream canvas tote bag throughout the video. Bright modern apartment, warm golden morning sunlight, neutral interiors, wooden furniture, indoor plants, premium lifestyle aesthetic. The video opens with her naturally tying her hair into a loose ponytail while smiling softly in front of a mirror. She grabs her canvas tote bag, reusable shopping bags, sunglasses, and keys before leaving the apartment. She walks through a peaceful tree-lined neighborhood as morning sunlight filters through the leaves. Handheld tracking shots follow her while a gentle breeze moves her hair naturally. She arrives at a vibrant local farmers market where she carefully selects fresh strawberries, blueberries, oranges, tomatoes, leafy vegetables, fresh flowers, and artisan bread. She smiles warmly at friendly vendors, smells flowers, gently inspects fresh produce, and places everything neatly into her tote bag. After paying, she strolls home through quiet streets carrying her groceries. Warm sunlight creates beautiful highlights while the camera captures candid lifestyle moments. Back home, she neatly arranges the groceries on the kitchen counter, washes fresh berries under running water, slices fruit, pours sparkling water filled with ice into a glass, and prepares a simple healthy snack. Soft close-up shots capture water droplets, fresh fruit textures, and natural morning light. She sits beside a large window surrounded by plants, enjoying her snack while looking outside. She notices the camera, smiles warmly, gently raises her sparkling water toward the viewer in a friendly toast, then relaxes as the camera slowly pulls back to reveal the peaceful apartment filled with warm sunlight. Natural ambient audio only: birds chirping, gentle breeze, footsteps, grocery bags rustling, fruit handling, market ambience, cashier beeps, doors opening, running water, knife slicing fruit, sparkling water pouring, ice clinking softly, leaves rustling. No background music, no subtitles, no logos, no watermarks, no on-screen text. Premium commercial-quality cinematography, smooth handheld and gimbal camera movement, realistic skin texture, natural expressions, physically accurate lighting, shallow depth of field, warm golden morning atmosphere, 16:9 widescreen, 4K HDR.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09263.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09263.jpg" width="600" alt="Wind Shapes Flowers Slowly" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10211.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10211.jpg" width="600" alt="Golden Morning Lifestyle Diary" style="cursor:pointer">
 </a>
 </div>
 
@@ -1163,25 +1036,25 @@ as the wind moves the plants slowly, the flowers start to move together and crea
 
 ---
 
-### No. 35: Luxury Car Morphs to Battle Godzilla
+### No. 35: Mech Harvest: Epic Autumn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A luxury car is transforming into Optimus Prime, battling Godzilla amid explosions and energy shockwaves, set against a rainy night in Tokyo's cityscape
+In the autumn rice fields, a group of round, plump robots harvest golden rice ears, clumsy but in perfect coordination. Drones illuminate the sky like fireflie…
 
 #### 📝 Prompt
 
 ```
-A luxury car is transforming into Optimus Prime, battling Godzilla amid explosions and energy shockwaves, set against a rainy night in Tokyo's cityscape
+In the autumn rice fields, a group of round, plump robots harvest golden rice ears, clumsy but in perfect coordination. Drones illuminate the sky like fireflies. The camera pans along the field ridge, then rises to reveal a huge smiling wheat field pattern. Healing warmth, documentary-like quality. Keeping the story and characters unchanged, the version was changed to a more epic feel, adding large shots to create shots, switching between near and far, grand spatial scale, clouds, and beam changes, making the overall scene more impactful.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05035.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05035.jpg" width="600" alt="Luxury Car Morphs to Battle Godzilla" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09820.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09820.jpg" width="600" alt="Mech Harvest: Epic Autumn" style="cursor:pointer">
 </a>
 </div>
 
@@ -1189,590 +1062,45 @@ A luxury car is transforming into Optimus Prime, battling Godzilla amid explosio
 
 ---
 
-### No. 36: Doctor Alive By My Permission
+### No. 36: Abyssal Leviathan Awakens In Deep Trench
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, MOREOVER – you and I, have the same objective. in a certain way.
-
-#### 📝 Prompt
-
-```
-LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, MOREOVER – you and I, have the same objective. in a certain way.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04588.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04588.jpg" width="600" alt="Doctor Alive By My Permission" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 37: Snowy Weather Station Chaos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A 15-second locked-camera snowfield comedy follows a lone weather-station keeper as three miniature machines malfunction one after another. Soft-sculpted forms…
-
-#### 📝 Prompt
-
-```
-A 15-second locked-camera snowfield comedy follows a lone weather-station keeper as three miniature machines malfunction one after another.
-
-Soft-sculpted forms, matte toy-scale machinery, powder-white snow, deep navy skies, coral-pink pines, and clean storybook lighting. Cute, cold, and increasingly chaotic—until she pulls the final power plug, wipes the lens, and ends the recording herself.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10603.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10603.jpg" width="600" alt="Snowy Weather Station Chaos" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 38: Rainy Alley Duel: Martial Arts Clash
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A two-person martial arts duel in a modern urban night scene. Shot structure: First, a wide-angle shot shows the empty streets and the two fighters facing off,…
-
-#### 📝 Prompt
-
-```
-A two-person martial arts duel in a modern urban night scene. Shot structure: First, a wide-angle shot shows the empty streets and the two fighters facing off, then a medium shot follows the rhythm of their attack and defense, with close-ups of key striking points (punches and kicks landing, breathing, muscle exertion). Low-angle surround shots, over-the-shoulder shots, and rapid panning are incorporated to emphasize the movement paths and spatial relationships. The movements must conform to realistic center of gravity and reaction forces to avoid a floating appearance. Lighting uses streetlights and neon reflections, with slight puddles and reflections on the ground, creating an overall realistic, tense, and cinematic style.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09370.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09370.jpg" width="600" alt="Rainy Alley Duel: Martial Arts Clash" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 39: Editor vs Laptop Monsters
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A funny ad commercial for CapCut, showing a stressed video editor battling monsters that come out of his laptop, and CapCut comes to the rescue. Multiple shots…
-
-#### 📝 Prompt
-
-```
-A funny ad commercial for CapCut, showing a stressed video editor battling monsters that come out of his laptop, and CapCut comes to the rescue. Multiple shots, Pixar animation style
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07782.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07782.jpg" width="600" alt="Editor vs Laptop Monsters" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 40: Dark Fantasy Action Trailer Preview
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-high-tempo dark fantasy action trailer, Use Image for all character and logo. [0-2s] ultra-low drone shot skimming across ruined fantasy fortress, storm, light…
-
-#### 📝 Prompt
-
-```
-high-tempo dark fantasy action trailer, Use Image for all character and logo. [0-2s] ultra-low drone shot skimming across ruined fantasy fortress, storm, lightning illuminating walls, low string pizzicato begins; [2-4s] extreme close-up of hero's eyes emerging from darkness, slow deliberate sword draw; [4-5s] low angle — hero raises sword shouting in Japanese "Let's go!", blade flares, brass explodes; [5-9s] four hard cuts one second each — (a) mage detonates massive magic with burst sfx, (b) wolfman swings axe sending enemies flying with heavy crash, (c) archer rapid-fires arrows sharp consecutive hits, (d) hero slow-motion slash with blade light trail; [9-11s] wide shot — four heroes stand together facing colossal enemy silhouette, mage says in Japanese "We will fight together"; [11-13.5s] all four charge simultaneously, blazing sword strikes, pillar of light, screen-filling explosion; [13.5-15s] cut to black, title logo with golden light burst, deep bass drop, reverberating brass sting, silence.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04543.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04543.jpg" width="600" alt="Dark Fantasy Action Trailer Preview" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 41: Neon Glow in Shinjuku Night
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-In the evening at Shinjuku Kabukicho, a woman illuminated by neon lights looks back. The rain-soaked pavement reflects the light, and steam from a food stall c…
-
-#### 📝 Prompt
-
-```
-In the evening at Shinjuku Kabukicho, a woman illuminated by neon lights looks back. The rain-soaked pavement reflects the light, and steam from a food stall crosses the frame. [Camera] Slow dolly-in from a low angle, shallow depth of field, 35mm film texture. [Lighting] Red and blue neon rim lights, cinematic contrast.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00098.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00098.jpg" width="600" alt="Neon Glow in Shinjuku Night" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 42: Storm Escape
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Style: IMAX 70mm, Denis Villeneuve-style cool epic feel, low saturation with high contrast. Extreme Panorama: A massive sandstorm wall engulfs the horizon, arm…
-
-#### 📝 Prompt
-
-```
-Style: IMAX 70mm, Denis Villeneuve-style cool epic feel, low saturation with high contrast. Extreme Panorama: A massive sandstorm wall engulfs the horizon, armored convoys rapidly withdraw in the foreground, highlighting the "insignificance of humanity." Interior POV shot: The cockpit shakes violently, the windshield is repeatedly hit by sand grains, the dashboard flashes a red light, and the character shouts, "Maximum thrust!" The tension was at its peak. Climax slow-motion: The lead car rushes onto the dune and soars into the air, its silhouette suspended in front of the black sandstorm. Lightning flashes through the sandstorm, debris skims the camera, and the moment it hits the ground, it turns black. He demanded clean camera transitions and a layered rhythm of sound and visuals.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09569.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09569.jpg" width="600" alt="Storm Escape" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 43: Skyscraper Elevator Fall Escape
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. A glass elevator is falling down the outside of a modern skyscraper at night, surroun…
-
-#### 📝 Prompt
-
-```
-Hyper-realistic cinematic action sequence, 15 seconds, aspect ratio 16:9. A glass elevator is falling down the outside of a modern skyscraper at night, surrounded by rain, city lights, reflections, sparks, and broken metal cables. A skilled spy with gray hair and beard in a dark tactical suit is trapped inside as the elevator drops fast along the building exterior.
-
-Camera angle 1: wide exterior shot of the skyscraper, the glass elevator suddenly breaks loose and begins falling down the side of the building, lights flickering inside, emergency sparks flying from the elevator rails.
-
-Camera angle 2: interior close shot, the spy is thrown against the glass wall as the elevator drops. He grabs the handrail, kicks open the emergency ceiling hatch, and climbs upward while loose objects float and slam around him from the falling motion.
-
-Camera angle 3: dramatic exterior tracking shot, the spy pulls himself onto the roof of the falling elevator. Rain hits hard, wind is violent, broken cables whip around him, sparks burst from the rails as the city blurs below.
-
-The spy jumps from the falling elevator onto a passing maintenance platform attached to the skyscraper. He barely catches the edge with one hand, swings hard, pulls himself up, then rolls onto the platform just as the glass elevator crashes far below in a huge burst of glass, sparks, and smoke.
-
-Final moment: the spy stands on the shaking maintenance platform, breathing hard, rain pouring over him, the destroyed elevator burning far below, city lights glowing behind him.
-
-Style: hyper-realistic, cinematic, intense vertical action, realistic physics, rain, glass reflections, sparks, smoke, dramatic lighting, fast but readable camera movement, high detail, no text, no logos, no slow motion, no cartoon style, no extra main characters. Keep proportions. Keep style and features. Aspect ratio 16:9.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03336.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03336.jpg" width="600" alt="Skyscraper Elevator Fall Escape" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 44: Anaconda Storm Battle
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Cinematic action horror scene on a stormy river with heavy rain and choppy muddy water. A massive hyper-realistic giant anaconda, over 40 feet long with dark g…
-
-#### 📝 Prompt
-
-```
-Cinematic action horror scene on a stormy river with heavy rain and choppy muddy water. A massive hyper-realistic giant anaconda, over 40 feet long with dark green-black patterned scales and huge jaws, erupts from the water beside a small metal boat, mouth wide open with sharp teeth.
-A terrified man in a beige shirt screams in close-up with wide eyes and panicked expression. On the rocking boat, several people including a muscular man in a black t-shirt and people in yellow raincoats struggle in chaos. The hero grabs a large sharp machete from the wet wooden deck, raises it dramatically, and ferociously attacks the giant snake.
-Dynamic action shows him stabbing and slashing the enormous anaconda as it coils onto the boat. Intense close-ups capture his determined face and powerful strikes, the snake thrashing violently, and massive water splashes. Low-angle heroic shots show the man standing tall, knife raised, battling the monster in the pouring rain.
-Dramatic overcast lighting, dense jungle background, realistic water physics, high tension, photorealistic details, intense Hollywood survival action style, 11-second thrilling fight sequence.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03829.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03829.jpg" width="600" alt="Anaconda Storm Battle" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 45: Mountain Touge Superbike Attack
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-The superbike blasts out of the last straight already at full throttle, tarmac vanishing under the front wheel. Handlebar-height camera faces forward, locked o…
-
-#### 📝 Prompt
-
-```
-The superbike blasts out of the last straight already at full throttle, tarmac vanishing under the front wheel. Handlebar-height camera faces forward, locked on the tank and mirrors while cedar trees blur into dark green walls on both sides. The pass tightens, the bike leans hard into a blind left, knee touching tarmac, the rear stepping wide on the exit and hooking back up as it fires out of the corner. Camera drops to road level, catching the lean angle with the centreline stripe beneath the fairing. Then wide: the pass curling up the mountain above, the bike a sliver of color against the dark forest. Morning mist sits in the valley below. The engine note shrinks and disappears into the trees. Dark cedar green and gloss fairing, dawn mountain light, Japanese touge palette, hyperreal motorsport photography, motion blur on forest and tarmac, frozen clarity on carbon and rubber.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00964.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00964.jpg" width="600" alt="Mountain Touge Superbike Attack" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 46: Leviathan Night Attack
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-LOOK: The Bandra-Worli Sea Link at night in a raging monsoon, white cable stays lit against a black churning sea, traffic stranded on the deck; cold steel-blue…
-
-#### 📝 Prompt
-
-```
-LOOK: The Bandra-Worli Sea Link at night in a raging monsoon, white cable stays lit against a black churning sea, traffic stranded on the deck; cold steel-blue grade slashed with amber sodium light, rain hammering the lens. 35mm anamorphic, heavy flare, IMAX-scale water simulation, 4K.
-
-Shot 1 — A colossal deep-sea leviathan, barnacled and whale-vast, breaches beside the bridge and crashes through the outer cable stays mid-lunge; the cables snap taut around its body like a net and the whole span shudders, cars skidding sideways across the wet deck. Low angle from the deck craning up the breaching mass, speed-ramped at impact.
-
-Shot 2 — Inside a hanging bus dangling half off the edge, a woman in a drenched office suit claws up the tilting aisle as the creature's eye — taller than the bus — slides past the cracked window, pupil contracting at her. Tight handheld inside the bus, Dutch-tilted, the eye filling the glass.
-
-Shot 3 — The leviathan thrashes to tear free and only wraps itself deeper; cables shear off pylons and lash across the deck like whips, slicing a truck in half, while passengers sprint between strikes. Ground-tracking with the runners, whip-panning to each cable strike.
-
-Shot 4 — It heaves its full weight seaward; the main pylon groans, folds — and the entire suspended span swings down over the creature's back, cables cinching as the bridge collapses onto it like a snare drawing closed. Bird's-eye directly above the folding span, geometry closing like a fist.
-
-Shot 5 — The wreckage drags the shrieking leviathan under, one fluke hammering the surface before the cables haul it down; the woman hangs from the bus doorway on a severed stay, swinging above the boil. The bridge it attacked is what drowned it. Slow aerial pull-back: the broken Sea Link, the sinking glow, the city lights indifferent behind the rain.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03392.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03392.jpg" width="600" alt="Leviathan Night Attack" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 47: Titans of Earth: Dino Clash
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create an ultra-realistic cinematic dinosaur sequence set in a prehistoric world untouched by humans. The video must feel like a fusion of Hollywood blockbuste…
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic dinosaur sequence set in a prehistoric world untouched by humans. The video must feel like a fusion of Hollywood blockbuster filmmaking, BBC Earth realism, IMAX nature cinematography, and next-generation photoreal VFX. Scene opens at sunrise inside a colossal ancient jungle valley covered in fog, towering cliffs, volcanic mountains, giant waterfalls, and dense tropical forests. Massive dinosaurs roam through the environment with cinematic scale and realism. Opening shot: A gigantic Tyrannosaurus Rex slowly emerges from dense mist while the ground shakes beneath its footsteps. Rain droplets fall from its scarred skin in ultra slow motion. Camera moves low through wet grass and mud with dramatic cinematic depth. Cut to: A herd of enormous Brachiosaurus walking beside gigantic waterfalls while flying Pterosaurs soar across the glowing orange sky. Sun rays pierce through clouds creating epic god rays and atmospheric haze. Suddenly — the jungle becomes silent. A terrifying roar echoes across the valley. A colossal Spinosaurus explodes out of dark water in ultra slow motion, creating massive splashes, flying debris, shaking trees, and cinematic shockwaves. The T-Rex turns aggressively. Final sequence: Both apex predators charge toward each other through mud, rain, smoke, and fire as volcanic eruptions begin in the background. Camera rapidly switches between extreme close-ups, ground-shaking footsteps, teeth detail, water splashes, flying dust, and ultra cinematic wide shots. Final frame: Both dinosaurs freeze face-to-face before impact while lava erupts behind them and lightning flashes across the sky. TEXT ON SCREEN: “WHEN TITANS RULED THE EARTH” Style: ultra photorealistic, cinematic masterpiece, IMAX scale, volumetric lighting, realistic dinosaur anatomy, dramatic atmosphere, HDR, film grain, shallow depth of field, dynamic camera movement, Hollywood VFX quality, epic color grading, emotional orchestral tension, 4K, 8K, legendary cinematic realism.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03765.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03765.jpg" width="600" alt="Titans of Earth: Dino Clash" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 48: Lone Astronaut Discovers Alien Structure
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A lone astronaut walks slowly across a barren red Mars landscape. Their reflective visor shows the setting sun. Dust swirls around their boots with each heavy…
-
-#### 📝 Prompt
-
-```
-A lone astronaut walks slowly across a barren red Mars landscape. Their reflective visor shows the setting sun. Dust swirls around their boots with each heavy step. The camera tracks alongside at medium distance, then slowly tilts up to reveal a massive alien structure on the horizon. Cinematic sci-fi, blue-orange color grading, volumetric haze, epic scale, Hans Zimmer-inspired tension.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01248.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01248.jpg" width="600" alt="Lone Astronaut Discovers Alien Structure" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 49: Wildlife Reptile Slow Motion
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-National Geographic Wildlife Documentary, IMAX quality, 4K, photorealistic cinematography, 240fps super slow-motion, ultra-realistic reptile scale textures and…
-
-#### 📝 Prompt
-
-```
-National Geographic Wildlife Documentary, IMAX quality, 4K, photorealistic cinematography, 240fps super slow-motion, ultra-realistic reptile scale textures and liquid physics, natural documentary color grade. [Duration] 10
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02999.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02999.jpg" width="600" alt="Wildlife Reptile Slow Motion" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 50: Vibrant Orange Soda Splash
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A vibrant orange soda can surrounded by splashing citrus slices and sparkling water droplets, presented in slow motion, with bright and vibrant lighting and hi…
-
-#### 📝 Prompt
-
-```
-A vibrant orange soda can surrounded by splashing citrus slices and sparkling water droplets, presented in slow motion, with bright and vibrant lighting and high-detail commercial photography.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10072.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10072.jpg" width="600" alt="Vibrant Orange Soda Splash" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 51: Vintage Paper Journey Through Japan
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Create a 15-second wide cinematic landscape video intro, 16:9, using Seedance 2.0 style motion. A seamless one-take digital paper collage animation inspired by…
-
-#### 📝 Prompt
-
-```
-Create a 15-second wide cinematic landscape video intro, 16:9, using Seedance 2.0 style motion. A seamless one-take digital paper collage animation inspired by classic 1950s–1960s illustrated Japan travel books, especially the charming mood of mid-century Japanese tourism posters, vintage picture books, and editorial travel illustrations, but do not copy any exact existing artwork or page.
-
-The video combines realistic photographic magazine cutouts of Japan with hand-drawn paper illustration elements. Use stop-motion cutout animation, torn paper edges, visible paper grain, offset print texture, halftone dots, gouache color patches, pastel pencil marks, imperfect handmade shapes, and layered collage depth. The mood is nostalgic, elegant, warm, refined, optimistic, and distinctly Japanese. Keep generous off-white negative space throughout, like a sophisticated vintage travel postcard coming alive.
-
-The camera moves continuously in one smooth tracking shot, like an animated pop-up book. Paper layers slide, fold, flip, rotate, and snap into place with rhythmic motion. Use dynamic parallax between photo cutouts and illustrated paper shapes. Fast-paced but never chaotic. Premium After Effects-style paper collage motion graphics, tactile and handmade, not glossy.
-
-Timeline flow:
-
-From 0 to 4 seconds, begin on a warm off-white paper background. A realistic photographic cutout of Mount Fuji emerges from the bottom of the frame. Layered paper clouds drift gently across the scene. A stylized red torii gate pops up like a vintage travel-book illustration, painted with loose gouache strokes and pastel textures. Small paper cherry blossoms, koi fish motifs, folding fans, and tiny expressive travelers appear with stop-motion snaps. Traditional rooftops unfold in the background like paper accordion structures.
-
-From 4 to 8 seconds, the camera tracks smoothly across a Kyoto-inspired streetscape. Wooden machiya buildings are constructed from layered paper strips, combining illustrated linework with photographic architectural fragments. Decorative lantern shapes, bicycles, tea cups, and paper umbrellas briefly animate into view before sliding away. The composition remains airy with large areas of elegant off-white paper. In the distance, layered pagodas and temple silhouettes rise from textured paper cutouts.
-
-From 8 to 12 seconds, transition seamlessly into a stylized Tokyo cityscape made from layered photographic building clippings and hand-painted paper rectangles. The city feels vibrant but translated into soft printed color blocks rather than realistic neon. A simplified Tokyo Tower rises from the center like a pop-up book structure, built from cream, vermilion red, muted navy, mustard yellow, warm gray, and soft teal paper layers. Tiny illustrated figures look upward in wonder. All signs, screens, and billboards remain abstract and completely unreadable, with no real brands, logos
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03515.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03515.jpg" width="600" alt="Vintage Paper Journey Through Japan" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 52: Antarctic Leviathan Awakens in Ice
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Behold the Antarctic Leviathan Awakening! 🌊📷❄️ Prehistoric kaiju rises from melting ice in this epic 15-sec Seedance 2.0 masterpiece. Fluid physics, cinemati…
-
-#### 📝 Prompt
-
-```
-Behold the Antarctic Leviathan Awakening! 🌊📷❄️
-
-Prehistoric kaiju rises from melting ice in this epic 
-15-sec Seedance 2.0 masterpiece. 
-
-Fluid physics, cinematic lighting
-AI just redefined VFX! 
-Generated from text prompt. 
-Who's ready for more?
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01476.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01476.jpg" width="600" alt="Antarctic Leviathan Awakens in Ice" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 53: Ultra-Realistic Street Fight
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-HAND-TO-HAND → SKILL CLASH (15s) Ultra-realistic cinematic fight while keeping the original background intact. REFERENCE FRAMES: - Image 1: Establishing frame…
-
-#### 📝 Prompt
-
-```
-HAND-TO-HAND → SKILL CLASH (15s)
-
-Ultra-realistic cinematic fight while keeping the original background intact.
-REFERENCE FRAMES:
-- Image 1: Establishing frame — Aaron and Yvonne standing on the quiet street, facing each other. No UI visible. Environment is stable and
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00574.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00574.jpg" width="600" alt="Ultra-Realistic Street Fight" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 54: Classroom Brawl: Raw Street Fight
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Ultra-realistic Indian classroom street fight. Single continuous shot, no cuts. Raw handheld mobile footage with natural micro-jitters, slight rolling shutter,…
-
-#### 📝 Prompt
-
-```
-Ultra-realistic Indian classroom street fight. Single continuous shot, no cuts. Raw handheld mobile footage with natural micro-jitters, slight rolling shutter, no stabilization. Documentary realism. Audio: No music. Only raw ambient sound-footsteps, desk friction, cloth movement, punches, fan hum, breathing, distant classroom noise. Lighting: Mixed warm + cool cinematic tones. Practical classroom lighting. Moving ceiling fan shadows. Visible dust particles in light shafts. MAIN CHARACTER (STRICT IDENTITY LOCK): Indian male (17-18), cold emotionless face matching reference image exactly. Black straight side-swept hair, brown almond eyes, sharp jawline, natural Indian skin tone, slim face. OUTFIT LOCK (NO CHANGE): Black school blazer, white shirt, black tie, black pants. No hoodie/tayers. Slightly fitted blazer, loose tie. Must remain identical throughout. ACTION: 0-2s: Protagonist grabs Opponent A from behind one-hand head slam onto desk. Books/pencils burst outward. Desk drags with friction. A collapses limp. 2-5s: Grabs Opponent B punch to abdomen B folds immediate head slam into desk. Head pressed briefly to tiles. Camera stabilizes briefly. B falls face-down. Heavy breathing, visible sweat. 5-6s: Blazer shifts slightly, shirt + tie visible (tie displaced). C & D enter from back, split and flank. Only footsteps, fan hum. 6-8s: Chaotic fight. D attacks with rapid punches. Protagonist stumbles slightly. C grabs blazer, pulls back. Knee to abdomen. Body bends forward. Heavy breathing. Fan shadows moving. 8-10s: Headbutt to D D staggers. Protagonist grabs C collar efficiently. 10-12s (BOARD IMPACT): Protagonist drives C backward into green chalkboard. Back hits first, head snaps slightly. Chalk dust bursts outward, fully visible in warm light. Chalk tray rattles, pieces fall. Micro slow-motion (0.2-0.3s) at impact back to real-time. C loses tension, slides down leaving chalk smears, collapses. Dust drifts. 12-13s: D charges protagonist sidesteps rotational punch to cheekbone. Sweat arcs mid-air. D crashes into desks. Massive collapse, books scatter. D motionless, hand drops. Protagonist barely standing, heavy breathing. 13-14s: Medium-close. Chest rising. Slow turn to camera. Cold eye contact through glasses. Wipes blood from nose (visible smear). Removes glasses throws aside, spinning impact. 14-15s (FINAL): Ground-level wide shot. Slight edge blur, warm tone, golden dust. Protagonist without glasses removes blazer → throws onto opponent. White shirt + black tie only. Tie loose, slight movement. Walks to exit. Blazer settles. Silent classroom. Dust floating. Fade to black.
-```
-
-#### 🎬 Generated Videos (Click to play ↗)
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02122.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02122.jpg" width="600" alt="Classroom Brawl: Raw Street Fight" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 55: Black Hole Devours Steam Truck
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-Style: 8K cinematic. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Cinematography: high-velocity master cinematography. Extreme de…
+Style: 8K cinematic. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Cinematography: naturalistic deep-sea master cinematography. Un…
 
 #### 📝 Prompt
 
 ```
 Style: 8K cinematic. Photorealistic — no 3D render, no game engine, no game-cutscene aesthetic.
-Cinematography: high-velocity master cinematography. Extreme depth compression.
-Lighting: Blinding, violent accretion light. Pure, absolute dark of the singularity vs. the intense, searing golden-white light of the tearing accretion disk. Backlit dust and debris.
-Color: 60:30:10 — dominant pitch-black space and void 60% / secondary blinding golden-white and amber solar fire 30% / accent electric blue energy arcs from snapping tethers and dark soot 10%.
-Camera: Physical cine lens. 180° shutter motion blur. Intense handheld operator shake, violently reacting to gravitational micro-shocks.
-Physics: Gravity, inertia, and extreme tidal forces respected — debris accelerates exponentially as it nears the center, heavy vehicle weight distribution on the crumbling bridge. 
+Cinematography: naturalistic deep-sea master cinematography. Underwater particle drag.
+Lighting: High-contrast abyssal murk. Cold, piercing bio-plasma light from the creature vs. weak, warm halogen lights of the vehicle. Heavy volumetric marine snow and silt haze.
+Color: 60:30:10 — dominant pitch-black and deep navy abyssal water 60% / secondary eerie bioluminescent cyan and electric blue 30% / accent warning-red strobes of the rover 10%.
+Camera: Physical cine lens. 180° shutter motion blur. Handheld operator micro-shake, shifting dynamically with underwater shockwaves and currents.
+Physics: Hydrodynamics and inertia strictly respected — heavy silt displacement, slow-moving massive currents, correct contact shadows on the seabed. No floating props without buoyancy physics.
 
 SUBJECTS:
-- @truck: a heavily armored, multi-wheeled steam-powered leviathan-hauler, built from riveted brass and dark iron, soot pouring from massive exhaust stacks, racing across a collapsing stone bridge. A lone operator is exposed on the rear platform, desperately cutting heavy mooring cables.
-- @singularity: a micro-black hole dominating the background, a perfect sphere of absolute blackness ringed by a violently spinning, chaotic accretion disk of crushed matter.
+- @rover: a heavy, industrial multi-treaded deep-sea drilling rover, rusted and covered in oceanic grime, fighting immense water drag as it crawls over a pitch-black trench floor, its halogen headlights cutting weak cones into the silt.
+- @leviathan: a colossal, planetary-scale biomechanical marine entity forming the literal tectonic ridge behind the rover, its ancient skin a texture of volcanic rock and chitin.
 
-LOCATION: A crumbling aerial archipelago of floating islands, connected by colossal, rusting iron chains. The environment is being actively torn apart and sucked into the horizon.
+LOCATION: The absolute bottom of an alien ocean trench. Massive hydrothermal vents emitting black smoke on the right. The ground is covered in carpets of faint phosphorescent filaments that crush under the treads.
 
-ACTION — ONE CONTINUOUS TAKE, single unbroken handheld tracking shot from the truck’s rear, NO cuts. 15 seconds.
-- 0:00–0:05 — Tight medium shot on the rear of @truck: looking past the frantic operator as the vehicle violently bounces over snapping stone pavers. Massive, multi-ton iron chains behind the truck snap with violent whiplash, flying out of frame.
-- 0:05–0:10 — Slow, continuous zoom-in past the truck, tilting down into the abyss: the camera moves past the vehicle to lock onto the terrifying void of @singularity. Entire floating islands and ancient stone castles in the background are seen ripping apart like paper, their fragments aligning into glowing, white-hot spirals.
-- 0:10–0:15 — Extreme close-up telephoto view of the accretion edge: the frame is filled with a chaotic vortex of superheated metal, swirling space dust, and blinding friction fire. Huge chunks of rock are stretched into long, glowing threads before vanishing into the pitch-black center. Horizontal optical flares streak across the screen.
+ACTION — ONE CONTINUOUS TAKE, single unbroken handheld tracking shot, NO cuts. 15 seconds.
+- 0:00–0:05 — Medium shot tracking alongside @rover: the heavy machine struggles against a powerful bottom current, its treads throwing up massive clouds of dark silt. Behind it, the abyssal trench floor suddenly buckles and rises. 
+- 0:05–0:10 — Slow continuous zoom-out and tilt-up: the camera pulls back, revealing that the rising ridge is the shifting armor of @leviathan. A town-sized slit snaps open on the creature’s side, revealing a massive, pulsing bioluminescent cyan eye. The water around it warps from extreme heat.
+- 0:10–0:15 — Settles into a compressed telephoto wide view: the frame is dominated by the giant glowing eye, within which the tiny silhouette of the fleeing rover is sharply reflected. Kilometrous vents around the eye erupt with blinding blue bio-plasma, spinning the water into massive underwater tornados that rip past the camera lens.
 
-CONSTRAINTS: 16:9 anamorphic widescreen scale. ONE CONTINUOUS SHOT — absolutely NO hard cuts. Telephoto lens compression. Default real-time. Dust, smoke, and debris obey gravitational pull and extreme speed vectors. Photoreal throughout.
+CONSTRAINTS: 16:9 anamorphic widescreen scale. ONE CONTINUOUS SHOT — absolutely NO hard cuts. Telephoto compression. Default real-time. Volumetric water, marine snow, and silt obey fluid dynamics. No eye glow on the vehicle. Photoreal throughout.
 
-AUDIO: NO MUSIC. SFX ONLY — deafening, low-frequency gravitational hum, the screaming screech of tearing iron and snapping mega-chains, the violent chugging roar of the truck's steam piston engine, high-pressure steam venting, sonic cracks of breaking stone islands, and the terrifying, hollow wind-like roar of matter collapsing into the void.
+AUDIO: NO MUSIC. SFX ONLY — deep, bone-rattling low-frequency underwater groans, the heavy mechanical clanking and high-torque whine of the rover's engines, underwater turbulence roaring, violent volcanic rumbling, and the high-pitched hiss of superheated water boiling against the deep-sea hull.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05263.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05263.jpg" width="600" alt="Black Hole Devours Steam Truck" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05254.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05254.jpg" width="600" alt="Abyssal Leviathan Awakens In Deep Trench" style="cursor:pointer">
 </a>
 </div>
 
@@ -1780,25 +1108,25 @@ AUDIO: NO MUSIC. SFX ONLY — deafening, low-frequency gravitational hum, the sc
 
 ---
 
-### No. 56: FPV Over Ancient Kuru Kingdom
+### No. 37: Solo Survival at Altitude
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdom at golden hour, hyper-realistic, 4K. high-speed aerial dive over vast fertile…
+Generates high-pressure disaster action clips: An abnormality occurs during the flight, and after the female lead rushes to the cockpit, she finds the captain…
 
 #### 📝 Prompt
 
 ```
-extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdom at golden hour, hyper-realistic, 4K. high-speed aerial dive over vast fertile plains and the Ganges river, then weave through grand palaces of Hastinapura with intricate carvings, towering pillars, and royal courtyards filled with warriors, elephants, chariots, and citizens in traditional attire. Perform sharp turns through bustling markets, fly low across dust-filled battle training grounds with archers and cavalry in motion, then ascend rapidly over temples with burning diyas and fluttering flags. Dynamic lighting, volumetric sunlight, realistic physics, detailed textures, dramatic shadows, cinematic color grading, immersive depth of field, highly detailed ancient Indian architecture, epic and majestic atmosphere
+Generates high-pressure disaster action clips: An abnormality occurs during the flight, and after the female lead rushes to the cockpit, she finds the captain and co-pilot missing. Scene 1: Handheld tracking inside the cabin, passengers panicking, oxygen masks shaking, red warning lights flashing. Scene 2: The female lead rushes into the cockpit, quickly switching between close-ups of the dashboard, the trembling joystick, and her tense gaze. Scene 3: Exterior long shot shows the plane shaking violently at the edge of the clouds, its nose sinking and then being pulled up. Scene 4: Back in the cockpit, the female lead grits her teeth to steady her posture, breathing rapidly but acting decisively. The overall pace is fast, the editing tight, emphasizing a sense of crisis and decisiveness on the spot.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00207.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00207.jpg" width="600" alt="FPV Over Ancient Kuru Kingdom" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09904.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09904.jpg" width="600" alt="Solo Survival at Altitude" style="cursor:pointer">
 </a>
 </div>
 
@@ -1806,25 +1134,86 @@ extremely fast-paced cinematic FPV flying through the ancient Indian Kuru Kingdo
 
 ---
 
-### No. 57: Retro Kitchen Surveillance Footage 15s
+### No. 38: Mercedes-Benz Desert Luxury Cinematic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Generate a 9:16 vertical retro old surveillance footage style video, 15 seconds long. The footage must look like low-resolution video recorded by a fixed surve…
+Style: Ultra-luxury Mercedes-Benz cinematic commercial, hyper-realistic, premium fashion advertisement, golden hour desert lighting, glossy reflections, elegan…
 
 #### 📝 Prompt
 
 ```
-Generate a 9:16 vertical retro old surveillance footage style video, 15 seconds long. The footage must look like low-resolution video recorded by a fixed surveillance camera in a dim, old kitchen, then copied to a VHS tape and played repeatedly, resulting in severe old tape damage. Do not include TV outer frames, CRT TV bezels, or phone recordings of a TV screen; only present the full surveillance footage itself. The scene is a dim old kitchen, with a sink full of dirty dishes, greasy countertops, and faintly flickering fluorescent lights. The camera is fixed high in the corner of the kitchen, shooting from a high angle downward, with a flat and natural image—no wide-angle distortion, no barrel distortion, no fisheye effect, no edge stretching. No camera movement at all; characters can only walk within the fixed surveillance frame. The upper left corner has a blurry timestamp and the text "CAM 01 / KITCHEN," with obvious low frame rate, compression blocks, and surveillance noise. The main adult Asian female character's face references [unavailable image], clothing references image_20260615231056_1153_183, maintaining fair skin, black eyes, black hair, and body proportions. She stands beside the kitchen arranging tasks, with a natural expression, like casual directing in real home surveillance footage. Angela lullaby.3_Blonde_25_year_old_female_waitress_--ar_916_--raw_-_49096e88-eac5-4dfe-8f4d-6377ec908ed4_0, lively expression, as if composited into real surveillance footage, but equally affected by VHS noise, scan lines, low-res surveillance quality, and tape distortion. Do not make Angela photorealistic. The scruffy uncle references screenshot_22-6-2026_20587_jimeng.jianying.com, chubby, messy, wrinkled clothes, clumsy movements, like an ordinary person suddenly barging into the kitchen surveillance frame. 0:00-0:04 Fixed surveillance view shows the full old kitchen. The female lead stands by the sink and says to cartoon Angela: "You've washed dishes for two weeks, your pay is 5 bucks each time, Angela, keep it up." Cartoon Angela nods happily and immediately starts washing dishes. 0:04-0:05.5 Cartoon Angela washes dishes at the sink, making cute laughter. Water flowing and scrubbing sounds are clear. Low frame rate stutter, VHS noise, and compression trailing run throughout. 0:05.5-0:06.5 Old video subtitle appears in the center of the screen: "One month later." The subtitle has slight glow, edge jitter, VHS trailing, and color misregistration. Then the screen briefly goes black, like a tape dropout. 0:06.5-0:08.5 The scruffy uncle suddenly squeezes into the kitchen from the edge of the surveillance frame, and the automatic exposure jumps. He says urgently: "I want to wash too, only 3 bucks!" Cartoon Angela stops washing and turns to look at him. 0:08.5-0:12 The female lead thinks for a moment, then says to cartoon Angela: "Alright! Angela, you're promoted to supervisor. Pay is 2 bucks, you just supervise the uncle washing dishes. If clean, both get paid; if not, neither gets paid." 0:12-0:14 Cartoon Angela happily puts her hands on her hips supervising, nodding and smiling. The scruffy uncle clumsily scrubs dishes, splashing water everywhere, with movements comical but life-like. The fixed surveillance angle remains still; characters move naturally within the frame. 0:14-0:15 The female lead and cartoon Angela stand face to face beside, sharing a knowing smile, while the uncle continues scrubbing. Ends with intense tape wear, color crosstalk, horizontal tearing, scan line interference, and video flickering. [Image quality and old video effects] Old kitchen surveillance look, fixed high-angle downward shot, flat image without distortion, blurry timestamp, low frame rate, surveillance compression blocks, VHS tape texture, scan lines, snow noise, color crosstalk, horizontal screen tearing, frame skipping, tape wear, edge vignette, unstable analog signal. Overall low-resolution, soft, slightly out of focus, exposure jumps, white balance drift, like a 90s kitchen mini-story dug out from old surveillance tapes. [Camera and movement] Fixed surveillance camera perspective, no handheld shake, no cinematic camera movement, no pans, tilts, or zooms. Flat image, no lens distortion, no wide-angle distortion, no barrel distortion, no fisheye, no edge stretching. Only retain low-frame-rate surveillance stutter, VHS image jitter, tape damage, scan lines, and analog signal drift. [Sound] No background music, only diegetic natural sounds: water flow, scrubbing, female lead's dialogue, Angela's cute laughter, the uncle's urgent request, kitchen ambient noise, old surveillance microphone hum, VHS friction noise, and snowy static. Audio slightly distorted and compressed, like compressed surveillance audio from old tapes. [Negative prompts] Do not include TV outer frames, no CRT TV bezels, no phone recordings of TV screen, no TV screen glass reflections, no lens distortion, no wide-angle distortion, no barrel distortion, no fisheye effect, no edge stretching, no high-definition, no 4K, no modern digital quality, no stabilizers, no cinematic lenses, no handheld DV shake, no advanced lighting, no commercial ad feel, no perfect composition, no sharpening, no modern color grading, no clean background, no modern short-video filters, do not make cartoon Angela photorealistic.
+Style: Ultra-luxury Mercedes-Benz cinematic commercial, hyper-realistic, premium fashion advertisement, golden hour desert lighting, glossy reflections, elegant camera movement, high-end automotive cinematography, sensual atmosphere, rich blacks and gold tones.
+
+Duration: 13 seconds
+Aspect Ratio: 16:9
+
+IMPORTANT:
+Keep the SAME elegant woman consistent with the reference:
+— long dark wavy hair
+— black luxury trench coat dress
+— black high heels
+— black sunglasses
+— confident sophisticated energy
+
+Vehicle must remain a glossy black modern Mercedes-Benz convertible with accurate luxury interior details, realistic reflections, premium materials, cinematic lighting.
+
+[00:00-00:02]
+Extreme cinematic close-up of the Mercedes emblem reflecting golden sunset light. Slow camera glide across glossy black grille with realistic metallic reflections. Soft female whisper:
+“Luxury… is a feeling.”
+
+Deep bass begins softly.
+
+[00:02-00:04]
+Wide desert highway shot at sunset. The elegant woman stands beside the black Mercedes wearing the black trench coat dress and sunglasses from the reference. Wind moves her hair and coat naturally. Camera slowly circles around her and the car. Soft luxury perfume-commercial energy.
+
+[00:04-00:06]
+Interior driving sequence. The woman drives the Mercedes convertible through a desert road at golden hour. Cinematic close-ups:
+— hands on steering wheel
+— luxury dashboard reflections
+— hair moving in wind
+— high heels pressing accelerator
+Rock-inspired luxury beat builds stronger.
+
+[00:06-00:08]
+Fast premium montage synced to music:
+— spinning Mercedes wheel
+— close-up headlights turning on
+— glossy body reflections
+— emblem close-up
+— speed shot across desert highway
+— cinematic aerial tracking shot
+
+[00:08-00:10]
+Slow-motion luxury fashion shot. The woman exits the moving convertible elegantly at sunset overlook. Her black dress flows naturally in the wind. Camera tilts upward heroically while sunlight flares behind the Mercedes.
+
+Soft whisper:
+“More than a car… a statement.”
+
+[00:10-00:13]
+Final cinematic climax. The Mercedes speeds across the open desert highway during sunset while drone camera follows dynamically. Rapid intercuts:
+— emblem
+— wheels
+— woman smiling confidently
+— interior luxury details
+— wide cinematic road shot
+
+End with elegant logo-style composition beside the parked Mercedes as music reaches powerful luxurious finale.
+
+Audio:
+Premium cinematic soundtrack with deep bass, modern luxury electronic rock beat, elegant atmospheric synths, realistic engine sounds, soft wind ambience, subtle ASMR female whispers, high-end commercial energy.
+
+Negative prompts:
+No cheap commercial look, no unrealistic physics, no blurry reflections, no cartoon style, no stiff body movement, no incorrect Mercedes logo, no low-quality lighting, no unrealistic car motion.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02980.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02980.jpg" width="600" alt="Retro Kitchen Surveillance Footage 15s" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02868.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02868.jpg" width="600" alt="Mercedes-Benz Desert Luxury Cinematic" style="cursor:pointer">
 </a>
 </div>
 
@@ -1832,25 +1221,35 @@ Generate a 9:16 vertical retro old surveillance footage style video, 15 seconds 
 
 ---
 
-### No. 58: Empty Cockpit Terror
+### No. 39: Skydiver Chase at Terminal Velocity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-High-intensity action thriller scene, hand-held shaky camera, cinematic motion blur, the woman storms into the cockpit and freezes as she realizes the pilot se…
+Shot 1 athletic male skydiver in a black tactical wingsuit with dark visor helmet diving vertically at extreme speed toward another distant skydiver, body stre…
 
 #### 📝 Prompt
 
 ```
-High-intensity action thriller scene, hand-held shaky camera, cinematic motion blur, the woman storms into the cockpit and freezes as she realizes the pilot seats are empty, warning alarms flashing red, turbulence shaking the cabin, she sprints forward and straps herself into the
+Shot 1  athletic male skydiver in a black tactical wingsuit with dark visor helmet diving vertically at extreme speed toward another distant skydiver, body stretched like a missile with arms tight to torso for aerodynamics, dramatic sunset sky above mountains, ultra wide aerial tracking shot  
+
+Shot 2  black-suited skydiver accelerating aggressively face down through the air, violent wind shaking his suit and visor helmet, intense focus and determination, blurred clouds and rapidly approaching ground below, harsh sunlight and motion blur, close-up side profile shot  
+
+Shot 3 male skydiver in a red jumpsuit with scratched goggles turning his head during free fall and noticing the chaser rapidly approaching behind him, panic and fear, open sky with clouds streaking past, bright sunlight through clouds, medium frontal aerial shot  
+
+Shot 4 black-suited skydiver extending his arm and grabbing the red-suited skydiver’s leg while both fall at terminal velocity, desperation and urgency, forests and roads visible far below, dramatic golden sunset lighting, dynamic close-range aerial shot with speed blur  
+
+Shot 5  red-suited skydiver suddenly pulling the parachute cord the instant his leg is grabbed, both men locked together in violent free fall, shock and panic, clouds exploding around them from the sudden force, intense sunset lighting, dramatic slow-motion medium shot  
+
+Shot 6   red-suited skydiver suspended beneath a fully deployed parachute while the black-suited skydiver loses grip and continues falling downward, relief and desperation, massive valley and mountains below, warm golden hour sunlight, ultra wide cinematic aerial shot
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09122.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09122.jpg" width="600" alt="Empty Cockpit Terror" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02512.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02512.jpg" width="600" alt="Skydiver Chase at Terminal Velocity" style="cursor:pointer">
 </a>
 </div>
 
@@ -1858,81 +1257,25 @@ High-intensity action thriller scene, hand-held shaky camera, cinematic motion b
 
 ---
 
-### No. 59: Snow Pass Duel: Frozen Blades
+### No. 40: Seedance 2: Show It Real
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Cinematic multi-shot sequence, one continuous duel, no unmotivated cuts, photorealistic, 8K ultra-high-definition, hyperdetailed, 35mm film quality, profession…
+Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld…
 
 #### 📝 Prompt
 
 ```
-Cinematic multi-shot sequence, one continuous duel, no unmotivated cuts,
-photorealistic, 8K ultra-high-definition, hyperdetailed, 35mm film quality,
-professional color grading, sharp focus, fine film grain, depth of field
-mastery, tracking-to-handheld fluidity, 180° shutter motion blur.
-
-WARRIOR ONE: a lean older swordsman, weathered face, grey-streaked topknot,
-faded indigo kimono with a torn sleeve, katana held low in a relaxed grip,
-calm and economical in movement. Same appearance throughout, no drift.
-
-WARRIOR TWO: a younger, broader swordsman, shaved sides with a dark
-top-knot, black armored haori over a crimson under-layer, a slightly
-longer blade held high in an aggressive stance, ferocious and explosive in
-movement. Same appearance throughout, no drift.
-
-LOCATION: a narrow snowy mountain pass at dusk, sheer grey rock walls on
-either side, deep snowdrift underfoot, thin dead pine trees, wind driving
-loose snow sideways, a bruised violet-grey sky, faint warm light bleeding
-from the last sliver of sun on the horizon.
-
-COLOR 60:30:10 — 60% cold slate-grey and white snow / 30% deep violet-blue
-dusk shadow / 10% accent of the dying warm orange horizon light and a flash
-of crimson from Warrior Two's under-layer.
-
-PHYSICS: real blade weight and momentum, boots break through snow crust
-with each step, snow kicks up and drifts in the wind on every strike, cloth
-and hair whipped by wind and motion, sparks on blade contact, breath
-steaming heavy in the cold.
-
-0–3s — THE CLOSE: wide low shot, both warriors circling at a distance in
-the pass, snow driving sideways between them. Warrior One's calm stance
-against Warrior Two's coiled aggression. They surge together, blades
-clearing in the same instant.
-
-3–5s — FIRST CLASH: tight tracking shot as the swords meet in a shower of
-sparks, both warriors pivoting past each other, snow exploding from their
-footwork, a beat of stillness as they land facing opposite directions.
-
-5–8s — THE EXCHANGE: fast tracking shot circling the pair as blades trade
-in a rapid three-strike combo, blocked, parried, blocked again, snow and
-steam thrown with every impact, Warrior Two forcing Warrior One back toward
-the rock wall.
-
-8–9s — THE OPENING: Warrior One slips a strike by a hair, time begins to
-ramp as his blade angles in toward Warrior Two's guard.
-
-9–12s — THE MOMENT, slow motion 120fps: near standstill as the blades lock
-edge to edge, sparks frozen mid-scatter, snow suspended in the air around
-them, both warriors' faces taut with strain, breath visible and hanging,
-the dying orange light catching the steel.
-
-12–15s — THE BREAK, snap back to 24fps: time cracks back, Warrior One
-twists free and disengages with a low sweeping strike, Warrior Two staggers
-back a step into the snow, both warriors resetting into stance, chests
-heaving, blades still raised, the wind howling between them as the shot
-holds wide.
-
-AUDIO (no music): howling mountain wind, boots crunchin
+Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld, intimate. Soft ambient crowd noise in distance. Actor 1 (whispering): “This isn’t just another audition.” Actor 2 (half-smile): “No. This one sees everything.” Mid shot (5–10 sec) Stage lights flare on. Curtains slowly part. The three step forward into a bright, cinematic spotlight. Camera shifts to smooth dolly-in. Actor 3 (steady, confident): “Seedance Two… record this.” Final beat (10–15 sec) Quick cuts: intense eye contact, subtle emotion shift, one tear forming, one restrained laugh, one sharp breath. Ultra-detailed facial expressions. Dramatic score rises. Actor 1 (softly, to camera): “Let’s show it what real feels like.” Cut to black. Low bass hit. Title card: SEEDANCE 2.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07675.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07675.jpg" width="600" alt="Snow Pass Duel: Frozen Blades" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09196.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09196.jpg" width="600" alt="Seedance 2: Show It Real" style="cursor:pointer">
 </a>
 </div>
 
@@ -1940,25 +1283,25 @@ AUDIO (no music): howling mountain wind, boots crunchin
 
 ---
 
-### No. 60: Japanese Girl Energetic Kpop Dance Performance
+### No. 41: Princess Morning Vlog France 1880
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A young Japanese woman performs a high-energy K-pop dance routine, spinning gracefully and singing along to an upbeat melody - she is wearing a stylish pastel-…
+TITLE: “Princess Morning Vlog — France, 1880” Style: Ultra-realistic historical princess vlog, cinematic royal France aesthetic, immersive handheld camera real…
 
 #### 📝 Prompt
 
 ```
-A young Japanese woman performs a high-energy K-pop dance routine, spinning gracefully and singing along to an upbeat melody - she is wearing a stylish pastel-pink pleated skirt, a white cropped sweater, and her hair is styled in loose pigtails with silk ribbons - dynamic
+TITLE: “Princess Morning Vlog — France, 1880” Style: Ultra-realistic historical princess vlog, cinematic royal France aesthetic, immersive handheld camera realism, elegant luxury atmosphere --- 🕒 15-SECOND TIMELINE PROMPT ⏱️ 0–4 sec | MORNING VLOG INTRO Visual: Inside a luxurious 1880 French royal palace inspired by Versailles. Warm golden sunlight enters through giant palace windows. Gold decorations, antique furniture, candles, marble floors, silk curtains moving softly. A breathtakingly beautiful young princess with long blonde wavy hair holds the camera herself naturally in vlog style while walking toward a giant royal mirror. She wears a delicate diamond princess crown, sparkling royal jewelry, pearl earrings, and an elegant pastel pink royal gown with luxurious silk and lace details. Dialogue (smiling warmly at camera): “Good morning… come get ready with me as a princess in France.” Camera: realistic handheld vlog movement, soft cinematic shake Expressions: soft feminine smile, playful eye contact --- ⏱️ 4–8 sec | GETTING READY Visual: Royal maids carefully prepare her while she continues vlogging naturally. One maid softly brushes her long blonde wavy hair, another adjusts her elegant corset gown, another places diamond jewelry around her neck and wrists. The princess admires herself in mirror while laughing softly. Dialogue: “These dresses honestly take forever to wear…” Background Details: massive crystal chandeliers, golden mirrors, palace servants walking naturally, realistic royal atmosphere Camera: cinematic close-ups of crown, sparkling jewelry, flowing silk dress, makeup details --- ⏱️ 8–12 sec | ROYAL GARDEN WALK Visual: Princess walks through enormous royal gardens while holding camera outward toward herself. Beautiful roses, giant fountains, white statues, peacocks, royal pathways, servants and guards moving naturally in background. Wind softly moves her blonde hair and dress. She picks fresh fruit from elegant garden basket. Dialogue: “I walk here every morning…” “And these fruits are always fresh.” Camera: smooth cinematic vlog movement, natural outdoor depth --- ⏱️ 12–15 sec | BROTHER INTRO + ENDING Visual: A handsome young prince arrives far away on horseback after hunting, wearing luxurious dark royal outfit with leather gloves and elegant riding boots. Royal guards follow behind him. Princess turns camera excitedly toward him. Dialogue (smiling proudly): “And that’s my brother William!” “Say hi to my beautiful audience, William.” Prince smiles charmingly toward camera. William: “Pleasure meeting you all.” Princess laughs softly. Final Dialogue: “I’ll show you the royal market next vlog.” Final Shot: cinematic pull-back showing giant French palace glowing under golden sunlight --- 🎥 STYLE TAGS Ultra-realistic historical princess vlog, royal France 1880 realism, blonde princess aesthetic, elegant crown jewelry, cinematic handheld camera feel
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08901.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08901.jpg" width="600" alt="Japanese Girl Energetic Kpop Dance Performance" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03674.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03674.jpg" width="600" alt="Princess Morning Vlog France 1880" style="cursor:pointer">
 </a>
 </div>
 
@@ -1966,28 +1309,25 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 
 ---
 
-### No. 61: Su-57 Combat Takeoff Sequence
+### No. 42: The Day Time Stuttered
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[Scene 1 – Airbase, 0:00–0:05] Su-57 roars down the runway, afterburners glowing. Pilot's HUD lights up. "Falcon-1, cleared for takeoff." Nose lifts, gear retr…
+Anamorphic 21:9 ultra-widescreen cinematic, surreal psychological thriller. The Day Time Stuttered. 0-4s: A hyper-busy [Setting]. Suddenly, all sound drops to…
 
 #### 📝 Prompt
 
 ```
-[Scene 1 – Airbase, 0:00–0:05]
-Su-57 roars down the runway, afterburners glowing. Pilot's HUD lights up. "Falcon-1, cleared for takeoff." Nose lifts, gear retracts — jet tears into the sky.
-[Scene 2 – Combat Airspace, 0:05–0:10]
-Radar lock chirps. Pilot banks hard: "Target confirmed, engaging." Missile tone locks solid. "Fox Three." Jet peels away trailing vapor.
+Anamorphic 21:9 ultra-widescreen cinematic, surreal psychological thriller. The Day Time Stuttered. 0-4s: A hyper-busy [Setting]. Suddenly, all sound drops to zero and every person, vehicle, and falling object freezes dead in mid-motion. Camera slowly tracks past static figures. 4-8s: Anamorphic low-angle tracking shot. A lone [Character] walks slowly through the frozen crowd, weaving between mid-air suspended rain droplets and frozen splashes. Oval bokeh glimmers off the motionless water. 8-12s: Extreme vertigo rotation — camera orbits 360 degrees around a frozen explosion of [Particles/Water], showcasing impossible frozen physics. Horizontal neon light flares cut through the frame. 12-15s: The character reaches out to touch a frozen droplet. Time snaps back instantly — ocean of sound returns, water crashes down, people move in fast unison. Camera retreats skyward rapidly in 21:9 glory. Photorealistic 8K, David Fincher style camera precision, anamorphic prime lenses, volumetric rain, temporal lock physics. Anamorphic 21:9 ultra-widescreen cinematic, surreal psychological thriller. The Day Time Stuttered. 0-4s: A hyper-busy rain-slicked New York crosswalk. Suddenly, all sound drops to zero and every person, vehicle, and falling raindrop freezes dead in mid-motion. Camera slowly tracks past static figures. 4-8s: Anamorphic low-angle tracking shot. A lone woman in a yellow coat walks slowly through the frozen crowd, weaving between mid-air suspended rain droplets and frozen yellow cab splashes. Oval bokeh glimmers off the motionless water. 8-12s: Extreme vertigo rotation — camera orbits 360 degrees around a frozen splash from a puddle, showcasing impossible frozen physics. Horizontal neon light flares cut through the frame. 12-15s: The woman reaches out to touch a frozen droplet. Time snaps back instantly — ocean of sound returns, water crashes down, people move in fast unison. Camera retreats skyward rapidly in 21:9 glory. Photorealistic 8K, David Fincher style camera precision, anamorphic prime lenses, volumetric rain, temporal lock physics.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10282.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10282.jpg" width="600" alt="Su-57 Combat Takeoff Sequence" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07665.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07665.jpg" width="600" alt="The Day Time Stuttered" style="cursor:pointer">
 </a>
 </div>
 
@@ -1995,28 +1335,25 @@ Radar lock chirps. Pilot banks hard: "Target confirmed, engaging." Missile tone 
 
 ---
 
-### No. 62: Omega Speedmaster Moonwatch: Born Qualified
+### No. 43: Hip-Hop Dancer Style Chaos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-OMEGA SPEEDMASTER MOONWATCH "BORN QUALIFIED" 65mm IMAX. Ultra-wide anamorphic Panavision. Film grain building progressively — starts clean, ends maximum. Key l…
+Each frame can change clothing and visual style independently. Do not maintain outfit or style continuity.\n\nUltra-realistic cinematic video, 15s, 24fps.\n\nA…
 
 #### 📝 Prompt
 
 ```
-OMEGA SPEEDMASTER MOONWATCH
-"BORN QUALIFIED"
-
-65mm IMAX. Ultra-wide anamorphic Panavision. Film grain building progressively — starts clean, ends maximum. Key light: cold white — mission control fluorescent. Secondary: warm capsule interior amber. Flares: from the hesalite
+Each frame can change clothing and visual style independently. Do not maintain outfit or style continuity.\n\nUltra-realistic cinematic video, 15s, 24fps.\n\nA female dancer performs hip-hop choreography, including a smooth moonwalk.\nHer body movement must remain smooth, natural, and continuous throughout.\n\nCAMERA:\nDynamic handheld energy camera swings, slight shake, crash zoom in/out, fast push-ins, and orbits around the dancer, following her movement rhythm.\n\nCORE ACTION:\nShe dances confidently, centered in frame, full-body visible, strong rhythm and expressive movement.\n\nCHAOS TRANSFORMATION (VERY HIGH SPEED):\nClothing AND visual style change extremely fast (near every frame flicker).\n\nCLOTHING:\nEvery frame = new trendy outfit (no repetition, no blending):\n- modern streetwear\n- layered urban outfits\n- edgy fashion looks\n- contemporary performance wear\n\nSTYLE TRANSFORMATION (identity preserved):\nRapidly shift between unique visual styles:\n\n- realistic human rendering\n- anime-style rendering\n- minimal continuous line art\n- watercolor wash illustration\n- inked comic style (bold outlines, graphic shading)\n- soft pastel illustration\n- textured digital painting\n- rough sketch drawing style\n- marker illustration style\n- paper cut-out collage style\n- clay-like sculpted look\n- low-poly geometric 3D\n- neon outline silhouette style\n- glitch-outline graphic style (clean, non-distorting)\n- storybook illustration style\n- hand-painted brush style\n- chalkboard drawing style\n- airbrush gradient illustration\n- silhouette shadow art style\n\nSTYLE BLENDING BURSTS:\nOccasionally combine 2–3 styles in a single frame (e.g., line art + watercolor, comic + low-poly, sketch + digital paint) for brief visual bursts.\n\nCRITICAL:\nHer facial features, proportions, and identity must remain consistent across all styles.\nOnly rendering style and clothing change NOT the person.\n\nSYNC:\nStyle and outfit changes align tightly with dance rhythm and camera motion.\n\nVISUAL FEEL:\nHyper-fast flicker, energetic but clean and readable. No distortion or warping of body.\n\nLIGHTING:\nDynamic studio lighting adapting to style changes.\n\nCONSTRAINTS:\n- body motion must remain perfectly continuous\n- no pose resets\n- no face distortion or identity change\n- only clothing and visual style change rapidly\n- no text, no logos
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00475.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00475.jpg" width="600" alt="Omega Speedmaster Moonwatch: Born Qualified" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00221.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00221.jpg" width="600" alt="Hip-Hop Dancer Style Chaos" style="cursor:pointer">
 </a>
 </div>
 
@@ -2024,32 +1361,25 @@ OMEGA SPEEDMASTER MOONWATCH
 
 ---
 
-### No. 63: Vintage Woody Wagon Desert Golden Hour
+### No. 44: Spiky Orange Hair Adventure Hero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Real POV front seat dashcam view, a vintage 1950s American woody station wagon with chrome bumpers drives alone on a long empty desert highway at golden hour,…
+Protagonist (Player Character) A young man in his early 20s with a confident, adventurous, and slightly roguish appearance. Bright, spiky orange hair that stan…
 
 #### 📝 Prompt
 
 ```
-Real POV front seat dashcam view, a vintage 1950s American woody station wagon with chrome bumpers drives alone on a long empty desert highway at golden hour, dust clouds trailing behind the wheels in the warm evening light, realistic natural lighting, handheld authentic feel  
-📐 Aspect Ratio: 16:9 
-🖼️ Quality: 4K 
-🎨 Style: documentary realism / authentic vintage Americana 
-📷 Camera: POV front seat dashcam, static wide 
-🔍 Lens: 28mm wide-angle, natural perspective 
-💡 Mood: warm golden hour, natural dust, no artificial haze 
-✨ Details: dust trails behind wheels, chrome bumper reflections, film grain
+Protagonist (Player Character) A young man in his early 20s with a confident, adventurous, and slightly roguish appearance. Bright, spiky orange hair that stands up wildly in all directions with sharp, flame-like tips. Striking golden-yellow eyes with a sharp, determined gaze. Fair skin with a subtle, healthy tan. He wears a black hooded zip-up jacket with a bright orange inner hood lining and orange trim along the zipper, cuffs, and hem. The jacket has multiple functional pockets on the sleeves with orange zippers and small orange tassel-like pulls. Underneath, a plain white t-shirt is visible. Around his neck hangs a thick silver chain necklace with a large, round orange pendant featuring a cute, stylized yellow-orange bird-like Pal face with big black eyes and a small beak. He wears loose-fitting brown cargo pants with multiple large flap pockets on the thighs, secured by silver-colored metal buttons and straps. A black leather belt with a silver buckle sits at the waist, and a silver chain with an orange strap hangs from the right belt loop. Black wristbands with silver studs on both wrists. On his feet are high-top sneakers that are primarily black and white with bright orange accents on the soles, laces, and side panels. Overall posture is relaxed yet ready for action, with a natural athletic build and energetic presence. Maintain consistent identity, clothing, hairstyle, accessories, and appearance throughout the entire video.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08854.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08854.jpg" width="600" alt="Vintage Woody Wagon Desert Golden Hour" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07705.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07705.jpg" width="600" alt="Spiky Orange Hair Adventure Hero" style="cursor:pointer">
 </a>
 </div>
 
@@ -2057,36 +1387,25 @@ Real POV front seat dashcam view, a vintage 1950s American woody station wagon w
 
 ---
 
-### No. 64: Doppelganger Horror Night Encounter
+### No. 45: Snake's Peaceful Alaskan Retirement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-(0–1s) Cinematic wide shot of an exhausted 25-year-old South Asian woman with messy black hair walking alone on a dark empty street at night, dim streetlights,…
+Solid Snake from Metal Gear Solid 4 is living in Alaska. Show him dog sledding while smiling and enjoying life, hunting with his dogs, enjoying a fire and meal…
 
 #### 📝 Prompt
 
 ```
-(0–1s) Cinematic wide shot of an exhausted 25-year-old South Asian woman with messy black hair walking alone on a dark empty street at night, dim streetlights, moody atmosphere, slow tracking shot from behind, psychological horror, realistic, film grain. 
-(1–2s) Extreme close-up of an exhausted 25-year-old South Asian woman with messy hair and dark circles, tired eyes looking down, dim lighting, subtle tension, psychological horror style, realistic skin texture, shallow depth of field.
-(2–3.5s) Low angle POV shot from street looking up at a third-floor apartment window at night, a tired South Asian woman standing in the lit window, eerie glow, unsettling atmosphere, slow subtle zoom in, psychological horror.
-(3.5–4.5s) Cinematic shot of a confident version of a 25-year-old South Asian woman standing in a brightly lit window at night, gently waving with a warm smile, perfect hair, glowing skin, eerie and unsettling, slow zoom in, horror atmosphere.
-(4.5–5.5s) Close-up of the exhausted woman’s face in shock, eyes wide open, mouth slightly open, looking up at the window, dramatic lighting, intense fear, psychological horror, realistic.
-(5.5–6.5s) Dynamic shot of the tired woman running fast towards an apartment building at night, panicked expression, motion blur, dark moody lighting, intense atmosphere.
-(6.5–7.5s) Close-up of a trembling hand pushing open an old apartment door at night, dim light coming from inside, tense and eerie, slow motion, psychological horror.
-(7.5–9s) Medium shot as the door slowly opens revealing a small apartment at night, the tired woman standing in shock in the doorway, another smiling version of herself standing calmly inside, dramatic contrast lighting, high tension.
-(9–10.5s) Cinematic two-shot of two identical 25-year-old South Asian women facing each other in a dimly lit room, one exhausted and scared, the other calm and smiling, intense eye contact, psychological horror, slow subtle camera movement.
-(10.5–12s)Extreme close-up of two pairs of identical eyes staring at each other, one tired and frightened, the other calm and unsettling, dramatic lighting, intense psychological tension, film grain.
-(12–13.5s) Close-up of the confident version of the woman slowly smiling wider, her smile becoming slightly creepy, cold eyes, eerie atmosphere, slow zoom in, horror style.
-(13.5–15s) Final cinematic shot of the exhausted woman staring in horror at her smiling double, then freeze frame, text appears "WINDOW SELF", dark moody color grade, psychological horror ending, film grain.
+Solid Snake from Metal Gear Solid 4 is living in Alaska. Show him dog sledding while smiling and enjoying life, hunting with his dogs, enjoying a fire and meal with his dogs in a close-up shot. End the video with a sunset and aurora borealis with Solid Snake and his dogs with a wide shot. He is content and happy throughout the entire video now that he has found peace.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02693.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02693.jpg" width="600" alt="Doppelganger Horror Night Encounter" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08604.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08604.jpg" width="600" alt="Snake's Peaceful Alaskan Retirement" style="cursor:pointer">
 </a>
 </div>
 
@@ -2094,25 +1413,25 @@ Real POV front seat dashcam view, a vintage 1950s American woody station wagon w
 
 ---
 
-### No. 65: Lone Adventurer's Epic Sunrise
+### No. 46: Will Smith Eating Pasta in Kitchen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A lone adventurer standing on the edge of a high mountain cliff above the clouds at sunrise, cinematic wide shot, golden light illuminating the sky, dramatic c…
+Realistic movie shot: Will Smith sitting in front of a white island in a modern home kitchen eating pasta. The background features a centrally placed stainless…
 
 #### 📝 Prompt
 
 ```
-A lone adventurer standing on the edge of a high mountain cliff above the clouds at sunrise, cinematic wide shot, golden light illuminating the sky, dramatic clouds moving slowly below, wind blowing the character’s jacket, realistic environment, ultra-detailed mountains in background, epic atmosphere, soft fog, depth of field, 4K, cinematic lighting, slow camera movement (zoom out + slight pan), inspirational and adventurous mood, high realism, volumetric lighting, HDR
+Realistic movie shot: Will Smith sitting in front of a white island in a modern home kitchen eating pasta. The background features a centrally placed stainless steel refrigerator, white cabinets, and small appliances on the countertops, with natural daylight from the side windows. The figure is facing the camera, wearing a black T-shirt, naturally curling, chewing, and swallowing. The lens focuses on stable medium and close-up shots, allowing for slight rear-end movement; Realistic hand movements, expressions, and food details are preserved, without exaggerated distortion, 24fps cinematic realism.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08642.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08642.jpg" width="600" alt="Lone Adventurer's Epic Sunrise" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09472.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09472.jpg" width="600" alt="Will Smith Eating Pasta in Kitchen" style="cursor:pointer">
 </a>
 </div>
 
@@ -2120,25 +1439,35 @@ A lone adventurer standing on the edge of a high mountain cliff above the clouds
 
 ---
 
-### No. 66: Last Lighthouse Keeper Watches Autonomous Fleet
+### No. 47: Miniature Bakery World
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The last human lighthouse keeper in the world sits in the lantern room of his lighthouse off the coast of Maine, watching a fully autonomous shipping fleet pas…
+A cinematic 10-second macro video inside a miniature bakery world built around a towering stack of fluffy golden pancakes covered with flowing honey, fresh str…
 
 #### 📝 Prompt
 
 ```
-The last human lighthouse keeper in the world sits in the lantern room of his lighthouse off the coast of Maine, watching a fully autonomous shipping fleet pass silently in the fog below. He is in his seventies, weather-worn, unhurried. The
+A cinematic 10-second macro video inside a miniature bakery world built around a towering stack of fluffy golden pancakes covered with flowing honey, fresh strawberries, blueberries, mint leaves and powdered sugar. Tiny chefs continuously work without stopping, each performing a unique task. The camera movement is one continuous shot with no jump cuts or abrupt transitions.
+
+The video opens with a smooth cinematic push-in from a medium-wide macro view toward the pancake tower. As the camera approaches, warm honey slowly drips over the pancakes while one chef pours fresh honey from a tiny bucket. The camera continues its forward movement and naturally begins a gentle clockwise orbit around the stack.
+
+Without cutting, the orbit becomes faster as the camera glides past a chef carefully placing blueberries onto the honey-covered pancakes. Continuing the same motion path, the camera swoops slightly downward and circles upward to reveal another chef arranging sliced strawberries and fresh mint leaves on the top pancake.
+
+The camera flows seamlessly toward the opposite side of the stack, passing close beside dripping honey before revealing a chef sweeping spilled powdered sugar from the tabletop. Maintaining the same continuous movement, the camera performs a dramatic low FPV fly-through between scattered berries and miniature tools, passing a chef pushing a wooden cart loaded with fresh strawberries and blueberries.
+
+The movement rises smoothly into a higher orbit, revealing another chef dusting powdered sugar from a ladder while honey glistens under warm golden light. The camera continues its uninterrupted circular flight, weaving naturally between ladders, scaffolding and workers, creating beautiful parallax while every chef remains busy with their own task.
+
+For the final seconds the orbit widens into a spectacular cinematic 360-degree hero shot around the completed pancake tower. Honey cascades down every layer, berries shine with fresh moisture, powdered sugar floats through the air, all miniature chefs continue working simultaneously, warm bakery atmosphere, shallow depth of field, macro photography, volumetric lighting, smooth FPV drone movement, elegant speed ramps, cinematic motion blur, ultra-realistic textures, premium food commercial quality, seamless continuous camera movement, no cuts, no text, no logos, 9:16.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00228.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00228.jpg" width="600" alt="Last Lighthouse Keeper Watches Autonomous Fleet" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04718.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04718.jpg" width="600" alt="Miniature Bakery World" style="cursor:pointer">
 </a>
 </div>
 
@@ -2146,25 +1475,25 @@ The last human lighthouse keeper in the world sits in the lantern room of his li
 
 ---
 
-### No. 67: White-Haired Girl Skateboards Down Mountain
+### No. 48: Character Crossover Comedy Show
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-First-person high-speed tracking shot: Closely following a white-haired 3D anime-style girl from behind as she skateboards at breakneck speed down a steep, win…
+@图片1的角色参考@视频1的动作和面部表情, perform in the @Image2 scene, exaggerated comedic action combined with funny sound effects.
 
 #### 📝 Prompt
 
 ```
-First-person high-speed tracking shot: Closely following a white-haired 3D anime-style girl from behind as she skateboards at breakneck speed down a steep, winding mountain road. The scene has a strong forward-charging impact, using a wide-angle lens with visual effects of howling wind. The video opens with a bright summer scene, with cherry blossom petals swiftly flying past the lens. At the 5th second...
+@图片1的角色参考@视频1的动作和面部表情, perform in the @Image2 scene, exaggerated comedic action combined with funny sound effects.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01407.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01407.jpg" width="600" alt="White-Haired Girl Skateboards Down Mountain" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09766.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09766.jpg" width="600" alt="Character Crossover Comedy Show" style="cursor:pointer">
 </a>
 </div>
 
@@ -2172,25 +1501,25 @@ First-person high-speed tracking shot: Closely following a white-haired 3D anime
 
 ---
 
-### No. 68: Giant Spaceship Destroys Hollywood Sign
+### No. 49: Seasonal Flower Goddess Costume Change
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-dash cam video, late evening,3 different multi-POV of a gigantic huge space ship crashing into the Hollywood sign causing massive staggering damage to the sign…
+@Image, a seasonal flower goddess ancient-style costume change video, with strong rhythm, maximum contrast, and极致 visual impact. No dialogue throughout, creati…
 
 #### 📝 Prompt
 
 ```
-dash cam video, late evening,3 different multi-POV of a gigantic huge space ship crashing into the Hollywood sign causing massive staggering damage to the sign, the hillside and area and scattering everywhere and at the viewer. Incredible. Real Life Footage. Caught on Film. The drivers and passengers in the cars react with shock and amazement. Correct Newtonian physics
+@Image, a seasonal flower goddess ancient-style costume change video, with strong rhythm, maximum contrast, and极致 visual impact. No dialogue throughout, creating a dreamy and high-profile ancient-style emotional atmosphere. The picture is delicate with rich layers, exuding a high-end feel. Using backlighting, hair light, Rembrandt lighting, and side-backlighting to create high-exposure and overexposure effects, achieving a hazy and artistic aesthetic. Overlaid with film grain texture, soft focus, low saturation, and dreamy tones. BGM: A Chinese-style electronic track with a gentle prelude and heavy drum beats in the climax, a brisk rhythm, interspersed with crisp bird chirping samples. [Before Costume Change] A fast circular tracking shot around a character wearing a loose white sweater with slightly messy hair, sitting on a bench in a snowy park playing with a withered branch. A quick push-in close-up of the branch suddenly blooming, with petals exploding as the background shifts to a pink-green cherry blossom forest. A sea of flowers spreads at the feet, light pink transparent gauze ribbons flutter in the air, cherry blossom snow effects, petals floating upward against gravity, with dynamic blur on foreground petals to enhance spatial depth. [Seasonal Costume Changes] 1. Spring Goddess: The camera pushes in for a close-up as the gauze ribbon is removed to complete the costume change, with the spring goddess styling, clothes and hair flowing in the wind. 2. Summer Goddess: Holding a folding fan, a pull-back shot transitions to complete the costume change, with summer goddess styling. 3. Autumn Goddess: Water swirls, with maple leaves and autumn flowers forming a vortex around the character, transitioning as maple leaves fall to complete the costume change, with autumn goddess styling. 4. Winter Goddess: Clear divine makeup with exquisite eye makeup, a fixed crown, and light strands of hair brushing the face. Each season's styling matches a specific color palette, paired with different shot types and dynamic camera movements. [Ending Shot] Freeze on a winter scene, with a white bird flying in. The character gently flicks their sleeve, and the white bird instantly transforms into a flock of startled birds (synced with the dense drum beats). The flock circles around the character, creating a swirling snow vortex. The character closes their eyes and leans back, body relaxed, as the camera instantly pulls back. Snowflakes and birds dance wildly, filling the frame and engulfing the character, whose body gradually dissipates into a flurry of snowflakes.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02971.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02971.jpg" width="600" alt="Giant Spaceship Destroys Hollywood Sign" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01207.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01207.jpg" width="600" alt="Seasonal Flower Goddess Costume Change" style="cursor:pointer">
 </a>
 </div>
 
@@ -2198,25 +1527,72 @@ dash cam video, late evening,3 different multi-POV of a gigantic huge space ship
 
 ---
 
-### No. 69: Luxury Garden Storyboard Animation
+### No. 50: Ghost Protocol Savannah Escape
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron pa…
+GHOST PROTOCOL: SAVANNAH OF SHADOWS Reference: @Image1 (Face Lock Only)SCRIPT 0:00-0:01 MIRA sprints across the golden savannah, dust bursting beneath her boot…
 
 #### 📝 Prompt
 
 ```
-Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames), editorial layout, Bamford/Daylesford style, meadow green + weathered iron palette. Structured flow: soil → seed → tend → bloom → harvest closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. English country estate minimal aesthetic, slow growing mood, land and patience. A terracotta pot with a single stem is the emotional center throughout. Animate the provided 3x4 storyboard into a smooth cinematic video. Preserve exact shot order and continuity. Use slow soil crumble, morning dew drop, leaf unfurl time-lapse feel, and garden light shaft. Lighting transitions from cool misty English morning to warm golden afternoon garden light. Garden editorial aesthetic, patient abundance, grounded luxury mood. No new shots, no reordering, terracotta pot remains emotional focus in all scenes.
+GHOST PROTOCOL: SAVANNAH OF SHADOWS Reference: @Image1 (Face Lock Only)SCRIPT
+0:00-0:01
+MIRA sprints across the golden savannah, dust bursting beneath her boots, braid whipping behind her.
+ Camera: Low handheld side tracking.
+ Music/SFX: Deep drone with heartbeat percussion at 75 BPM.0:01-0:02
+She accelerates as her jacket snaps in the wind while distant dirt bikes rapidly close in.
+ Camera: Tracking pushes slightly closer.
+ Music/SFX: Stronger percussion and heavy wind.0:02-0:03
+She looks back as armed riders appear over the ridge and open fire.
+ Camera: Fast whip pan.
+ Music/SFX: Gunshots with radio static.0:03-0:04
+She pivots sharply around a massive rock, spraying gravel.
+ Camera: Smooth handheld arc.
+ Music/SFX: Rising orchestral strings.0:04-0:05
+She slips briefly, catches herself on the rock, and keeps running.
+ Camera: Arc settles into a steady hold.
+ Music/SFX: Sharp orchestral stab.0:05-0:06
+A herd of Cape buffalo blocks the path. MIRA taps her black bracelet and one amber pulse flashes.
+ Camera: Push toward the nearest buffalo.
+ Music/SFX: Activation chime beneath peak strings.0:06-0:07
+The nearest buffalo's hide ripples naturally.
+ Camera: Slow push-in.
+ Music/SFX: Mechanical textures emerge.0:07-0:08
+Fine seams briefly appear beneath the hide as hidden mechanisms shift.
+ Camera: Push tighter.
+ Music/SFX: Mechanical hum builds.0:08-0:09
+A concealed side hatch opens, revealing a dark interior.
+ Camera: Tight close-up.
+ Music/SFX: Strings reach maximum tension.0:09-0:10
+MIRA dives inside as her braid and jacket trail behind, necklace catching the last sunlight.
+ Camera: Fast tracking follow.
+ Music/SFX: Massive sub-bass swell.0:10-0:11
+The hatch seals seamlessly and the buffalo resumes grazing.
+ Camera: Static.
+ Music/SFX: Heavy cinematic bass drop.0:11-0:12
+The riders stop beside the herd, searching in confusion.
+ Camera: Slow wide pullback.
+ Music/SFX: Engines idle beneath ambient drone.0:12-0:13
+One scans with thermal optics while another radios, "She vanished... nothing but buffalo out here."
+ Camera: Wide drift across the herd.
+ Music/SFX: Radio-filtered dialogue with static.0:13-0:14
+The scan passes over the disguised buffalo without detecting anything. The riders leave.
+ Camera: Wide cinematic pullback.
+ Music/SFX: Engines fade into the wind.0:14-0:15
+Inside, MIRA watches through a narrow optical slit, smiles, and whispers, "Run wherever you want. I'm already there." Hard cut to black.
+ Camera: Static close-up.
+ Music/SFX: Soft piano, synth, final cinematic stinger. GLOBAL LOCKS
+Use @Image1 as the only facial reference. Preserve the exact face, eyes, skin tone, age, and proportions throughout. Keep one consistent olive tactical outfit, silver necklace, black bracelet, and tight braid. Maintain golden-hour East African savannah lighting, realistic wind, dust, and physics. The Cape buf
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03856.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03856.jpg" width="600" alt="Luxury Garden Storyboard Animation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04690.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04690.jpg" width="600" alt="Ghost Protocol Savannah Escape" style="cursor:pointer">
 </a>
 </div>
 
@@ -2224,7 +1600,95 @@ Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames
 
 ---
 
-### No. 70: Ancient Tower Celestial Globe Cinematic
+### No. 51: Jungle Base Attack
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A jungle base at night, deep in thick wet rainforest. Tents, sandbags, floodlights, a fenced yard with a big diesel generator and fuel drums, and a tall watcht…
+
+#### 📝 Prompt
+
+```
+A jungle base at night, deep in thick wet rainforest. Tents, sandbags, floodlights, a fenced yard with a big diesel generator and fuel drums, and a tall watchtower. A giant alien — brownish-black, slimy, with long whipping tentacles — has attacked the base, wrapped its tentacles around the big generator, and is dragging a soldier across the yard toward it. On the watchtower, a gunner stands at a mounted gun. Sound: humming generator, wet tentacles slapping, shouting men, the alien's low roar, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot across the floodlit yard. The giant alien crushes the diesel generator in one set of tentacles while another drags a soldier across the mud by his legs. He claws at the ground. Men run between the tents. One shouts into his radio: "IT'S DRAGGING HIM TO THE GENERATOR!"
+
+Shot 2 (3–6s): Up on the watchtower. The gunner swings his mounted gun toward the alien, but holds his fire — the soldier still in the tentacles, fuel drums everywhere. He calls down on the radio: "Break loose! Roll clear!"
+
+Shot 3 (6–9s): At the soldier. He pulls a knife and slashes the slimy tentacle around his legs, breaks free, and rolls clear across the yard. The alien, now empty-handed, lets go of the generator and slides forward into the open middle of the floodlit yard, rearing up tall and clear in the mud.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The alien is out in the open now, the fuel drums right behind it. The gunner fires. Bullet time — a stream of heavy rounds flies across the yard in slow motion, smoke and shell cases hanging in the air, smashing into the alien and tearing into the fuel drums behind it. The drums burst — a huge fireball blooming around the alien.
+
+Shot 5 (13–15s): Time snaps back. The whole yard lights up as the fuel drums and the alien go up in one rolling fireball, fire and slime shooting into the night sky. Soldiers shield their faces in the mud as the rescued man scrambles clear.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04182.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04182.jpg" width="600" alt="Jungle Base Attack" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 52: Spear Master Flowing Combat
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Referring to the spear-wielding characters in @Image 1 and @Image 2, and the scenes in @Image 3 and @Image 4, a martial arts action scene is generated, in whic…
+
+#### 📝 Prompt
+
+```
+Referring to the spear-wielding characters in @Image 1 and @Image 2, and the scenes in @Image 3 and @Image 4, a martial arts action scene is generated, in which the character wields a spear and performs a series of moves. The camera follows the character from multiple angles to showcase the power and beauty of martial arts.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09320.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09320.jpg" width="600" alt="Spear Master Flowing Combat" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 53: Neon Meets Candlelight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+After the Cyber District lost power, residents lit thousands of paper lanterns simultaneously, with neon and candlelight intertwining. The tram slowly passed b…
+
+#### 📝 Prompt
+
+```
+After the Cyber District lost power, residents lit thousands of paper lanterns simultaneously, with neon and candlelight intertwining. The tram slowly passed by, reflecting orange-blue light. The camera pushes in from the alley entrance, passing through the sea of lights to reach the rooftop for a panoramic view. Emotional storytelling, the film's long take feel. While keeping the core characters and scenes unchanged, the version was changed to a more atmospheric version, adding aerial openings, switching between medium and close-up shots, dynamic foreground occlusions, volumetric lighting, wind or rain, and other environmental elements, making the overall atmosphere more emotionally charged and visually contrasting.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09488.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09488.jpg" width="600" alt="Neon Meets Candlelight" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 54: Ancient Tower Star Gazing Ritual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2235,14 +1699,14 @@ Inside the ancient astronomical tower, a bronze celestial globe slowly rotates, 
 #### 📝 Prompt
 
 ```
-Inside the ancient astronomical tower, a bronze celestial globe slowly rotates, and scholars record star trails with quill pens. Outside the window, a meteor shower streaked across the night sky. The camera rotates around the celestial globe and ascends layer by layer to the top of the tower. Historical texture, candlelight shadows, immersive storytelling. While keeping the main subject and story core unchanged, the focus shifted to stronger cinematic camera progression, adding low camera angles, fast pacing, dramatic lighting in the early morning or evening, and enhancing environmental details and a sense of movement.
+Inside the ancient astronomical tower, a bronze celestial globe slowly rotates, and scholars record star trails with quill pens. Outside the window, a meteor shower streaked across the night sky. The camera rotates around the celestial globe and ascends layer by layer to the top of the tower. Historical texture, candlelight shadows, immersive storytelling. Keeping the core content unchanged, it was changed to a more concise version better suited for short video distribution, using more direct action performance, clear subjects, strong color contrast, and faster camera transitions, resulting in a cleaner overall effect.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09395.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09395.jpg" width="600" alt="Ancient Tower Celestial Globe Cinematic" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09595.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09595.jpg" width="600" alt="Ancient Tower Star Gazing Ritual" style="cursor:pointer">
 </a>
 </div>
 
@@ -2250,30 +1714,25 @@ Inside the ancient astronomical tower, a bronze celestial globe slowly rotates, 
 
 ---
 
-### No. 71: Luxury Nail Polish Glamour Ad
+### No. 55: Realistic Cat Dancing With Gun
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A fast-paced, high-energy luxury beauty commercial featuring a confident young woman in a soft, glowing studio environment with clean pastel lighting, glossy r…
+Generate a short video of a real-person animal dancing with a gun, preserving the cat's realistic fur, natural light, and authentic materials. Replace the 'Cat…
 
 #### 📝 Prompt
 
 ```
-A fast-paced, high-energy luxury beauty commercial featuring a confident young woman in a soft, glowing studio environment with clean pastel lighting, glossy reflections, and elegant highlights. The video opens with a macro close-up of a premium nail polish bottle slowly rotating under soft light, showcasing its crystal-clear glass, rich pigment, and metallic cap with a luxurious shine (0–3s).
-Quick cut to the woman gracefully picking up the bottle, her manicured nails already perfectly shaped, as she unscrews the cap with a smooth, satisfying twist sound, the brush emerging coated in thick, glossy polish (3–6s).
-Transition to an extreme close-up of her hand as she carefully applies the nail polish in one smooth stroke, the color spreading evenly with a rich, high-shine finish and flawless coverage (6–10s).
-Cut to a slow-motion shot of her fingers moving elegantly through soft light, showcasing the freshly painted nails reflecting a mirror-like gloss with subtle sparkles and luxury glow (10–13s).
-Final shot shows her confidently posing with her hand near her face, nails fully polished and radiant, while the nail polish bottle appears beside her with floating light particles and a soft cinematic glow (13–16s).
-Background music is upbeat, trendy, and sophisticated, matching a premium beauty ad vibe with smooth transitions, sharp cuts, and a polished, high-fashion aesthetic throughout.
+Generate a short video of a real-person animal dancing with a gun, preserving the cat's realistic fur, natural light, and authentic materials. Replace the 'Cat' with [Name of the image you uploaded], while keeping all other elements such as camera movement, actions, props, sound effects, and background music completely unchanged
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02795.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02795.jpg" width="600" alt="Luxury Nail Polish Glamour Ad" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10790.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10790.jpg" width="600" alt="Realistic Cat Dancing With Gun" style="cursor:pointer">
 </a>
 </div>
 
@@ -2281,25 +1740,26 @@ Background music is upbeat, trendy, and sophisticated, matching a premium beauty
 
 ---
 
-### No. 72: Four Spirits Ancient Costume Transform
+### No. 56: Supercar Morphs Into Robot Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-@图片, a dreamy ancient-style costume theme, transforming into the four spirits of Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise in sequence, wit…
+Main body: A dark gray, futuristic-looking black supercar. Action: Speed down a city highway, then seamlessly transform into a giant humanoid mechanical robot…
 
 #### 📝 Prompt
 
 ```
-@图片, a dreamy ancient-style costume theme, transforming into the four spirits of Azure Dragon, Vermilion Bird, White Tiger, and Black Tortoise in sequence, with the aura of the four spirits converging in the palm; The overall visuals have a strong ancient-style atmosphere, with high-definition graphics, delicate and layered lighting and shadows, and gorgeous special effects that match the characteristics of the Four Spirits. - Azure Dragon Transformation: Blue as the main color, surrounded by flowing clouds and water patterns, with dragon-shaped shadows encircling. The costume is elegant with scale-patterned texture, and its movements are lively like a swimming dragon. - Vermilion Bird Costume: The main color is crimson, gold, and orange, with flame particles swirling everywhere, the Vermilion Bird's wings and shadows unfurling, clothing adorned with feather patterns, and its movements are graceful like a flaming sparrow flapping its wings. - White Tiger Transformation: Silver-white and ink-black as the main color, lightning patterns swirl all over the body, and the White Tiger's phantom raises its head and roars. The costumes are sharp with beast patterns, and the movements are as powerful as a white tiger's charge. - Black Tortoise Transformation: The main color scheme is black, blue-brown, with turtle shell and shield patterns appearing in light and shadow. The shadows of the Black Tortoise and snake coil around. The costume is heavy with a metallic texture, and the movements are as steady as the Black Tortoise Fu Yuan. - Closing shot: The four spirits phantoms appear behind simultaneously, with blue, red, white, and black spiritual energies converging from all directions into the palm, forming a dazzling sphere of fusion light from the four spirits. The camera focuses on the palm, creating a strong atmosphere and delicate, natural ancient-style special effects
+Main body: A dark gray, futuristic-looking black supercar.
+Action: Speed down a city highway, then seamlessly transform into a giant humanoid mechanical robot in motion. Scene: A bustling city road with skyscrapers and other vehicles in the background. Lens: Low-angle tracking shot, tilt up when distorted. Style:
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08229.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08229.jpg" width="600" alt="Four Spirits Ancient Costume Transform" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08117.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08117.jpg" width="600" alt="Supercar Morphs Into Robot Warrior" style="cursor:pointer">
 </a>
 </div>
 
@@ -2307,25 +1767,25 @@ Background music is upbeat, trendy, and sophisticated, matching a premium beauty
 
 ---
 
-### No. 73: Woman's Mirror Breakdown
+### No. 57: Tablet Unveiling in Light
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-@图片1的女人走到镜子前, looking at myself in the mirror, my expression shifts from calm to sadness, tears fall, emotional breakdowns, and the psychological drama of the…
+@图片1的平板电脑作为主体, the camera movement references @Video1. From a top-down view, the screen gradually lights up, showing the product interface, and the camera wrap…
 
 #### 📝 Prompt
 
 ```
-@图片1的女人走到镜子前, looking at myself in the mirror, my expression shifts from calm to sadness, tears fall, emotional breakdowns, and the psychological drama of the mirror scene.
+@图片1的平板电脑作为主体, the camera movement references @Video1. From a top-down view, the screen gradually lights up, showing the product interface, and the camera wraps around to show the details of the device.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09462.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09462.jpg" width="600" alt="Woman's Mirror Breakdown" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09754.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09754.jpg" width="600" alt="Tablet Unveiling in Light" style="cursor:pointer">
 </a>
 </div>
 
@@ -2333,59 +1793,45 @@ Background music is upbeat, trendy, and sophisticated, matching a premium beauty
 
 ---
 
-### No. 74: Relaxed Park Vlog Retro DV Style
+### No. 58: Aero City Cyber Duel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-CAMERA: DV 16mm tape camcorder handheld footage feel. Point of view of a beautiful young woman holding the camera directly in her hand. Maintain natural hand s…
+1:1 square, 15 seconds, high-quality cinematic anime-style fast-paced action. The setting is the near-future Bayshore Aero City on a bright afternoon. Switchin…
 
 #### 📝 Prompt
 
 ```
-CAMERA:
-DV 16mm tape camcorder handheld footage feel. Point of view of a beautiful young woman holding the camera directly in her hand. Maintain natural hand shake, slightly misaligned framing, delayed focus pulls, clumsy zoom in/out, occasional self-cam framing where part of her face gets cut off, and imperfect shots that briefly lose the subject. Every shot is filmed by her holding the camcorder herself in selfie-cam or first-person style. The camcorder itself never appears on screen.
+1:1 square, 15 seconds, high-quality cinematic anime-style fast-paced action. The setting is the near-future Bayshore Aero City on a bright afternoon. Switching between blue skies, the sea, the massive white deck, the exterior walls of the glass corridor, aerial passages, connecting bridges, terminal rooftops, three-dimensional structures between buildings, and observation decks at high speed. It does not involve monotonous combat in confined spaces or staying in the same place.
 
-LOOK:
-DV 16mm tape camcorder footage look. Soft, slightly blurry digital tape quality, faint tape noise, subtle compression artifacts, highlights that bloom gently in bright daylight, auto-exposure that adjusts naturally while moving between sunlight and tree shade, muted color contrast, realistic skin tones.
+[Reference Images]
+[Image Name] is used only to fix the appearance of one cyborg female and one companion robot. The top row prioritizes the female body in three directions and the robot body, while the lower row includes face, head, arm armaments, back, and legs as supplementary details. Do not reproduce borders, white backgrounds, headings, multiple views, expressions, or details of faces, legs, and weapons as video introduction cuts or compositions. Move two characters in the anime world completed from the beginning. Women and robots are allies in the same battle, but in the first and middle stages, they act alone in separate locations, and only in the late stages do they converge on the same large enemy. Don't keep running side by side on the same screen. Face, hairstyle, body shape, armor, armaments, back structure, and color scheme are maintained, but it does not alter costumes, armor, or mobile suits, transform, combine, grow giant, duplicate, or change colors. The enemy consists of a group of inhumanoid small graphite drones and a large graphite-colored unmanned aerial vehicle that appears near the end. The air traffic in the background is a civilian aircraft that does not participate in combat.
 
-STYLE:
-Relaxed daytime park vlog with a calm, happy, low-energy vibe. Handheld throughout with authentic amateur camcorder filming. Natural pauses, occasional soft laughter, light breathing after walking, genuine unposed moments. Feels like a real personal home video rather than a cinematic production.
+[Angle & Movement]
+Wide to ultra-wide theme. Even at 1:1, avoid making it cramped or cramped; preserve the sky, sea, city, architecture, margins, foreground, mid-range, and distant views. Use close-ups for a moment and quickly return to a wide angle of view. The movements do not appear smooth in real life; instead, they are shown in a chain of strong stances→ short attacks→ screen cover→ strong stances at different points→ contact→ short hit-stops→ and large reactions. Avoid long runs and flights, and frequently use arcs, diagonal crossings, sudden turns, vertical differences, X-shapes, S-curves, and jumping between buildings. The camera boldly uses diagonal descents, rapid ascents, crossings, passing through gaps in buildings, aheading, and sharp reversals.
+[Effects]
+Effects should not be blue glowing beams, beams, lasers, or aura. Using the main color and secondary accent colors of @image1, I employ clearly defined opaque color surfaces, thick paint marks, brush-like strokes, a slender tail that pulls threads, tearing and flying color pieces, and diagonal color blocks. Every movement, instant appearance, screen masking, and impact is accompanied by a fast-paced effect that makes paint drag along with it.
+[Structure]
+0.0–1.5 seconds: Ultra-wide angle panoramic view of the coastal city. Small drones invade from multiple directions. Women sortie separately from the glass corridor exterior wall, while robots deploy separately from the lower deck side. The robot arcs from the side, parriving a single blow that sends shockwaves across the entire city. Figures lie low, canopies flutter.
+1.5 to 3.3 seconds: Female part. The foreground is covered by a color plane, instantly switching to the glass corridor exterior, above the aerial passage, and the terminal rooftop. Women do not run long, but take positions at each point, showing only key poses with strong slashing and landing recoil. Leaves strong paint marks and thread pulling effects, allowing for rapid drone destruction.
+3.3–5.1 seconds: Robot part. Use massive decks, connected bridges, and the edges of structures to launch multiple drones together with crescent-shaped orbits, sudden reversals, and heavy strikes. The camera switches dramatically from low-altitude crossing to rapid ascent.
+5.1–6.9 seconds: Female part. Vertical spaces between buildings. Immediately after color surface masking, it instantly appears from another angle, attacking diagonally downward, sideways, and upward while changing height. No movement is shown midway; each time, only strong postures from different locations are performed continuously.
+6.9–8.7 seconds: Robot part. Using elevated structures and rooftop edges, it breaks through drone swarms by flipping walls, making short boost ascents, and diving sharply. It moves the entire space with arcing trajectories and heavy impacts.
+8.7–10.2 seconds: Large unmanned aerial vehicles break through small swarms and infiltrate. A huge shadow crosses the terminal, crowds, and deck. The woman and the robot dive onto the screen from different directions, and for the first time, they converge on the same large enemy.
+10.2–12.2 seconds: High-speed linkage climax. The robot deviates from the side in a short arc and pries-open the armor. Color masking flips the perspective, and a woman instantly appears from the opposite diagonal top to slash the weak point. → collision→ armor release → slashes both forces rapidly release their recoil and escape. No prolonged fights.
+12.2–15.0 seconds: The large machine explosively decomposes not as a fireball, but as multicolored opaque surfaces, sharp color fragments, paint film fragments, and fragments. The camera passes through the debris and leads to the observation deck. The woman and the robot land at a time difference to a slightly different position, and without stopping, they accelerate again in the same direction before leaving. Immediately after leaving, colored smoke, steam columns, and large colored fragments chain like daytime firecrackers from multiple points in the city, traffic resumes, and figures rise up. Finally, the city panorama, celebratory reactions, dancing color fragments, resuming urban functions, and two tracks stretching into the distance are shown simultaneously, closing with an explosive aftertaste rather than a static.
 
-Character:
-A beautiful cute young woman in her 20s with long naturally flowing dark hair, elegant facial features, expressive eyes, glowing healthy skin, and a warm genuine smile. fit build. Wearing a modest long-sleeve casual athletic top or lightweight sweatshirt, loose-fit joggers or comfortable pants, and sneakers. Fully covered arms and torso. No jewelry.
-
-Setting:
-A peaceful public park during daylight. Lush green trees, wide walking paths, neatly maintained grass, colorful flower beds, wooden benches, gentle breeze moving the leaves, birds occasionally flying by, soft natural sunlight filtering through the trees, distant park visitors, and a calm, relaxing atmosphere.
-
-Storyboard:
-
-(~2s, camera propped against a park bench, medium shot)
-She walks into frame with a relaxed smile after a leisurely walk, brushes a few loose strands of hair away from her face, and looks at the camera.
-WOMAN: ""It's such a beautiful day today.""
-
-(~2s, handheld, slow pan across the park)
-The camera slowly drifts across the green trees, walking paths, flowers, and open lawn before returning to her.
-WOMAN (off-screen, softly): ""Everything feels so peaceful out here.""
-
-(~2s, medium handheld, beside a bench)
-She picks up her reusable water bottle, takes a long refreshing sip, then smiles comfortably.
-WOMAN: ""I really needed that.""
-
-(~1.5s, macro insert, shallow DOF)
-Close-up of her hand brushing across the cool water bottle with tiny droplets of condensation sparkling in the sunlight. Leaves gently sway in the blurred background.
-No dialogue—only soft ambient park sounds and gentle breathing.
-
-(~2s, medium handheld, open grassy area)
-She p
+[Audio/Prohibited]
+High-density, flashy theatrical anime-style background music. Just before defending, he briefly pulls the sound, then adjusts the intensity to metal impact, suction sound, slash, hit stop, bass impact, and final destruction. Cheap TV anime, 3D game-style constant speed movement, long battles in the same location, long running, long slow motion, introduction to setting materials, close-up montages of body parts, female vs. robot battles, fusion of bodies and weapons, extra limbs, still commemorative photos, effects that only use monochrome lighting, text, subtitles, logos, UI, and seat borders are avoided.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10900.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10900.jpg" width="600" alt="Relaxed Park Vlog Retro DV Style" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10504.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10504.jpg" width="600" alt="Aero City Cyber Duel" style="cursor:pointer">
 </a>
 </div>
 
@@ -2393,31 +1839,31 @@ She p
 
 ---
 
-### No. 75: Phone Shatters and Reforms
+### No. 59: Red Carpet Queen Rising
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Prompt 1: Dynamic movement, a smart phone drops from the sky and falls onto the city street, shattering into individual pieces, each part shown specifically in…
+[Main Subject]: Girls in @【@图1】 maintain highly consistent facial features, have translucent skin texture, exquisite makeup, and wear sparkling diamond earring…
 
 #### 📝 Prompt
 
 ```
-Prompt 1:
-
-Dynamic movement, a smart phone drops from the sky and falls onto the city street, shattering into individual pieces, each part shown specifically in slow motion, camera orbits it.
-
-Prompt 2: 
-
-Continue this video, the phone reforms back into the smart phone and lands onto the ground.
+[Main Subject]: Girls in @【@图1】 maintain highly consistent facial features, have translucent skin texture, exquisite makeup, and wear sparkling diamond earrings.
+[Movement]: 0-5 seconds Makeup room montage: Slowly apply deep red lipstick, curls fall down; The 6-10s red supercar speeds smoothly through city nights, its wheels shining brilliantly; From 11 to 15 seconds, a girl wears a defining gown and gracefully walks the red carpet, smiling confidently in front of the camera and posing.
+[Definition of Formal Dress]: High-end custom black silk strapless maxi dress, with a body fully embroidered with heavy gold thread patterns and intricate rhinestones. Under the flash, it presents a shimmering metallic texture, with a sophisticated cut.
+[Scene]: From a warm-toned high-end makeup room, quickly enter a cool neon-lit tunnel, and finally freeze on a grand red carpet filled with star-studded media reporters.
+[Camera Movement]: Close-up enabled, Truck Right panning for sports car segments, cinematic orbit for red carpets, stable and stable footage.
+[Style/Image Quality]: 4K ultra-high definition, cinema-grade color grading, rich details, clear sharpness, silky smooth image without ghosting.
+[Constraints]: Human body structure normal, facial stability without distortion, slow and natural movements, flash rhythm aligned with the audio drumbeat.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09058.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09058.jpg" width="600" alt="Phone Shatters and Reforms" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08554.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08554.jpg" width="600" alt="Red Carpet Queen Rising" style="cursor:pointer">
 </a>
 </div>
 
@@ -2425,36 +1871,27 @@ Continue this video, the phone reforms back into the smart phone and lands onto 
 
 ---
 
-### No. 76: Smartwatch Summons Supercar in Futuristic Corridor
+### No. 60: Red Dress Defying Gravity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Shot 1 (0:00 – 0:02) | Opening Frame A close-up of a tattooed male arm with a sleek black smartwatch in a futuristic LED-lit corridor. The person raises their…
+Calm start. A push-off. Wind in her hair, red dress fluttering, camera right on her face. Then she's in the air and everything slows down.
 
 #### 📝 Prompt
 
 ```
-Shot 1 (0:00 – 0:02) | Opening Frame
-A close-up of a tattooed male arm with a sleek black smartwatch in a futuristic LED-lit corridor. The person raises their wrist and taps it. A faint, minimal holographic UI briefly appears (subtle glow), not the main focus. Camera quickly shifts attention away.
-Shot 2 (0:02 – 0:04) | Quick Interaction
-Fast swipe gesture. A quick glimpse of a luxury car hologram appears momentarily—no heavy UI detail. Immediate transition begins, emphasizing speed and intent.
-Shot 3 (0:04 – 0:06) | Car Reveal (Main Focus Begins)
-The hologram transforms rapidly into a real Lamborghini-style sports car. Cinematic low-angle shot. The car materializes with light streaks and reflections. Engine ignition sound implied. Strong emphasis on car design and presence.
-Shot 4 (0:06 – 0:09) | Power Build-Up
-Close-up shots of the car: headlights turning on, wheels spinning slightly, body reflections, exhaust heat shimmer. Camera moves dynamically around the car, building intensity.
-Shot 5 (0:09 – 0:12) | Acceleration
-The car launches forward aggressively. Motion blur, reflections on glossy ground, cinematic tracking shot (low angle or side tracking). Environment streaks past, emphasizing speed.
-Shot 6 (0:12 – 0:15) | Drift + Final Frame
-High-speed drift sequence. Tires screech, smoke spreads, car slides smoothly across a reflective surface. Camera tracks dynamically. Final slow-motion moment as the drift completes. Car stabilizes, slight engine rumble. Fade out.
+Calm start. A push-off. Wind in her hair, red dress fluttering, camera right on her face.
+
+Then she's in the air and everything slows down.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00061.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00061.jpg" width="600" alt="Smartwatch Summons Supercar in Futuristic Corridor" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03196.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03196.jpg" width="600" alt="Red Dress Defying Gravity" style="cursor:pointer">
 </a>
 </div>
 
@@ -2462,41 +1899,25 @@ High-speed drift sequence. Tires screech, smoke spreads, car slides smoothly acr
 
 ---
 
-### No. 77: Kid Stumble Causes City Destruction
+### No. 61: World Cup Bicycle Kick Cliffhanger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[Main Character] A second grader with black bob hair [Setting] Night School Gymnasium [Video Style] 15 seconds. A full-color Japanese anime. A high-density 2D…
+PART 1 (0–15s) Cut 1 (0–5s) — Dressing Room Flashback Mateo sits alone in the empty dressing room before kickoff. Slow push-in. Match cut into a cool-toned fla…
 
 #### 📝 Prompt
 
 ```
-[Main Character] A second grader with black bob hair
-[Setting] Night School Gymnasium
-
-[Video Style]
-15 seconds. A full-color Japanese anime. A high-density 2D animation with a budget of 500 million yen. Meticulous background art, smooth inlays, and cinematic-quality filming finish. To prevent the same drawing from repeating, the composition, camera angles, screen size, and character distances are varied to make the story more attractive. No subtitles, no watermarks, no background music. There is ambient noise.
-
-[Video Composition] The main character's minor mishaps somehow trigger planetary-scale physical phenomena. While showing the scale of the damage through aerial footage, he continues his daily life with a serious face. In the end, I clean up myself and pretend nothing happened.
-
-[(Always placed somewhere in Shots 5–7)] Sit cross-legged at the center of the crater, hiding your embarrassment, with the wood grain on the floor forming concentric rings
-
-Shot 1 (Shock Hook): Night school gymnasium. The main character's stumble sends a real shockwave to the ground. The person himself has a very serious expression.
-Shot 2 (scale): Switch to aerial shots. From the center of the stumbling block into a circle, the influence spreads on a scale of the city. The protagonist seems completely unaware.
-Shot 3 (Everyday Life): The person remains serious and continues their usual daily movements. A carefree, cool expression.
-Shot 4 (Second Shot): Accidentally slip again, and the second circle overlaps the first. The protagonist tilted his head in confusion.
-Shot 5 (Evacuation): Nearby birds and cats quietly evacuate, appearing accustomed to it. The protagonist is completely unaware, calm and unaware.
-Shot 6 (Convergence): When the protagonist clears their throat, for some reason the ground and city rewind to their original state. A serious face with a composed expression.
-Shot 7 (Face Without Eating): The main character fixes their bangs, says 'It was nothing,' and starts walking normally.
+PART 1 (0–15s) Cut 1 (0–5s) — Dressing Room Flashback Mateo sits alone in the empty dressing room before kickoff. Slow push-in. Match cut into a cool-toned flashback where Elena stands in a doorway. Elena: "I'm done with you." She walks away. Hard cut back to the present as Mateo grabs his captain's armband and heads toward the tunnel. Cut 2 (5–10s) — The Final Begins Mateo walks alone from the tunnel into the roaring World Cup Final. Crane shot reveals the packed stadium before dropping to pitch level. He receives an easy pass, hesitates, and loses possession. Cut 3 (10–15s) — The Look A defender taunts Mateo while he jogs back. Defender: "Where's your head today, Reyes?" The Crowd Cam finds Elena on the giant jumbotron. She cups her hands and shouts, Elena: "PLAY LIKE YOU MEAN IT!" Mateo looks up. Their eyes lock across the stadium as time slows. PART 2 (15–30s) Cut 4 (15–19s) — Turning Point Low-angle tracking shot follows Mateo intercepting the ball and dribbling past two defenders. Cut to Elena watching anxiously from the stands. Cut 5 (19–24s) — The Goal Side tracking camera follows Mateo the entire time. A perfect cross arrives. Mateo performs a spectacular bicycle kick while the camera orbits around him. Keep Mateo fully visible throughout the kick. Cut to the ball flying into the top corner. Immediately hard cut after the goal. No celebration. No goal-net shots. Cut 6 (24–30s) — Reunion & Cliffhanger Mateo is already sprinting toward the spectator barrier. Elena rushes forward. Mateo: "You came back." Elena: "I had to tell you something." Just before their hands touch, a mysterious man in a dark coat steps in behind Elena and firmly grabs her shoulder. His body is visible, but his face remains hidden. Elena turns in fear. Mateo freezes. Hard cut to black. End Card EPISODE 1 COMING SOON
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10466.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10466.jpg" width="600" alt="Kid Stumble Causes City Destruction" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07673.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07673.jpg" width="600" alt="World Cup Bicycle Kick Cliffhanger" style="cursor:pointer">
 </a>
 </div>
 
@@ -2504,25 +1925,25 @@ Shot 7 (Face Without Eating): The main character fixes their bangs, says 'It was
 
 ---
 
-### No. 78: Golden Hour Chat In Japan
+### No. 62: Hitler vs Michael Jackson
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22) are sitting together and chatting happily. They are close friends having a re…
+Hitler vs Michael Jackson, movie scene, epic battle
 
 #### 📝 Prompt
 
 ```
-A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22) are sitting together and chatting happily. They are close friends having a relaxed conversation. Their lips move naturally with synchronized dialogue (accurate lip sync).Scene: a quiet residential street in Japan in the late afternoon. Warm golden sunlight, gentle breeze, peaceful everyday composition, medium two-shot, natural framing, slightly handheld camera, soft natural sunlight, realistic skin tones, subtle film color grading.Visual style: Japanese indie film aesthetics, shallow depth of field, soft background blur, realistic acting.Dialogue (spoken in Japanese, natural lip sync):Woman 1: 「今日ほんとうにあたたかいね。春って感じしない？」Woman 2: 「うん、こういう日に外で話すの気持ちいいよね。」Woman 1: 「最近どう？大学はいそがしい？」Woman 2: 「ちょっといそがしいけど、こうやって話すと元気出る。」They smile, laugh lightly, and continue their casual conversation.Ultra realistic, cinematic storytelling, natural acting, 4K film look.
+Hitler vs Michael Jackson, movie scene, epic battle
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03516.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03516.jpg" width="600" alt="Golden Hour Chat In Japan" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04274.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04274.jpg" width="600" alt="Hitler vs Michael Jackson" style="cursor:pointer">
 </a>
 </div>
 
@@ -2530,25 +1951,25 @@ A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22
 
 ---
 
-### No. 79: Epic Angel Transformation Comedy Punchline
+### No. 63: Wall Street Fall Frozen in Time
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The 'alternate space transformation sequence' effect often seen in anime. Use the 'adult angel' and 'chibi angel' from the reference image as the same characte…
+Businessman falling on Wall Street, coffee exploding mid-air, ice & droplets frozen, camera orbits 360° at ground level
 
 #### 📝 Prompt
 
 ```
-The 'alternate space transformation sequence' effect often seen in anime. Use the 'adult angel' and 'chibi angel' from the reference image as the same character. The first half features a transformation sequence of extreme grandeur, mystery, and high power, on par with theatrical anime quality. The second half serves as a comedic gap punchline, where the final form appears as an 'ultra-cute chibi angel.' The stage is an infinite silver and golden alternate space. A giant magic circle, floating light feathers, sacred script, particle effects, aurora-like light, and meteor-like energy rotate rapidly around the surroundings. The camera, like in theatrical anime transformation scenes, circles at ultra-high speed while zooming in on the subject. Hair and feathers flutter violently in the strong wind. The adult angel quietly opens their eyes, releasing a divine aura. A platinum-gold energy erupts explosively from their entire body, the costume glows, and massive light wings unfold. The entire screen is enveloped in dazzling flash. Like a transformation sequence, include: silhouette cuts, close-ups of the eyes, a cut of the hand raised, a cut of the wings spreading, and an effect of a light ring passing through the entire body, inserted in rapid succession. It feels like evolving into a final form that saves the world, with overwhelmingly flashy and grand staging. At the moment the BGM reaches its climax, a giant pillar of light explodes. Then, sudden silence. As the smoke and light clear, standing there is—the 'ultra-cute chibi angel' from the reference image. Fluttering small wings, with sparkling eyes, floating softly in an 'ehehe♪' vibe. The atmosphere instantly relaxes. The background still retains the super-divine effects, creating a stark contrast with the staging. Finally, the chibi angel strikes a proud pose. A comedic and adorable punchline. Theatrical anime quality, ultra-detailed animation, ultra-smooth movement, key animation effects, cinematic lighting, god rays, volumetric light, glowing effects, light particles, aura explosion, mystical space, ultra-fast camera work, dynamic composition, overwhelming energy effects, comedic gap staging, cute chibi character, high-quality animation, movie-grade staging, dynamism, impact, fantasy, sacred atmosphere. Negative prompt: low quality, blurry, photorealistic, 3DCG doll-like, unnatural body, extra feathers, extra limbs, horror face, uncute chibi-fication, gore, text, watermark, character duplication, flat lighting, lack of movement, fixed camera, broken hands, unstable character design, lack of impact, expressionless.
+Businessman falling on Wall Street, coffee exploding mid-air, ice & droplets frozen, camera orbits 360° at ground level
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02848.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02848.jpg" width="600" alt="Epic Angel Transformation Comedy Punchline" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08580.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08580.jpg" width="600" alt="Wall Street Fall Frozen in Time" style="cursor:pointer">
 </a>
 </div>
 
@@ -2556,25 +1977,25 @@ The 'alternate space transformation sequence' effect often seen in anime. Use th
 
 ---
 
-### No. 80: Museum Slapstick Cinematic Comedy
+### No. 64: Seamless Cinematic Video Transition
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-[GLOBAL] 15s real-person cinematic comedy (live-action, NOT 3D/cartoon), 9:16, 8K, bright warm-gold museum light. Exaggerated but realistic slapstick, fast mul…
+Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use f…
 
 #### 📝 Prompt
 
 ```
-[GLOBAL] 15s real-person cinematic comedy (live-action, NOT 3D/cartoon), 9:16, 8K, bright warm-gold museum light. Exaggerated but realistic slapstick, fast multi-cut, vary framing
+Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03464.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03464.jpg" width="600" alt="Museum Slapstick Cinematic Comedy" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00427.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00427.jpg" width="600" alt="Seamless Cinematic Video Transition" style="cursor:pointer">
 </a>
 </div>
 
@@ -2582,25 +2003,25 @@ The 'alternate space transformation sequence' effect often seen in anime. Use th
 
 ---
 
-### No. 81: Dynamic Premium Ad Creation
+### No. 65: Magical Violin at Dusk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-use @Image1 as a referencing to 15 sec dynamic premium AD, make the transitions smooth and the AD really engaging, fast paced, dynamic, use insane camera angle…
+15 second cinematic video, 16:9 aspect ratio. Single continuous handheld POV shot with smooth dreamlike transitions and no hard cuts. A surreal magical realism…
 
 #### 📝 Prompt
 
 ```
-use @Image1 as a referencing to 15 sec dynamic premium AD, make the transitions smooth and the AD really engaging, fast paced, dynamic, use insane camera angles, Negative prompt: don't show the grid number
+15 second cinematic video, 16:9 aspect ratio. Single continuous handheld POV shot with smooth dreamlike transitions and no hard cuts. A surreal magical realism street performance film set in a quiet cobblestone city square at dusk. Soft anamorphic lens, subtle lens flare, slow handheld drift, shallow depth of field, warm painterly color grade. String lights hang overhead, with a few scattered onlookers nearby. An older street musician in a weathered coat sits on a wooden crate, playing a violin. His appearance, clothing, hands, and violin remain consistent and realistic throughout. As he plays, the weather and light around him subtly respond to the music, impossible but treated as completely natural. Ambient sound: emotional live violin melody, distant city hum, gentle wind. 0:00–0:03 He draws the bow across the strings, eyes closed, fully absorbed. As the first note rings out, a single leaf detaches from a nearby tree and slowly drifts upward instead of down, catching the streetlight. The camera slowly pushes in toward his face. 0:03–0:06 The music quickens. Soft ripples of wind swirl around his feet, gently lifting loose papers and flower petals from a nearby cart into a slow spiral above the crowd. Onlookers watch with quiet delight, not fear. The camera smoothly pans across their faces. 0:06–0:09 He plays a soaring high note. The streetlights above dim and flicker, then bloom into a soft shower of glowing ember-like particles drifting like fireflies. A child reaches up to touch one, and it dissolves into light. The camera slowly dollies around the musician. 0:09–0:12 The melody slows. The petals and glowing embers gently settle. For a brief moment, light rain begins to fall upward, evaporating into mist just above head height and catching the last orange light of dusk. The camera pulls back into a wider view. 0:12–0:15 He finishes the final note and opens his eyes. Everything returns to stillness, becoming an ordinary square again. He smiles faintly, bows his head, and his open violin case rests at his feet for tips. Fade to black. Style notes: grounded human performance, subtle atmospheric magic, no CGI heavy spectacle, warm cinematic realism, physically plausible handheld camera movement, no distorted hands, no broken violin anatomy, no text overlays. Audio: soft emotional violin music, gentle city ambience, light wind. No vocals, no dialogue, no lyrics.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02735.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02735.jpg" width="600" alt="Dynamic Premium Ad Creation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04732.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04732.jpg" width="600" alt="Magical Violin at Dusk" style="cursor:pointer">
 </a>
 </div>
 
@@ -2608,25 +2029,25 @@ use @Image1 as a referencing to 15 sec dynamic premium AD, make the transitions 
 
 ---
 
-### No. 82: 4DX Cinema Immersive Experience
+### No. 66: Mythic Avatar Awakens in Epic CG
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Hyper-realistic handheld smartphone footage filmed by an audience member inside a packed 4DX premium cinema in Japan, shot from the left-side seats in one cont…
+Cinematic CG, mythological epic, 4K, exquisite details, dynamic camera. 0-3 seconds: Close-up of the female protagonist's finger with purple electric arcs, as…
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic handheld smartphone footage filmed by an audience member inside a packed 4DX premium cinema in Japan, shot from the left-side seats in one continuous unbroken take with no cuts. Raw documentary “phone-in-the-theatre” aesthetic: slight overexposure
+Cinematic CG, mythological epic, 4K, exquisite details, dynamic camera. 0-3 seconds: Close-up of the female protagonist's finger with purple electric arcs, as she points both fingers to her third eye on her brow. A purple light flashes, her eyes are tightly shut, and she utters 'Dharma Heaven and Earth' in a low voice, with low-frequency chanting in the background. 3-5 seconds: The female protagonist suddenly opens her eyes, golden light bursts forth, accompanied by a strong electronic sound explosion. The camera quickly pulls back to a medium shot, with purple lightning flickering in the sky. 5-10 seconds: From behind the female protagonist, a massive (100 times her size) translucent pale cyan-gold 'Dharma Heaven and Earth' avatar of her spirit slowly rises on the horizon. The avatar moves naturally, first lifting its head, as the camera slowly pulls back to reveal the full body of the avatar.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04191.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04191.jpg" width="600" alt="4DX Cinema Immersive Experience" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01591.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01591.jpg" width="600" alt="Mythic Avatar Awakens in Epic CG" style="cursor:pointer">
 </a>
 </div>
 
@@ -2634,25 +2055,25 @@ Hyper-realistic handheld smartphone footage filmed by an audience member inside 
 
 ---
 
-### No. 83: Wukong vs Homelander Battle
+### No. 67: Ultra-Fast Hero Battle Showcase
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden cudgel, his robe fluttering in the wind. The city lights illumin…
+A high-quality, ultra-fast battle anime from Japan. The art style matches that of the reference image. Multiple unique heroes, heroines, magical girls, and and…
 
 #### 📝 Prompt
 
 ```
-Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden cudgel, his robe fluttering in the wind. The city lights illuminate the night, creating a cinematic and epic feel. The camera slowly zooms in on the image, 4 seconds." Music Accompanying Scene 2: "Homelander descends slowly from the sky, his eyes glowing with red laser light. Dark clouds churn, superhero movie style, slow motion, 4 seconds." Music Accompanying Scene 3: "Sun Wukong attacks Homelander at high speed, swinging his golden cudgel. The air shakes, action movie effect, motion blur effect, slow motion, 4 seconds." Music Accompanying Scene 4: "Homelander fires a red laser, colliding with the golden cudgel's energy. The sky explodes, the clouds tear apart, science fiction film style, intense light effects, 4 seconds." Scene 5: "The two float in the air, facing each other, energy ripples spreading. Epic closing scene, wide angle, cinematic composition, 4 seconds."
+A high-quality, ultra-fast battle anime from Japan. The art style matches that of the reference image. Multiple unique heroes, heroines, magical girls, and androids appear one after another from the right foreground of the screen against a blue sky background, in extreme close-ups. They then move to the left, unleashing intense and flashy special moves with their unique weapons, filling the screen with various action-packed, sharp motions, accompanied by magic circles and glowing effects. They disappear into the back right as the next character appears from the foreground, taking their place. Each character briefly remains in extreme close-up at the moment of impact, striking a pose, before quickly moving out of frame at high speed. The screen shakes with each impact. The camera flies around in arc shots, rapidly focusing on each character with high-speed dolly-in and dolly-out, and dynamically capturing them with Dutch angles. Each character has a maximum screen time of 0.5 seconds. Each character&#39;s face, body shape, and clothing are all different to showcase their individuality. Finally, the character from the reference image reappears to perform their ultimate technique, ending the episode. The animation should be sharp and dynamic, with varying speeds and rhythms. This is a high-quality, ultra-fast battle anime from Japan. The style should match the reference image. The unique characters from the input image will appear one after another from the front right of the screen in extreme close-ups against a blue sky background, and then move to the left, unleashing their unique weapons with intense and flashy effects (fire, water, lightning, earth, light, darkness, digital, etc.), magic circles, and glowing special moves, all with sharp, action-packed motions. They will then disappear into the back right as the next character appears from the front, taking their place. Each character will briefly remain in extreme close-up at the moment of impact, striking a pose, before quickly moving out of frame at high speed. The screen will shake with each impact. The camera will fly around in arc shots, rapidly focusing on each character with high-speed dolly-in and dolly-out, and dynamically capturing them with Dutch angles. Each character will have a maximum screen time of 0.5 seconds. Each character from the input image must appear at least once. All characters must maintain their appearance exactly as in the input image, without changing their faces, body shapes, or clothing. The last person finishes by unleashing their ultimate technique. The movements are varied in pace and style, creating a sharp and dynamic presentation.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09020.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09020.jpg" width="600" alt="Wukong vs Homelander Battle" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07881.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07881.jpg" width="600" alt="Ultra-Fast Hero Battle Showcase" style="cursor:pointer">
 </a>
 </div>
 
@@ -2660,31 +2081,25 @@ Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandish
 
 ---
 
-### No. 84: Silent Morning Light
+### No. 68: 90s OVA Cinematic Realism
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Ultra-realistic cinematic 15-second emotional short film set in a real modest home environment. A hardworking woman quietly performing daily chores—cleaning th…
+1990s OVA animation realistic style (Production I.G + Katsuhiro Otomo), Japanese full-color, clear and delicate original lines, restrained celluloid shadows +…
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic cinematic 15-second emotional short film set in a real modest home environment. A hardworking woman quietly performing daily chores—cleaning the house, cooking simple food in a small kitchen, folding clothes, and caring for her family. Natural morning sunlight enters through a window, dust particles visible in warm light rays, soft realistic household textures.
-
-The woman shows subtle emotions of fatigue, sacrifice, and quiet strength—gentle expressions, silent determination, no dialogue. Quick cinematic cuts: washing dishes with running water sound, stirring food in a pot, wiping a table, helping a child get ready, placing food on a simple dining table.
-
-Handheld cinematic camera style with shallow depth of field, focusing on her hands and face details. Soft ambient background sounds of home life. Emotional storytelling tone, slightly slow-motion transitions between tasks, highlighting repetition of daily struggle.
-
-Final shot: she pauses for a moment, looks out the window with calm resilience, soft light on her face, symbolizing silent strength and endurance. Fade out with warm cinematic lighting, ultra-detailed, 8K realism, film grain, natural color grading, deeply emotional mood.
+1990s OVA animation realistic style (Production I.G + Katsuhiro Otomo), Japanese full-color, clear and delicate original lines, restrained celluloid shadows + soft gradients, subtle film grain, sharp shadows, and high-contrast edge lighting. 24 frames of ultra-fast rendering editing, smudge frames + impact frames, slight motion blur
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03951.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03951.jpg" width="600" alt="Silent Morning Light" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04789.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04789.jpg" width="600" alt="90s OVA Cinematic Realism" style="cursor:pointer">
 </a>
 </div>
 
@@ -2692,25 +2107,56 @@ Final shot: she pauses for a moment, looks out the window with calm resilience, 
 
 ---
 
-### No. 85: Volcano Ramen Stall Immersive POV
+### No. 69: Wrestling Ring Shocking Betrayal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-At the edge of the crater, a late-night ramen stall opens, with lava flows winding beneath your feet like a golden river. The chef skillfully tossed the noodle…
+[CINEMATIC SETUP] Style: Professional 4K TV Sports Broadcast footage, handheld ringside camera mixed with wide crane shots. Lens/Aperture: 35mm broadcast lens,…
 
 #### 📝 Prompt
 
 ```
-At the edge of the crater, a late-night ramen stall opens, with lava flows winding beneath your feet like a golden river. The chef skillfully tossed the noodles, leaving sparks trailing through the air. The camera follows a bowl of hot soup brought to the table from a low angle, where steam and starry sky blend together. High contrast, cinematic feel. While keeping the main character unchanged, it was changed to an immersive first-person version better suited for social media sharing, adding subjective shots, rapid transitions, strong foreground flashes, and more obvious action feedback.
+[CINEMATIC SETUP]
+
+Style: Professional 4K TV Sports Broadcast footage, handheld ringside camera mixed with wide crane shots.
+
+Lens/Aperture: 35mm broadcast lens, deep depth of field to keep the crowd in view.
+
+Color Grade: High-contrast, saturated "Main Event" lighting with vibrant blues and reds.
+
+Atmosphere: Volumetric haze, strobe light flashes from the crowd, realistic arena sweat and skin texture.
+
+Audio: Immersive spatial sound, roaring stadium crowd, thudding ring canvas impacts, heavy metallic chair "clang" SFX.
+
+[CHARACTERS]
+
+Wrestler 1: Athletic, lean high-flyer in neon green trunks and wristbands.
+
+Wrestler 2: Heavyweight powerhouse, tall with long wet hair, wearing black leather tights.
+
+The Behemoth: A colossal, morbidly obese giant in a stretched leopard-print singlet.The Official: Standard referee in a black-and-white striped shirt and black slacks.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: [Medium Tracking Shot] Wrestler 1 sprints toward the ring ropes, bounces off the tensioned cables with realistic physics, and accelerates back toward the center.
+
+3-6s: [Dynamic Low-Angle] Wrestler 2 stands his ground and executes a massive lariat clothesline; Wrestler 1 flips backward from the impact and hits the canvas hard with a visible ripple effect on the ring floor.
+
+6-11s: [Wide Crane Shot] Both wrestlers lie dazed. A massive 500lb Behemoth climbs the turnbuckle. He pauses, then performs a giant splash, landing body-first onto both men. The ring frame shakes violently upon impact.
+
+11-15s: [Tight Close-up] The referee suddenly grabs a cold-rolled steel chair. In a shocking heel-turn, he swings the chair overhead, smashing it against the Behemoth’s skull. Metallic impact sparks and "CLANG" spatial audio.
+
+[STYLE & QUALITY BOOSTERS]
+Photorealistic 8K, ultra-detailed skin textures and sweat, cinematic stadium lighting, perfect motion blur, high dynamic range, no artifacts, coherent multi-subject physics.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09715.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09715.jpg" width="600" alt="Volcano Ramen Stall Immersive POV" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08878.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08878.jpg" width="600" alt="Wrestling Ring Shocking Betrayal" style="cursor:pointer">
 </a>
 </div>
 
@@ -2718,25 +2164,38 @@ At the edge of the crater, a late-night ramen stall opens, with lava flows windi
 
 ---
 
-### No. 86: Epic War Seamless Transition Shot
+### No. 70: Planet Shutter Chase
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-15-second impossible cinematic transition shot. At dusk, the camera chases a giant burning meteor-like war projectile tearing across the sky above an enormous…
+10-second cinematic sci-fi action sequence, 16:9, ultra-realistic, breathtaking scale, realistic physics, no visible face. A fighter flies through a gigantic a…
 
 #### 📝 Prompt
 
 ```
-15-second impossible cinematic transition shot. At dusk, the camera chases a giant burning meteor-like war projectile tearing across the sky above an enormous battlefield. It follows directly behind the glowing object through smoke and clouds, then as it impacts near the front line, the blast wave turns into dust and the camera continues through that dust cloud without cutting, emerging at ground level inside a brutal infantry clash. It snakes between shield impacts, sword arcs, horse legs, and sparks, then whips upward again into a wide reveal of the explosion zone from above. Seamless sky-to-ground transition, no cuts, physically impossible continuity, huge war spectacle.
+10-second cinematic sci-fi action sequence, 16:9, ultra-realistic, breathtaking scale, realistic physics, no visible face.
+A fighter flies through a gigantic artificial world.
+The interior contains continents, cities and oceans.
+Suddenly a planetary defense system activates.
+Enormous armored plates begin sliding across the sky.
+Each plate is hundreds of kilometers wide.
+The world is literally closing.
+Sunlight disappears section by section.
+The pilot races through narrowing corridors of light.
+Entire landscapes vanish beneath moving armor.
+The remaining opening becomes smaller and smaller.
+The fighter dives toward the last visible gap.
+The planetary shutters collide behind him.
+Cut.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08501.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08501.jpg" width="600" alt="Epic War Seamless Transition Shot" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05293.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05293.jpg" width="600" alt="Planet Shutter Chase" style="cursor:pointer">
 </a>
 </div>
 
@@ -2744,25 +2203,25 @@ At the edge of the crater, a late-night ramen stall opens, with lava flows windi
 
 ---
 
-### No. 87: Dream Courier of the Abyssal Post
+### No. 71: Cinematic Garden Vlog
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-The underwater post office is constructed of coral, with a seahorse postman carrying a mailbag. Jellyfish lanterns sway and glow at the entrance. The camera pa…
+Create a 14-second cinematic travel vlog using the provided image as the exact location reference. Show a stylish young girl vlogging while walking through thi…
 
 #### 📝 Prompt
 
 ```
-The underwater post office is constructed of coral, with a seahorse postman carrying a mailbag. Jellyfish lanterns sway and glow at the entrance. The camera passes through a bubble tunnel into the hall, where envelopes transform into small fish swimming away into the distance. A beautiful, dreamlike scene, with blue-green tones and a gentle, floating feel. Keeping the core characters and setting unchanged, this version is redesigned to enhance the atmosphere, incorporating aerial shots at the beginning, transitions between medium and close-ups, dynamic foreground occlusion, volumetric lighting, and environmental elements such as wind or rain, resulting in greater emotional tension and visual contrast.
+Create a 14-second cinematic travel vlog using the provided image as the exact location reference. Show a stylish young girl vlogging while walking through this beautiful heritage garden, keeping the same grand historic building, colorful flowers, wet pathway, greenery, palm trees and overall atmosphere from the reference image. Start with a wide establishing shot of the location, then show the girl smiling and talking naturally to her camera, turning the camera to reveal the beautiful surroundings. Include smooth walking shots, close-ups of flowers and architecture, natural reactions and a joyful spin. Use warm golden sunlight, realistic people, cinematic depth of field, smooth handheld/gimbal movement, natural ambient city sounds and ultra-realistic 4K quality. End with a beautiful wide shot of the same location. No text, no logos, no artificial-looking elements, and preserve the reference location accurately.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09486.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09486.jpg" width="600" alt="Dream Courier of the Abyssal Post" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_11511.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_11511.jpg" width="600" alt="Cinematic Garden Vlog" style="cursor:pointer">
 </a>
 </div>
 
@@ -2770,35 +2229,25 @@ The underwater post office is constructed of coral, with a seahorse postman carr
 
 ---
 
-### No. 88: Epic Sword Summoning In Modern City
+### No. 72: 1976 Shanghai Alley Dusk Life
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Character Settings: @男主, modern attire (black trench coat or dark long coat, naturally messy hairstyle), cold and domineering temperament, sharp eyes, maintain…
+A quick handheld camera captures the lively, crowded daily life of an old alley in downtown Shanghai, at dusk on a summer weekend (6 p.m.), 1976. The camera mo…
 
 #### 📝 Prompt
 
 ```
-Character Settings: @男主, modern attire (black trench coat or dark long coat, naturally messy hairstyle), cold and domineering temperament, sharp eyes, maintaining character consistency throughout.
-
-0–3s: Extreme facial close-up, @男主立于雪山之巅, biting cold wind blowing hair and the hem of the trench coat, left hand behind his back, right hand slowly raised to point toward the sky, camera locking onto his eyes—his gaze shifts from calm to explosive, his pupils reflecting rolling thunderclouds, mouth clearly shouting, "Sword, come!" The sound and visuals were instantly shocking, with volumetric light piercing through the clouds and shining on his face, giving him a strong contour.
-
-3–7s: The camera rapidly and seamlessly zooms in from a wide angle to a god's-eye view. The figure of @Male Lead atop the snowy mountain quickly shrinks to a single black dot in the center of the frame. The camera zooms in to reveal a magnificent modern urban panorama—skyscrapers, overpasses, neon lights all in view. The entire city is shrouded in thunderclouds, with a tense and awe-inspiring atmosphere. The clouds roll with lightning and thunder, and the sky appears as cold steel.
-
-7–12s: Thousands of longswords burst through the air from all over the city—piercing glass curtain walls, piercing pavement, and soaring from subway platforms. Tens of thousands of longswords circled and gathered in the thundercloud-swirling sky, their blades reflecting a cold, white glow in the electric light, creating an epic and stunning scale. The camera switched from a bird's-eye view back to @MaleLead's mid-shot. He stood firmly at the center of the storm, his trench coat billowing violently in the gale, his gaze fixed on the front, roaring with dominance. His right hand pointed into the distance, and countless longswords whistled away with his movements.
-
-12–15s: The camera slowly zooms in to the panoramic view of @Male Lead's back. He stands atop a snowy mountain, overlooking the spectacular sight of ten thousand swords returning to their places. Volumetric light bursts forth from the dark clouds, striking his shoulders and back, creating a strong outline light. He slowly turns his head, his profile sharply defined amid the interplay of electric and volumetric light, his mouth clearly and deeply expressing: "If Heaven had not given birth to Zhongni, eternity would be like a long night." As soon as he finished speaking, the scene froze in place. The myriad swords hovered motionless in midair, and the surroundings fell into dead silence, with only the sound of snowy mountain winds and distant thunder echoing in the distance.
-
-Image specifications: 8K ultra-high definition, cool blue-steel tones, cinematic lighting, volumetric light effects throughout, film grain, hardcore modern martial arts style, epic scale, realistic style.
+A quick handheld camera captures the lively, crowded daily life of an old alley in downtown Shanghai, at dusk on a summer weekend (6 p.m.), 1976. The camera moves between the doorways of Shikumen Hutong, capturing men and women enjoying coolness, entertainment, tea, and snacks in the alleys,
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07985.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07985.jpg" width="600" alt="Epic Sword Summoning In Modern City" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10213.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10213.jpg" width="600" alt="1976 Shanghai Alley Dusk Life" style="cursor:pointer">
 </a>
 </div>
 
@@ -2806,43 +2255,28 @@ Image specifications: 8K ultra-high definition, cool blue-steel tones, cinematic
 
 ---
 
-### No. 89: Solar Armor Meteor Descent
+### No. 73: Rogue Viper Action Gameplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A tall man in his late 20s with short dark hair and glowing amber eyes, wearing a radiant armor suit of reflective gold plates with molten seams emitting solar…
+ROGUE VIPER — ACTION SET PIECE GAMEPLAY Seedance 2.0 | R2V | One Continuous Shot | 15 seconds | 16:9 Reference assignment: Image 1 = Rogue Viper identity refer…
 
 #### 📝 Prompt
 
 ```
-A tall man in his late 20s with short dark hair and glowing amber eyes, wearing a radiant armor suit of reflective gold plates with molten seams emitting solar energy — opening frame is a medium close-up of him suspended high in the upper atmosphere, clouds far below, sunlight refracting across his armor.
-
-At second two he ignites — the armor flares into full solar output and he descends like a meteor, air igniting around him into plasma trails.
-
-Cloud layers vaporize as he passes through them at extreme velocity.
-
-He maintains rigid posture — both arms slightly extended as energy channels through his body.
-
-The right side emits intense solar flare bursts that incinerate aerial threats; the left generates heat shockwaves that ripple through the atmosphere.
-
-Camera tracks from above, then transitions into a dynamic orbital descent, snap zooming during peak energy bursts and cutting to ground-level impacts.
-
-Color logic: blinding gold-white dominates core frame, fading into deep orange plasma trails.
-
-Escalation builds as he approaches a city under siege — each proximity wave shatters glass and ignites structures below.
-
-Final beat: hard POV shift — camera becomes the solar descent itself, plunging through the final cloud layer and slamming into the city center in a massive energy detonation.
-
-Volumetric plasma trails, heat distortion, atmospheric scattering, cinematic solar intensity, 4K ultra-detail.
+ROGUE VIPER — ACTION SET PIECE GAMEPLAY
+Seedance 2.0 | R2V | One Continuous Shot | 15 seconds | 16:9
+Reference assignment:
+Image 1 = Rogue Viper identity reference — Panel 1 of the concept sheet, front and 3/4 turntable views. Controls face, hairstyle, body
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08417.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08417.jpg" width="600" alt="Solar Armor Meteor Descent" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03777.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03777.jpg" width="600" alt="Rogue Viper Action Gameplay" style="cursor:pointer">
 </a>
 </div>
 
@@ -2850,25 +2284,25 @@ Volumetric plasma trails, heat distortion, atmospheric scattering, cinematic sol
 
 ---
 
-### No. 90: Soldier Micro-Expressions Animation Tips
+### No. 74: Chibi Firefly Honkai Adorable
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-I often find it rather plain, straight forward to be boring, so I try to put micro expressions into characters. A soldier far left rubs his nose, a little prou…
+Vertical 9:16 15 seconds, ultra-cute chibi anime style, AI-generated (AIGC). Adorable super-deformed chibi Firefly from Honkai
 
 #### 📝 Prompt
 
 ```
-I often find it rather plain, straight forward to be boring, so I try to put micro expressions into characters. A soldier far left rubs his nose, a little proud he just took down a bunch of zombies together is better then they all reload.
+Vertical 9:16 15 seconds, ultra-cute chibi anime style, AI-generated (AIGC). Adorable super-deformed chibi Firefly from Honkai
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04656.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04656.jpg" width="600" alt="Soldier Micro-Expressions Animation Tips" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00248.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00248.jpg" width="600" alt="Chibi Firefly Honkai Adorable" style="cursor:pointer">
 </a>
 </div>
 
@@ -2876,25 +2310,25 @@ I often find it rather plain, straight forward to be boring, so I try to put mic
 
 ---
 
-### No. 91: From Bed to Red Carpet Glamour
+### No. 75: Cutest Ghost Finds Halloween Friends
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Theme: Generate a video of a girl [@Image 1] putting on makeup in a dressing room to prepare for an evening gala, driving a sports car, and finally walking the…
+Style: Pixar-quality 3D animation, ultra-cute, expressive characters, soft cinematic lighting, vibrant autumn colors, cozy Halloween atmosphere, exaggerated fa…
 
 #### 📝 Prompt
 
 ```
-Theme: Generate a video of a girl [@Image 1] putting on makeup in a dressing room to prepare for an evening gala, driving a sports car, and finally walking the red carpet. Quality and shots: 4K resolution, cinematic quality, high resolution. Mainly close-up shots. No subtitles, no dialogue. 0-1S: The girl [@Image 1], without makeup, wearing pajamas, stretches and gets out of bed. 1-2S: The girl [@Image 1] brushes her teeth at the sink. 2-3S: The girl [@Image 1], with a high ponytail, sits in a bright dressing room facing the makeup mirror, ready to apply makeup. 3-4S: Close-up shot: Applying foundation with a cushion puff. 4-5S: Close-up shot: Curling eyelashes with an eyelash curler. 5-6S: Close-up shot: Curling hair with a curling iron. 6-7S: Close-up shot: Applying lipstick. 7-8S: Close-up shot: A slender hand caresses the [@Image 2] gown hanging on the rack. 8-9S: Close-up shot: Taking the BMW key off the hook. 9-10S: Wide-angle shot: From a ground-level angle, following and shooting upward, a red BMW speeds along the city road. 10-15S: Close-up shot: The car door opens, revealing the red carpet ahead. Switch to a medium shot: The girl [@Image 1] steps out of the BMW. There are many distinguished guests and reporters on site. She has exquisite makeup and wavy long hair, wears the [@Image 2] gown, bright earrings and a necklace, carries a matching handbag, strikes a pose, and is photographed by various flashbulbs, showing a confident and charming smile, as if she is an international superstar.
+Style: Pixar-quality 3D animation, ultra-cute, expressive characters, soft cinematic lighting, vibrant autumn colors, cozy Halloween atmosphere, exaggerated facial expressions, smooth animation, whimsical music, heartwarming comedy, highly detailed environments, shallow depth of field, 4K. 0:00–0:05 — The Big Scare Attempt Camera: Slow dolly through a charming neighborhood decorated with pumpkins, glowing lanterns, and colorful autumn leaves before stopping at a tiny floating ghost hiding behind a tree. Action: A tiny, round white ghost with oversized sparkling eyes and rosy cheeks peeks out nervously. It takes a deep breath, puffs up to look intimidating, and jumps in front of a couple walking down the sidewalk, shouting a tiny "Boo!" Instead of screaming, the couple smiles warmly. One whispers, "Aww... look how adorable!" The ghost freezes in confusion, embarrassed as its cheeks blush pink. 0:05–0:10 — Trying Harder Camera: Fast, playful cuts following the ghost around the neighborhood. Action: The little ghost tries everything it can think of: It wears a spooky vampire cape. It makes a silly scary face. It rattles tiny chains. It floats upside down while yelling another "Boo!" Everyone who sees it laughs affectionately. An old lady gently pats its head. A dog happily chases it, wagging its tail. The ghost lets out a tiny sigh. 0:10–0:15 — Total Failure Camera: Medium shot following the ghost as it slowly floats away, shoulders slumped. Action: Sitting alone on a park bench beneath glowing lanterns, the ghost sadly watches other Halloween decorations. A small tear forms in its eye. It whispers quietly, "Maybe I'm just not scary enough..." 0:15–0:20 — An Unexpected Friend Camera: Low-angle shot as a little girl notices the lonely ghost. Action: She slowly walks over with a warm smile and gently opens her arms. The ghost looks surprised. She gives it the biggest hug. The ghost's eyes become wide with happiness. 0:20–0:25 — Everyone Joins In Camera: Wide shot revealing more children running toward the ghost. Action: One by one, the kids gather around, giving the tiny ghost hugs, high-fives, and gentle pats. The ghost laughs for the very first time. Its body begins glowing with a soft golden light. Tiny glowing hearts float gently around everyone. 0:25–0:30 — The Happiest Ghost Camera: Slow pull-back as the neighborhood glows under the moonlight. Action: The once-shy ghost happily floats above the children while everyone waves goodbye. Instead of saying "Boo," the ghost smiles brightly and says, "Hiiiii!" Everyone laughs. The final shot freezes on the ghost's joyful smile as tiny glowing hearts drift into the night sky. End Card: "Sometimes being kind is the greatest magic of all. 👻❤️"
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01337.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01337.jpg" width="600" alt="From Bed to Red Carpet Glamour" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10454.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10454.jpg" width="600" alt="Cutest Ghost Finds Halloween Friends" style="cursor:pointer">
 </a>
 </div>
 
@@ -2902,25 +2336,25 @@ Theme: Generate a video of a girl [@Image 1] putting on makeup in a dressing roo
 
 ---
 
-### No. 92: Cyber-Ronin's Neon Alley Duel
+### No. 76: Frat Leader Frames Clavicular in Epic Trailer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Match cut from final frame: cyber-ronin holding blade aloft, rain parting around the steel. She pivots and launches forward, hyper-speed dash through the alley…
+Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.
 
 #### 📝 Prompt
 
 ```
-Match cut from final frame: cyber-ronin holding blade aloft, rain parting around the steel. She pivots and launches forward, hyper-speed dash through the alley, magenta and blue nanotech suit flaring with each strike. Camera whips low tracking her boots splashing through neon-lit puddles, then pulls wide as she closes on three masked soldiers simultaneously. Slow-motion burst: she cleaves through armor plating in one fluid arc, sparks and shattered visors catching the rain. Two soldiers drop. The third grabs her wrist, the nanotech surges, crawls up his arm, and overloads his exosuit in a cascade of blue sparks. She spins free. Hard cut to her standing still in the downpour, smoke rising from the blade. Neon signs flicker above her. She looks up and a massive gunship descends through the rain clouds, searchlight sweeping the alley. Final frame: her face lit from below by the beam, jaw set, grip tightening on the katana.
+Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02554.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02554.jpg" width="600" alt="Cyber-Ronin's Neon Alley Duel" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01705.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01705.jpg" width="600" alt="Frat Leader Frames Clavicular in Epic Trailer" style="cursor:pointer">
 </a>
 </div>
 
@@ -2928,25 +2362,25 @@ Match cut from final frame: cyber-ronin holding blade aloft, rain parting around
 
 ---
 
-### No. 93: T-Rex Tunnel Chase Chaos
+### No. 77: Playful Dragon Animates Wavespeed Logo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Pure 1990 dinosaur movie terror mixed with oversized 1990s blockbuster chase energy. Claustrophobic tunnel panic, roaring engines, collapsing concrete, sparks…
+Start with a plain black background, and place the 'Wavespeed' logo in the center. Then, the adorable little dragon from image 1/2 appears, bouncing playfully.…
 
 #### 📝 Prompt
 
 ```
-Pure 1990 dinosaur movie terror mixed with oversized 1990s blockbuster chase energy. Claustrophobic tunnel panic, roaring engines, collapsing concrete, sparks flying off tunnel walls, practical destruction, and unstoppable dinosaur force. The sequence should feel like viewers entered the middle of a failed evacuation where the T-Rex is already seconds away from killing everyone. Shot 1 (0s–2s) — THE HOOK Inside a narrow jungle tunnel. A tour Jeep is already REVERSING at insane speed toward camera while sparks explode from both sides as it scrapes concrete walls. Behind it: a MASSIVE T-Rex charges through the tunnel smashing support pillars apart with its head. Dust and debris blast everywhere. Shot 2 (2s–5s) Inside the violently shaking Jeep. Passengers scream while the driver struggles to control the reversing vehicle. Rear windshield cracks from the Rex’s roar. The dinosaur slams into a concrete pillar hard enough to collapse part of the tunnel ceiling behind it. Huge rocks crash onto the road. Shot 3 (5s–8s) Wide tunnel chaos shot. The T-Rex suddenly lunges forward and BITES the back half of the Jeep. Metal CRUNCHES inward. The entire rear of the vehicle lifts off the ground while the front tires continue spinning wildly in reverse. One passenger almost falls out the side door. Shot 4 (8s–11s) Tunnel collapsing rapidly now. Emergency lights flicker red through dust and smoke. The T-Rex violently shakes the Jeep side to side in its jaws. The driver slams a glowing BOOST switch on the dashboard screaming: “HOLD ON!” Engine suddenly ROARS louder. Shot 5 (11s–13s) BOOST ACTIVATES. The front half of the Jeep rockets backward out of the Rex’s jaws. Tires explode sparks across the tunnel floor. The vehicle launches through falling debris while the T-Rex crashes through collapsing concrete behind them. Shot 6 (13s–15s) — PAYOFF The Jeep BLASTS out of the tunnel entrance into daylight just as the entire tunnel collapses inward behind it. Massive explosion of dust and concrete erupts outward. For one second survivors celebrate — Then the T-Rex BURSTS partially through the collapsing tunnel wall roaring directly toward camera through smoke and debris.
+Start with a plain black background, and place the 'Wavespeed' logo in the center. Then, the adorable little dragon from image 1/2 appears, bouncing playfully. He jumps onto the logo and walks across the letters. Each time he touches a letter for the first time, it glows and emits a cute sound (like a xylophone or piano, a lovely tone). Overall, create a playful and charming atmosphere. Finally, the dragon lies down on the 'Wavespeed' logo, which is now colored in vibrant pastel shades and sparkling. Keep it cute and playful. No background music (BGM) is needed. For sound effects, only use the flapping sound of the dragon, the bouncing sound on the letters, and the musical tones when the letters glow or change color.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02880.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02880.jpg" width="600" alt="T-Rex Tunnel Chase Chaos" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02068.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02068.jpg" width="600" alt="Playful Dragon Animates Wavespeed Logo" style="cursor:pointer">
 </a>
 </div>
 
@@ -2954,25 +2388,35 @@ Pure 1990 dinosaur movie terror mixed with oversized 1990s blockbuster chase ene
 
 ---
 
-### No. 94: Taiji Illusion: Ultimate Power Unleashed
+### No. 78: Robot Finds Glowing Garden
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Top-tier Chinese-style fantasy animation CG. Extremely saturated color explosions, surrealism, and magnificent visual experiences. Scene: At the summit of the…
+Hyper-realistic cinematic 3D video, Unreal Engine quality, ray tracing, 24fps, smooth camera movement, shallow depth of field, volumetric fog, golden-hour + so…
 
 #### 📝 Prompt
 
 ```
-Top-tier Chinese-style fantasy animation CG. Extremely saturated color explosions, surrealism, and magnificent visual experiences. Scene: At the summit of the vast sea of clouds, heaven and earth transform into a vast Taiji illusion. First shot (close-up to medium shot): [Qin Melody's Lotus Sounds] The character sits cross-legged in midair, playing the guqin transformed by flowing light. The sound waves transform into tangible golden droplets, rippling through the sea of clouds and lotus in the blue water, accompanied by the crisp, clear sound effects of the guqin. Second shot (wide wide shot): [Chess Formation Sealing the Sky] The sound of the zither suddenly accelerates, and the character condenses a dazzling white light chess piece with one hand with his index and middle fingers, pressing heavily toward the sea of clouds. The moment the pieces were placed, the sky and sea of clouds lit up together. A golden three-dimensional Go grid with a diameter of ten thousand zhang instantly locked in place. The black-and-white pieces fell like meteors and meteors, distorting space and echoing with a dull, heart-shaking sound. Third Shot (Close-up of Circumambulating Shots): [Wild Grass Demon Suppression] In a meteor shower, the character uses the fingers as a sword, using the sky as paper, quickly writing wild cursive bronze inscriptions in midair. The massive golden ancient characters ignited violent thunder and fire, transforming into chains of order that weaved between the chess formation and the sound of the zither, accompanied by the roar of thunder. Fourth shot (top-down view, extremely distant shot): [Splash Ink Swallowing the World] At the peak of its brilliance, the character waves his large sleeve, and a vast black-and-white splash of ink surges from his sleeve, transforming into an ink dragon devouring heaven and earth. All the energy of the zither, chess, and books was absorbed into the ink, surging clouds and finally being pacified into a black-and-white ink painting that blotted out the sky. The character stands with hands behind his back on the canvas, his clothes unmoved in the raging wind, fully displaying cold calculation and absolute power.
+Hyper-realistic cinematic 3D video, Unreal Engine quality, ray tracing, 24fps, smooth camera movement, shallow depth of field, volumetric fog, golden-hour + soft neon glow.
+
+Story: A lone red exploration robot enters an abandoned overgrown bio-luminescent garden searching for a faint energy signal.
+
+0–2s: Wide shot, robot enters gate, slow push-in.
+2–4s: Close-up, sensors flicker, signal detected deeper inside.
+4–6s: Action cut, fast movement through glowing plants, foliage reacts.
+6–8s: Reveal shot, glowing flower appears in center clearing.
+8–10s: Close orbit, robot reaches out, flower lights up entire garden.
+
+Emotional tone: discovery, wonder, cinematic realism. No text, no watermark.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07823.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07823.jpg" width="600" alt="Taiji Illusion: Ultimate Power Unleashed" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00593.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00593.jpg" width="600" alt="Robot Finds Glowing Garden" style="cursor:pointer">
 </a>
 </div>
 
@@ -2980,27 +2424,25 @@ Top-tier Chinese-style fantasy animation CG. Extremely saturated color explosion
 
 ---
 
-### No. 95: Bentley S2 Luxury ASMR
+### No. 79: Sunrise Solitude on Brutalist Roof
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-FORMAT: 15s / 68 BPM / 6 CUTS / cinematic realism, luxury creator-style car ASMR SUBJECTS: A cream and silver Bentley S2 Continental presented as a timeless lu…
+A lone woman stands on the roof of a brutalist concrete building at sunrise, wind pulling her coat backward as the city stretches endlessly below in soft golde…
 
 #### 📝 Prompt
 
 ```
-FORMAT: 15s / 68 BPM / 6 CUTS / cinematic realism, luxury creator-style car ASMR
-
-SUBJECTS: A cream and silver Bentley S2 Continental presented as a timeless luxury icon, long hood, mirror chrome, deep wood veneer, quilted leather, and stately glasshouse
+A lone woman stands on the roof of a brutalist concrete building at sunrise, wind pulling her coat backward as the city stretches endlessly below in soft golden haze, distant traffic glowing like veins of light. The camera begins in an extreme wide aerial shot, then slowly descends in a smooth spiraling orbit around her, tightening into a close profile as her eyes close and she breathes in. Dust particles float in the sunlight, lens flare streaks across the frame, subtle handheld vibration adds human fragility. Cinematic natural light, soft atmospheric diffusion, 35mm film texture, shallow depth of field, poetic realism. Avoid cartoon colors, avoid digital sharpness, avoid artificial CGI look.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08544.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08544.jpg" width="600" alt="Bentley S2 Luxury ASMR" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01417.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01417.jpg" width="600" alt="Sunrise Solitude on Brutalist Roof" style="cursor:pointer">
 </a>
 </div>
 
@@ -3008,25 +2450,43 @@ SUBJECTS: A cream and silver Bentley S2 Continental presented as a timeless luxu
 
 ---
 
-### No. 96: Motion Capture Character Video Generation
+### No. 80: Bull Crashes Through Village Roof
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Use reference video 1 (scene video) for the actions of person 2 (motion capture video), and generate a video using the character from image 3.
+A single continuous 10-second handheld smartphone recording captured in a rural Indian village during the monsoon. The camera operator is standing on the concr…
 
 #### 📝 Prompt
 
 ```
-Use reference video 1 (scene video) for the actions of person 2 (motion capture video), and generate a video using the character from image 3.
+A single continuous 10-second handheld smartphone recording captured in a rural Indian village during the monsoon. The camera operator is standing on the concrete rooftop of a small village shop behind two villagers holding long bamboo sticks. The shop has a flat concrete roof with one-third of the roof covered by an old corrugated tin-sheet extension. Rain has recently fallen, leaving the rooftop wet and reflective under an overcast sky.
+
+A frightened adult bull is trapped on the rooftop, pacing nervously near the edge. Across the narrow village road, three or four villagers stand on another rooftop watching and recording the unusual scene with their phones. Coconut trees, electric poles, small village homes, and lush greenery fill the rainy background.
+
+The camera begins with a slightly shaky handheld shot focused on the bull. The two men cautiously wave their bamboo sticks from a safe distance, attempting to guide the bull toward the solid concrete portion of the roof instead of the edge.
+
+The cameraman says in Hindi:
+
+"Arre idhar bhagao use!"
+
+A moment later:
+
+"Ye upar aaya kahan se?"
+
+The bull suddenly becomes startled and runs sideways toward the corrugated tin-sheet extension. As it steps onto the old tin roof, the metal visibly bends and flexes under its weight with loud creaking sounds. Within a second, the weakened tin-sheet structure gives way and collapses beneath the bull.
+
+The camera shakes violently as everyone gasps.
+
+The cameraman instinctively runs toward the roof edge while keeping the phone recording. The camera tilts downward to reveal the collapsed tin-sheet roof below. The bull is visible amid the broken sheets and debris, alive and slowly trying to stand up as nearby villagers begin rushing toward it to help.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04351.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04351.jpg" width="600" alt="Motion Capture Character Video Generation" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10249.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10249.jpg" width="600" alt="Bull Crashes Through Village Roof" style="cursor:pointer">
 </a>
 </div>
 
@@ -3034,53 +2494,28 @@ Use reference video 1 (scene video) for the actions of person 2 (motion capture 
 
 ---
 
-### No. 97: Cat Rips Off Mom's Face
+### No. 81: From Casual to Glamorous Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Scene (0–5s): A stormy suburban American street at night, rain pouring, streetlights flickering. Close-up of a 7-year-old blond boy (soaked, cheeks flushed) cr…
+Section 1 (0-15 seconds) It has the texture of a fashionable advertising blockbuster, featuring high-definition vertical screens and shallow depth of field tha…
 
 #### 📝 Prompt
 
 ```
-Scene (0–5s):
-A stormy suburban American street at night, rain pouring, streetlights flickering. Close-up of a 7-year-old blond boy (soaked, cheeks flushed) crouching down, gently picking up a shivering stray orange cat. The cat meows weakly, clinging to his chest. Smash cut — the front door bursts open as the boy rushes into a warm yet tense living room. His mother (wearing a home knit sweater, stern expression) stands at the staircase, her face darkening.
-Dialogue 1 (Mom, furious and sharp):
-Are you kidding me?! You brought a dirty stray into MY house?!
+Section 1 (0-15 seconds)
 
-Scene (6–10s):
-The boy clutches the cat tightly, eyes tearing up, trying to explain. The cat suddenly stops shaking, slowly lifting its head, pupils shrinking unnaturally. In an instant — the orange cat LEAPS straight onto the mother’s face.
-Slow motion: claws latch onto her face, she lets out a suffocating scream, stumbling backward, knocking over furniture.
-The boy rushes forward in panic, desperately pulling at the cat.
-Dialogue 2 (Boy, breaking down):
-Stop! Stop! Let her go!! PLEASE!!
-
-Scene (11–15s):
-Extreme close-up — the boy finally yanks the cat off.
-Silence.
-The mother’s “face” peels off completely, along with her blonde hair, sliding down.
-Revealing — a green-skinned, large black-eyed alien face, wet and cold, staring directly forward.
-
-The boy’s pupils shake violently. The “face” drops from his hands onto the floor.
-The orange cat lands and slowly turns its head, eerily calm.
-The alien tilts its head slightly, mouth stretching into an unnatural smile.
-Dialogue 3 (Alien, low and eerie):
-…You weren’t supposed to see that.
-
-Sound Design:
-Heavy rain and distant thunder at the start, door slam impact; mid-section tearing/claw impact, furniture crashing, suffocating screams; final section sudden silence → wet peeling sound → rising low-frequency horror tone, final line with subtle echo.
-
-Duration:
-Exactly 15 seconds (high-intensity American micro drama, dense shock beats, extreme twist payoff)
+It has the texture of a fashionable advertising blockbuster, featuring high-definition vertical screens and shallow depth of field that highlight the characters, with strong light and shadow contrast. 0-3 seconds: Fixed shot, front medium shot, a long-haired Chinese woman
+Wearing a loose gray sweatshirt, bare-faced, with hair casually tied in a bun, standing in front of a huge full-length mirror, lazily raising her hand to tidy her stray hair, against the background
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08040.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08040.jpg" width="600" alt="Cat Rips Off Mom's Face" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08976.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08976.jpg" width="600" alt="From Casual to Glamorous Transformation" style="cursor:pointer">
 </a>
 </div>
 
@@ -3088,62 +2523,25 @@ Exactly 15 seconds (high-intensity American micro drama, dense shock beats, extr
 
 ---
 
-### No. 98: Morning Light in Old Alley
+### No. 82: Warehouse FPS Gunfight Chaos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-**Main Subject**: A young Korean woman, in her early twenties, dresses naturally and daily, wearing a weathered charcoal gray sleeveless cropped top and loose,…
+First-person shooter in a warehouse, fast movement, gunfight, explosions, cinematic handheld POV.
 
 #### 📝 Prompt
 
 ```
-**Main Subject**:
-A young Korean woman, in her early twenties, dresses naturally and daily, wearing a weathered charcoal gray sleeveless cropped top and loose, high-waisted light-colored washed jeans, paired with black canvas sneakers and a black string necklace. Her black wavy hair was tied into a slightly messy side ponytail, with light, loose bangs. Realistic skin texture, light makeup, warm and approachable personality. Throughout the video, the character's identity, clothing, hairstyle, and appearance must be highly consistent.
-
-**Location**:
-In the morning, a peaceful and authentic Korean residential area. Narrow cement alleys, low-rise residences, small terraces, potted plants, clotheslines, bicycles, utility poles, overhead wires crisscrossing the sky, dense trees casting mottled, swaying shadows, creating a quiet living atmosphere. No shops, advertisements, cafes, crowds, or commercial events.
-
-**Visual Style**:
-A hyper-realistic documentary style. A genuine, unpretentious snapshot experience. Natural body language. Unscripted daily life fragments. A strong sense of environmental realism. It contains rich real-world details and natural, realistic human body dynamics.
-
-**Camera Style**:
-The aesthetic style of consumer-grade DV cameras in the early 2000s. Create the feeling of friends casually recording everyday moments. Strong handheld lens shake, imperfect composition, frequent autofocus searches (bellows effect), lens breathing effect, exposure fluctuations (flicker) when moving between sunlight and shadow, occasional motion blur, slight jelly effect, slight digital compression flaws, color fading/fading, soft contrast, and slight sensor noise. No stabilization treatment. No cinematic camera work. No traces of modern color grading.
-
-**00:00–00:02**
-Outside the entrance of a small house. She sat on a low concrete wall, raising her hands to tidy her ponytail. The breeze stirs the scattered strands of hair. She smiled naturally as the camera tried to focus at that moment.
-
-**00:02–00:04**
-The camera follows her through a narrow alley lined with potted plants and concrete walls on both sides. She noticed a stray cat and crouched down. Because the photographer tries to keep up with her movements, the composition shifts off the center of gravity.
-
-**00:04–00:06**
-She gently stroked and fed the cat. The camera's autofocus repeatedly switches between her face and the cat. The morning sunlight filtered through the leaves overhead, flickering in dappled patterns.
-
-**00:06–00:08**
-In the small front yard next to her house. She was hanging clothes on a clothesline, the fabric swaying in the breeze. When clouds briefly drift overhead, the exposure of the image changes accordingly.
-
-**00:08–00:10**
-On a quiet terrace, holding a ceramic coffee cup. She sat comfortably, observing the surrounding neighborhoods, occasionally tucking her hair behind her ear. It features a casual, loose side-mounted handheld perspective accompanied by natural lens drift.
-
-**00:10–00:12**
-Close-up from the side. Someone greeted her off-screen. She turned her head, raised her hand, smiled warmly, and casually said, "Anniu (hello)." The camera's candid response was a bit half a beat slower.
-
-**00:12–00:15**
-She held a coffee cup in her hand and slowly walked along the tree-lined residential path. She noticed the camera, gave a small but sincere smile, then looked away and continued walking. The video suddenly cuts off and goes black mid-movement, as if the camera has been abruptly turned off.
-
-**Audio**:
-Only natural ambient sounds are preserved—morning birdsong, distant motorcycles, gentle breeze, rustling of leaves, faint neighborhood chatter, cat meowing, footsteps on the cement floor, the fluttering fabric on clotheslines, and subtle ambient sounds of the residential neighborhood. No music. Soundless design. No narration.
-
-**Goal**:
-It captures authentic Korean community life, making it look like a forgotten early 2000s family video—casual shots, imperfections, realism, warmth, and highly convincing.
+First-person shooter in a warehouse, fast movement, gunfight, explosions, cinematic handheld POV.
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04746.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04746.jpg" width="600" alt="Morning Light in Old Alley" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08394.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08394.jpg" width="600" alt="Warehouse FPS Gunfight Chaos" style="cursor:pointer">
 </a>
 </div>
 
@@ -3151,25 +2549,34 @@ It captures authentic Korean community life, making it look like a forgotten ear
 
 ---
 
-### No. 99: 1990s Singapore Love Memory
+### No. 83: Brazil World Cup Victory Celebration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage. A nostalgic romance film set in 1990s Singapore, shot…
+ultra-realistic live-action sports documentary style, packed FIFA World Cup 2022 Qatar stadium at night. Energetic blonde Brazilian female fan wearing green-an…
 
 #### 📝 Prompt
 
 ```
-Follow the storyboard sequence of the 12 reference frames in image1, edited as a fast-cut memory montage. A nostalgic romance film set in 1990s Singapore, shot on 35mm film in Kodak Portra 800 style. Soft grain, dreamy blur, warm highlights, and slight color shifts create a vintage cinematic atmosphere.
+ultra-realistic live-action sports documentary style, packed FIFA World Cup 2022 Qatar stadium at night. Energetic blonde Brazilian female fan wearing green-and-yellow Brazil headband, Brazil scarf, and stylish yellow top filming herself in selfie mode, huge excited smile, jumping and screaming with emotional crowd energy, subtle handheld iPhone camera shake for realism. Fast dynamic cuts between selfie shots, roaring fans waving flags, Neymar and Brazil players celebrating dramatically on the lush green pitch after a goal, stadium lights glowing intensely, cinematic motion blur, confetti flying, vibrant saturated greens and yellows, immersive World Cup atmosphere, high-energy samba percussion beat synced with edits, authentic sports-broadcast aesthetic, realistic skin textures, 4K cinematic depth of field.
+0–3s: Selfie close-up, woman shouting excitedly:
+“Brazil! Let’s gooo!”
+Crowd chanting loudly in background.
+3–7s: Quick cuts to Neymar and Brazil players celebrating, fans jumping, flags waving.
+Excited stadium commentator voice:
+“GOOOAAAL for Brazil! The stadium is absolutely exploding tonight in Qatar!”
+7–11s: Woman laughing and cheering toward camera while fireworks and crowd erupt behind her.
+Commentator shouting with crowd noise swelling:
+“What a magical World Cup moment for Brazil!”
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02009.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02009.jpg" width="600" alt="1990s Singapore Love Memory" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04024.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04024.jpg" width="600" alt="Brazil World Cup Victory Celebration" style="cursor:pointer">
 </a>
 </div>
 
@@ -3177,25 +2584,484 @@ Follow the storyboard sequence of the 12 reference frames in image1, edited as a
 
 ---
 
-### No. 100: Skater Rides Dachshund Skateboard
+### No. 84: Epic Piano Oner Take
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Fisheye lens skatepark shot on a sunny day with chain-link fences and graffiti-covered ramps in the background. Camera starts low on the empty concrete bowl, t…
+single continuous shot, one take no cuts, cinematic oner, cinematic lighting, photorealistic, 35mm film quality, professional color grading, sharp focus, high…
 
 #### 📝 Prompt
 
 ```
-Fisheye lens skatepark shot on a sunny day with chain-link fences and graffiti-covered ramps in the background. Camera starts low on the empty concrete bowl, then a skater in a white t-shirt, baggy jeans, and a red cap rolls into frame - standing on top of a dachshund dog that runs along like a living skateboard, its little legs pumping. The skater balances and rides the dachshund through the park with confident style. Warm summer tones, VHS-style vignette, 60fps action, humorou and surreal.
+single continuous shot, one take no cuts, cinematic oner, cinematic lighting, photorealistic, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, steadicam fluidity
+Photorealistic live-action, not animation: an epic mountaintop cliff above a vast sea of glowing clouds at golden hour, distant jagged peaks catching warm light. A young woman pianist in a long flowing gown plays a black grand piano with intense expressive emotion, body swaying, hands flying across the keys, hair and dress whipping violently in a rising wind, while flocks of birds sweep upward through shafts of god-light and embers and petals swirl through the gusting air. The single take is built as one aggressive FPV descent — banking flight, a plunge into the piano's resonant interior, then an explosive pull-back to epic scale — with warm golden light, anamorphic flares, and volumetric beams held consistent so feather, ember, skin, and string textures all read in razor 4K macro detail.
+
+Single continuous shot 15s: The camera banks fast and low around the cliff edge through churning golden clouds, embers and petals streaking past the lens as it swings toward the pianist, her gown and hair whipping in the wind, hands flying across the keys. Accelerating forward, the camera dives straight into the open piano lid and ramps to slow motion as it threads the tight gap between copper-wound strings and felt hammers, the hammers striking and the strings shivering in pore-deep macro detail, dust and light vibrating in the resonant wooden interior. Then the camera bursts back out of the piano, snapping to full speed as it pulls away and rises, birds sweeping upward through shafts of light, until it settles into a soaring extreme wide that reveals the whole cliff, the lone pianist, and the endless sea of glowing clouds below.
+Total: 15s / 1 shot / 16:9
 ```
 
 #### 🎬 Generated Videos (Click to play ↗)
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00275.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00275.jpg" width="600" alt="Skater Rides Dachshund Skateboard" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05236.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05236.jpg" width="600" alt="Epic Piano Oner Take" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 85: Shadow Sorcerer vs Phoenix Battle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+16:9 ratio, epic multi-shot cinematic blockbuster 12-second fight video. A dark-robed shadow sorcerer with levitating black orbs battles a colossal fiery-ice p…
+
+#### 📝 Prompt
+
+```
+16:9 ratio, epic multi-shot cinematic blockbuster 12-second fight video. A dark-robed shadow sorcerer with levitating black orbs battles a colossal fiery-ice phoenix with razor wings and freezing flames in a frozen ancient temple under aurora skies. Dynamic shots: dramatic overhead drone sweep diving into the fight, intense slow-mo tracking as wings slash past him, orbiting camera around orb explosions, massive climax wide-to-tight shot where he traps the phoenix in a swirling shadow vortex that cracks its icy body with shattering ice shards and dark energy bursts. Epic Hollywood VFX, volumetric magic lighting, dramatic camera moves, high-intensity trailer style.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01185.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01185.jpg" width="600" alt="Shadow Sorcerer vs Phoenix Battle" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 86: World Tour Fashion Reel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+"FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE CONCEPT A stylish woman stands at the center of the frame while the camera perf…
+
+#### 📝 Prompt
+
+```
+"FORMAT: live action, cinematic video, 15s, continuous rotation match cut SCENE CONCEPT A stylish woman stands at the center of the frame while the camera performs a smooth circular orbit around her. She moves naturally like a travel influencer filming a fashion reel - small turns, relaxed walking steps, confident poses and subtle hair movement. During each rotation moment, the environment and her outfit transform to match a different famous world landmark. CAMERA Continuous orbiting camera around the character at waist height. The camera never stops rotating. Match cuts occur when the camera briefly passes behind her back or shoulder. TIMELINE 0:00–0:03 Paris - Eiffel Tower visible in the background. She wears a chic Parisian outfit: elegant dress, sunglasses, light scarf. She makes a small influencer pose and turns slightly toward the camera. 0:03–0:06 Rotation match cut. New York - Times Square neon lights and billboards. Her outfit transforms into modern urban street fashion. She takes a few confident steps forward like a fashion reel. 0:06–0:09 Rotation match cut. Egypt - pyramids and desert horizon behind her. Her clothing shifts into a desert-inspired travel outfit with flowing fabric. Wind moves her hair and fabric as she slowly turns. 0:09–0:12 Rotation match cut. India - Taj Mahal courtyard environment. Her outfit becomes an elegant traditional-inspired dress with vibrant colors. She lightly spins once like a travel influencer moment. 0:12–0:15 Final rotation match cut. Japan - Mount Fuji landscape with cherry blossoms drifting in the air. Her outfit becomes modern Japanese-inspired fashion. She finishes the movement facing the camera as the orbit completes. STYLE continuous orbit camera, influencer fashion reel energy, seamless landmark transitions, wardrobe transformation, cinematic lighting, travel montage aesthetic"
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01247.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01247.jpg" width="600" alt="World Tour Fashion Reel" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 87: Silent Judgment at the Table
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic cinematic crime drama, 10 seconds, Oscar-winning visual language, photorealistic skin, natural imperfections, subtle sweat, dust in the air, ma…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic crime drama, 10 seconds, Oscar-winning visual language, photorealistic skin, natural imperfections, subtle sweat, dust in the air, masterpiece cinematography.
+
+Main Subject:
+A powerful Mexican mafia boss in his late 50s, silver-streaked black hair, weathered face, calm terrifying presence, tailored black suit, gold ring, seated at the head of a long dark wooden table like a king.
+
+Two Thieves:
+Thief 1: a skinny nervous young man, age 22, pale olive skin, shaved head, cheap leather jacket, restless eyes, fast breathing, trying to look tough but clearly terrified.
+Thief 2: a heavyset older man, age 46, rough beard, deep facial lines, worn denim shirt, slower movements, hardened but exhausted, carrying guilt in his expression.
+They must look completely different in age, body type, face shape, posture, and energy.
+
+Environment:
+A dim hacienda-style private room in a luxurious Mexican estate, textured plaster walls, religious candles, dark wood, expensive tequila bottles, tobacco smoke, guards blurred in background, late-night atmosphere.
+
+Lighting and Color:
+Extremely cinematic warm amber and deep crimson color grading, practical candlelight mixed with a narrow shaft of moonlight through blinds, high contrast, rich shadows, glossy eye reflections, premium film look.
+
+Camera Style:
+Slow dolly-in, shallow depth of field, anamorphic lens feel, subtle handheld tension, elegant framing, precise rack focus, no cheap action style.
+
+Mood:
+Controlled intimidation, silence heavier than violence, prestige crime cinema, emotional realism.
+
+Dialogue:
+Very little dialogue, almost whispered.
+Boss: “You stole from the wrong house.”
+Young thief quietly: “We didn’t know.”
+Older thief remains silent.
+
+Timeline:
+0:00–0:02 — Wide cinematic establishing shot of the mafia boss seated in silence, the two thieves standing across the table, tiny in the frame, smoke drifting through warm light.
+0:02–0:04 — Medium close-up on the young thief swallowing hard, eyes flicking toward the older thief, fingers trembling.
+0:04–0:06 — Close-up of the older thief, bruised knuckles, regret and fear mixing on his face, saying nothing.
+0:06–0:08 — Slow push-in on the boss leaning forward slightly, expression unreadable, delivering one quiet line: “You stole from the wrong house.”
+0:08–0:10 — Extreme close-ups: candle flame, gold ring tapping wood once, sweat rolling down the young thief’s temple, the older thief lowering his eyes, then hold on the boss in absolute stillness. Freeze-frame feeling.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00929.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00929.jpg" width="600" alt="Silent Judgment at the Table" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 88: Consistent Eastern Fantasy Style Guide
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Maintain a consistent visual style throughout the entire film, with no style drift, and ensure consistent color tones and texture from start to finish. Keep th…
+
+#### 📝 Prompt
+
+```
+Maintain a consistent visual style throughout the entire film, with no style drift, and ensure consistent color tones and texture from start to finish. Keep the same character's facial features, hairstyle, clothing, weapons, and scar locations consistent, without changing faces or swapping actors. Maintain consistent environment, lighting, background, and spatial relationships within the same scene, avoiding abrupt transitions. Adhere to an original Eastern fantasy world view and character designs, avoiding any resemblance to existing film, animation, or game IP character images and iconic styles.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01314.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01314.jpg" width="600" alt="Consistent Eastern Fantasy Style Guide" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 89: Crystal Cave Boss Battle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A Souls-like 3D action game-style video. A boss entrance movie. A mage character enters a hall in a crystal cave. Then, as a ground-shaking roar echoes, the ce…
+
+#### 📝 Prompt
+
+```
+A Souls-like 3D action game-style video. A boss entrance movie. A mage character enters a hall in a crystal cave. Then, as a ground-shaking roar echoes, the ceiling cracks open and a giant humanoid monster descends. The battle between the terrifyingly roaring monster and the girl begins! Fight, Ashen One.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00464.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00464.jpg" width="600" alt="Crystal Cave Boss Battle" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 90: Snake Strikes Mouse in Wild
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic wildlife documentary footage. A snake slowly slithers through dry grass in the early morning light. Suddenly it spots a small mouse. The camera…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic wildlife documentary footage. A snake slowly slithers through dry grass in the early morning light. Suddenly it spots a small mouse. The camera switches to a tense close-up as the snake strikes quickly and captures the mouse. Natural handheld documentary camera,
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08671.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08671.jpg" width="600" alt="Snake Strikes Mouse in Wild" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 91: A Northern New Year's Eve Feast
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Theme: Based on the user-provided photo of a New Year's Eve dinner, generate a 15-second cinematic documentary-style short film about food, referencing the sty…
+
+#### 📝 Prompt
+
+```
+Theme: Based on the user-provided photo of a New Year's Eve dinner, generate a 15-second cinematic documentary-style short film about food, referencing the style of "A Bite of China". The visuals should be in widescreen 16:9, 24fps, with cinematic color grading and fine grain, primarily using macro and close-up shots with shallow depth of field, realistic steam and oil sheen. The scene should be set in a northern Chinese family's New Year's Eve kitchen and dining table, featuring warm lighting, a wooden table, and white porcelain plates and bowls. Only the chef's hands and forearms are allowed (no faces), with realistic and restrained movements. The editing consists of 8 hard cuts, each lasting 1.5–2 seconds, ending with all three dishes and dumplings on the table. Shot 1: Based on the photo, hot oil sizzling with spices, fine bubbles and oil ripples on the surface, thin steam rising, clean highlights on the pot rim, with a clear "sizzling" sound. Shot 2: Braised pork belly being stir-fried in the wok to caramelize, clear details of the skin's gelatin, realistic oil sheen, and the sound of the spatula scraping lightly. Shot 3: Based on the photo, poached fish in chili oil, lifting the lid of the steamed fish, the flesh trembling slightly, aroma wafting, steam billowing. Shot 4: Sichuan peppercorns and dried chilies hitting the hot oil, clear fibers of the particles, restrained splattering, strong aromatic sensation. Shot 5: Before serving the poached fish, red chili oil is poured, forming ribbon-like flows, tiny oil droplets splashing at the impact point, layers of hot steam rising. Shot 6: Based on the photo, green vegetables being stir-fried in the wok, vibrant green and crisp-tender, thin layers of wok steam rising, clean and crisp stir-frying rhythm. Shot 7: Dumplings being taken out of the pot, clear layers of large and small bubbles in the boiling water, water droplets clinging to the dumpling skins, steam rushing out as the lid is lifted. Shot 8: Three dishes and dumplings placed on the table: a plate of braised pork belly with glossy red-brown color, a large bowl of poached fish with surging red oil, a plate of stir-fried greens in refreshing green, and a plate of plump, white dumplings; the camera slowly pushes in and holds for 0.5 seconds, steam rising in layers like breathing. Audio: Music has the highest priority, must generate documentary-style background music with the temperament of "A Bite of China": warm, restrained, with Chinese charm using strings/woodwinds/light percussion atmosphere; at the same time, clear and realistic cooking sound effects must be present (sizzling, bubbling, boiling, spatula sounds, steam from lifting lids), audio cannot be missing. Voiceover has high priority: add a low, restrained Chinese documentary-style voiceover (not advertising tone), using short sentences to describe "heat control, steam, reunion, and time", without mentioning brands, titles, or specific place names.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01384.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01384.jpg" width="600" alt="A Northern New Year's Eve Feast" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 92: Optimus Prime vs Godzilla Rain Battle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+a luxury car transforming into Optimus Prime and battling Godzilla amidst explosions and energy blasts against the backdrop of a rainy Tokyo nightscape
+
+#### 📝 Prompt
+
+```
+a luxury car transforming into Optimus Prime and battling Godzilla amidst explosions and energy blasts against the backdrop of a rainy Tokyo nightscape
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08572.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08572.jpg" width="600" alt="Optimus Prime vs Godzilla Rain Battle" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 93: Mirrored Train Crosses Salt Desert
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+The mirrored train crosses the white salt lake desert, its body reflecting the clouds in the sky like a flowing illusion. Passengers dance inside transparent c…
+
+#### 📝 Prompt
+
+```
+The mirrored train crosses the white salt lake desert, its body reflecting the clouds in the sky like a flowing illusion. Passengers dance inside transparent carriages, with endless reflections beneath their feet. The camera moves from close-up of the wheels to aerial shots, with a strong sense of speed, minimalist aesthetics, and clean composition. While keeping the main subject and story core unchanged, the focus shifted to stronger cinematic camera progression, adding low camera angles, fast pacing, dramatic lighting in the early morning or evening, and enhancing environmental details and a sense of movement.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09381.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09381.jpg" width="600" alt="Mirrored Train Crosses Salt Desert" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 94: Stadium Surprise Kick
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Ultra-realistic sports broadcast video, cinematic night match atmosphere. A glamorous woman sits in a packed football stadium surrounded by fans in jerseys and…
+
+#### 📝 Prompt
+
+```
+Ultra-realistic sports broadcast video, cinematic night match atmosphere. A glamorous woman sits in a packed football stadium surrounded by fans in jerseys and scarves. She is mid-drinking the beer cup in her other hand, while a half-eaten French fry on another hand. Suddenly the stadium PA booms her name "[place your name]" — she freezes, eyes wide, everybody looks at her cheering. She carefully sets the beer cup and eats the French fry, wipes her hand with the tissue paper, and throws it. She stands, slides past the row of fans, and walks purposefully down the stadium steps toward the pitch. She steps onto the field — the crowd murmurs with anticipation. The football players on the ground toss the ball towards her. She lines up, takes two measured steps, and sends a powerful, clean kick straight through the goal posts. The stadium erupts. She turns, jogs back toward the broadcast camera with a wide grin, reaches both arms forward, and covers the lens completely with her open palms — the screen goes black. Throughout: broadcast overlay with live score and match timer in top-left corner, sports network watermark top-right, shallow depth of field with sharp focus on the woman, slightly blurred crowd background, natural arena floodlighting, authentic live TV aesthetic.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04111.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04111.jpg" width="600" alt="Stadium Surprise Kick" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 95: Sgt Pepe Meme Animated Sitcom
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sitcom featuring @Ars0nic 🐸
+
+#### 📝 Prompt
+
+```
+a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sitcom featuring @Ars0nic 🐸
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07903.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07903.jpg" width="600" alt="Sgt Pepe Meme Animated Sitcom" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 96: Animated Storyboard in Cel-Shaded Style
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Use the uploaded storyboard @[Image1] as the animation sequence. Animate every storyboard panel in order with smooth transitions. Maintain the uploaded charact…
+
+#### 📝 Prompt
+
+```
+Use the uploaded storyboard @[Image1] as the animation sequence.
+
+Animate every storyboard panel in order with smooth transitions.
+
+Maintain the uploaded character sheet appearance and identical flat cel-shaded anime illustration style.
+
+Soft wind
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02940.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02940.jpg" width="600" alt="Animated Storyboard in Cel-Shaded Style" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 97: Retro Skate Strawberry Shake Ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Visual style & vibe: early 2000s skate video meets retro milkshake commercial energy. Raw, gritty, fast-paced. Fish-eye lenses, motion blur, high contrast, sli…
+
+#### 📝 Prompt
+
+```
+Visual style & vibe: early 2000s skate video meets retro milkshake commercial energy. Raw, gritty, fast-paced. Fish-eye lenses, motion blur, high contrast, slightly faded nostalgic colors with warm pink-red strawberry tones. Use product image as the exact strawberry shake bottle/cup reference throughout every frame for perfect consistency. Create a 12-frame storyboard ad. Each frame should vary in shot type and together tell one cohesive story starring stylish western young adults. Frame ideas and energy: Fast skateboard push through a sunny suburban street while holding the strawberry shake. Close-up of condensation dripping from the cold shake in someone’s hand. Group of western friends laughing outside a diner parking lot at golden hour. Fish-eye low angle of a girl jumping off a skate ramp with the shake in frame. Messy whipped cream mustache moment inside a retro car. Slow-motion strawberry shake splash transition. Extreme close-up of strawberries blending into the shake. Friends passing the shake around at a late-night gas station stop. Motion blur running shot through a basketball court. Retro camcorder-style cheers shot with multiple shakes clinking together. Hero shot on asphalt with sunlight reflections and crushed ice around the product. Final cinematic freeze-frame of the main character drinking the strawberry shake while the group skates away in the background. Cinematic details: authentic western fashion, oversized hoodies, denim, skate shoes, crop tops, baggy jeans, silver jewelry, messy natural movement, candid expressions, imperfect camera framing, energetic youth culture atmosphere, commercial-quality realism.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02852.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02852.jpg" width="600" alt="Retro Skate Strawberry Shake Ad" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 98: Aggressive Rider Full Speed
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A rider at full speed, aggressive control, no hesitation. 0-3s Low tracking behind bike. Extreme speed. 3-5s Helicopter above. Shadow passing. 5-7s Ground impa…
+
+#### 📝 Prompt
+
+```
+A rider at full speed, aggressive control, no hesitation. 0-3s Low tracking behind bike. Extreme speed. 3-5s Helicopter above. Shadow passing. 5-7s Ground impacts around him. Near misses. 7-9s Sharp turn. Camera whip pan. 9-11s Jump over obstacle. 11-13s Slow motion.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00238.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00238.jpg" width="600" alt="Aggressive Rider Full Speed" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 99: Cyborg Transformation Unveiled
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Generate a cyberpunk mechanical body, depicted as a female, with only mechanical bones and circuits. Then, starting from the chest, generate skin, tissues, gra…
+
+#### 📝 Prompt
+
+```
+Generate a cyberpunk mechanical body, depicted as a female, with only mechanical bones and circuits. Then, starting from the chest, generate skin, tissues, gradually extending to the arms, abdomen, thighs, calves, and head. Grow hair and put on clothes, with the entire process focusing on the transformation of the form. The background music is cyberpunk style, with no dialogue.
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01551.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01551.jpg" width="600" alt="Cyborg Transformation Unveiled" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 Try it on Goku Prompt Hub](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 100: White Kimono Character Reference Guide
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+Instruction: CHARACTER REFERENCE [Character Reference: @image-1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the refe…
+
+#### 📝 Prompt
+
+```
+Instruction: CHARACTER REFERENCE [Character Reference: @image-1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the reference character, do not alter identity or facial structure, appearance must remain consistent: glowing dark eyes,
+```
+
+#### 🎬 Generated Videos (Click to play ↗)
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04589.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04589.jpg" width="600" alt="White Kimono Character Reference Guide" style="cursor:pointer">
 </a>
 </div>
 
@@ -3231,6 +3097,6 @@ Licensed under CC BY 4.0.
 
 **[🌐 View in Web Gallery](https://prompthub.gokuscraper.com)** • **[⭐ Star this repo](https://github.com/goku-open/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: Tuesday, August 25, 2026 at 1:17:07 AM UTC</sub>
+<sub>🤖 This README is automatically generated. Last updated: Wednesday, August 26, 2026 at 1:19:55 AM UTC</sub>
 
 </div>
