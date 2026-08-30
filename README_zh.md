@@ -50,32 +50,32 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **8755** |
-| 🔄 最后更新 | **2026年8月29日星期六 UTC 05:59:23** |
+| 🔄 最后更新 | **2026年8月30日星期日 UTC 04:05:09** |
 
 </div>
 
 ---
 ## 📋 所有提示词
 
-### No. 1: 沙虫引擎兽惊魂
+### No. 1: 水豚捣乱做饭
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-开场两秒内，一名粗犷的拾荒少女——身披风帆翅翼、戴着防风沙护目镜、穿着废铁装甲——从画面中俯冲而下，以骇人速度滑下巨型沙丘，身后沙尘暴涌。一头巨型沙虫引擎兽从沙漠下方破土而出，旋转的钻头颚部与蒸汽排气口瞬间制造出强烈悬念。动画随即演变为高速沙朋克追逐——穿越沙丘、从破碎飞艇残骸上飞跃、沿锈蚀铁轨疾驰、穿梭于半埋沙中的…
+真人实拍+ 2D 动漫贴纸合成搞笑短视频【风格】 真人实拍+ Flat 2D Sticker Composite 搞笑短视频。 第一人称做饭视角，写实厨房质感与扁平卡通贴纸风格形成强烈反差。 整体为Live-Action + Flat 2D Cartoon Sticker 混搭效果。 画面是真实厨房实拍，角色是全程保…
 
 #### 📝 提示词
 
 ```
-开场两秒内，一名粗犷的拾荒少女——身披风帆翅翼、戴着防风沙护目镜、穿着废铁装甲——从画面中俯冲而下，以骇人速度滑下巨型沙丘，身后沙尘暴涌。一头巨型沙虫引擎兽从沙漠下方破土而出，旋转的钻头颚部与蒸汽排气口瞬间制造出强烈悬念。动画随即演变为高速沙朋克追逐——穿越沙丘、从破碎飞艇残骸上飞跃、沿锈蚀铁轨疾驰、穿梭于半埋沙中的废弃沙漠城市。她以如下方式反击：爆炸性废料地雷、勾连风帆的抓钩、旋转刀片陷阱、沙烟弹用于潜行。沙虫愈发狂暴——其机械节肢裂开、引擎过热、沙尘化作冲击波，在沙面下掘进并跃出地表。视觉风格：尘土飞扬的电影感蒸汽朋克沙漠——金色阳光、热浪扭曲、飞沙、锈蚀纹理、戏剧性剪影。最终时刻：她借助风帆高高跃起，俯冲而下施以最后一击——沙虫轰然倒塌。其核心开启。内部……一只弱小而颤抖的小型沙漠生物，被囚禁其中，无知地驱动着这头巨兽。
+真人实拍+ 2D 动漫贴纸合成搞笑短视频【风格】 真人实拍+ Flat 2D Sticker Composite 搞笑短视频。 第一人称做饭视角，写实厨房质感与扁平卡通贴纸风格形成强烈反差。 整体为Live-Action + Flat 2D Cartoon Sticker 混搭效果。 画面是真实厨房实拍，角色是全程保持纯2D 平面贴纸质感的Q 版卡通角色。 8K 超清，竖屏，手持轻微晃动，短视频节奏明快，笑点直接。 【时长】 10 秒【画幅】 9:16 竖屏一、场景设定【场景】 真实居家厨房第一人称视角。 黑色铁锅放在灶台上，锅里正在翻炒牛肉和青菜，油光滋滋，蒸汽上冒。 背景包含： 白色瓷砖墙墙面插座靠墙排列的酱油瓶和油瓶右侧不锈钢水槽侧窗自然光照入要求整体环境真实生活化，厨房质感可信，不能变成卡通厨房。 相机为第一人称POV，轻微手持晃动，但不要晃得太乱。 二、角色设定【角色】Q 版动漫贴纸角色：水豚噜噜（Capybara Lulu） 设定要求： 圆润可爱的拟人卡通水豚正面站在画面中央偏下位置身高约为铁锅的一半扁平2D 贴纸质感明显卡通描边纸片感强不能变成立体真实动物不被真实环境光重新塑造成写实立体光影外观统一锁定： 身体为淡黄色穿橙色短裤脖子系黄色小围裙头顶顶着一个小橘子四只小短爪圆润如豆头部和脸部占比很大整体像软萌纸片贴纸角色角色气质： 平时佛系慵懒但一搞事就特别熟练表情贱兮兮，恶作剧感强【真人部分】 真人的手为写实风格，从画面右侧入画。 要求皮肤细节真实，毛孔可见，与2D 角色形成明确反差。 三、镜头设计【镜头1｜00:00–00:03】 倒盐捣乱（Salt Avalanche Opening） 【机位】 第一人称俯视POV 【画面动作】 真人的手正用锅铲翻炒锅里的牛肉和青菜。 水豚噜噜坐在灶台旁的小木凳上，眯起豆豆眼，腮红加深，嘴角上扬露出贱兮兮的坏笑。 它两只小短爪高高举起一个比自己脑袋还大的玻璃调料罐，趁真人炒菜时，把整罐白盐哗哗倒进锅里。 盐要像真实瀑布一样倾泻而下，清楚落进锅中，并在菜上堆成一座夸张但可见的“小白盐山”。 【角色表情】 豆豆眼微眯嘴角坏笑恶作剧得意【音效】 食物滋滋声盐倒入锅中的密集沙沙声【本镜头唯一主要动作】 水豚噜噜把整罐盐倒进锅里。 【镜头2｜00:03–00:05】 夺瓶敲头（Spatula Bonk） 【机位】 继续保持第一人称近景POV 【画面动作】 真人一只手迅速夺走它怀里的玻璃盐罐。 另一只手举起锅铲，用铲面朝下，轻轻敲在水豚噜噜头顶。 注意这一下是卡通式轻敲，不是现实暴力感。 敲击后，它头顶立刻弹出一个明显的红色卡通肿包。 它整个圆滚滚的2D 贴纸身体上下猛地一颤，两只小短爪立刻抱头，豆豆眼瞬间瞪圆。 【角色表情】 震惊委屈被打懵一瞬间【音效】 锅铲“Duang” 一声轻微金属敲击音卡通弹簧音效【本镜头唯一主要动作】 真人用锅铲轻敲它的头顶。 【镜头3｜00:05–00:08】 敲哭张嘴・铲盐入嘴（Cry &amp; Feed） 【机位】 第一人称近景POV，聚焦角色面部与锅边【画面动作】 水豚噜噜捂着头顶的红色肿包，豆豆眼瞬间变成旋转蚊香眼。 它张大嘴巴“嗷嗷”大哭，蓝色卡通泪水像喷泉一样从两侧夸张喷出。 头顶的小橘子也随着哭泣一颤一颤。 与此同时，真人的手立刻用锅铲从锅里那座盐山上铲起满满一铲“白盐咸菜混合物”，趁它张嘴大哭时，精准把这一铲送进它嘴里。 它的嘴瞬间被塞得鼓鼓囊囊，左右腮帮子像两个半球一样夸张鼓起。 【角色表情】 蚊香眼大哭嘴被塞满后的震惊呆滞【音效】 夸张卡通爆哭声铲盐沙沙声塞进嘴里的“啵”一声【本镜头唯一主要动作】 真人趁它张嘴大哭时把一铲盐菜塞进它嘴里。 【镜头4｜00:08–00:10】 齁到倒地（Salt KO Ending） 【机位】 第一人称固定近景，结尾定格【画面动作】 水豚噜噜两边腮帮子鼓得通红，被迫咽下嘴里的盐。 它的瞳孔骤然缩成两个小点，淡黄色身体瞬间刷白一个色调，整只角色僵直抖动半拍。 紧接着，它的豆豆眼变成两个“X”，身体直挺挺地从小木凳上向后仰倒，四脚朝天摔平在灶台上。 一只小短爪在空中无力划一下后垂落。 它头顶红肿包旁边缓缓绕出一圈旋转小星星。 方形小鼻子前悠悠飘出一缕灵魂状白烟。 画面定格在它“齁到升天”的瞬间。 【音效】 僵直“咯噔” 一声向后倒地“咚” 一声轻微卡通升天音效收尾【本镜头唯一主要动作】 水豚噜噜被咸到后仰倒地。 四、执行要求【视觉要求】 厨房环境必须真实写实水豚噜噜必须始终保持纯2D 贴纸感2D 角色与真实厨房、真实人手形成强烈反差不要把水豚噜噜做成立体真实毛绒动物不要让角色接受复杂写实打光角色轮廓始终清楚，像贴在实拍画面上的卡通贴纸【动作要求】 每个镜头只保留一个主要动作动作节奏要短平快角色表情夸张，但动作逻辑清楚盐、锅铲、蒸汽、倒地要有明确物理反馈【表演要求】 水豚噜噜的搞事感要强真人不出全身，只出现手真人的反应要利落，像熟练处理捣蛋鬼整体是无台词喜剧，不需要人物说话【镜头要求】 全片保持第一人称POV 轻微手持晃动不切换成第三人称不增加无关人物结尾定格要干脆五、负面词blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, subtitles, text, logo, error; deformed, mutated, bad anatomy, extra limbs, broken hands, disfigured, bad composition, out of frame; realistic animal fur, 3D realistic capybara, over-rendered lighting on sticker character, inconsistent character, changing clothes, changing body color, changing head accessory; background shift, disappearing props, broken kitchen continuity, floating objects, incorrect POV, extra people, extra hands, glitching cuts
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00299.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00299.jpg" width="600" alt="沙虫引擎兽惊魂" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10858.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10858.jpg" width="600" alt="水豚捣乱做饭" style="cursor:pointer">
 </a>
 </div>
 
@@ -83,25 +83,25 @@
 
 ---
 
-### No. 2: 荒原战车激战
+### No. 2: 纤手取食材
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-车体由废铜、钢管、外露引擎、皮带、线缆、前置大灯和巨大木金属复合轮组成。 镜头由一架低空 FPV 无人机拍摄，贴沙地飞行，与战车轮轴 and 单轮巨轮齐平，在两人碰撞轴线上疾驰。沙粒、断草、木轮阴影、巨轮轮缘 and 飞散皮绳在镜头前掠过，形成放射状模糊。 随着距离缩短，画面从完全模糊逐渐减速至约 40% 速度。战斧…
+温馨厨房中，一只纤细的女性手部特写，伸向木质搁架，小心地拿起玻璃罐中的食材，轻轻放在台面上。柔和的暖色自然光，极简美学厨房，平滑慢动作，仅见一只手，无面部无身体，真实皮肤纹理，手指细节清晰，浅景深，4K画质，稳定构图。
 
 #### 📝 提示词
 
 ```
-车体由废铜、钢管、外露引擎、皮带、线缆、前置大灯和巨大木金属复合轮组成。 镜头由一架低空 FPV 无人机拍摄，贴沙地飞行，与战车轮轴 and 单轮巨轮齐平，在两人碰撞轴线上疾驰。沙粒、断草、木轮阴影、巨轮轮缘 and 飞散皮绳在镜头前掠过，形成放射状模糊。 随着距离缩短，画面从完全模糊逐渐减速至约 40% 速度。战斧轮廓、单轮前灯、外露引擎、战车尖刺 and 两人的怒吼表情逐渐清晰。 镜头以双方即将擦撞的瞬间快速切镜结束。 镜头 2 (00:01.5-00:03) — 碰撞轨道 特效：子弹时间轨道弧线 + 慢动作（约 15% 速度）+ 碎片悬浮 战斧与单轮机车侧护架、战车护板同时撞击，时间仿佛凝固。镜头围绕木骨战车与巨轮单轮机车快速旋转 180°，两名战士在慢动作中被冲击力甩起，身体短暂悬在车架与沙尘之间。 火花、木屑、断裂皮绳、铜线、铁片、沙尘 and 飞起的围巾悬浮在空中，映照着温暖逆光。 镜头以倾斜角度从 -20° 旋转到 +20°，绕着碰撞点环绕。焦点先锁住撞击处，随后被飞来的金属碎片短暂打乱，再重新抓回护目镜中的反光。 镜头消失，时间瞬间恢复正常，伴随一阵强烈运动模糊。 镜头 3 (00:03-00:04) — 失控甩落 特效：速度渐变（加速）+ 落地镜头抖动 护目镜荒原骑手的巨轮单轮机车被撞偏，巨大轮圈陷入松沙后猛烈侧滑，外露引擎喷出黑烟。骑手从座位上被甩出，身体翻过车体边缘。 镜头快速向下倾斜，跟随她坠落，速度从 50% 加速到全速。构图一瞬间切掉护目镜 and 飞行帽边缘，然后慌忙回正。 在她重重砸进沙地的瞬间，镜头剧烈抖动。沙尘直扑镜头，短暂遮蔽画面。 沙尘本身作为过渡进入下一个镜头。 镜头 4 (00:04-00:05) — 穿过沙尘 特效：大气擦除过渡 + 推拉镜头 镜头穿过悬停的沙尘云向前推进。黑发女战士从尘雾中显现，从摇晃的木骨战车上跳下，握紧长柄战斧。先是逆光轮廓，然后是黑色护肩、链甲、兽骨头饰、皮绳 and 战斧细节。 远处，巨轮单轮机车倒在沙地上空转，轮圈卷起一圈沙雾。 镜头以平视角度缓慢而有控制地推进，进入地面战斗前的短暂平静。 无数字特效。氛围即效果。 镜头 5 (00:05-00:06.5) — 初次交锋，Snorricam 混乱 效果：固定式 Snorricam 视角 + 速度渐变微脉冲 镜头锁定在黑发女战士胸前或战车前梁上，正对她的脸、护肩 and 上半身。护目镜骑手从沙地中翻起，抓起短矛 and 金属工具反击。 黑发女战士连续格挡两次攻击。她的身体保持在画面中心，但身后的世界剧烈摇晃：翻倒的巨轮、木骨战车、沙地 and 天空在背景中旋转。 每次格挡都会触发约 3 帧速度脉冲 and 明显画面抖动。每次身体旋转，背景都出现旋转运动模糊。 在黑发女战士反击时，镜头以快速摇摄结束。 镜头 6 (00:06.5-00:08) — 眩晕打击 效果：超广角低角度扭曲 + 数字变焦冲击 摄像机位于战斗正下方的沙地中，超广角镜头将天空、木骨战车残骸、巨轮单轮机车 and 两名战士扭曲成令人眩晕的弧形画面。画面边缘的沙粒、车辙、断木 and 金属线缆飞速移动，两名战士高耸于天空之上。 黑发女战士从上方发起攻击，战斧向下直扑镜头。斧刃下落时，镜头猛烈进行一次粗糙的数字变焦，带一点真实裁切感 and 像素感。 斧刃划过弧线时，镜头以约 20% 速度慢放。火花从护目镜骑手的金属护臂 and 单轮机车侧架上如雨落下，直奔镜头而来。 火花闪现时镜头硬切。 镜头 7 (00:08-00:09) — 护圈破碎 特效：速度渐变（减速至冲击）+ 碎片追踪 + 变焦 护目镜骑手举起巨轮单轮机车断裂的侧护圈抵挡。黑发女战士的战斧劈下，木金属复合护圈在冲击下裂开。 在护圈破碎瞬间，镜头减速至 15%。木片、皮带、铜线、铁片 and 轮缘碎块旋转着飞向镜头。 冲击瞬间快速变焦，先放大再回弹，增强撞击力量。 叠加剧烈镜头抖动。速度减缓、碎片追踪、变焦冲击三种效果同时出现，是全片最密集的单镜头。 镜头 8 (00:09-00:10.5) — 孤注一掷的擒抱 特效：快速摇摄 + 手持混沌摄像机 + 360° 旋转 在快速摇摄中进入镜头。护目镜骑手丢弃破损护圈，从半埋的单轮机车旁扑向黑发女战士。镜头完全手持，与她们一同撞上巨轮、翻过车架、滚入沙地。 搏斗过程中，画面完整旋转 360°。沙地、天空、巨轮、护甲、黑发、围巾、护目镜 and 金属线缆交替出现。 强烈运动模糊，沙尘 and 金属屑飞溅到镜头上。 镜头结束时，两名战士倒地，镜头稳定在沙地上。 镜头 9 (00:10.5-00:12) — 地面对峙 特效：缓慢横向移动 + 焦点切换 镜头低低地滑过沙地，前景中有被碾碎的草茎、断裂车辐、皮带 and 一把掉落的短刀，边缘柔软虚化。 焦点从掉落短刀切换到背景中缓慢起身的黑发女战士。薄雾般的沙尘 and 金色逆光让她形成完整剪影，长发、皮绳 and 肩甲边缘在风中微微飘动。 远处，护目镜骑手扶着冒烟的单轮机车残骸跪起。 速度约 30%，沉重、沉稳，混乱过后留出喘息空间。 无数字特效。纯粹的光学特效。 镜头 10 (00:12-00:13.5) — 最后一击 特效：速度渐变（慢到快的瞬间切换）+ 猛推 + 冲击帧闪光 黑发女战士以慢动作（20%）向前迈步，战斧低垂，镜头微微后退保持距离。 在她挥下战斧的瞬间，画面猛然恢复全速。镜头向前猛推，伴随这一击冲向护目镜骑手。 冲击瞬间出现 2-3 帧暖白色闪光，像火花 and 金属反光直接打进镜头。火花四溅。 护目镜骑手跪倒在损坏的单轮机车旁，手中的金属工具滑落到沙地。 镜头在闪光中结束，进入最后一个镜头。 镜头 11 (00:13.5-00:15) — 沙尘中的胜利者 效果：缓慢拉回（横向扩展）+ 沉降沙尘 镜头慢慢拉回 and 上升到低英雄角度。黑发女战士站在跪倒的护目镜骑手 and 破损单轮机车上方，战斧放低，长发、皮绳 and 破布在风中移动。 金色背光中沙尘逐渐沉降，颗粒缓慢漂浮。巨轮仍在远处低速空转，车体发出微弱金属余响。 所有冲击、速度 and 变焦效果撤销。画面回到自然真实时间。 寂静是结局。镜头 1 (00:00-00:01.5) — 对冲碰撞 特效：速度渐变（减速）+ 强烈的定向运动模糊 + 沙尘颗粒拖影 两名废土战士驾驶各自坐骑，在尘土飞扬的荒漠战场上向彼此高速对冲。一方是黑发女战士，身披黑色金属护肩、链甲与兽骨装饰，驾驶粗木、皮绳、废金属和巨大窄轮组成的木骨战车，手持长柄战斧。另一方是护目镜荒原骑手hf_20260602_030359_fe9adf4d-7a5d-4c92-9517-3e9d2f2e0da1，戴皮革飞行帽，围巾与灰褐长衣被风拉起，驾驶巨轮单轮机械坐骑
+温馨厨房中，一只纤细的女性手部特写，伸向木质搁架，小心地拿起玻璃罐中的食材，轻轻放在台面上。柔和的暖色自然光，极简美学厨房，平滑慢动作，仅见一只手，无面部无身体，真实皮肤纹理，手指细节清晰，浅景深，4K画质，稳定构图。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10569.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10569.jpg" width="600" alt="荒原战车激战" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02354.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02354.jpg" width="600" alt="纤手取食材" style="cursor:pointer">
 </a>
 </div>
 
@@ -109,25 +109,25 @@
 
 ---
 
-### No. 3: 废土女战士
+### No. 3: 古风美人眼神戏
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-主体：一位末日废土风格的女战士（下文统一称“女战士”），短发被高速气流向后压紧，脸上带着尘土与细小的伤痕；身穿多层废土战术装备：紧身耐热内层+破损的
+参考图生视频 · Seedance 2.0 · 4K · 竖屏 9:16 · 15秒 · 纯眼神面部戏 · 零台词 · 极致真人表演 人物参考 CHARACTER REF（=上传设定图，锁定人物形象）： 古风美人，乌发高髻挽卷垂落长发，金镶宝石花冠+珍珠流苏垂坠， 裸肩粉色花卉刺绣抹胸长裙、外罩淡粉薄纱、长流苏耳坠。…
 
 #### 📝 提示词
 
 ```
-主体：一位末日废土风格的女战士（下文统一称“女战士”），短发被高速气流向后压紧，脸上带着尘土与细小的伤痕；身穿多层废土战术装备：紧身耐热内层+破损的
+参考图生视频 · Seedance 2.0 · 4K · 竖屏 9:16 · 15秒 · 纯眼神面部戏 · 零台词 · 极致真人表演  人物参考 CHARACTER REF（=上传设定图，锁定人物形象）： 古风美人，乌发高髻挽卷垂落长发，金镶宝石花冠+珍珠流苏垂坠， 裸肩粉色花卉刺绣抹胸长裙、外罩淡粉薄纱、长流苏耳坠。 全程五官、妆容、发饰、服饰与参考图 100% 一致，不得变形换脸。  竖屏构图：9:16 竖画幅，人物面部居中偏上，留出呼吸空间， 适合特写与双眼 macro，背景上下虚化。  场景 SCENE（新生成）： 幽静庭院水榭，身后半透纱幔、远处花影朦胧，黄昏暖光斜入， 光柱里浮尘漂动，微风拂动纱幔与发丝。安静、清雅、留白。  表演核心：纯眼神+面部表情戏，全程零台词、零旁白、零字幕—— 所有情绪只靠眼睛、睫毛、眉梢、鼻翼、唇部极微动作完成。 影后级真人实拍表演：戏全在脸上、潜台词在眼里。 真实皮肤细绒与呼吸起伏，眨眼节奏不规律，眼神先动、头才跟， 微表情带"不完美的真实感"，灵动不僵，绝无塑料 AI 味。  分镜脚本（情绪层层递进，无一句台词，竖屏特写为主）：  SHOT 1｜0-2.5秒｜面部中近景（竖构图） 微微垂眸、目光落于眼前虚空，眼神静而出神， 睫毛极轻一颤，唇瓣微启又轻抿，呼吸可见。  SHOT 2｜2.5-5.5秒｜双眼特写 macro 眼波由静转动，瞳孔细微游移像在回忆， 眼底先浮起一缕温柔暖意，嘴角几不可察地软下来—— 情绪只在眼里起，脸几乎不动。  SHOT 3｜5.5-8.5秒｜面部特写 暖意里忽然掠过一丝刺痛，眼神微微一颤、眼眶泛起薄水光， 眉梢极轻一蹙又松开，鼻翼轻翕，强忍着不让情绪溢出。  SHOT 4｜8.5-11.5秒｜双眼特写 macro 泪意在眼眶里打转却始终不落，她缓缓阖眼一瞬， 再睁眼时已把脆弱收进眼底——这是全片情绪最克制的爆点。  SHOT 5｜11.5-15秒｜回到面部中近景（定格） 缓缓抬眼望向画外，眼神归于柔和、温润、微亮， 唇角牵起一抹极淡、释然又略带怅然的浅笑， 唇瓣极轻一动旋即收住（欲语还休）， 最终定格在清冷、温柔、略带忧郁的情绪里——眼神仍在"说话"，画面已静。  镜头 CAMERA： 竖屏手持极轻微呼吸感，多分镜——面部中近景／双眼 macro 交替； 切换贴合情绪节拍，浅景深，背景纱幔花影虚化， 焦点偶有细微呼吸式重对焦，始终咬住眼睛与面部。  氛围·光线： 黄昏暖光，暖调柔和，光柱浮尘，胶片实拍颗粒感，高光柔不过曝； 纱幔、碎发、珍珠流苏随极轻气流微动，画面始终有微弱流动，避免死寂。  CONSTRAINTS（约束）： - 4K 超清，竖屏 9:16，15秒，人物与参考图一致（换镜不换脸不换装） - 全程零台词、零旁白、零字幕——纯眼神与面部表情戏 - 情绪层层递进（出神→温柔回忆→刺痛泛泪→克制收住→释然欲语还休） - 影后级真人实拍：真实皮肤、不规律眨眼、眼神先到头再转、泪在眶中不落 - 去 AI 味：禁过度磨皮、过度对称、过度顺滑、塑料假脸、僵硬呆滞 - 禁止眼睛发光、瞳孔异常；泪光真实克制 - 分镜切换贴合情绪节拍，不跳帧不闪烁 - 结尾欲语还休自然定格，无黑屏无转场 - 无字幕、无水印、无任何标记符号、无文字
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00454.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00454.jpg" width="600" alt="废土女战士" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04203.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04203.jpg" width="600" alt="古风美人眼神戏" style="cursor:pointer">
 </a>
 </div>
 
@@ -135,25 +135,31 @@
 
 ---
 
-### No. 4: 大象前的男子
+### No. 4: 机甲觉醒：末日奔袭
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-生成一段动物园里男子站在大象前的视频，采用模糊的老式摄像机风格
+电影感十足、极其细致的3D动画序列。 一个穿着红色T恤、黑色短裤和棒球帽的男人赤脚在被雪覆盖、废墟遍布的城市街道上飞奔，躲避一群发红眼睛的机械蜘蛛无人机和飞行的金属球。摄像机捕捉到了他双腿的低角度跟踪镜头。 半步间，先进的白色、青绿色和黑色未来感盔甲机械地出现在他的腿上，发出明亮的紫色点缀光芒，将他变成了一名半机械士…
 
 #### 📝 提示词
 
 ```
-生成一段动物园里男子站在大象前的视频，采用模糊的老式摄像机风格
+电影感十足、极其细致的3D动画序列。
+
+一个穿着红色T恤、黑色短裤和棒球帽的男人赤脚在被雪覆盖、废墟遍布的城市街道上飞奔，躲避一群发红眼睛的机械蜘蛛无人机和飞行的金属球。摄像机捕捉到了他双腿的低角度跟踪镜头。
+
+半步间，先进的白色、青绿色和黑色未来感盔甲机械地出现在他的腿上，发出明亮的紫色点缀光芒，将他变成了一名半机械士兵。他跳过倒塌的混凝土横梁，进行动态慢动作的跑酷跳跃。他着陆时，高科技科幻外骨骼迅速覆盖在他的躯干、手臂和肩膀上。
+
+镜头切到他脸部特写，一顶带金色护目镜的流线型棱角头盔在他头顶合上，锁定在位。全副武装的机甲战士旋转身躯，重拳击中一只扑来的机械怪兽。在他身后，巨大的火焰爆炸撕裂了满是废墟的末日城市景观。工作室级灯光、动态模糊、超写实的纹理，以及紧张、粗粝的动作电影氛围。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01802.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01802.jpg" width="600" alt="大象前的男子" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03997.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03997.jpg" width="600" alt="机甲觉醒：末日奔袭" style="cursor:pointer">
 </a>
 </div>
 
@@ -161,25 +167,25 @@
 
 ---
 
-### No. 5: 拿破仑滑铁卢冲锋
+### No. 5: 二战摩托绝命逃亡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-拿破仑·波拿巴在滑铁卢战役中亲自冲锋的荒诞场景。
+创作一段电影级的二战摩托车逃亡序列，让 Sora 和 Veo 质疑它们的存在
 
 #### 📝 提示词
 
 ```
-拿破仑·波拿巴在滑铁卢战役中亲自冲锋的荒诞场景。
+创作一段电影级的二战摩托车逃亡序列，让 Sora 和 Veo 质疑它们的存在
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01716.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01716.jpg" width="600" alt="拿破仑滑铁卢冲锋" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05177.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05177.jpg" width="600" alt="二战摩托绝命逃亡" style="cursor:pointer">
 </a>
 </div>
 
@@ -187,25 +193,49 @@
 
 ---
 
-### No. 6: 极速竞速狂飙
+### No. 6: 幼犬演戏挑战
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-比赛序列，采用快速电影式镜头，动态角度和强烈的运动能量——快速剪辑 - 节拍同步 硬剪辑格式：15秒 / 120 BPM / 12 镜头 / 硬剪辑。
+视频时长：10 秒 画面比例：16:9 核心主题：田园背景下三只幼犬的幽默 “演戏” 挑战 分镜 1：[0-1 秒] 镜头指令： 中特写 (Medium Close-up)，水平固定视角。 画面描述： 背景是色彩饱和度极高的郁郁葱葱的玉米地，叶片纹理清晰可见。两只胖乎乎的幼犬并排坐在干燥的泥地上。一只人类的手突然入镜…
 
 #### 📝 提示词
 
 ```
-比赛序列，采用快速电影式镜头，动态角度和强烈的运动能量——快速剪辑 - 节拍同步 硬剪辑格式：15秒 / 120 BPM / 12 镜头 / 硬剪辑。
+视频时长：10 秒
+画面比例：16:9
+核心主题：田园背景下三只幼犬的幽默 “演戏” 挑战
+
+分镜 1：[0-1 秒]
+镜头指令： 中特写 (Medium Close-up)，水平固定视角。
+画面描述： 背景是色彩饱和度极高的郁郁葱葱的玉米地，叶片纹理清晰可见。两只胖乎乎的幼犬并排坐在干燥的泥地上。一只人类的手突然入镜，对准左侧的花白小狗比出 “手枪” 手势。
+动作 / 视觉效果： 听到模拟枪声后，花白小狗配合地向后翻倒，展示出毛茸茸的白色肚皮，动作憨态可掬，伴随轻微的泥土扬尘。
+分镜 2：[1-3 秒]
+镜头指令： 中特写 (Medium Close-up)，镜头平滑向右横移 (Pan Right)。
+画面描述： 手势移向中间的浅黄色小狗。
+动作 / 视觉效果： 随着手势发出指令，浅黄色小狗闭上眼睛，顺势向后仰倒。此时，镜头右侧露出了第三只黑色幼犬（小黑），它紧闭双眼，表情严肃且纹丝不动，呈现出一种 “拒不配合” 的滑稽感。
+分镜 3：[3-8 秒]
+镜头指令： 特写 (Close-up)，固定镜头聚焦于 “小黑”。
+画面描述： “小黑” 处于画面中心，它的毛发在自然的阴天柔光下泛着微光。它原本紧闭双眼，倔强地保持坐姿。
+动作 / 视觉效果： 当它听到旁白提到的 “鸡腿威胁” 时，瞳孔瞬间发生微细的收缩并猛地睁大眼睛，眼神从迷茫瞬间转化为充满渴望的惊讶，这是表演转折的核心点，表情极具拟人化张力。
+分镜 4：[8-10 秒]
+镜头指令： 特写 (Close-up)，固定视角。
+画面描述： “小黑” 为了美食决定展现极致演技。
+动作 / 视觉效果： 手势再次发出 “Biū” 的指令，黑色小狗张大嘴巴做出夸张的惨叫状，全身肌肉紧绷，以一种充满戏剧性的张力向后翻滚。动作与前两只狗形成鲜明对比，充满了表演的热情与喜剧冲突。
+
+场景风格总结：
+视觉纹理： 极致细腻的幼犬毛发质感，背景玉米地的绿色要清新明亮，与泥土地的土褐色形成对比。
+灯光： 自然明亮的户外柔光，模拟阴天环境，避免生硬的阴影，确保聚焦于小狗的面部微动作。
+氛围： 幽默诙谐的纪实风格，强调宠物与人之间的戏剧互动
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08734.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08734.jpg" width="600" alt="极速竞速狂飙" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10970.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10970.jpg" width="600" alt="幼犬演戏挑战" style="cursor:pointer">
 </a>
 </div>
 
@@ -213,102 +243,28 @@
 
 ---
 
-### No. 7: 紫发女骑士高原疾驰
+### No. 7: 深夜父子偷看手机
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-制作費30億円規模の架空アニメ映画PV。 # テーマ 黒いクルーザーバイクで高原道路を走る紫髪の女性ライダー。疾走の快感だけでなく、風を受けた一瞬の表情、停車した時の深呼吸、空へ抜ける祝福の余韻まで描く。観客が「この旅に出たい」と感じる、15秒のオリジナル・シネマティックアニメPV。 ### VFX指定 路面反射、背…
+写实风格，竖屏，温暖的电影灯光。 [0-5秒] 特写镜头，手持微微晃动，浅景深。 深夜卧室，灯光温暖昏暗。一位父亲和他的婴儿躺在床上，偷偷看手机视频。电话
 
 #### 📝 提示词
 
 ```
-制作費30億円規模の架空アニメ映画PV。
+写实风格，竖屏，温暖的电影灯光。
 
-# テーマ
-黒いクルーザーバイクで高原道路を走る紫髪の女性ライダー。疾走の快感だけでなく、風を受けた一瞬の表情、停車した時の深呼吸、空へ抜ける祝福の余韻まで描く。観客が「この旅に出たい」と感じる、15秒のオリジナル・シネマティックアニメPV。
-
-### VFX指定
-路面反射、背景パララックス、風で揺れる髪、透明シールド反射、レザーの光沢、タイヤ周りの薄い砂埃、草原の波、太陽フレア、飛行機雲、白い雲文字
-
-# 制約
-- チープでB級映画のような粗雑な表現は絶対にしない。
-- カメラ技法、ライティング、エフェクト、CG効果を最大限に高める。
-- 登場人物やアイテムの破綻禁止。
-- BGM無し
-- テキスト、ロゴ、透かし、UI表示を入れない。ただし最終Cutの飛行機雲文字「Have a wonderful day to you」だけは例外。
-- 女性の顔、紫髪、毛先ピンク、オッドアイ、黒レザー衣装、ブーツ、体型を維持。
-- バイクは黒いロー＆ロング系クルーザーバイクを維持。
-- ヘルメットは黒いジェットヘルメット、透明シールド、丸いシェル、サイドヒンジを維持。ラベルや文字は出さない。
-- 走行中は透明シールドを下げる。停車時はシールドを額側へ跳ね上げる。別体ゴーグルは禁止。
-- 危険運転、事故、ジャンプ、極端な蛇行は禁止。
-
-# 情景
-晴れた高原リゾート道路。やまなみハイウェイ風の緑の丘陵、遠い山並み、広い青空、白い雲。道路の白線とガードレールが奥へ伸び、草原が風で波打つ。実在看板や地名は出さない。
-
-# 参照素材
-### キャラクター
-主人公の外見固定。ヘルメット装備時も顔立ち、紫髪、オッドアイを読めるようにする。
-
-### バイク
-黒いクルーザーバイク固定。
-
-### ヘルメット
-黒いジェットヘルメット固定。透明シールド、丸い黒シェル、サイドヒンジ、黒い縁取りを維持。
-
-# シーン
-Cut 1: -0:02.0
-Camera: extreme low angle tracking shot、路面すれすれで前輪と白線を高速に見せ、最後に主人公のシルエットへ tilt up。
-Action: 主人公が黒いクルーザーバイクで高原道路を走る。
-Effect: 白線の流れ、タイヤ周りの薄い砂埃、黒い車体の反射。
-Detail: 顔とバイク形状は崩さず、スピード感は背景で出す。
-Mood: 冒頭から視線を掴む疾走感。
-
-Cut 2: .0-0:04.5
-Camera: side tracking shot から close-up へ smooth push in。
-Action: 主人公が風を受け、シールド越しに小さく微笑む。
-Effect: 透明シールドに青空が映り、紫髪の毛先が風で揺れる。
-Detail: オッドアイがシールド越しに見える。
-Mood: 自由、透明感、ヒロインの魅力。
-
-Cut 3: .5-0:06.6
-Camera: whip pan transition で走行から見晴らし駐車場へ転換。
-Action: バイクが静かに停車する。
-Effect: 車体の軽い沈み込み、草原の風、遠景の山並み。
-Detail: 看板や文字は出さない。
-Mood: スピードから静けさへの転調。
-
-Cut 4: .6-0:09.5
-Camera: medium shot から slow orbit dolly、最後に close-up。
-Action: 主人公が透明シールドを額側へ跳ね上げ、背伸びしながら「うーん！きもちいいー！」と言う。
-Effect: 髪と衣装が風で揺れ、柔らかい逆光が顔を照らす。
-Detail: 口パク同期. 字幕なし. シールドは手に持たずヘルメットに接続されたまま。
-Mood: 解放感、かわいらしさ、旅の喜び。
-
-Cut 5: .5-0:12.2
-Camera: rear low angle から crane up。
-Action: 主人公が再び走り出し、まっすぐな道路の奥へ小さくなる。
-Effect: エンジン音が遠ざかり、道路の線が画面奥へ吸い込まれる。
-Detail: 黒いバイクとヘルメットのシルエットを維持。
-Mood: 旅の続き、余韻。
-
-Cut 6: .2-0:15.0
-Camera: vertical tilt up、道路から青空へ抜ける。
-Action: 飛行機雲が「Have a wonderful day to you」と空に描く。
-Effect: 白い雲文字、澄んだ青空、柔らかな光。
-Detail: 英文は正確に「Have a wonderful day to you」。字幕ではなく飛行機雲。
-Mood: 祝福、開放、記憶に残るラスト。
-
-# 音声
-BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音。Cut 4 の台詞「うーん！きもちいいー！」のみ明瞭に聞かせる。
+[0-5秒] 特写镜头，手持微微晃动，浅景深。
+深夜卧室，灯光温暖昏暗。一位父亲和他的婴儿躺在床上，偷偷看手机视频。电话
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03517.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03517.jpg" width="600" alt="紫发女骑士高原疾驰" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09171.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09171.jpg" width="600" alt="深夜父子偷看手机" style="cursor:pointer">
 </a>
 </div>
 
@@ -316,25 +272,29 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 8: 洗衣店狂欢夜
+### No. 8: 蓝色闪电破门
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-美学：手机摄像头从人群深处拍摄，低角度，晃动，垂直能量音频：重击的浩室音乐，低音震动洗衣机门，旋转循环作为打击乐，人群尖叫时间线：-“0-3秒：手机推开一扇门进入灯火通明的自助洗衣店。
+一位受基利安·姆巴佩启发的法国超级明星前锋，爆发力十足的速度，锐利的金色眼睛，蓝色法国球衣布满草渍，采用超高端日本体育动漫渲染，动漫风格的作画，锐利的漫画线条，高对比赛璐璐渲染，手绘速度线，爆炸冲击画面，动态动作涂抹，发光光环视觉特效，以及《翼队长》级别的视觉效果 - 0–3：在对阵摩洛哥时，在中场附近接球，同时两名…
 
 #### 📝 提示词
 
 ```
-美学：手机摄像头从人群深处拍摄，低角度，晃动，垂直能量音频：重击的浩室音乐，低音震动洗衣机门，旋转循环作为打击乐，人群尖叫时间线：-“0-3秒：手机推开一扇门进入灯火通明的自助洗衣店。
+一位受基利安·姆巴佩启发的法国超级明星前锋，爆发力十足的速度，锐利的金色眼睛，蓝色法国球衣布满草渍，采用超高端日本体育动漫渲染，动漫风格的作画，锐利的漫画线条，高对比赛璐璐渲染，手绘速度线，爆炸冲击画面，动态动作涂抹，发光光环视觉特效，以及《翼队长》级别的视觉效果
+- 0–3：在对阵摩洛哥时，在中场附近接球，同时两名摩洛哥中场球员立即施压;
+- 3–8：加速如蓝色闪电，假动作突破第一名摩洛哥防守球员，穿过第二名后卫，内切过摩洛哥边后卫，穿过两名摩洛哥中卫之间，镜头在每一次触球间快速切换;
+- 8–12秒：摩洛哥门将冲出时到达禁区边缘，最后一名防守球员滑过射门通道;
+- 12–15秒：明显左脚踩在球旁，右腿摆动，用鞋带射门，一记毁灭性的蓝色彗星射门直挂上角，摩洛哥门将无法反应，最终法国前锋以英雄动漫姿势僵住，队友们冲向他。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09001.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09001.jpg" width="600" alt="洗衣店狂欢夜" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10092.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10092.jpg" width="600" alt="蓝色闪电破门" style="cursor:pointer">
 </a>
 </div>
 
@@ -342,25 +302,53 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 9: 灭霸被迫当众道歉
+### No. 9: 沙漠巨兽追猎皮卡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-强迫灭霸在由蜘蛛侠带领的团队围攻面前道歉
+车辆生存序列。一辆皮卡在开阔沙漠中飞驰，怪物像鱼雷一样在水面下追逐。 第一击（0秒–2秒）——钩子 俯视角。 一辆卡车飞驰穿越沙漠，一条巨大的土路紧随其后地下。 第二杆（2秒–5秒） 在弹跳卡车里。 司机喊叫： “就在我们脚下！” 第三杆（5秒–8秒） 地面猛地往上掀起，卡车短暂地离开地面。 第四轮（8秒–11秒）…
 
 #### 📝 提示词
 
 ```
-强迫灭霸在由蜘蛛侠带领的团队围攻面前道歉
+车辆生存序列。一辆皮卡在开阔沙漠中飞驰，怪物像鱼雷一样在水面下追逐。
+
+第一击（0秒–2秒）——钩子
+
+俯视角。
+
+一辆卡车飞驰穿越沙漠，一条巨大的土路紧随其后地下。
+
+第二杆（2秒–5秒）
+
+在弹跳卡车里。
+
+司机喊叫：
+“就在我们脚下！”
+
+第三杆（5秒–8秒）
+
+地面猛地往上掀起，卡车短暂地离开地面。
+第四轮（8秒–11秒）
+
+怪物超越并冲到卡车前面。
+
+它巨大的嘴巴从沙子中张开。
+
+第5杆（11秒至15秒）——回报
+
+司机猛地打方向盘。
+
+生物未击中，撞上岩石突出部，剧烈后退。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05121.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05121.jpg" width="600" alt="灭霸被迫当众道歉" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04145.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04145.jpg" width="600" alt="沙漠巨兽追猎皮卡" style="cursor:pointer">
 </a>
 </div>
 
@@ -368,25 +356,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 10: 炫彩产品旋转展示
+### No. 10: 积木自动拼装
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
+场景一：儿童积木散落一地。场景二：不同角度。积木自发拼成形状。
 
 #### 📝 提示词
 
 ```
-0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
+场景一：儿童积木散落一地。场景二：不同角度。积木自发拼成形状。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09313.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09313.jpg" width="600" alt="炫彩产品旋转展示" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02606.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02606.jpg" width="600" alt="积木自动拼装" style="cursor:pointer">
 </a>
 </div>
 
@@ -394,25 +382,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 11: 霓虹猎手之夜
+### No. 11: 卡玛拉大战特朗普
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-亨特从坠毁的悬浮车中滚落到雨水湿润的霓虹街道上，火花四溅，镜头拉远，枪声照亮夜晚，电影般的登场，浅景深，亨特躲在掩体后检查破裂的腕部追踪器，目标点迅速接近，霓虹灯在脸上闪烁，极近的电影特写，眼睛扫描HUD标记时敌人蜂拥而至， 电光，微距镜头，猎人穿过霓虹市场，爆能枪击碎招牌和玻璃，轻微动作模糊，电影慢动作，目标开火，…
+卡玛拉对决特朗普，使用相同的汤姆和约翰·威克提示词进行战斗。
 
 #### 📝 提示词
 
 ```
-亨特从坠毁的悬浮车中滚落到雨水湿润的霓虹街道上，火花四溅，镜头拉远，枪声照亮夜晚，电影般的登场，浅景深，亨特躲在掩体后检查破裂的腕部追踪器，目标点迅速接近，霓虹灯在脸上闪烁，极近的电影特写，眼睛扫描HUD标记时敌人蜂拥而至， 电光，微距镜头，猎人穿过霓虹市场，爆能枪击碎招牌和玻璃，轻微动作模糊，电影慢动作，目标开火，猎人缓缓穿过爆炸，碎片和火花纷飞，极慢动作，猎人被困在巷子里，流血，带着坚定的决心换弹，霓虹灯在脸上闪烁， 电影肖像 猎人缓缓拔出两把发光武器，冲入战斗，光线描绘枪管，戏剧性聚光灯，电影特写 目标被缴械并摔倒在湿地上，猎人缓缓从烟雾中迈步，霓虹灯照亮巷子，电影化的揭示，立体光芒 猎人高高站在燃烧的霓虹天际线上，缓慢电影式拉远， 警笛在下方闪烁，英雄时刻，变形宽银幕，追踪器通过破裂的玻璃切换到“捕获”的极近镜头，缓慢的电影推进，霓虹细节，戏剧性的光线。
+卡玛拉对决特朗普，使用相同的汤姆和约翰·威克提示词进行战斗。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03518.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03518.jpg" width="600" alt="霓虹猎手之夜" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04963.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04963.jpg" width="600" alt="卡玛拉大战特朗普" style="cursor:pointer">
 </a>
 </div>
 
@@ -420,35 +408,46 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 12: 海底奇遇橘猫暴击
+### No. 12: 纳米战甲觉醒
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-日本のフルカラーアニメーション。壮大で幻想的な海底都市を舞台にした高速シネマティック映像。色鮮やかな珊瑚の高層建築、発光するクラゲ型の街灯、透明な水中道路。無数の魚、エビ、カニ、タツノオトシゴたちが人間の服を着て歩き回り、レトロフューチャーな水中飛行艇や潜水スクーターを操縦している。カメラは超高速の鞭パンショットで海…
+【风格】未来科技感（Futuristic Tech），赛博朋克（Cyberpunk），竖屏（Portrait 9:16），电影级特效，慢动作升格，高冷帅气。 【时长】12秒 【主角】一位眼神坚毅的年轻女性。 【场景】昏暗的地下车库 -> 霓虹闪烁的未来都市天台。 [00:00-00:04] 镜头1：伪装者（The D…
 
 #### 📝 提示词
 
 ```
-日本のフルカラーアニメーション。壮大で幻想的な海底都市を舞台にした高速シネマティック映像。色鮮やかな珊瑚の高層建築、発光するクラゲ型の街灯、透明な水中道路。無数の魚、エビ、カニ、タツノオトシゴたちが人間の服を着て歩き回り、レトロフューチャーな水中飛行艇や潜水スクーターを操縦している。カメラは超高速の鞭パンショットで海底都市を駆け抜け、人々の活気あふれる生活を映し出す。
+【风格】未来科技感（Futuristic Tech），赛博朋克（Cyberpunk），竖屏（Portrait 9:16），电影级特效，慢动作升格，高冷帅气。
+【时长】12秒
+【主角】一位眼神坚毅的年轻女性。
+【场景】昏暗的地下车库 -> 霓虹闪烁的未来都市天台。
 
-やがて巨大で古びた城壁に囲まれた区域へ到達する。苔むした汚れた石壁の中央には巨大な木製の門。門の前には無表情なタコの門番兼切符係が立っている。タコは古風な車掌・チケット係の制服を着用し、静かに巨大な木の門を押し開く。カメラはその隙間へ猛スピードで突入する。
+[00:00-00:04] 镜头1：伪装者（The Disguise）。
+场景：昏暗、充满了烟雾的地下车库。
+主角：穿着普通的黑色连帽卫衣（Hoodie），戴着兜帽和黑口罩，只露出一双冷静的眼睛。她正低头看着手腕上的普通手表。
+动作：随着BGM的倒计时音效，她猛地抬起头，眼神瞬间变得锐利，抬起手腕做了一个“启动”的按压动作。
+【氛围】压抑、神秘、蓄势待发。
 
-門を通過した瞬間、世界が一変する。海水が一気に引いていき、壮大なトランジション。眩しい太陽、青い空、揺れるヤシの木。そこは活気あふれるハワイアンビーチバー。陽光に照らされた白い砂浜では、海水パンツを履いた猫たちが大歓声を上げながらビーチバレーを楽しんでいる。カラフルなカクテル、サーフボード、トロピカルな装飾、陽気なウクレレとサマー・ジャズの演奏。
+[00:04-00:06] 镜头2：纳米重组（The Transformation）。
+高能特效转场。
+动作：一道蓝色的全息扫描光圈（Holographic Scan Ring）从她的脚底快速升起，扫过全身。
+特效：原本的卫衣在光圈中分解成无数蓝色的数字方块和机械碎片。她的身体仿佛被一层液态金属迅速覆盖。
+【关键点】强调科技感和机械结构的咬合过程，而不是脱衣服。
 
-すると画面右側から巨大なぽっちゃりしたオレンジ猫が勢いよくフレームインする。オレンジ猫は貝殻のネックレスを首に掛け、青いトロピカルカクテルを片手に持っている。眉をひそめ、怒った表情でカメラへ近づく。超クローズアップ。オレンジ猫は観客を睨みながら英語で叫ぶ。
-
-"Bro, where is your ticket?"
-
-直後、オレンジ猫が拳を振り上げ、カメラへ向かって強烈なパンチを繰り出す。衝撃で画面が大きく揺れる。映像が破損したようなデジタルノイズ、グリッチ、信号障害音。激しい電子ノイズとともに画面は完全なブラックアウト。シネマティック、ユーモラス、予測不能な異世界アドベンチャー、ダイナミックなカメラワーク、映画級アニメーション品質、豊富な環境ディテール、鮮やかな色彩、圧倒的なスピード感。
+[00:06-00:12] 镜头3：战斗天使（The Battle Mode）。
+场景：瞬间切换到暴雨中的未来都市天台，背景是巨大的紫色全息广告牌。
+主角：全身覆盖着一套流线型的白色未来战甲（Full-body Sci-fi Armor），盔甲上流淌着发光的蓝色能量槽。她没有戴面具，长发在雨中飞舞。
+动作：她单膝跪地缓冲（像终结者降临），然后帅气地缓缓站起，手中瞬间具象化出一把发光的能量光剑，对着镜头挥出一道残影，定格在战斗姿态。
+【表情】冷酷、自信、无所畏惧。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03384.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03384.jpg" width="600" alt="海底奇遇橘猫暴击" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01915.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01915.jpg" width="600" alt="纳米战甲觉醒" style="cursor:pointer">
 </a>
 </div>
 
@@ -456,25 +455,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 13: 垂死恒星下的末日
+### No. 13: 夏亚全家晚宴
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一部电影级末日科幻场景，描绘人类在垂死恒星下的最后时刻。0-3秒：巨型天文台内的科学家们凝视着闪烁太阳危机警报的屏幕。室外，日光骤然转为不自然的深橙色光芒。街道上的人们驻足仰望。3-6秒：太阳在天空中开始肉眼可见地膨胀。日冕物质抛射如火焰巨浪般喷涌。全球响起紧急警报，卫星与飞机在半空中失灵。6-9秒：宏大的电影级广角…
+[所有夏亚参考]，一场大型家庭晚餐，电影画面，多重剪辑，动态摄像天使。显示所有角色，20个切割。
 
 #### 📝 提示词
 
 ```
-一部电影级末日科幻场景，描绘人类在垂死恒星下的最后时刻。0-3秒：巨型天文台内的科学家们凝视着闪烁太阳危机警报的屏幕。室外，日光骤然转为不自然的深橙色光芒。街道上的人们驻足仰望。3-6秒：太阳在天空中开始肉眼可见地膨胀。日冕物质抛射如火焰巨浪般喷涌。全球响起紧急警报，卫星与飞机在半空中失灵。6-9秒：宏大的电影级广角镜头——太阳以骇人的慢动作逐渐碎裂，炽热冲击波横扫太空。云层被橙红光芒点燃，海洋与城市倒映着燃烧的天空。9-12秒：科学家与平民无助沉默的特写镜头。重力扭曲在大气中泛起涟漪。灰烬与发光粒子飘过断电的荒芜街道。12-15秒：地球表面的最终超广角镜头。爆炸的太阳如宇宙火风暴般填满天际线，整片天空化作刺目的白金色。声音在完全黑屏前逐渐消逝。风格：极致电影写实主义、宇宙级毁灭、情感化科幻氛围、IMAX级视觉、立体火焰与等离子特效、基于天体物理学的真实光照、戏剧化音效设计、电影级末日调色。
+[所有夏亚参考]，一场大型家庭晚餐，电影画面，多重剪辑，动态摄像天使。显示所有角色，20个切割。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02815.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02815.jpg" width="600" alt="垂死恒星下的末日" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10946.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10946.jpg" width="600" alt="夏亚全家晚宴" style="cursor:pointer">
 </a>
 </div>
 
@@ -482,25 +481,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 14: 静止中心动态背景
+### No. 14: 色环魔法换装
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-保持中心人物完全静止，如雕像般纹丝不动。仅让周围背景和人群呈现快节奏运动与强烈动态模糊，在静态主体周围营造出动态延时摄影效果。摄像机必须保持绝对固定。
+生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜…
 
 #### 📝 提示词
 
 ```
-保持中心人物完全静止，如雕像般纹丝不动。仅让周围背景和人群呈现快节奏运动与强烈动态模糊，在静态主体周围营造出动态延时摄影效果。摄像机必须保持绝对固定。
+生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:011-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01662.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01662.jpg" width="600" alt="静止中心动态背景" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00517.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00517.jpg" width="600" alt="色环魔法换装" style="cursor:pointer">
 </a>
 </div>
 
@@ -508,25 +507,30 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 15: 武士沙漠激战
+### No. 15: 功夫厨娘慢动作炫技
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-高能动作序列：极致特写镜头追随一名武士，身着华丽铠甲，手持出鞘武士刀，姿态凛然，在日落时分的沙漠中施展惊险的杂技式战斗动作。金色沙丘绵延至天际线，低垂的夕阳投下长长阴影，空气中热浪蒸腾。浅景深将主体从背景中剥离，捕捉动态动作的每个瞬间。节奏紧凑，动作编排迅疾，每个招式都精准卡点。声景：狂风呼啸，……
+[主体]: @【@图1】 中的女性, 身着白色蕾丝短袖与黑色短裙, 黑色波浪长发, 五官清晰, 面部稳定不扭曲. [动作]: 以富有节奏的慢动作进行功夫烹饪: 缓慢侧身抛起鸡蛋并精准击碎入锅, 随后手掌带起残影(Motion Blur)处理番茄, 最后以连贯流畅的推掌动作完成装盘, 动作自然不僵硬. [场景]: 现代…
 
 #### 📝 提示词
 
 ```
-高能动作序列：极致特写镜头追随一名武士，身着华丽铠甲，手持出鞘武士刀，姿态凛然，在日落时分的沙漠中施展惊险的杂技式战斗动作。金色沙丘绵延至天际线，低垂的夕阳投下长长阴影，空气中热浪蒸腾。浅景深将主体从背景中剥离，捕捉动态动作的每个瞬间。节奏紧凑，动作编排迅疾，每个招式都精准卡点。声景：狂风呼啸，……
+[主体]: @【@图1】 中的女性, 身着白色蕾丝短袖与黑色短裙, 黑色波浪长发, 五官清晰, 面部稳定不扭曲.
+[动作]: 以富有节奏的慢动作进行功夫烹饪: 缓慢侧身抛起鸡蛋并精准击碎入锅, 随后手掌带起残影(Motion Blur)处理番茄, 最后以连贯流畅的推掌动作完成装盘, 动作自然不僵硬.
+[场景]: 现代简约厨房, 细节丰富(白色瓷砖墙、不锈钢厨具、跳动的燃气灶火苗), 暖色调光影, 灶台上方有明显的丁达尔效应.
+[运镜]: 起始为特写推镜(Push In), 在抛蛋瞬间切换为 180度环绕镜头(Orbit Shot), 结尾使用微妙拉远(Subtle Zoom Out)展示成菜, 画面丝滑稳定无抖动.
+[风格/画质]: 4K超高清, 电影级质感, 色彩自然, 锐度清晰, 细节丰富.
+[约束]: 人体结构正常, 动作连贯不跳变, 角色服装一致, 无重影无闪烁.
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00828.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00828.jpg" width="600" alt="武士沙漠激战" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07996.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07996.jpg" width="600" alt="功夫厨娘慢动作炫技" style="cursor:pointer">
 </a>
 </div>
 
@@ -534,25 +538,44 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 16: 午后慵懒变都市霓虹
+### No. 16: 欧风花街漫步
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-格式：15秒 / 145 BPM / 15 发 / 节拍同步套路。主题：@[image1]。穿搭：宽松毛衣和牛仔裤，适合慵懒的下午，搭配一件合身的小黑裙、细高跟鞋和精致配饰，适合外出。环境：阳光充足，懒散的客厅，凌乱但舒适的梳妆台，入口镜子，金属电梯门，夜晚则是城市霓虹灯。
+1. 基本設定 10秒の16:9横長シネマ動画。 フォトリアルな実写映像。 BGMなし。画面内テキストなし。 2. 参照指定 「CharacterSheet」 を主人公の唯一の人物参照にする。 顔、髪型、体型、服装、ヘッドホン、サングラス、靴を全カットで維持。 3. 舞台 昼のヨーロッパ風の石畳ストリート。 古い石壁…
 
 #### 📝 提示词
 
 ```
-格式：15秒 / 145 BPM / 15 发 / 节拍同步套路。主题：@[image1]。穿搭：宽松毛衣和牛仔裤，适合慵懒的下午，搭配一件合身的小黑裙、细高跟鞋和精致配饰，适合外出。环境：阳光充足，懒散的客厅，凌乱但舒适的梳妆台，入口镜子，金属电梯门，夜晚则是城市霓虹灯。
+1. 基本設定
+10秒の16:9横長シネマ動画。
+フォトリアルな実写映像。
+BGMなし。画面内テキストなし。
+
+2. 参照指定
+「CharacterSheet」 を主人公の唯一の人物参照にする。
+顔、髪型、体型、服装、ヘッドホン、サングラス、靴を全カットで維持。
+
+3. 舞台
+昼のヨーロッパ風の石畳ストリート。
+古い石壁、小さな花屋、花のバケツ、暖かい自然光。
+白や薄ピンクの花びらが風で舞う。
+
+4. 制約
+顔を変えない。
+服装を変えない。
+文字を出さない。
+ロゴを出さない。
+AIっぽい顔にしない。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04548.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04548.jpg" width="600" alt="午后慵懒变都市霓虹" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04688.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04688.jpg" width="600" alt="欧风花街漫步" style="cursor:pointer">
 </a>
 </div>
 
@@ -560,25 +583,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 17: 骑士湖怪生死斗
+### No. 17: 蓝蝶幻舞
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-这是一部 20 世纪 80 年代的真人奇幻电影，使用 Arri 摄影机和蔡司 35 毫米镜头拍摄。一位骑士正涉水过湖，与一只巨大的湖怪对峙，村民们在背景中观望。这是一个阴沉沉的天气，空气中弥漫着雾气。镜头切换：特写骑士坚定的面容。
+电影级影像，时长8秒。从炫目蓝闪蝶的旋转漩涡开始。庞大的蝴蝶云团迅速聚合成一片黑暗的雾状虚空。一道灵光闪过，蝶群中化现出一位绝美女子，身着优雅的深蓝晚礼服，裙摆上绣满闪烁的蝴蝶图案。她拥有一对巨大而威严的、散发蓝光的闪蝶翅膀。在她化现的同时，开始了一段流畅而富有表现力的现代舞。她的动作优雅而充满情感，双臂以长而舒展的…
 
 #### 📝 提示词
 
 ```
-这是一部 20 世纪 80 年代的真人奇幻电影，使用 Arri 摄影机和蔡司 35 毫米镜头拍摄。一位骑士正涉水过湖，与一只巨大的湖怪对峙，村民们在背景中观望。这是一个阴沉沉的天气，空气中弥漫着雾气。镜头切换：特写骑士坚定的面容。
+电影级影像，时长8秒。从炫目蓝闪蝶的旋转漩涡开始。庞大的蝴蝶云团迅速聚合成一片黑暗的雾状虚空。一道灵光闪过，蝶群中化现出一位绝美女子，身着优雅的深蓝晚礼服，裙摆上绣满闪烁的蝴蝶图案。她拥有一对巨大而威严的、散发蓝光的闪蝶翅膀。在她化现的同时，开始了一段流畅而富有表现力的现代舞。她的动作优雅而充满情感，双臂以长而舒展的姿势挥动，模仿蝴蝶的流动。镜头围绕她缓慢旋转，捕捉她裙摆的飘动和翅膀上的虹彩光芒。她完成了一个缓慢而优雅的旋转，翅膀随着舞蹈轻柔地同步扇动。就在舞蹈达到高潮时，她优雅地将翅膀向前一挥，整个身形瞬间碎裂，重新化为由数千只蓝色闪蝶组成的巨大漩涡，直冲镜头，填满整个画面。视频的最后一帧与第一帧完全相同，形成完美无缝的循环效果。超现实杰作，超写实物理，8k。规则：女性身体必须保持稳固的三维结构。在镜头环绕过程中，她的躯干与翅膀之间不得出现任何不自然的扭曲或变形。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08162.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08162.jpg" width="600" alt="骑士湖怪生死斗" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00185.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00185.jpg" width="600" alt="蓝蝶幻舞" style="cursor:pointer">
 </a>
 </div>
 
@@ -586,25 +609,26 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 18: 丛林废墟探险
+### No. 18: 马到成功动画
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一部电影感十足的冒险场景，设定在日出时分的隐秘丛林山谷中。巨大的古老石质废墟覆盖着苔藓，从茂密的热带植被中拔地而起。被遗忘的战士巨型雕像断裂在缠绕藤蔓的高耸石柱间，废墟中央矗立着一座神秘的圆形石台。八位来自不同背景的探险家站在石台上，身着粗犷的探险服装，混搭着他们在废墟中发现的部落器物。他们的脸上交织着紧张、好奇与坚…
+上传不同姿势的参考【@图片1】【@图片2】【@图片3】【@图片4】【@图片5】，保持马形象一致，保持马形象一致。马儿出场顺序你可以调整 ✅ 核心逻辑 动作顺序：慢→快→ 高潮，动作从小到大→定格 图1：站立/轻微抬头 图2：抬头/转头 图3：小跑/抬蹄 图4：加速奔跑 图5：腾跃/跳跃 图5：昂首定格（字幕出现） 动…
 
 #### 📝 提示词
 
 ```
-一部电影感十足的冒险场景，设定在日出时分的隐秘丛林山谷中。巨大的古老石质废墟覆盖着苔藓，从茂密的热带植被中拔地而起。被遗忘的战士巨型雕像断裂在缠绕藤蔓的高耸石柱间，废墟中央矗立着一座神秘的圆形石台。八位来自不同背景的探险家站在石台上，身着粗犷的探险服装，混搭着他们在废墟中发现的部落器物。他们的脸上交织着紧张、好奇与坚定。一位身着深色现代探险装备的神秘向导缓缓走过石台，探险家们警惕地注视着他。风吹过丛林树冠和石柱上悬挂的古老布幡。火把燃起橙色火焰，在石雕上投下摇曳的阴影。镜头以广阔的航拍视角开场，展现巨大的丛林山谷与隐藏的废墟，晨雾在林间飘荡。镜头缓缓下降，靠近石台。切至几位探险家的特写：专注的眼神、脸上的汗水、手指触碰石板上古老雕刻符号的瞬间。向导在中央停下，平静地说：“每个文明都会留下考验。只有理解过去的人才能掌控未来。”远处传来低沉的雷声，在山谷中回荡。镜头缓缓环绕这群人，他们彼此对视，意识到这是一场危险探险的开端。最后一幕：一位探险家单膝跪地，在地面上描摹出一个发光的古老符号，暗示着废墟中隐藏的秘密。极致电影感的光影、戏剧性的氛围、真实的人类表演、史诗冒险电影风格、体积感晨雾、丛林环境音、自然的微风动态、浅景深、变形镜头质感、微妙的镜头光晕、高细节纹理、逼真的环境模拟。
+上传不同姿势的参考【@图片1】【@图片2】【@图片3】【@图片4】【@图片5】，保持马形象一致，保持马形象一致。马儿出场顺序你可以调整 ✅ 
+核心逻辑 动作顺序：慢→快→ 高潮，动作从小到大→定格 图1：站立/轻微抬头 图2：抬头/转头 图3：小跑/抬蹄 图4：加速奔跑 图5：腾跃/跳跃 图5：昂首定格（字幕出现） 动作细节 四肢、鬃毛、尾巴自然动态 漫画风可微夸张 每张姿势间平滑过渡，动作连贯 镜头 前半段慢，轻微环绕+推拉 后半段动作加快，突出动感 方向保持一致，避免乱跑 背景与氛围 漫画风烟花远景 空气中金色光斑/小星星漂浮 可加简化红灯笼前景元素 音乐与节奏 明快鼓点或轻快新年音乐 配合动作卡点切换 高潮字幕：马到成功 · 新年快乐
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01361.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01361.jpg" width="600" alt="丛林废墟探险" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01667.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01667.jpg" width="600" alt="马到成功动画" style="cursor:pointer">
 </a>
 </div>
 
@@ -612,25 +636,63 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 19: 拉面厨师动画
+### No. 19: 赘婿惊鸿一瞥沦陷
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-请使用附上的《拉面厨师》分镜图作为准确参考。制作一段12秒、16：9的动画拉面制作序列，完全遵循8个镜头的分镜。保持那种皮克斯风格浓烈的日本拉面厨师，黑色发带，深色围裙，
+视频风格： 国风唯美 + 情感反转 + 视觉大片 人物造型： 男主【@图1】： 高马尾、泪痣、黑衣（狂傲不羁感）。 女主【@图2】： 盛唐装、发冠流苏、秋千（顶级惊艳感）。 [00:00 - 00:03] 极度抗拒 画面： 男主侧身转头特写，眼神狠戾。 动作： 猛地回头看向镜头，眉头紧锁，充满羞辱感。 台词（字幕）：…
 
 #### 📝 提示词
 
 ```
-请使用附上的《拉面厨师》分镜图作为准确参考。制作一段12秒、16：9的动画拉面制作序列，完全遵循8个镜头的分镜。保持那种皮克斯风格浓烈的日本拉面厨师，黑色发带，深色围裙，
+视频风格： 国风唯美 + 情感反转 + 视觉大片 
+人物造型： 
+男主【@图1】： 高马尾、泪痣、黑衣（狂傲不羁感）。
+女主【@图2】： 盛唐装、发冠流苏、秋千（顶级惊艳感）。
+
+[00:00 - 00:03] 极度抗拒
+画面： 男主侧身转头特写，眼神狠戾。
+动作： 猛地回头看向镜头，眉头紧锁，充满羞辱感。
+台词（字幕）： “入赘？！”
+语气： 愤怒、暴躁、带有强烈的抵触情绪。
+背景音乐： 激烈的古风鼓点戛然而止，进入无声或低频心跳声。
+
+[00:03 - 00:04] 厌恶至极
+画面： 男主近景，嫌弃地偏过头，嘴角挂着一丝冷嘲。
+台词（字幕）： “狗都不...”
+语气： 极度鄙夷、不屑，斩钉截铁。
+背景音乐： 依然压抑，等待爆发。
+
+[00:04 - 00:08] 惊艳一眼
+画面： 主观视角。镜头穿过层层桃花瓣和飞舞的薄纱，落在秋千上的女主身上。
+动作： 女主穿着米金色的华丽唐装，发冠流苏微微晃动，正温柔地注视前方。
+场景： 桃花林夜景，强光束穿过薄纱，粒子特效如星光般洒落。
+背景音乐： BGM瞬间反转！ 抒情唯美的弦乐高潮起，仙气十足。
+
+[00:08 - 00:11] 心理防线崩塌
+画面： 男主半跪地特写。桃花枝横过镜头前景。
+动作： 男主原本愤怒的表情僵住，瞳孔地震，随即眼神从惊愕转为目不转睛的痴迷。
+台词（字幕）： “入...”
+语气： 瞬间软化，声音微弱而迟疑，带着一丝“老脸一红”的惊艳。
+
+[00:11 - 00:13] 窃喜与沦陷
+画面： 男主面部特写，表情微动。
+动作： 眼神不再闪躲，而是直勾勾地盯着女主，嘴角忍不住想上扬（暗自窃喜），仿佛已经想好了以后孩子的名字。
+表情： “真香”本香，清冷的外表下透着一丝藏不住的欢喜。
+
+[00:13 - 00:15] 终极对视
+画面： 女主特写，眼神温柔如水，仿佛早已料到。
+背景音乐： 优美的笛声收尾，留白感。
+台词（字幕）： 无（此处无声胜有声）。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03469.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03469.jpg" width="600" alt="拉面厨师动画" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04795.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04795.jpg" width="600" alt="赘婿惊鸿一瞥沦陷" style="cursor:pointer">
 </a>
 </div>
 
@@ -638,25 +700,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 20: 超写实物理效果
+### No. 20: 天空废墟激战
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-超写实物理效果，精准的重量分布，自然的惯性与动量
+高速动漫对决于天空废墟之中，闪电交织，能量碰撞，电影级动作场面。
 
 #### 📝 提示词
 
 ```
-超写实物理效果，精准的重量分布，自然的惯性与动量
+高速动漫对决于天空废墟之中，闪电交织，能量碰撞，电影级动作场面。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01746.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01746.jpg" width="600" alt="超写实物理效果" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00526.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00526.jpg" width="600" alt="天空废墟激战" style="cursor:pointer">
 </a>
 </div>
 
@@ -664,44 +726,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 21: 朋克医院情绪MV
+### No. 21: 动漫巅峰对决
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-极具电影感的混乱医院音乐视频，灵感来自情绪朋克美学。一位美丽曲线玲珑的年轻女子，留着长长的黑发和柔软的窗帘刘海，坐在一间奇异的未来医院病房里。她穿着一件宽大的白色病人衬衫，凌乱时尚的头发，光泽晕染的妆容，戴着珍珠耳环，脸和膝盖上贴着小创可贴。 氛围情绪不稳定、超现实且带有黑色幽默。医生和护士在背景中动作怪异，医院的荧…
+一场15秒的电影版动漫对决。场景开始于两道强烈的灯光冲突：左侧是一位银发男子，身穿黑色高领制服，眼睛散发着耀眼的青色光辉，指尖流淌着液态蓝色粒子;右侧是一位粉黑相间的男子，脸上覆盖着黑色纹路，双手合十，施展神秘的封印，周围环绕着深红色闪电。背景是一个宏伟的红色古老建筑剪影。
 
 #### 📝 提示词
 
 ```
-极具电影感的混乱医院音乐视频，灵感来自情绪朋克美学。一位美丽曲线玲珑的年轻女子，留着长长的黑发和柔软的窗帘刘海，坐在一间奇异的未来医院病房里。她穿着一件宽大的白色病人衬衫，凌乱时尚的头发，光泽晕染的妆容，戴着珍珠耳环，脸和膝盖上贴着小创可贴。
-
-氛围情绪不稳定、超现实且带有黑色幽默。医生和护士在背景中动作怪异，医院的荧光灯光戏剧性地闪烁。她看起来情绪疲惫、麻木，精神上也被压垮了，同时努力保持冷静。
-
-场景：
-- 独自坐在医院病床上，茫然地盯着看
-- 慢动作穿过长长的医院走廊
-- 混乱的护士匆匆掠过镜头
-- 鱼眼透镜近距离变形透视
-- 躺在地上笑着哭泣
-- 散落在桌上的药丸
-- 戏剧性的闪烁灯光
-- 情感眼部特写
-- 闭路电视风格的监控摄像头镜头
-- 《独自在医院走廊跳舞》
-
-视觉风格：超现实的电影音乐视频、情绪朋克能量、混乱剪辑、手持摄像机、动态模糊、胶片颗粒、光泽皮肤质感、霓虹医院灯光、超现实氛围、情感叙事。
-
-色彩调色：冷白色灯光，绿色医院色调，细腻的霓虹蓝和红色点缀。
-宽高比为16：9。
+一场15秒的电影版动漫对决。场景开始于两道强烈的灯光冲突：左侧是一位银发男子，身穿黑色高领制服，眼睛散发着耀眼的青色光辉，指尖流淌着液态蓝色粒子;右侧是一位粉黑相间的男子，脸上覆盖着黑色纹路，双手合十，施展神秘的封印，周围环绕着深红色闪电。背景是一个宏伟的红色古老建筑剪影。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07719.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07719.jpg" width="600" alt="朋克医院情绪MV" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04616.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04616.jpg" width="600" alt="动漫巅峰对决" style="cursor:pointer">
 </a>
 </div>
 
@@ -709,25 +752,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 22: 八十年代怪形怪物
+### No. 22: 粉焰少女废墟决战
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一个受约翰·卡朋特《怪形》启发的怪诞怪物。80年代风格的模拟拍摄。很酷的色级。去饱和。
+시나리오 01： 발화와 질주 （00：00 - 00：03）[动作提示] 一张原始、电影感十足的低角度广角照片，使用变形胶片镜头拍摄，专注于 img1。她站在首尔的风格化废墟中，远处烟雾弥漫的背景中可见受损的南山塔轮廓。她清澈的眼睛中流露出坚定的决心，眼睛没有戴墨镜。突然，强烈的粉红色能量脉络猛烈燃烧，从手开始蔓延…
 
 #### 📝 提示词
 
 ```
-一个受约翰·卡朋特《怪形》启发的怪诞怪物。80年代风格的模拟拍摄。很酷的色级。去饱和。
+시나리오 01： 발화와 질주 （00：00 - 00：03）[动作提示] 一张原始、电影感十足的低角度广角照片，使用变形胶片镜头拍摄，专注于 img1。她站在首尔的风格化废墟中，远处烟雾弥漫的背景中可见受损的南山塔轮廓。她清澈的眼睛中流露出坚定的决心，眼睛没有戴墨镜。突然，强烈的粉红色能量脉络猛烈燃烧，从手开始蔓延到脖颈。她展开爆炸性的音爆级冲刺，留下一道光芒和散落的瓦砾。시나리오 02： 그림자 포위 （00：03 - 00：06）[动作提示] img1 继续快速奔向断桥悬崖，粉色能量轨迹划破灰烬。多名身穿哑光黑色盔甲的敌方战斗人员试图拦截。IMG1启动能量注入的动作，身体被震动的粉色等离子光环包围。镜头跟随她的动态跟踪镜头。시나리오 03： 교각 아래의 처단 （00：06 - 00：10）[动作提示] img1 从悬崖跃起，空中施展强力的光系回旋踢。一股巨大的粉色光粒子冲击波释放出来，将敌人物理击退。强烈的粉色光芒照亮了倒塌的首尔摩天大楼中粗糙、粉碎的混凝土和扭曲的钢筋，营造出戏剧性的明暗对比光影效果，投下深邃阴影。能量粒子的极其细节，电影般的摄像机抖动。场景04：最终참격과 엔딩 （00：10 - 00：15）[动作提示] img1降落在坑道街道的另一侧，施展了最后一击，拳头中镶嵌着纯白与粉色的能量。一阵巨大的粉色光爆炸吞噬了最后一批敌人。尘埃落定，img1背对着她离开，身上的粉色光芒慢慢消退，她望向破碎的城市地平线。去饱和的砂砾色级。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04711.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04711.jpg" width="600" alt="八十年代怪形怪物" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03869.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03869.jpg" width="600" alt="粉焰少女废墟决战" style="cursor:pointer">
 </a>
 </div>
 
@@ -735,25 +778,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 23: 鸽子大盗偷薯条
+### No. 23: 悬崖复古车旅
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-动画提示 鸽子：博物馆大盗 一只穿着黑色高领毛衣、戴着贝雷帽的小巷鸽子，试图从一家优雅的博物馆咖啡馆里偷走一根薯条。到处是激光安保系统。高预算3D动画，微型盗窃戏仿。[0秒–1.5秒] 月光下的博物馆内部。
+生成一个15秒的MV视频。关键词：稳健构图/轻推拉/低角度英雄感/纪录片但高端 超广角镜头，略带低摄角，悬崖土路和复古旅行车占据屏幕下三分之一，远处的海洋和地平线开阔空间，夕阳侧的体积光穿过尘埃， 胶片级别的构图，真实的胶片颗粒，微风吹动衣服的角落。
 
 #### 📝 提示词
 
 ```
-动画提示 鸽子：博物馆大盗 一只穿着黑色高领毛衣、戴着贝雷帽的小巷鸽子，试图从一家优雅的博物馆咖啡馆里偷走一根薯条。到处是激光安保系统。高预算3D动画，微型盗窃戏仿。[0秒–1.5秒] 月光下的博物馆内部。
+生成一个15秒的MV视频。关键词：稳健构图/轻推拉/低角度英雄感/纪录片但高端 超广角镜头，略带低摄角，悬崖土路和复古旅行车占据屏幕下三分之一，远处的海洋和地平线开阔空间，夕阳侧的体积光穿过尘埃， 胶片级别的构图，真实的胶片颗粒，微风吹动衣服的角落。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00826.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00826.jpg" width="600" alt="鸽子大盗偷薯条" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04246.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04246.jpg" width="600" alt="悬崖复古车旅" style="cursor:pointer">
 </a>
 </div>
 
@@ -761,25 +804,56 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 24: 猛虎追鹿实录
+### No. 24: 火山古庙：黑暗神话战争
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-请使用上传的图片作为精确的第一帧。 创建一个 15 秒的超逼真连续追逐镜头。摄像机物理性地抓着老虎的尾巴，锁定在一个固定的跟踪视角。尾巴占据前景，肌肉收缩，皮肤起伏，毛发因速度和气流而颤动。 前方，一只鹿惊慌失措地冲过草地。它的动作不规则且不平衡，恐惧驱动的步态变化和急剧的方向转变清晰可见，距离迅速缩短。 老虎以精确…
+持续时间：15秒 风格：古代奇幻战争 • 黑暗神话 • 电影生存史诗 格式：垂直9：16 • UHD 8K • IMAX幻想摄像机 • 杜比全景声 • 超真实 一场超现实的奇幻电影战斗场景，发生在一座隐藏在火山深处的巨大古庙内，正值一场猛烈的日食风暴。熔岩河流在破裂的石桥下闪烁。巨大的铁链从天花板垂挂。灰烬和余烬在空…
 
 #### 📝 提示词
 
 ```
-请使用上传的图片作为精确的第一帧。 创建一个 15 秒的超逼真连续追逐镜头。摄像机物理性地抓着老虎的尾巴，锁定在一个固定的跟踪视角。尾巴占据前景，肌肉收缩，皮肤起伏，毛发因速度和气流而颤动。 前方，一只鹿惊慌失措地冲过草地。它的动作不规则且不平衡，恐惧驱动的步态变化和急剧的方向转变清晰可见，距离迅速缩短。 老虎以精确的生物力学加速到全速冲刺：后腿爆发性伸展，脊柱可见的压缩和释放，尾巴平衡着每一步。草地在冲击下被压平，泥土和碎屑自然飞溅。地平线因地面作用力而轻微颤抖，而非人工摄像机抖动。 极高的前进速度在环境中产生了强烈的运动视差，而尾巴由于物理抓握而相对稳定。微小的摆动与每个步态周期完美同步。风声呼啸；毛发持续向后飘动。 光线保持自然和连续，随着腿部循环，阴影在身体下方闪烁。没有慢动作，没有剪辑，没有风格化。 在最后时刻，老虎猛扑，与鹿相撞，将其按倒在地，并牢牢锁住颈部。镜头在动作进行中结束，全部重量、张力和动量依然存在。
+持续时间：15秒
+风格：古代奇幻战争 • 黑暗神话 • 电影生存史诗
+格式：垂直9：16 • UHD 8K • IMAX幻想摄像机 • 杜比全景声 • 超真实
+
+一场超现实的奇幻电影战斗场景，发生在一座隐藏在火山深处的巨大古庙内，正值一场猛烈的日食风暴。熔岩河流在破裂的石桥下闪烁。巨大的铁链从天花板垂挂。灰烬和余烬在空中飘荡。雷声震动着山脉，巨大的火把在黑色黑曜石墙上闪烁。电影般的烟雾、发光粒子、逼真的破坏物理、强烈的动态模糊、手持IMAX摄像机运动、戏剧性的阴影以及极其细致的奇幻视觉特效，营造出史诗般的黑暗神话氛围。
+
+主角：
+一位神秘的女战士，身穿黑色皇家战甲，镶嵌着发光的古代符文，披着长长的披风，冷漠的女战士女王能量，剑术大师，火焰超能力。
+
+0–2 SEC：
+镜头飞越一座巨大的火山神庙。熔岩在古老的石桥下方喷涌而出。沉重的脚步声回荡。特写，一双发光的装甲靴缓缓走过破裂的黑曜石地板。镜头向上倾斜，露出她身披黑冠盔甲下发光的眼睛，被诅咒的战士们用燃烧武器包围着她。
+
+2–4 东南联盟：
+战斗瞬间爆发。她拔出了一把发光的古剑。巨大的冲击波将敌人击退。IMAX的旋击盘跟随她旋转的斩击，斩断穿透全副武装的战士。火花、灰烬和熔融碎片在空中以电影般的慢动作爆开。
+
+4–6 SEC：
+在坍塌的神庙走廊内进行近战。她施展了残酷的剑术组合，融合了超自然的火焰魔法。敌人每次攻击后都会化为灰烬。镜头剧烈旋转，巨大的石柱在战场上倒塌。
+
+6–8 SEC：
+一只巨大的装甲刽子手挥舞着巨大的熔融锤子攻击。她以极慢速度滑过攻击，身后熔岩爆炸。她向上跳跃，奔跑过坠落的碎片，用发光的刀刃刺穿敌人的胸膛。
+
+8–10 SEC：
+神庙开始坍塌成熔岩深渊。巨大的铁链从天花板上断裂。火风暴在大厅中盘旋。她在喷发的熔岩河上方狭窄的石桥上与最后的诅咒战士战斗，日蚀闪电穿透开阔的山顶。
+
+10–12 SEC：
+最后一个敌人出现了——披着熔化盔甲的巨大影王。史诗般的决斗序列开始。她将古老的火之力量转化为剑，施展毁灭性的旋转攻击，将敌人粉碎成燃烧的碎片。
+
+12–14 SEC：
+火山山猛烈爆发。她从倒塌的神庙跳到从烟火中出现的巨大神话黑龙身上逃脱。翅膀在风暴天空中缓缓展开，宛如电影般的慢动作。
+
+14–15 SEC：
+龙飞翔在喷发的火山上空，整座山在下方化为火焰。灰烬暴风雨和闪电充满天空。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04980.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04980.jpg" width="600" alt="猛虎追鹿实录" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04084.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04084.jpg" width="600" alt="火山古庙：黑暗神话战争" style="cursor:pointer">
 </a>
 </div>
 
@@ -787,25 +861,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 25: 探险者逃亡古墓
+### No. 25: 时尚女孩节拍换装秀
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-在一段电影感十足、混乱的跟踪镜头中，手持摄像机运动和摄像机抖动，一位探险者手持一块古老的甲虫遗物。探险家正被一具巨型木乃伊追赶。可见碎片和尘埃云。木乃伊正在拆解一堵古老的墙壁。探险者在奔跑时偶尔回头看。她沉重的呼吸声清晰可闻。木乃伊差点接住她，但她险些被木乃伊撞上柱子摔落。探险者继续奔跑，进入墓穴入口。
+海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
 
 #### 📝 提示词
 
 ```
-在一段电影感十足、混乱的跟踪镜头中，手持摄像机运动和摄像机抖动，一位探险者手持一块古老的甲虫遗物。探险家正被一具巨型木乃伊追赶。可见碎片和尘埃云。木乃伊正在拆解一堵古老的墙壁。探险者在奔跑时偶尔回头看。她沉重的呼吸声清晰可闻。木乃伊差点接住她，但她险些被木乃伊撞上柱子摔落。探险者继续奔跑，进入墓穴入口。
+海报中的女孩不断更换服装，服装参考@图片1-6，每次换装配合音乐节拍，快速切换，时尚感十足。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04358.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04358.jpg" width="600" alt="探险者逃亡古墓" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09697.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09697.jpg" width="600" alt="时尚女孩节拍换装秀" style="cursor:pointer">
 </a>
 </div>
 
@@ -813,25 +887,30 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 26: 过山车第一视角
+### No. 26: 天轨绝命追击
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。
+15秒的电影动作戏，拍摄于一台巨大的轨道电梯外部维护轨道，延伸至云层，燃烧的碎片从高层大气坠落，应急灯穿透风暴云闪烁。 镜头垂直俯冲电梯结构，一名女性重力操作员穿着反重力靴在磁轨上滑行，身后拖着火花。 一名重装甲雇佣兵从上方降落，连接机械缆绳，击碎维修无人机，迅速拉近距离。 悬浮在行星上方数千米高的狭窄外部平台上空中…
 
 #### 📝 提示词
 
 ```
-@图片1 @图片2 @图片3 @图片4 @图片5，主观视角，镜头模拟过山车体验，快速俯冲、转弯、爬升，刺激的第一人称视角。
+15秒的电影动作戏，拍摄于一台巨大的轨道电梯外部维护轨道，延伸至云层，燃烧的碎片从高层大气坠落，应急灯穿透风暴云闪烁。
+镜头垂直俯冲电梯结构，一名女性重力操作员穿着反重力靴在磁轨上滑行，身后拖着火花。
+一名重装甲雇佣兵从上方降落，连接机械缆绳，击碎维修无人机，迅速拉近距离。
+悬浮在行星上方数千米高的狭窄外部平台上空中相撞。慢动作的碎片和闪电在锁定的战斗者周围旋转。
+手持战斗沿着坍塌的维修轨道进行，巨大的燃烧残骸从镜头前坠落到云层中。
+巨大的拉回显露出轨道电梯穿透大气层，爆炸沿着其表面向上扩散。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09652.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09652.jpg" width="600" alt="过山车第一视角" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10289.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10289.jpg" width="600" alt="天轨绝命追击" style="cursor:pointer">
 </a>
 </div>
 
@@ -839,25 +918,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 27: 双头女尸夜袭墓地
+### No. 27: 红甲战士能量剑
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-低光照下手持智能手机拍摄，画面颗粒感较重，略有运动模糊。仅使用手机强光LED手电筒照明。自然音效：昆虫声、远处犬吠声、风吹落叶声。地点：一处古老的印第安墓地，泥泞小路崎岖不平，墓碑开裂，铁栅栏环绕，杂草丛生，墓碑倾斜。在一块巨大的、开裂的墓碑上，一个女人以一种不自然的姿势蹲伏着。她身形异常消瘦，皮肤呈灰白色，腐烂不堪…
+角色参考图：图1=战士的脸。图2=红色机械盔甲参考图。IMAX 70mm胶片质感，Panavision 35mm镜头，f/4光圈，手持拍摄晃动。真人科幻，4K分辨率，浅景深散景，冷色调，红色能量剑。
 
 #### 📝 提示词
 
 ```
-低光照下手持智能手机拍摄，画面颗粒感较重，略有运动模糊。仅使用手机强光LED手电筒照明。自然音效：昆虫声、远处犬吠声、风吹落叶声。地点：一处古老的印第安墓地，泥泞小路崎岖不平，墓碑开裂，铁栅栏环绕，杂草丛生，墓碑倾斜。在一块巨大的、开裂的墓碑上，一个女人以一种不自然的姿势蹲伏着。她身形异常消瘦，皮肤呈灰白色，腐烂不堪，两个头颅清晰可见。长长的黑色头发凌乱地垂在脸上。她双眼空洞，呈乳白色。嘴巴微微张开，露出锋利的、如同德古拉伯爵般的獠牙。一声低沉的喉音从她胸腔中发出，与夜色交织在一起。她的头缓缓转向镜头，头发滑落，露出她那双死寂的白色眼睛。突然，她猛地从墓碑上跳下，重重地摔在地上，发出沉闷的声响。她惊慌地逃入墓碑之间。镜头剧烈晃动。她拖着身子在地上爬行，越过墓碑，四肢以匪夷所思的角度弯曲，发出嘶嘶声，尘土和干草在她脚下摩擦作响。镜头突然切换到极近特写。她的脸猛地闯入画面，发出一声尖叫，獠牙完全暴露，双眼空洞无神，头发向前甩动。画面瞬间切黑。
+角色参考图：图1=战士的脸。图2=红色机械盔甲参考图。IMAX 70mm胶片质感，Panavision 35mm镜头，f/4光圈，手持拍摄晃动。真人科幻，4K分辨率，浅景深散景，冷色调，红色能量剑。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04007.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04007.jpg" width="600" alt="双头女尸夜袭墓地" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07951.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07951.jpg" width="600" alt="红甲战士能量剑" style="cursor:pointer">
 </a>
 </div>
 
@@ -865,25 +944,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 28: 企鹅萌娘夜市炒饭秀
+### No. 28: 足球重炮碎屏特效
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-萌萌哒Q版企鹅女孩“咕咕嘎嘎”（来自《明日方舟：终焉之地》的终焉管理员），毛茸茸的黑白企鹅帽和身体，配上闪闪发光的大眼睛、粉嫩的脸颊、娇小的身躯和硕大的脑袋，身穿粉蓝白相间的可爱战术服。她先是露出不耐烦的表情，随后转为顽皮的挑衅，最后又露出得意的笑容，在夜色下的街边小吃摊上，手拿煎锅，对着滋滋作响的炒饭大显身手。Q版…
+从参考视频中复制动作效果，制作出类似运动效果的视频，同时用足球进行强力镜头，镜头感受到效果，屏幕碎裂。
 
 #### 📝 提示词
 
 ```
-萌萌哒Q版企鹅女孩“咕咕嘎嘎”（来自《明日方舟：终焉之地》的终焉管理员），毛茸茸的黑白企鹅帽和身体，配上闪闪发光的大眼睛、粉嫩的脸颊、娇小的身躯和硕大的脑袋，身穿粉蓝白相间的可爱战术服。她先是露出不耐烦的表情，随后转为顽皮的挑衅，最后又露出得意的笑容，在夜色下的街边小吃摊上，手拿煎锅，对着滋滋作响的炒饭大显身手。Q版动画生动传神：急切地歪着头，挥舞着手臂，抓起锅铲，嘴巴张合完美地配合着她那可爱又急切的声音：“快点炒！要是炒不好我就接手了！咕咕咕咕快点！你敢跟我吵吗？就是现在！”流畅的动画，夸张的表情，速度线，闪光和粒子效果，可爱萌系美学，高饱和度鲜艳色彩（粉、蓝、白、黑），柔和的漫射光，极简渐变散景城市背景，浅景深，垂直9:16超精细AI Q版动画，高品质 --ar 9:16 --motion high --stylize 750
+从参考视频中复制动作效果，制作出类似运动效果的视频，同时用足球进行强力镜头，镜头感受到效果，屏幕碎裂。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07810.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07810.jpg" width="600" alt="企鹅萌娘夜市炒饭秀" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03616.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03616.jpg" width="600" alt="足球重炮碎屏特效" style="cursor:pointer">
 </a>
 </div>
 
@@ -891,25 +970,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 29: 剪影战士的悲壮
+### No. 29: 啤酒女孩奇迹射门
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-开场镜头：凯尔，一名身披残破盔甲、面带伤疤的战士，以侧影姿态伫立。他的轮廓占据整个画面。在他剪影内部，战场正在上演：火焰燃烧，硝烟升腾，士兵们以慢动作移动。快速电影式切换：——剑刃碰撞（短暂闪光）——一名倒下的战友伸出手——凯尔穿越火焰。镜头横向跟拍，随后推进至剪影世界内部，从剪影过渡到完整环境。火星飞向镜头，烟雾融…
+超逼真的体育转播视频，电影般的夜间比赛氛围。一位光彩照人的女性坐在座无虚席的足球场内，周围是穿着球衣和围巾的球迷。她正用另一只手喝着啤酒杯，另一只手拿着半吃的薯条。突然，体育场的广播大声喊出她的名字“[请输入你的名字]”——她僵住了，眼睛睁得大大的，所有人都看着她欢呼。她小心地放好啤酒杯，吃着薯条，用纸巾擦了擦手，然…
 
 #### 📝 提示词
 
 ```
-开场镜头：凯尔，一名身披残破盔甲、面带伤疤的战士，以侧影姿态伫立。他的轮廓占据整个画面。在他剪影内部，战场正在上演：火焰燃烧，硝烟升腾，士兵们以慢动作移动。快速电影式切换：——剑刃碰撞（短暂闪光）——一名倒下的战友伸出手——凯尔穿越火焰。镜头横向跟拍，随后推进至剪影世界内部，从剪影过渡到完整环境。火星飞向镜头，烟雾融入转场。光影：高对比度，火焰映照的高光。氛围：激烈、悲壮、充满力量。结尾：凯尔抬起头→双眼微微发光→硬切至黑屏。
+超逼真的体育转播视频，电影般的夜间比赛氛围。一位光彩照人的女性坐在座无虚席的足球场内，周围是穿着球衣和围巾的球迷。她正用另一只手喝着啤酒杯，另一只手拿着半吃的薯条。突然，体育场的广播大声喊出她的名字“[请输入你的名字]”——她僵住了，眼睛睁得大大的，所有人都看着她欢呼。她小心地放好啤酒杯，吃着薯条，用纸巾擦了擦手，然后扔了出去。她站起身，滑过一排观众，坚定地走下体育场台阶，朝球场走去。她踏上球场——观众们低声议论，满是期待。地上的橄榄球运动员把球扔向她。她站好阵型，稳健迈出两步，然后一脚有力而干净的踢球直奔球门柱。体育场爆发了喧嚣。她转身，带着灿烂的笑容跑回转播摄像机，双臂伸出，双手张开，完全遮住镜头——屏幕变黑。贯穿始终：左上角有直播叠加和实时比分和比赛计时器，体育网络右上角有水印，浅景深并对女性角色有清晰焦点，观众背景略显模糊，自然的场馆泛光灯，真实的直播电视美学。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02166.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02166.jpg" width="600" alt="剪影战士的悲壮" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04111.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04111.jpg" width="600" alt="啤酒女孩奇迹射门" style="cursor:pointer">
 </a>
 </div>
 
@@ -917,38 +996,26 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 30: 机甲女战士终极一击
+### No. 30: 铁腕警探破罪潮
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-【核心主题】 写实科幻机甲战斗、超高速冲击、骨骼复位、机械式机甲变身、终极踢击、IMAX电影级科幻战斗 【人物基础设定】 主角：女性战士 外观状态： 脸部带有灰尘与擦伤，嘴角微微带血。 表情坚韧但疲惫。 短发凌乱，汗水与灰尘混合。 服装： 黑色战术紧身服 + 破损外套
+（《警察星期三》）：罗西侦探：《深情》（罗西警官：《里西的警察》）。 一波犯罪浪潮袭击了这座城市，警察似乎无法整顿好自己。罗西侦探已经受够了官僚主义和政客束缚手下（并释放罪犯再次恐吓城市！）——但一个铁腕警察能在这个疯狂的世界里产生影响吗？也许这个爱管闲事的记者能成为重要的盟友！
 
 #### 📝 提示词
 
 ```
-【核心主题】
-
-写实科幻机甲战斗、超高速冲击、骨骼复位、机械式机甲变身、终极踢击、IMAX电影级科幻战斗
-
-【人物基础设定】
-
-主角：女性战士
-
-外观状态：
-脸部带有灰尘与擦伤，嘴角微微带血。
-表情坚韧但疲惫。
-短发凌乱，汗水与灰尘混合。
-服装：
-黑色战术紧身服 + 破损外套
+（《警察星期三》）：罗西侦探：《深情》（罗西警官：《里西的警察》）。
+一波犯罪浪潮袭击了这座城市，警察似乎无法整顿好自己。罗西侦探已经受够了官僚主义和政客束缚手下（并释放罪犯再次恐吓城市！）——但一个铁腕警察能在这个疯狂的世界里产生影响吗？也许这个爱管闲事的记者能成为重要的盟友！
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08096.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08096.jpg" width="600" alt="机甲女战士终极一击" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08806.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08806.jpg" width="600" alt="铁腕警探破罪潮" style="cursor:pointer">
 </a>
 </div>
 
@@ -956,27 +1023,46 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 31: 跑车变形战机
+### No. 31: 猫咪深夜拉面
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-7. 汽车变形 15秒的电影变形，一辆流线型的黑色跑车在夜晚霓虹灯闪烁的高速公路上疾驰，随后在运动中变形成强大的未来战斗机，复杂的机械面板移动，车轮内折，金属装甲
+制作一个以猫咪在深夜食堂制作手作拉面为主题的短视频，电影级调色（暖色调，充满烟火气），细腻颗粒，浅景深。 主角是一只猫咪，扮演一位专业拉面师傅，形象外观严格参照【@【@图1】】。 场景设定为城市街头一家充满和式风情的深夜拉面摊位前。背景有温暖的黄色灯笼、木质吧台，以及远处模糊的街道霓虹灯。 视频内容需要按照以下步骤分…
 
 #### 📝 提示词
 
 ```
-7. 汽车变形
+制作一个以猫咪在深夜食堂制作手作拉面为主题的短视频，电影级调色（暖色调，充满烟火气），细腻颗粒，浅景深。
+主角是一只猫咪，扮演一位专业拉面师傅，形象外观严格参照【@【@图1】】。
+场景设定为城市街头一家充满和式风情的深夜拉面摊位前。背景有温暖的黄色灯笼、木质吧台，以及远处模糊的街道霓虹灯。
+视频内容需要按照以下步骤分镜展示：
 
-15秒的电影变形，一辆流线型的黑色跑车在夜晚霓虹灯闪烁的高速公路上疾驰，随后在运动中变形成强大的未来战斗机，复杂的机械面板移动，车轮内折，金属装甲
+揉面与切面： 猫咪穿着小围裙，有节奏地在撒了面粉的木质案板上揉捏面团，然后用一把锋利的面刀将面团切成均匀的细面条。
+
+煮面与甩干： 猫咪将面条抖散投入沸腾的大锅中，几秒后用竹漏勺将面条捞起，熟练地在空中用力甩两下，将多余的水分甩干。
+
+调汤底： 猫咪拿着一个精致的长柄勺，从熬制浓郁的白色骨汤锅里舀出一勺汤，缓缓倒入一个深蓝色的陶瓷大碗中。
+
+摆盘： 猫咪用筷子整齐地放入煮好的面条，再依次在面条上摆放两片厚实的叉烧、半个溏心蛋、几片海苔和葱花，动作精细。
+
+结尾： 结尾镜头猫咪师傅将这碗热气腾腾、冒着白烟的拉面轻轻推向镜头，并微微点头示意。
+
+要求：
+
+视频风格： 写实，画面清晰，中景。
+
+声音（ASMR）： 整个视频不需语音旁白，但要放大：切面时的“哒哒”声、面条入水的“哗啦”声、甩干水分的“飒飒”声、热汤入碗的流动声等。
+
+背景音乐： 背景有轻柔、舒缓的萨克斯风音乐，营造静谧的深夜氛围。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08043.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08043.jpg" width="600" alt="跑车变形战机" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00809.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00809.jpg" width="600" alt="猫咪深夜拉面" style="cursor:pointer">
 </a>
 </div>
 
@@ -984,55 +1070,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 32: 秘書暴打綠茶空姐
+### No. 32: 男友视角撒娇喂饮料
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-45秒垂直短劇，9:16，電影感，奢華飛機頭等艙，高級質感，電影級光影。 場景： 奢華私人飛機頭等艙，寬敞舒適的皮椅、柔和燈光、木質與金屬高級裝潢，窗外藍天白雲。 角色： 霸總<<<Image1>>> ：25歲左右，高大英俊，自信驕傲，穿深色襯衫。 女秘書：28歲左右，戴銀邊眼鏡，微胖，身材圓潤，臉上帶有淡淡雀斑，眉…
+【风格】情侣男友第一视角甜蜜互动短剧（Boyfriend POV Sweet Interaction），真人实拍质感（Photorealistic），自然午后暖光，Fujifilm C200胶片柔和色调，8K超清\n【时长】15秒\n【场景】明亮现代公寓客厅，白色墙壁，落地窗透进午后暖黄色自然光，背景有简约沙发、绿植…
 
 #### 📝 提示词
 
 ```
-45秒垂直短劇，9:16，電影感，奢華飛機頭等艙，高級質感，電影級光影。
-
-場景： 奢華私人飛機頭等艙，寬敞舒適的皮椅、柔和燈光、木質與金屬高級裝潢，窗外藍天白雲。
-
-角色：
-霸總<<<Image1>>> ：25歲左右，高大英俊，自信驕傲，穿深色襯衫。  
-女秘書：28歲左右，戴銀邊眼鏡，微胖，身材圓潤，臉上帶有淡淡雀斑，眉毛稀疏淡薄，穿著保守樸素的灰色職業套裝（長袖襯衫+及膝裙）。  
-空姐<<<Image2>>> ：冷豔高傲，身材火辣高挑，眉形俐落高聳，假睫毛明顯，妝容精緻，穿著貼身粉紅色空姐制服，頭戴粉紅色船形帽。
-
-風格： 電影級打光，淺景深，高級奢華質感，電影色彩分級，極致細節。
-
-第一段（0-15秒）：
-0-3s：頭等艙內，霸總坐在走道位置，女秘書坐在靠窗位置。
-3-6s：冷豔空姐從兩人的對面推著餐車走來，彎腰只對靠走道的霸總微笑，完全無視窗邊的女秘書。
-6-9s：空姐柔聲曖昧地問：「先生，請問您今天想吃點什麼？還是……想喝點更刺激的？」
-9-12s：空姐眼神撩人地看著霸總。
-12-15s：女秘書坐在窗邊看著這一幕，表情越來越難看。
-
-第二段（15-30秒）：
-15-18s：空姐輕笑著靠近霸總，低聲說：「我很少遇到像您這麼有魅力的乘客……」
-18-21s：空姐把餐巾纸和笔递过去，撒娇道：「可以给我您的电话吗？我想……私下再为您服务。」
-21-24s：霸總勾唇一笑，在餐巾紙上寫下號碼遞給空姐。
-24-27s：空姐與霸總眉目傳情，氣氛十分曖昧。
-27-30s：女秘書全程看傻眼，臉色鐵青，握緊拳頭。
-
-第三段（30-45秒）：
-30-33s：女秘書突然站起來，氣沖沖地衝向空姐。
-33-36s：女秘書用力將空姐按壓在走道另一側的座位上。
-36-39s：女秘書從餐車上拿起一瓶柳橙汁，直接從空姐頭上淋下去。
-39-42s：空姐被淋得滿頭滿臉，狼狽驚嚇到當場哭出來。
-42-45s：女秘書雙手叉腰，氣勢十足地說：「想追我男友？看妳還敢不敢！」（背景中霸總靠在座位上，嘴角勾起得意又玩味的笑容，饒有趣味地看著這一幕）
+【风格】情侣男友第一视角甜蜜互动短剧（Boyfriend POV Sweet Interaction），真人实拍质感（Photorealistic），自然午后暖光，Fujifilm C200胶片柔和色调，8K超清\n【时长】15秒\n【场景】明亮现代公寓客厅，白色墙壁，落地窗透进午后暖黄色自然光，背景有简约沙发、绿植、木地板，空间干净通透\n【角色】女主@图片1（黑色oversized涂鸦短款T恤、黑色choker项圈、金色十字架项链、佛珠手链，黑发扎成随意高马尾配红色发圈，碎发垂在额前两侧，表情慵懒带撒娇感，面部毛孔和皮肤质感真实可见）\n【视角】全程锁定第一人称男友视角（First-Person Boyfriend POV），镜头=男友的眼睛，机位固定在男性站立身高的眼线位置，带轻微自然呼吸晃动\n\n[00:00-00:05] 镜头1：拿着饮料走过来撒娇（POV Static, She Approaches）\n画面：女主从公寓客厅两三米外向镜头走来，右手拿着一罐饮料自然垂在身侧，左手抬起撩了一下额前碎发，赤脚踩在木地板上，走到镜头前半米处停下，微微歪头，右手把饮料罐举到镜头正前方递过来，眉毛微挑，嘴唇微嘟。\n机位：第一人称固定视角，略俯视女主（身高差约10cm），轻微呼吸感晃动（Subtle Breathing Sway），不移动不推拉。\n【对白口型指导】语气软糯撒娇，尾音上扬拖长：\"哥哥～这饮料帮我打开嘛。\"\n音效：赤脚踩木地板的轻微脚步声，饮料罐轻晃的液体声。\n\n[00:05-00:10] 镜头2：开罐递回，仰头畅饮（POV Hand Interaction）\n画面：画面下方伸入一双男性的手（自然肤色，手腕干净），接过饮料罐，打开，递回给女主。女主双手接过饮料罐，右手握罐身左手托底，凑到嘴边微微仰头喝了一大口，喉部轻微滚动，午后暖光打在她仰起的下巴和脖颈侧面，choker项圈在光线下反光。\n机位：保持第一人称视角，男友视线自然跟随饮料罐从自己手中到女主嘴边的轨迹，微微低头再抬头（自然视线运动），轻微晃动。\n音效：饮料罐拉环开启的\"噗嘶——\"气泡声，液体入口的吞咽声。\n\n[00:10-00:15] 镜头3：满足回味，举罐邀请（Close POV, She Leans In）\n画面：女主放下饮料罐，用左手手背擦了一下嘴角，眯起眼睛露出满足的表情，嘴角水渍在光线下微微反光。然后她睁开眼直视镜头，嘴角慢慢上扬露出一个带酒窝的笑，右手把饮料罐重新举到镜头前方，身体微微前倾向镜头靠近，脸占据画面越来越大，碎发几乎要碰到镜头。\n机位：第一人称视角不变，女主前倾时不后退，任由她的脸充满画面，形成极度亲密的构图（Intimate Close-up），最后定格在她笑容和举着饮料罐的手上。\n【对白口型指导】语气满足柔软，带一点俏皮的上扬：\"非常解渴～哥哥，你也来一口嘛？\"\n音效：她轻轻的笑声尾音，然后安静，只有远处窗外隐约的鸟叫声。\n\n【音频总指导】中文女声独白，甜美自然不做作，咬字清晰软糯，语速偏慢，唇形同步准确（Lip-Sync）。全程无背景音乐，仅公寓午后安静环境音（远处城市白噪音+偶尔鸟叫），安静氛围突出女主声线的亲密感和ASMR质感。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04674.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04674.jpg" width="600" alt="秘書暴打綠茶空姐" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03101.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03101.jpg" width="600" alt="男友视角撒娇喂饮料" style="cursor:pointer">
 </a>
 </div>
 
@@ -1040,25 +1096,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 33: 万能充的启示
+### No. 33: 贫民球王梦
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-@图片站在舞台上、手持麦克风，台下坐满观众，舞台大屏幕展示 AI 相关PPT；主人公台词：“他曾经有一个很牛的名字叫万能充，现在他什么都充不了，不要老拿自己过去当回事，世界在变，你如果不变，也会变成这个万能充一样。曾经的万能，现在的无能，不学习，不调整，不改变，早晚都会被时代淘汰。
+使用参考的6格分镜图生成一部15秒的水平电影足球短片。故事讲述了一个贫穷的街头足球男孩成长为世界杯决赛的主角
 
 #### 📝 提示词
 
 ```
-@图片站在舞台上、手持麦克风，台下坐满观众，舞台大屏幕展示 AI 相关PPT；主人公台词：“他曾经有一个很牛的名字叫万能充，现在他什么都充不了，不要老拿自己过去当回事，世界在变，你如果不变，也会变成这个万能充一样。曾经的万能，现在的无能，不学习，不调整，不改变，早晚都会被时代淘汰。
+使用参考的6格分镜图生成一部15秒的水平电影足球短片。故事讲述了一个贫穷的街头足球男孩成长为世界杯决赛的主角
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05123.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05123.jpg" width="600" alt="万能充的启示" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03083.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03083.jpg" width="600" alt="贫民球王梦" style="cursor:pointer">
 </a>
 </div>
 
@@ -1066,28 +1122,25 @@ BGM無し。低いエンジン音、風音、タイヤ音、高原の環境音�
 
 ---
 
-### No. 34: 暴雨救援车变形
+### No. 34: 猫狗吐槽大战
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-Seedance 2.0 motion prompt: One-take transformation action. A matte red endurance race car races along a stormy coastal highway at twilight, tires spraying wat…
+在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\
 
 #### 📝 提示词
 
 ```
-Seedance 2.0  motion prompt: One-take transformation action. A matte red endurance race car races along a stormy coastal highway at twilight, tires spraying water. The camera pushes close to the front quarter panel and tracks alongside as the car swerves around wreckage. Without slowing, the hood splits, wheels rotate, suspension arms extend, and body panels unfold into limbs while the chassis remains in forward motion. The transforming machine vaults over a collapsed barrier, lands as a fully formed road-mech still sprinting down the highway, then punches through crashing debris as lightning flashes over the sea cliffs. Rain, sparks, realistic mechanical articulation, dark metallic palette, full speed transformation with no cut.
-
-If english prompt is rejected use the chinese one
-一. 载具变形类：救援穿越车 图片提示词： 暴雨黄昏，一辆暗红色未来救援车高速行驶在海边断裂公路上，路面湿滑反光，远处风暴云压城，车身线条硬朗，带有应急警示灯和工程结构感，无驾驶员特写，原创设计，电影级工业写实风格。 Seedance2.0运镜词： 一镜到底，暴雨黄昏，一辆暗红色未来救援车在海边高架公路上高速疾驰，轮胎卷起大片水雾，镜头贴近车身前侧低角度跟拍，闪烁的应急灯在湿漉漉的路面上拉出红色反光。前方公路突然出现巨大断裂缺口，车辆在不断前进中开始重构变形：四个车轮向内收折，底盘升高，车身两侧展开为多段机械支撑臂，尾部伸出稳定平衡装置，顶部感应模块升起，前脸与底盘重组为一台非人形的多足跨越式救援机械载具。整个变形过程保持高速推进，机械关节咬合清晰，金属结构富有重量感。最终它稳稳跨过断桥缺口，落在对岸闪烁着求救信号的平台前，暴雨、火花、水雾与机械细节交织，电影级写实，紧张感强，无武器，无人形机甲感。
+在"猫狗吐槽间"里的一段吐槽对话,要求情感丰沛,符合脱口秀表演:\n喵酱(猫主持,舔毛翻眼):"家人们谁懂啊,我身边这位,每天除了摇尾巴、拆沙发,就只会用那种\
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01122.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01122.jpg" width="600" alt="暴雨救援车变形" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09340.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09340.jpg" width="600" alt="猫狗吐槽大战" style="cursor:pointer">
 </a>
 </div>
 
@@ -1095,61 +1148,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 35: 00后整顿职场名场面
+### No. 35: 外星入侵英雄战
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-反转式喜剧，真实电影高清质感，抖音短视频爆款，2人出镜 人物：小哥@图片1（00后觉醒打工人）、老妹很温柔@图片2（爱喂鸡汤的老板/HR） 场景1：公司办公区，傍晚（光线稍暗，暗示下班时间） - 小哥：背着双肩包，正准备打卡下班 - 老妹很温柔：手里拿着两份厚厚的文件，拦住小哥的去路 镜头&台词&音效： 1. 近景：…
+南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、…
 
 #### 📝 提示词
 
 ```
-反转式喜剧，真实电影高清质感，抖音短视频爆款，2人出镜
-
-人物：小哥@图片1（00后觉醒打工人）、老妹很温柔@图片2（爱喂鸡汤的老板/HR）
-
-场景1：公司办公区，傍晚（光线稍暗，暗示下班时间）
-
-- 小哥：背着双肩包，正准备打卡下班
-
-- 老妹很温柔：手里拿着两份厚厚的文件，拦住小哥的去路
-
-镜头&台词&音效：
-
-1. 近景：老妹很温柔语重心长：“小伙子，现在的年轻人不要总想着准点下班。你要有主人翁意识，要把公司当成自己的家，知道吗？”
-
-2. 近景：小哥看着文件，愣了一下：“把公司……当成自己的家？”
-
-3. 近景：老妹很温柔重重点头，眼神充满鼓励和PUA的意味：“对！当成自己的家！去吧！”
-
-4. 全景：小哥接过文件，若有所思地看着老妹很温柔，随后眼神变得清澈且坚定：“好嘞老板！我悟了！”
-
-镜头转场
-
-场景2：公司办公区，第二天上午
-
-- 小哥：穿着极其随意的真丝睡衣，脚踩塑料拖鞋
-
-- 老妹很温柔：穿着精致职业装，刚推开办公室大门，瞬间石化
-
-镜头&台词&音效：
-
-1. 特写：老妹很温柔推开门的瞬间，眼睛瞪得像铜铃，配乌鸦飞过或防空警报音效。
-
-2. 全景：办公桌被推到一边，小哥正瘫坐在工位上，脚泡在一个红色的塑料洗脚盆里。电脑屏幕上没在工作，而是在放着动画片。桌上还摆着一盘瓜子。
-
-3. 近景：小哥听到开门声，慵懒地转过头，一边嗑瓜子一边往地上吐瓜子皮。
-
-4. 全景：小哥非常自然且不耐烦地冲着老妹很温柔喊话：“愣着干啥？既然回来了，去把地扫了！顺便下楼给我买包烟！没看我正忙着呢吗！”配极其嚣张的Hip-Hop或Thug Life BGM。
+南印度商业大片风格的外星人入侵动作场景。画面采用高饱和色彩、强烈逆光、夸张慢动作与英雄式构图。镜头先建立外星飞船降临城市广场，再切主角登场特写（风吹衣摆、低机位仰拍），随后进入多角度对战：广角展示规模，中景表现连招，近景突出表情与冲击瞬间。动作允许戏剧化但需节奏明确，配合烟雾、尘土、火花和镜头眩光，形成“热血、张力、仪式感”并重的风格。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08334.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08334.jpg" width="600" alt="00后整顿职场名场面" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09910.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09910.jpg" width="600" alt="外星入侵英雄战" style="cursor:pointer">
 </a>
 </div>
 
@@ -1157,25 +1174,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 36: 巴黎时装周变装秀
+### No. 36: 子弹时间地铁冲刺
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-巴黎时装周的背景音乐，基于真实的巴黎时装周场景制作 [00:00-00:08] 在巴黎时装周的T台上，一位绝美女模特款款走来，起初穿着迷你裙，随后裙子流畅地变身为长裙。与此同时，她的上衣也自然地转变为长礼服。 [00:08-00:15] 美女模特在T台前端摆好姿势，随后优雅地转身返回。
+子弹时间效果。地下地铁站内，一名穿米白色长风衣的年轻女子在最后一刻冲向即将关闭的地铁车门，身体前倾腾空，手臂向前伸出，另一只手里的黑色手提包脱手飞出。手机、口红、纸张和耳机从包中炸开，悬浮在她周围，全部冻结。她的长发被带起，风衣下摆在空中展开，鞋尖掠过地面溅起细小水滴，所有液滴、
 
 #### 📝 提示词
 
 ```
-巴黎时装周的背景音乐，基于真实的巴黎时装周场景制作 [00:00-00:08] 在巴黎时装周的T台上，一位绝美女模特款款走来，起初穿着迷你裙，随后裙子流畅地变身为长裙。与此同时，她的上衣也自然地转变为长礼服。 [00:08-00:15] 美女模特在T台前端摆好姿势，随后优雅地转身返回。
+子弹时间效果。地下地铁站内，一名穿米白色长风衣的年轻女子在最后一刻冲向即将关闭的地铁车门，身体前倾腾空，手臂向前伸出，另一只手里的黑色手提包脱手飞出。手机、口红、纸张和耳机从包中炸开，悬浮在她周围，全部冻结。她的长发被带起，风衣下摆在空中展开，鞋尖掠过地面溅起细小水滴，所有液滴、
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00126.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00126.jpg" width="600" alt="巴黎时装周变装秀" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00575.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00575.jpg" width="600" alt="子弹时间地铁冲刺" style="cursor:pointer">
 </a>
 </div>
 
@@ -1183,33 +1200,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 37: 黑金主播狂飙带货
+### No. 37: 黑土湖畔旧影
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-图片：生成一张9:16比例的带货直播画面手机截图高清的主播直播间在带货，细节丰富，文字正确 视频：高真实感电商直播间，黑金科技质感背景，灯光聚焦人物，氛围紧张热烈，强成交感 人物：使用用户指定人物形象，站立或坐在直播台中央，正对镜头，表情自信、有压迫感，情绪夸张且富有感染力 表演要求：语音慷慨激昂，有明显节奏起伏，从…
+面孔：请参考@image-1（上传您的图片）。面部结构和五官必须完全一致，不能进行美化。服装：破旧、风化的夹克。环境：黑土，湖边，天空灰暗。视觉风格：电影级宽银幕变形场景。
 
 #### 📝 提示词
 
 ```
-图片：生成一张9:16比例的带货直播画面手机截图高清的主播直播间在带货，细节丰富，文字正确
-视频：高真实感电商直播间，黑金科技质感背景，灯光聚焦人物，氛围紧张热烈，强成交感
-人物：使用用户指定人物形象，站立或坐在直播台中央，正对镜头，表情自信、有压迫感，情绪夸张且富有感染力
-表演要求：语音慷慨激昂，有明显节奏起伏，从开场拉高气氛，到中段压节奏，再到结尾爆发；语气带“控场感”，像顶级主播
-手部动作设计： 开场：手指镜头点人，快速扫视镜头（建立压迫感） 中段：手掌下压（强调“福利”与“机会”），再向前推（引导行动） 结尾：右手做倒数手势“1-2-3”，最后指向屏幕下方（上链接动作）
-互动氛围： 实时弹幕快速滚动，直播间礼物特效：火箭特效从下往上飞，带光效和尾焰 观众氛围热烈，有“刷礼物”“抢购”的紧张感
-口播内容： 想上车的现在就上，来，123，上链接！
-音效设计： 背景音乐：强节奏电商带货BGM（逐步递进） 关键节点加入节奏鼓点强化 火箭礼物配合升空音效，最后“123上链接”叠加点击+提示音
-画质：超清写实，人物面部细节清晰，光影层次分明，商业广告级质感
+面孔：请参考@image-1（上传您的图片）。面部结构和五官必须完全一致，不能进行美化。服装：破旧、风化的夹克。环境：黑土，湖边，天空灰暗。视觉风格：电影级宽银幕变形场景。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02121.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02121.jpg" width="600" alt="黑金主播狂飙带货" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04620.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04620.jpg" width="600" alt="黑土湖畔旧影" style="cursor:pointer">
 </a>
 </div>
 
@@ -1217,25 +1226,27 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 38: 超市僵尸猎杀
+### No. 38: 熔剑斩红衣主教
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一位女性僵尸猎人在僵尸末日期间闯入一家被占领的超市寻找补给。超市已空无一人。她遭到僵尸袭击，但成功脱身。她孤身一人。场景充满高强度的动作戏。
+单镜头连续拍摄，一镜到底，电影级的拍摄，第三人称游戏摄像机，游戏内持续显示，照片级真实，35毫米胶片质量，专业色彩分级，锐利对焦，高细节纹理，胶片颗粒，景深掌握，FPV四轴飞行器和机械臂流畅性，30帧每秒 一座被淹没的哥特式大教堂淹没在青绿色的水中，彩色玻璃窗在烛火墙后燃烧着洋红色、紫罗兰色和金色。那位身披深蓝色斗篷…
 
 #### 📝 提示词
 
 ```
-一位女性僵尸猎人在僵尸末日期间闯入一家被占领的超市寻找补给。超市已空无一人。她遭到僵尸袭击，但成功脱身。她孤身一人。场景充满高强度的动作戏。
+单镜头连续拍摄，一镜到底，电影级的拍摄，第三人称游戏摄像机，游戏内持续显示，照片级真实，35毫米胶片质量，专业色彩分级，锐利对焦，高细节纹理，胶片颗粒，景深掌握，FPV四轴飞行器和机械臂流畅性，30帧每秒
+一座被淹没的哥特式大教堂淹没在青绿色的水中，彩色玻璃窗在烛火墙后燃烧着洋红色、紫罗兰色和金色。那位身披深蓝色斗篷、身披皮甲的兜帽剑士站在发光的水中，水深及腰，熔融的橙红色剑刃在水面上嘶嘶作响。他上方是老板——空心红衣主教：身穿破烂的猩金教士长袍，胸前背着沉重的银十字架，脸上有一张破裂苍白的面具，头顶戴着一圈白蓝色蜡烛光环。游戏HUD始终紧贴画面——指南针左上角，任务横幅写着“流血王座/击败空洞红衣主教”，左下角有红蓝药水槽及分段生命和耐力条，华丽的Boss生命条横跨中下方中央，标有“空洞红衣主教”。这个镜头是一个连续的第三人称游戏动作，挑战开始，红衣主教反击，英雄点燃并反击，Boss条逐渐耗尽。声音完全是剧中化的——蒸汽嘶嘶作响，火焰熊熊燃烧，石头呻吟，没有音乐。
+单帧连续15秒：摄像机以低第三人称视角漂浮在剑士肩膀后方，中心的“按□挑战”提示闪烁后消失，随着他举起熔岩刀刃，Boss生命条满贯底部。空心红衣主教猛然醒来——一只苍白的巨大手从水中扫向英雄，镜头随他侧身旋转，他翻滚脱身，水花喷洒在HUD上，耐力条减少一档。镜头切换到刀刃点燃的微距细节，焦炭在钢片上爬行，视角清晰[特效：刀刃点火]，然后拉远并快速旋转，火焰沿着他的手臂蔓延，吞没了他全身隐形身体[视觉特效：全身点火]。他冲了上去，镜头低空穿过燃烧的水花，他将燃烧的刀刃刺入红衣主教的胸膛;镜头推进到微观细节，露出破裂的面具脸和蜡烛冠点燃，蜡和火焰在极近距离中扭曲，红色Boss条明显在消耗。镜头随即下放并大幅弧线，缓动作加速，猩红长袍点燃，巨像向前弯曲，金色祭服剥落成火焰，碎片落入青绿色水面【视觉特效：巨像崩溃】，Boss的生命条在剑士燃烧的小轮廓后空无所有。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01396.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01396.jpg" width="600" alt="超市僵尸猎杀" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05233.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05233.jpg" width="600" alt="熔剑斩红衣主教" style="cursor:pointer">
 </a>
 </div>
 
@@ -1243,43 +1254,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 39: 工地旋转逃生
+### No. 39: 维度裂城
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-[主角] 一个二年级学生，留着黑色波波头 [场景] 深夜工地 [对手] 从后面冲进来时，地板从边缘坍塌 [噱头] 地板从边缘坍塌 [视频风格] 15秒。 一部全彩日本动画。 一部高密度2D动画，预算为5亿日元。 细致的背景艺术、光滑的镶嵌和电影级的拍摄效果。 为了防止重复同一画面，构图、摄像机角度、屏幕大小和角色距离…
+一座由流动半透明几何体构成的巨型人形实体出现在大都市天际线上方，其躯体由交叠的维度平面组成，映照出多重现实——第二秒关键动作：实体张开双手，一道垂直的维度裂缝撕裂城市。现实分裂。两个版本的城市开始占据同一空间。建筑在相互碰撞的时间线中彼此穿透。毁灭既是维度层面的也是结构性的：街道折叠成镜像走廊，汽车侧向坠入平行重力平…
 
 #### 📝 提示词
 
 ```
-[主角] 一个二年级学生，留着黑色波波头
-[场景] 深夜工地
-[对手] 从后面冲进来时，地板从边缘坍塌
-[噱头] 地板从边缘坍塌
-
-[视频风格]
-15秒。 一部全彩日本动画。 一部高密度2D动画，预算为5亿日元。 细致的背景艺术、光滑的镶嵌和电影级的拍摄效果。 为了防止重复同一画面，构图、摄像机角度、屏幕大小和角色距离都会有所变化，以增强故事吸引力。 没有字幕，没有水印，没有背景音乐。 有环境噪音。
-
-[视频构图] 随着地板从后面和边缘坍塌，每当主角踩到墙上时，世界都会旋转90度，将墙变成新的地板。 我通过在墙壁和天花板之间切换成功逃脱，然后回到原来的地板，崩塌的地板在边缘完美停住。
-
-[这一亮点（总是放在第5至7镜头某处）] 坍塌的铁板自动在下方组装，变成了沿着你跑过的路径的楼梯
-
-镜头1（旋转钩子）：深夜建筑工地。 主角一踩上墙壁，世界随摄像机旋转90度，墙壁变成了新的地板。 他目光严肃地直视前方。
-镜头2：地面从背后坍塌，边缘正在逼近。 唯一的逃生路线是墙壁和天花板。 主角冷静地迅速评估局势。
-镜头3（墙壁冲刺）：主角全速冲过墙壁。 跳过窗户和标志作为躲避的障碍。 神情锐利而专注。
-镜头4（对向天花板）：继续拍摄天花板并再转90度。 只有她的头发和衣服还记得刚才的沉重，才慢慢平静下来。 他的表情始终没有变化。
-镜头5（缝隙缝）：缝合从边缘塌陷的楼层间隙。 一种让世界上下都变得难以捉摸的构图。 我平静地调整呼吸，一边跑过去。
-镜头6（最终转移）：最终转移时返回原地板。 地板从边缘崩塌的声音完美地停止了。 我一落地，嘴唇微微放松。
-镜头7（定格）：主角整理头发，脸上带着冷静的表情说：“那是捷径。” 墙上竖直排列的只有脚印。
+一座由流动半透明几何体构成的巨型人形实体出现在大都市天际线上方，其躯体由交叠的维度平面组成，映照出多重现实——第二秒关键动作：实体张开双手，一道垂直的维度裂缝撕裂城市。现实分裂。两个版本的城市开始占据同一空间。建筑在相互碰撞的时间线中彼此穿透。毁灭既是维度层面的也是结构性的：街道折叠成镜像走廊，汽车侧向坠入平行重力平面，摩天大楼因不同版本错位而碎裂成几何碎片。实体的每个动作都在扩大裂缝。整个城区滑入相邻维度。这场浩劫通过逐渐分裂的天际线展开：街道层面行人穿梭于现实之间→中层区域建筑以透明重影交叠→屋顶层整座塔楼旋转进入垂直宇宙。飞机消失于维度褶皱。桥梁扭曲成不可能的角度。追踪镜头穿越交错的都市层，重力在现实间切换。当维度裂缝扩张到足以吞噬整个街区时，速度骤然提升。切至航拍：大都市如今作为两个交叠的世界渐行渐远。维度实体矗立其间。剧情内棱镜维度之光透过碎裂建筑与重叠天际线折射，电影级多重宇宙扭曲特效，破碎现实的粒子碎片，4K画质。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10382.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10382.jpg" width="600" alt="工地旋转逃生" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00696.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00696.jpg" width="600" alt="维度裂城" style="cursor:pointer">
 </a>
 </div>
 
@@ -1287,25 +1280,27 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 40: 黑武士战马狂飙
+### No. 40: 几何迷宫追踪
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-镜头 1 (0-3秒)：低角度广角镜头 —— 哑光黑色道奇战马向镜头疾驰，引擎轰鸣，底盘刮擦沥青路面飞溅出火花，黄金时刻的阳光在引擎盖上闪烁，镜头光晕，高对比度配合死黑效果，为增强冲击力的手持晃动感。
+“侧面跟踪镜头：一名身穿深色大衣的男子穿过一座超现实的几何城市，拱门和塔楼交织。 [停]后景：男子穿过几何城市，然后右转进入一条小巷，深入迷宫般的街道。
 
 #### 📝 提示词
 
 ```
-镜头 1 (0-3秒)：低角度广角镜头 —— 哑光黑色道奇战马向镜头疾驰，引擎轰鸣，底盘刮擦沥青路面飞溅出火花，黄金时刻的阳光在引擎盖上闪烁，镜头光晕，高对比度配合死黑效果，为增强冲击力的手持晃动感。
+“侧面跟踪镜头：一名身穿深色大衣的男子穿过一座超现实的几何城市，拱门和塔楼交织。
+
+[停]后景：男子穿过几何城市，然后右转进入一条小巷，深入迷宫般的街道。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04994.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04994.jpg" width="600" alt="黑武士战马狂飙" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08919.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08919.jpg" width="600" alt="几何迷宫追踪" style="cursor:pointer">
 </a>
 </div>
 
@@ -1313,25 +1308,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 41: 地铁爵士晨曲
+### No. 41: 电影级三维动画
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
+请将@Image1作为本作品的完整分镜、角色设计、环境、色彩调色板、摄影机语言和故事进展参考。将其转换为完成的电影3D动画
 
 #### 📝 提示词
 
 ```
-清晨地铁站，一支爵士乐队在站台演奏，通勤人群逐渐停下脚步加入舞步。列车进站带起风吹动乐谱。镜头横移穿过人群，捕捉笑脸与即兴互动。生活电影感，温暖节奏。
+请将@Image1作为本作品的完整分镜、角色设计、环境、色彩调色板、摄影机语言和故事进展参考。将其转换为完成的电影3D动画
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09299.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09299.jpg" width="600" alt="地铁爵士晨曲" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10639.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10639.jpg" width="600" alt="电影级三维动画" style="cursor:pointer">
 </a>
 </div>
 
@@ -1339,25 +1334,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 42: 女机器人下班海饮
+### No. 42: 台球室魅影
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-镜头1（3秒）：未来办公室楼层的科幻氛围。一位机器人办公室女性面无表情地走过地板。镜头2（3秒）：机器人女性坐在办公桌前，操作全息界面。镜头3（3秒）：她递给机器人老板一个USBU盘，屏幕上浮现霓虹文字“完成！”。镜头4（3秒）：机器人女性转身逃跑，变身成微笑的女性。镜头5（3秒）：变身后的女性穿着夏装坐在海边的沙滩…
+电影级的豪华斯诺克广告，背景设定在深色复古台球休息室，温暖的琥珀色灯光、光泽绿色的桌面倒影、烟雾缭绕的氛围，时尚的年轻女子穿着黑色百褶迷你裙、合身的白色露款衬衫，穿着高跟鞋，自信地手持球杆走向斯诺克桌。镜头从背后跟随，镜头流畅，景深如电影，时尚广告风格。场景1：宽景镜头，优雅的台球室，悬挂的灯光在桌上方发光，戏剧性的…
 
 #### 📝 提示词
 
 ```
-镜头1（3秒）：未来办公室楼层的科幻氛围。一位机器人办公室女性面无表情地走过地板。镜头2（3秒）：机器人女性坐在办公桌前，操作全息界面。镜头3（3秒）：她递给机器人老板一个USBU盘，屏幕上浮现霓虹文字“完成！”。镜头4（3秒）：机器人女性转身逃跑，变身成微笑的女性。镜头5（3秒）：变身后的女性穿着夏装坐在海边的沙滩椅上。最后，她举起一罐标有“放松时间”的饮料给镜头宣传。背景是水花四溅。
+电影级的豪华斯诺克广告，背景设定在深色复古台球休息室，温暖的琥珀色灯光、光泽绿色的桌面倒影、烟雾缭绕的氛围，时尚的年轻女子穿着黑色百褶迷你裙、合身的白色露款衬衫，穿着高跟鞋，自信地手持球杆走向斯诺克桌。镜头从背后跟随，镜头流畅，景深如电影，时尚广告风格。场景1：宽景镜头，优雅的台球室，悬挂的灯光在桌上方发光，戏剧性的阴影，慢动作的脚步声。场景2：中等侧面镜头，她俯身靠近桌子，冷静自信地调整姿势，球杆顺滑滑入位置。第三场：她专注的眼睛和握着球杆的手指极近特写，电影紧张感逐渐增强，景深浅。场景4：低角度跟踪镜头沿桌面移动，球杆以超慢动作击中白球，粉笔颗粒漂浮在空中。场景5：动态追踪球的镜头，跟随红球滚过果岭毡球，朝角落口袋方向滚动，戏剧性的电影灯光反射。场景6：令人满意的特写镜头，球完美落入口袋，细腻的慢动作撞击声，优雅的胜利能量。最后一幕：她站着自信地微笑，随意旋转球杆，奢华时尚宣传氛围，电影般的镜头拉回，逼真的皮肤纹理，超写实的4K，平滑的动态模糊，高端商业调色，时尚的编辑美学。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04562.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04562.jpg" width="600" alt="女机器人下班海饮" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04017.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04017.jpg" width="600" alt="台球室魅影" style="cursor:pointer">
 </a>
 </div>
 
@@ -1365,25 +1360,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 43: 格斗游戏过场动画
+### No. 43: 西部赌局惊魂
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-# ═══════════════════════════════════════════════ # 项目：2D格斗游戏过场动画 # 规格：PlayStation 4 / 30帧每秒 / 预算5亿日元 # ═══════════════════════════════════════════════ 视觉配置： 风…
+实景拍摄的西部电影场景。一名男子缓缓放下手中的牌，另一人瞳孔骤缩。输家猛地起身喝道：‘莫里森，你这该死的骗子！’莫里森不动声色地回应：‘说话当心点，朋友。’输家伸手摸向腰间。酒馆里所有人瞬间僵住。
 
 #### 📝 提示词
 
 ```
-# ═══════════════════════════════════════════════ # 项目：2D格斗游戏过场动画 # 规格：PlayStation 4 / 30帧每秒 / 预算5亿日元 # ═══════════════════════════════════════════════ 视觉配置： 风格：> 2D动漫风格格斗游戏截图，赛璐珞着色，粗轮廓线，金紫深红配色，漫画风格动态线条，街机游戏美学 角色设置： 玩家： 女孩：'@Image1' 化身：> 灵能化身，半透明金色人形剑士，银色铠甲，发光青色眼睛，作为精神投影出现在用户身后 对手：'@Image2' 时间线： 镜头01： 时长：6秒 镜头：侧面全身镜头 提示：> 风格化2D格斗游戏界面，血条和计时器HUD覆盖，连击数UI递增，银发女孩进行快速能量攻击，每次动作伴随金色光效，动态动作线条向外辐射，特殊能量槽逐渐充满，霓虹灯城市屋顶夜景舞台背景，街机游戏屏幕构图 摄像机：静态侧面视角，轻微屏幕震动表现冲击 镜头02： 时长：3秒 镜头：极端特写，对角线画面过渡 提示：> 突然的戏剧性插入镜头，画面以对角线擦除过渡分割，女孩面部极端特写填满画面，金色眼睛散发微光，大胆自信的笑容，墨水风格阴影覆盖半边脸，紫金色能量光环环绕头部，抽象深红动态线条在背景中，游戏UI文字提示特殊技能激活 摄像机：瞬间变焦拉近，倾斜角度 镜头03： 时长：5秒 镜头：女孩身后，过肩视角 提示：> 从背后看到女孩张开双臂站立，巨大的半透明灵能化身在她身后升起，高度是她的两倍，金色铠甲反射光线，紫金色能量粒子环扩散，对手在竞技场中后退，背景因热浪效果扭曲，发光粒子环绕女孩和化身，强烈背光营造戏剧性剪影，视频游戏特殊技能激活序列 摄像机：缓慢推近，低角度 镜头04： 时长：8秒 镜头：快速多角度蒙太奇 提示：> 化身执行快速连续的能量投射，画面被重叠的金色光轨填满，层叠视觉效果动态叠加，最终强力动作向前释放能量波，全屏白色闪光过渡，大型风格化游戏UI“K.O.”文字出现并伴随玻璃碎片爆发效果，连击数显示高数值，对手生命值归零，视频游戏终结序列动画 摄像机：快速角度变化，最终时刻慢动作
+实景拍摄的西部电影场景。一名男子缓缓放下手中的牌，另一人瞳孔骤缩。输家猛地起身喝道：‘莫里森，你这该死的骗子！’莫里森不动声色地回应：‘说话当心点，朋友。’输家伸手摸向腰间。酒馆里所有人瞬间僵住。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00617.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00617.jpg" width="600" alt="格斗游戏过场动画" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01706.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01706.jpg" width="600" alt="西部赌局惊魂" style="cursor:pointer">
 </a>
 </div>
 
@@ -1391,25 +1386,57 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 44: 霓虹夜市时空旅人
+### No. 44: 骑马者被无视
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一个2x2的电影感画面网格，展现不同时代的时间旅行者在霓虹夜市中体验现代街头美食。每个分镜呈现不同时代人物对食物的反应，超写实风格，电影级布光，极致细节，色彩鲜明，叙事性构图，8K画质，浅景深，戏剧化氛围，蒸汽与霓虹光晕交织，所有分镜保持统一视觉风格。左上：莫卧儿王朝王子手持现代汉堡，困惑表情，霓虹小吃摊背景。右上：…
+场景1：骑马狂奔 + 热情人群迎面而来（0:00-0:08，8秒） • 地点：温哥华豪宅区主弯曲道路（宽阔柏油路，两侧大型独立豪宅、常绿松树覆盖薄雪） • 主体：身穿深色西装的骑马者策马全速奔驰，白马四蹄腾空、鬃毛飞扬 • 环境：轻雪飘落，豪宅建筑掠过，远处北岸山脉与海洋轮廓 • 人群：前方突然出现一大群热情支持者（…
 
 #### 📝 提示词
 
 ```
-一个2x2的电影感画面网格，展现不同时代的时间旅行者在霓虹夜市中体验现代街头美食。每个分镜呈现不同时代人物对食物的反应，超写实风格，电影级布光，极致细节，色彩鲜明，叙事性构图，8K画质，浅景深，戏剧化氛围，蒸汽与霓虹光晕交织，所有分镜保持统一视觉风格。左上：莫卧儿王朝王子手持现代汉堡，困惑表情，霓虹小吃摊背景。右上：中世纪骑士吃薯条，幽默反应，街头夜灯。左下：维多利亚淑女品尝辣味街头塔可，惊讶表情，电影级布光。右下：未来赛博格喝印度奶茶，蓝色眼眸发光，霓虹赛博街头美食场景。统一光影，协调色调，电影感网格构图，超精细面部细节，叙事连贯性。将这幅图像转化为单一连续的电影场景。2x2网格布局应溶解成一个统一的街头美食夜市，所有角色共存于同一空间并自然互动。场景转换后，莫卧儿王子、中世纪骑士、维多利亚淑女和未来赛博格都站在夜晚同一条霓虹街头美食街上。完全消除网格分隔，将所有分镜融合成一个完整世界。镜头以平滑的电影运动缓慢扫过场景，逐一揭示每个角色。莫卧儿王子好奇地端详现代汉堡。中世纪骑士夸张困惑地吃着薯条。维多利亚淑女对辣味街头美食露出惊讶表情。未来赛博格冷静地喝着奶茶，眼眸发光。加入细微自然动态：眨眼、咀嚼、食物升腾的蒸汽、霓虹光影流转、背景中柔和的人群移动。保持电影级布光、超写实风格、浅景深、鲜艳的霓虹夜市氛围、胶片感色调。平滑镜头运动，缓慢电影式揭示，无网格线，无分镜分隔，完全融合的世界，一致的环境，高细节，8K电影级写实。
+场景1：骑马狂奔 + 热情人群迎面而来（0:00-0:08，8秒）
+• 地点：温哥华豪宅区主弯曲道路（宽阔柏油路，两侧大型独立豪宅、常绿松树覆盖薄雪）
+• 主体：身穿深色西装的骑马者策马全速奔驰，白马四蹄腾空、鬃毛飞扬
+• 环境：轻雪飘落，豪宅建筑掠过，远处北岸山脉与海洋轮廓
+• 人群：前方突然出现一大群热情支持者（多元族裔年轻人），挥舞黄色龙旗 + “Nothing”标牌，高喊欢呼，朝骑马者方向涌来
+• 镜头：正面中速跟拍 → 切换到骑马者视角（POV），人群越来越近
+• 氛围：高潮延续，骑马者满脸自信笑容，准备收缰（手已抬向缰绳，姿态放松，嘴角上扬）
+场景2：反转——人群直接穿过，无视骑马者（0:08-0:14，6秒）
+• 地点：同一道路，转角处出现一家中式包子铺（招牌“庆风包子铺”，温暖灯光，外摆区域有简易塑料桌椅，蒸汽升腾）
+• 主体：骑马者正准备招手致意，结果人群对他视若无睹，直接从他两侧/身旁狂奔穿过，冲向包子铺门口排队/涌入
+• 动作：骑马者笑容僵住，手停在半空，表情从期待转为错愕/凌乱（风吹乱头发，西装下摆晃动）
+• 细节：人群高喊“包子！包子！”，黄色龙旗乱晃，“Nothing”标牌被挤到一边；白马被迫小步停顿或侧身避让
+• 镜头：快速横摇/广角，展现人群如潮水般绕过骑马者（马匹在画面中央被“穿过”），骑马者孤零零留在中间
+• 氛围：荒诞反转，尴尬凌乱，黑色幽默高潮
+场景3：包子铺外吃包子对话（0:14-0:20，6秒）
+• 地点：庆风包子铺外摆区域（塑料桌椅，热气腾腾的蒸笼，背景豪宅区道路）
+• 主体：两个普通年轻人（穿羽绒服）坐在排队座位上，大口吃包子
+• 动作：一人咬一口包子，满足闭眼“哎，真香。”（镜头特写包子咬开热气/汁水）
+• 对话：
+
+第一个人（边吃边望向道路）：他是谁啊？
+第二个人（若有所思，嚼着包子，望着远处）：Nothing。
+• 镜头：中景双人镜头 → 轻微推近脸部表情（满足+淡定），背景隐约可见骑马者远去的背影
+• 氛围：接地气、反差萌，点题“nothing”
+
+场景4：骑马者自嘲潇洒，继续远去（0:20-0:30，10秒）
+• 地点：豪宅区宽阔延伸道路（笔直向前，豪宅群渐远）
+• 主体：骑马者骑在马上，表情从凌乱转为自信一笑
+• 动作：右手伸入西装胸兜，掏出一个包装三明治，狠狠咬一口（汁水/面包屑飞溅），然后潇洒甩头一笑，用缰绳轻抽白马，继续向前奔跑
+• 环境：豪宅建筑群在背景逐渐缩小，道路两侧常绿树林与支持者（现在已停下）只能远望挥手，远处温哥华式山海天际线（雪雾朦胧）
+• 细节：白马尾巴摆动，轻雪路面留下马蹄印，三明治咬痕清晰，骑马者嘴角带笑，自信满满
+• 镜头：从近景（咬三明治特写） → 缓慢拉远成极远景，低角度拍摄，强化“无所谓”的孤高英雄感；最后淡出
+• 氛围：自嘲却潇洒，英雄不羁，象征性结束（“Nothing”也能继续前行）
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02274.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02274.jpg" width="600" alt="霓虹夜市时空旅人" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01820.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01820.jpg" width="600" alt="骑马者被无视" style="cursor:pointer">
 </a>
 </div>
 
@@ -1417,57 +1444,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 45: 水晶峡谷星舰陨落
+### No. 45: 低空飞行冒险
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-水晶峡谷 / 垂死星舰 风格：8K电影感。写实——没有3D渲染，没有游戏引擎，没有游戏过场动画的美学。 摄影：自然主义大师摄影。 光影：高对比度戏剧性光。冰冷的绿松石峡谷阴影与从坠落船只中倾泻而出的耀眼白金光辉。水晶墙将光线折射成成千上万移动的棱镜碎片。 颜色：60：30：10——主色调为浅青绿色和霜白色（水晶峡谷）…
+以第一人称视角低空驾驶小型飞机，掠过山脉、森林或海岸线——伴随强烈的风声与沉浸式视觉体验，镜头快速前移，动态运镜，戏剧性的逆光金色光线，电影级调色，紧张刺激的氛围，超流畅顺滑的运动画面，4K分辨率，细节丰富，无文字叠加。
 
 #### 📝 提示词
 
 ```
-水晶峡谷 / 垂死星舰
-
-风格：8K电影感。写实——没有3D渲染，没有游戏引擎，没有游戏过场动画的美学。
-
-摄影：自然主义大师摄影。
-
-光影：高对比度戏剧性光。冰冷的绿松石峡谷阴影与从坠落船只中倾泻而出的耀眼白金光辉。水晶墙将光线折射成成千上万移动的棱镜碎片。
-
-颜色：60：30：10——主色调为浅青绿色和霜白色（水晶峡谷）/次要琥珀色和玫瑰金（折射光线）/点缀炽热的白色与电紫色（坠落星舰及其放电）。
-
-相机：物理电影镜头。快门180°运动模糊。手持操作员持续抖动，因震动而震动。
-
-物理学：尊重重力和惯性。巨大的水晶尖塔在冲击波下破碎;尘埃和玻璃碎片会服从大气阻力。
-
-受试者：
-
-@rider：一名孤独的装甲摩托车手，骑着一辆破旧的沙漠摩托车，尘埃斗篷在风中断裂，划痕斑驳的镜面头盔反射着坠落的飞船，拖着一尾闪烁的水晶尘埃。
-
-@starship：一艘巨大的镜壳星舰，白金色且龟裂，坠落时破碎，熔融的装甲和紫色等离子弧线在天空中流淌。
-
-地点：一座由半透明蓝白色水晶雕刻而成的巨大峡谷，高耸的多面尖塔捕捉并弯曲光线，闪烁的尘雾穿透每一道光束，地平线被燃烧的坠落所主导。
-
-动作——一镜到底，一个连续手持镜头，无剪辑，15秒。
-
-0：00–0：05 中宽 @rider：摄像机沿着摩托车穿梭，穿梭于水晶尖塔之间，这些尖塔在车轮后方爆炸成闪闪发光的碎片;天空裂开，@starship从上方进入画面，拖着熔岩火焰。
-
-0：05–0：10 连续放大/向上倾斜：镜头滑过骑手，从尖塔上移至灾变号;一枚船体核心爆炸，冲击波将折射光线折射成峡谷横向透镜耀斑。
-
-0：10–0：15 极近特写@starship：长焦压缩画面，分解飞船在天空中，镜片剥落燃烧，白热燃烧，发光碎片向镜头倾泻而下。
-
-限制：16：9变形宽银幕。连续拍摄——绝对没有硬剪接。变焦时出现长焦压缩。没有慢动作。全剧都充满写实感。
-
-音频（无音乐）：深沉的气氛再入震动，水晶尖塔的叮当破碎声，上方金属撕裂的尖叫，摩托车发动机的高转速尖叫，峡谷中风声呼啸。
+以第一人称视角低空驾驶小型飞机，掠过山脉、森林或海岸线——伴随强烈的风声与沉浸式视觉体验，镜头快速前移，动态运镜，戏剧性的逆光金色光线，电影级调色，紧张刺激的氛围，超流畅顺滑的运动画面，4K分辨率，细节丰富，无文字叠加。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05223.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05223.jpg" width="600" alt="水晶峡谷星舰陨落" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01135.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01135.jpg" width="600" alt="低空飞行冒险" style="cursor:pointer">
 </a>
 </div>
 
@@ -1475,25 +1470,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 46: 哈兰德维京出征
+### No. 46: 镜前崩溃尖叫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-电影般的正面镜头，埃尔林·哈兰德和他的挪威国家足球队队友身穿黑色球衣，划着传统的木制维京船穿越雾气弥漫的峡湾。哈兰德坐在船头，神情激动，船员们齐声划桨。背景是高耸的积雪覆盖的山脉、平静水面上的薄雾，以及装饰着挪威国旗的木屋。镜头缓缓拉近浓雾，远处地平线上映出英国国旗。氛围感浓郁、戏剧性的灯光，配以冷色调。
+图1中的女子走到镜子前，看着镜中的自己。她的姿势应参考图2。沉思片刻后，她突然崩溃，开始尖叫。她抓起镜子的动作，以及崩溃尖叫时的情绪和面部表情，都应完全参考视频1。
 
 #### 📝 提示词
 
 ```
-电影般的正面镜头，埃尔林·哈兰德和他的挪威国家足球队队友身穿黑色球衣，划着传统的木制维京船穿越雾气弥漫的峡湾。哈兰德坐在船头，神情激动，船员们齐声划桨。背景是高耸的积雪覆盖的山脉、平静水面上的薄雾，以及装饰着挪威国旗的木屋。镜头缓缓拉近浓雾，远处地平线上映出英国国旗。氛围感浓郁、戏剧性的灯光，配以冷色调。
+图1中的女子走到镜子前，看着镜中的自己。她的姿势应参考图2。沉思片刻后，她突然崩溃，开始尖叫。她抓起镜子的动作，以及崩溃尖叫时的情绪和面部表情，都应完全参考视频1。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10373.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10373.jpg" width="600" alt="哈兰德维京出征" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09222.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09222.jpg" width="600" alt="镜前崩溃尖叫" style="cursor:pointer">
 </a>
 </div>
 
@@ -1501,25 +1496,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 47: 宇航员暗夜惊魂
+### No. 47: 晨光中的优雅准备
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一位疲惫的宇航员穿过黑暗走廊，手持摄像机紧随其后，传来沉重的呼吸声与远处警报器的鸣响
+制作一段15秒的电影级“跟我一起准备”竖版视频（9:16），超写实，时尚编辑风格。场景：一间光线柔和的现代卧室，配有梳妆镜，温暖的晨光洒满房间。一位时尚的年轻女性在宁静、唯美的氛围中为新的一天做准备。镜头与时间线：0-3秒：镜中她面部的特写，轻轻化妆，细腻自然的皮肤细节，专注而放松的表情。3-6秒：慢动作镜头，她整理…
 
 #### 📝 提示词
 
 ```
-一位疲惫的宇航员穿过黑暗走廊，手持摄像机紧随其后，传来沉重的呼吸声与远处警报器的鸣响
+制作一段15秒的电影级“跟我一起准备”竖版视频（9:16），超写实，时尚编辑风格。场景：一间光线柔和的现代卧室，配有梳妆镜，温暖的晨光洒满房间。一位时尚的年轻女性在宁静、唯美的氛围中为新的一天做准备。镜头与时间线：0-3秒：镜中她面部的特写，轻轻化妆，细腻自然的皮肤细节，专注而放松的表情。3-6秒：慢动作镜头，她整理头发和耳环，动作轻柔，阳光在镜中反射。6-10秒：中景镜头，她在镜前检查着装，自信的姿态，微微一笑，电影级景深效果。10-13秒：她拿起手机拍镜中自拍，自然抓拍瞬间，闪光灯或柔和的屏幕光。13-15秒：最终镜头，她转向镜头，自信优雅，柔和的镜头光晕，渐隐结束。风格：超写实，高端时尚编辑，柔和的胶片颗粒，浅景深，梦幻美感。灯光：温暖的金色黄昏阳光与柔和的室内环境光混合。氛围：宁静、亲密、自信、唯美的“跟我一起准备”氛围。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01410.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01410.jpg" width="600" alt="宇航员暗夜惊魂" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02293.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02293.jpg" width="600" alt="晨光中的优雅准备" style="cursor:pointer">
 </a>
 </div>
 
@@ -1527,27 +1522,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 48: 流畅环绕运镜
+### No. 48: 唱片峡谷之旅
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-镜头顺畅地环绕着她360度旋转。 流畅的电路摄影，云台稳定，并且始终将主体置于屏幕中央。 摄像机顺畅地绕着她旋转了一圈360度。 相机顺畅地旋转，万向节稳定，主体保持居中。
+一只饱经风霜的手将唱针轻轻放到旋转的黑胶唱片上，暖金色的光线中浮动着尘埃颗粒。镜头追随着唱针滑入音槽。音槽逐渐延展成广袤的砂岩峡谷。身披斗篷的微型游牧者手持火把穿行其间。唱针的阴影如巨物般笼罩而下。
 
 #### 📝 提示词
 
 ```
-镜头顺畅地环绕着她360度旋转。 流畅的电路摄影，云台稳定，并且始终将主体置于屏幕中央。
-
-摄像机顺畅地绕着她旋转了一圈360度。 相机顺畅地旋转，万向节稳定，主体保持居中。
+一只饱经风霜的手将唱针轻轻放到旋转的黑胶唱片上，暖金色的光线中浮动着尘埃颗粒。镜头追随着唱针滑入音槽。音槽逐渐延展成广袤的砂岩峡谷。身披斗篷的微型游牧者手持火把穿行其间。唱针的阴影如巨物般笼罩而下。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10462.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10462.jpg" width="600" alt="流畅环绕运镜" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00257.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00257.jpg" width="600" alt="唱片峡谷之旅" style="cursor:pointer">
 </a>
 </div>
 
@@ -1555,25 +1548,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 49: 特警枪指镜头
+### No. 49: 飞越古印度秘境
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-【镜头1：正面威慑镜头】中景拍摄一名全副战术装备的特警队员，佩戴防毒面具与头盔。他正将突击步枪直指镜头（打破第四面墙），声嘶力竭地吼道：
+以极快节奏的电影级第一人称视角飞越古印度丹达卡王国，穿越浓密的神秘森林、高耸的娑罗树和柚木林、部落聚居地、古老静修院、冥想中的圣人、雾气中穿行的野生动物、穿透树冠的戏剧性阳光光束、切割崎岖地形的河流、藤蔓缠绕的破败庙宇。超写实质感，高速俯冲与急转，沉浸式景深，体积光效，大地色系，史诗级规模，真实感，电影调色，稳定平滑…
 
 #### 📝 提示词
 
 ```
-【镜头1：正面威慑镜头】中景拍摄一名全副战术装备的特警队员，佩戴防毒面具与头盔。他正将突击步枪直指镜头（打破第四面墙），声嘶力竭地吼道：
+以极快节奏的电影级第一人称视角飞越古印度丹达卡王国，穿越浓密的神秘森林、高耸的娑罗树和柚木林、部落聚居地、古老静修院、冥想中的圣人、雾气中穿行的野生动物、穿透树冠的戏剧性阳光光束、切割崎岖地形的河流、藤蔓缠绕的破败庙宇。超写实质感，高速俯冲与急转，沉浸式景深，体积光效，大地色系，史诗级规模，真实感，电影调色，稳定平滑运镜，极致细节环境，强烈氛围。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01858.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01858.jpg" width="600" alt="特警枪指镜头" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02425.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02425.jpg" width="600" alt="飞越古印度秘境" style="cursor:pointer">
 </a>
 </div>
 
@@ -1581,25 +1574,26 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 50: 奢华男士香水广告
+### No. 50: 极光气泡炫酷登场
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 描述
 
-制作一则15秒的超写实奢华NOIR ATLAS男士古龙水广告。黑暗的电影美学。黑色玻璃瓶，镶嵌金色细节。神秘、大胆且高雅的氛围。慢动作镜头。烟雾效果。夜晚的城市灯光。
+高端商业广告 — 极光气泡 00:00 – 00:02 | 闪亮登场：极光气泡罐从上方疾速冲入画面，沿垂直轴高速旋转。视觉效果：锐利动态模糊。金色柑橘图案化作耀眼的光线。罐体精准停在画面中央——标签正对镜头。00:02 – 00:04 | 爆裂揭秘：罐体分离成三个水平部分（顶环、主体、底环）。视觉效果：清脆的嘶嘶声响…
 
 #### 📝 提示词
 
 ```
-制作一则15秒的超写实奢华NOIR ATLAS男士古龙水广告。黑暗的电影美学。黑色玻璃瓶，镶嵌金色细节。神秘、大胆且高雅的氛围。慢动作镜头。烟雾效果。夜晚的城市灯光。
+高端商业广告 — 极光气泡 00:00 – 00:02 | 闪亮登场：极光气泡罐从上方疾速冲入画面，沿垂直轴高速旋转。视觉效果：锐利动态模糊。金色柑橘图案化作耀眼的光线。罐体精准停在画面中央——标签正对镜头。00:02 – 00:04 | 爆裂揭秘：罐体分离成三个水平部分（顶环、主体、底环）。视觉效果：清脆的嘶嘶声响起。冷雾向外弥漫。在悬浮的片段之间，鲜活的柠檬和青柠片出现在半空中——伴随着凭空涌现的闪亮碳酸气泡。00:04 – 00:07 | 气泡时刻：时间冻结——优雅悬浮。视觉效果：柑橘片在零重力下缓慢旋转，气泡流在无形的液体空间中向上升腾。镜头以流畅的电影轨迹环绕。冷凝水滴上闪耀着高光——每个气泡都如钻石般捕捉光线。00:07 – 00:08 | 能量封印：罐体像磁铁般迅速合拢。视觉效果：清脆的“噗嗤”撞击声。柑橘和碳酸瞬间被密封在内。一阵清爽的雾气脉冲向外扩散。00:08 – 00:10 | 清爽退场：罐体加速至最高速，向上冲出画面。视觉效果：背景变为明亮清爽的渐变——准备无缝循环播放。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03942.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03942.jpg" width="600" alt="奢华男士香水广告" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01202.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01202.jpg" width="600" alt="极光气泡炫酷登场" style="cursor:pointer">
 </a>
 </div>
 
@@ -1607,33 +1601,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 51: FBI追查外星人
+### No. 51: 猫侠斗恶犬
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-镜头1 — 0:00至0:04 拥挤的室内派对场景，背景挂着暖色串灯，人们手持红色杯子欢笑。一名穿深色西装的严肃男子俯身向前，一只手稳稳按在灰色外星人光滑的大头顶上，另一只手将FBI徽章直怼镜头。他目光如炬，直直盯着前方，画面呈现颗粒感的胶片摄影美学，35毫米质感，浅景深效果，混乱的派对背景略微虚化。男子死死盯着镜头…
+超写实咖啡馆柜台打斗，单次连续手持长镜头，无剪辑。原始手机拍摄画面，带有微抖动、轻微卷帘快门效应，未做稳定处理。暗黑美式黑色幽默基调。音频：无音乐。仅环境音——咖啡机蒸汽喷发声、杯子碰撞声、收银机提示音、脚步声、布料摩擦声、拳击声、模糊的交谈声。灯光：温暖的咖啡馆实用灯光混合着窗外洒入的冷光，光束中漂浮着尘埃。主角（…
 
 #### 📝 提示词
 
 ```
-镜头1 — 0:00至0:04 拥挤的室内派对场景，背景挂着暖色串灯，人们手持红色杯子欢笑。一名穿深色西装的严肃男子俯身向前，一只手稳稳按在灰色外星人光滑的大头顶上，另一只手将FBI徽章直怼镜头。他目光如炬，直直盯着前方，画面呈现颗粒感的胶片摄影美学，35毫米质感，浅景深效果，混乱的派对背景略微虚化。男子死死盯着镜头，缓缓说道：“我找了你二十六年。”
-
-镜头2 — 0:04至0:09 灰色外星人的中近景特写，巨大的黑色眼睛一眨不眨，纹丝不动，面无表情。背景中派对喧闹声和笑声持续响亮，一段漫长而尴尬的沉默后，外星人缓缓眨了一次眼。外星人以平静、平淡、带着回音的传心术声音回应：“我们知道。你在我们母舰上留了很差的评价。”
-
-镜头3 — 0:09至0:12 男子面部特写，下巴收紧，眼睛眯起，他慢慢放下FBI徽章，凝视了许久。周围的笑声略微减弱，背景中一人正笑着突然僵住，察觉到紧张气氛。昏暗的暖光映在他脸上，表情极度严肃，没有音乐，只有环境噪音。他轻声而坚定地说：“那次绑架可不是五星好评。”
-
-镜头4 — 0:12至0:15 全景镜头，男子和外星人沉默地面向前方，派对在他们周围继续混乱地进行，完全不受影响。男子仍把手放在外星人头上，两人纹丝不动，这是最荒唐房间里最严肃的两个身影。镜头静止，缓慢地极轻微推近，渐黑。屏幕出现文字：“真相依然在外。”
-
-风格说明：颗粒感35毫米胶片美学 · 温暖的实用派对灯光 · 荒诞背景下的冷面严肃基调 · 浅景深 · 无跳切 · 缓慢从容的节奏 · 微妙的氛围音效设计 · 逼真的外星人纹理 · 通过反差营造的冷幽默
+超写实咖啡馆柜台打斗，单次连续手持长镜头，无剪辑。原始手机拍摄画面，带有微抖动、轻微卷帘快门效应，未做稳定处理。暗黑美式黑色幽默基调。音频：无音乐。仅环境音——咖啡机蒸汽喷发声、杯子碰撞声、收银机提示音、脚步声、布料摩擦声、拳击声、模糊的交谈声。灯光：温暖的咖啡馆实用灯光混合着窗外洒入的冷光，光束中漂浮着尘埃。主角（严格身份锁定）：橙色虎斑猫，表情冷静难以捉摸，短毛，眼神锐利。服装锁定：灰色全身侍者制服，脖子上挂着姓名牌。必须保持完全一致。配角：白兔（紫色衬衫，黑色裤子）在柜台付款。优雅的白猫（粉色连衣裙）在附近。对手规则：鬣狗顾客，每张脸都独一无二，戴墨镜，穿黑色西装。与主角无相似之处。对话风格：干巴巴、面无表情、黑色幽默。动作：0–2秒：特写收银机。兔子递现金。兔子：“不用找了。”橙猫（平淡地）：“不够修今天的。”2–4秒：画外骚扰声。白猫紧张。鬣狗们轻笑。鬣狗：“笑一个，甜心。”橙猫缓缓抬头。4–6秒：橙猫走出来。橙猫：“找错桌了。”6–10秒：突然暴力。单手猛按——鬣狗的脸撞向柜台。杯子炸裂，咖啡飞溅。第二只鬣狗腹部重击→头部砸向意式浓缩咖啡机。蒸汽喷发。镜头剧烈晃动。10–12秒：两只鬣狗从两侧包抄。外套被扯，踉跄，瞬间膝击。头撞。一只撞进糕点展示柜——玻璃碎裂，碎屑飞散。12–14秒：最后一只鬣狗冲来。侧步，旋转打击。牙齿飞溅，身体撞翻桌子。寂静降临，只有机器嘶嘶声。14–15秒（结尾）：中景。橙猫呼吸平稳。白猫双手轻轻环住他的右臂，仰头凝视，满是钦佩。白猫（轻柔地）：“你每天都在这儿工作？”橙猫朝镜头眨了一下左眼：“小费刚涨了。”尘埃漂浮。温暖的光。渐黑。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00822.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00822.jpg" width="600" alt="FBI追查外星人" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02040.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02040.jpg" width="600" alt="猫侠斗恶犬" style="cursor:pointer">
 </a>
 </div>
 
@@ -1641,25 +1627,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 52: 未来头盔大丹犬
+### No. 52: 巴黎时装周变装秀
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一只大丹犬戴着未来感十足的头盔，脑袋藏在玻璃穹顶内，正流着口水在门口。
+基于巴黎时装周背景音乐和真实T台场景创作。[00：00-00：8] 一位极其美丽的模特走在巴黎时装周T台上;她的服装从迷你裙顺利过渡到长裙。同时，上衣也能顺滑地变形成一条长裙。[00：08-00：15] 美丽的模特在T台尽头摆姿势，然后优雅地转身走回去。
 
 #### 📝 提示词
 
 ```
-一只大丹犬戴着未来感十足的头盔，脑袋藏在玻璃穹顶内，正流着口水在门口。
+基于巴黎时装周背景音乐和真实T台场景创作。[00：00-00：8] 一位极其美丽的模特走在巴黎时装周T台上;她的服装从迷你裙顺利过渡到长裙。同时，上衣也能顺滑地变形成一条长裙。[00：08-00：15] 美丽的模特在T台尽头摆姿势，然后优雅地转身走回去。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10011.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10011.jpg" width="600" alt="未来头盔大丹犬" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04504.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04504.jpg" width="600" alt="巴黎时装周变装秀" style="cursor:pointer">
 </a>
 </div>
 
@@ -1667,25 +1653,25 @@ If english prompt is rejected use the chinese one
 
 ---
 
-### No. 53: 健身纪实美学
+### No. 53: 烈焰飞驰夜城赛
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF，变形镜头，细微的镜头光晕，有机胶片颗粒。高端健身纪录片色级，带有温暖的金色高光、深邃阴影和逼真的肌肤
+超写实F1赛车在废弃城市街道上夜间飞驰。导弹击中附近建筑，玻璃与火焰如雨般洒落路面。车手从未减速。镜头紧贴沥青路面，捕捉赛车在布满碎片的十字路口漂移。前方隧道坍塌。最终画面：赛车冲破烈焰，驶入开阔的白昼。
 
 #### 📝 提示词
 
 ```
-Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF，变形镜头，细微的镜头光晕，有机胶片颗粒。高端健身纪录片色级，带有温暖的金色高光、深邃阴影和逼真的肌肤
+超写实F1赛车在废弃城市街道上夜间飞驰。导弹击中附近建筑，玻璃与火焰如雨般洒落路面。车手从未减速。镜头紧贴沥青路面，捕捉赛车在布满碎片的十字路口漂移。前方隧道坍塌。最终画面：赛车冲破烈焰，驶入开阔的白昼。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03397.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03397.jpg" width="600" alt="健身纪实美学" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02351.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02351.jpg" width="600" alt="烈焰飞驰夜城赛" style="cursor:pointer">
 </a>
 </div>
 
@@ -1693,25 +1679,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 54: 暗战少女斩龙
+### No. 54: 太空深渊奇景
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-{ “场景”：“古老废墟城市，火焰与灰烬遍地”，“主题”：“红眼少女，变身为黑暗战士”，“动作”：“她奔跑于燃烧的土地上，从手中召唤黑暗能量刃”，“龙”：“巨大的恶龙，熔岩皮肤和发光裂纹”，“互动”：“她跃起，斩断龙翼，落在背上，将能量刃刺入其头骨”， “破坏”：“熔岩爆炸、火风暴、坍塌废墟”，“镜头”：“低角度英雄…
+格式：15秒 / 5个镜头 / 多段剪辑 / 无对白 风格：超现实太空电影摄影 / 深邃太空黑 vs 熔金橙吸积盘 vs 冷蓝白星场 / 35毫米胶片颗粒 / IMAX写实主义 / 9:16竖屏 / 照片级视觉特效，实景光源驱动
 
 #### 📝 提示词
 
 ```
-{ “场景”：“古老废墟城市，火焰与灰烬遍地”，“主题”：“红眼少女，变身为黑暗战士”，“动作”：“她奔跑于燃烧的土地上，从手中召唤黑暗能量刃”，“龙”：“巨大的恶龙，熔岩皮肤和发光裂纹”，“互动”：“她跃起，斩断龙翼，落在背上，将能量刃刺入其头骨”， “破坏”：“熔岩爆炸、火风暴、坍塌废墟”，“镜头”：“低角度英雄镜头→快节奏→慢动作杀戮镜头”，“光影”：“深红色、黑色、发光熔岩高光”，“风格”：“黑暗奇幻、电影感、动漫与现实主义结合”，“氛围”：“复仇、紧张、残酷”，“质量”：“4K HDR，电影级景深” }
+格式：15秒 / 5个镜头 / 多段剪辑 / 无对白 风格：超现实太空电影摄影 / 深邃太空黑 vs 熔金橙吸积盘 vs 冷蓝白星场 / 35毫米胶片颗粒 / IMAX写实主义 / 9:16竖屏 / 照片级视觉特效，实景光源驱动
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08211.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08211.jpg" width="600" alt="暗战少女斩龙" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00819.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00819.jpg" width="600" alt="太空深渊奇景" style="cursor:pointer">
 </a>
 </div>
 
@@ -1719,44 +1705,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 55: 魔法机械鸟诞生
+### No. 55: 月夜剑姬战三首魔犬
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一段15秒的电影视频。 在一间明亮阳光明媚、晨光明亮的房间里，一张旧木桌上，一只魔法机械鸟通过快速自我组装被创造出来。 这只鸟在视觉上极为醒目：抛光的银色和黄铜身体，发光的蓝色核心，宝石般的眼睛，以及半透明的彩色玻璃翅膀。 保持故事简单：快速组装，鲜明的觉醒，戏剧性的飞行。 小金属部件、齿轮和发光的碎片在空中旋转，最…
+高級品質アニメ。劇場版クラスの、映画的な月夜ダークファンタジー剣劇アニメ。参照画像のキャラクターが、異界の炎を吐く巨大な三つ首の黒いケルベロスと戦う、高密度な2D手描きアニメ戦闘シーン。参照画像は、登場人物の同一人物性、顔、目の形、虹彩色、輪郭、頬、顎、年齢感、肌色、髪型、髪色、前髪、衣装、装飾、体格、シルエット、雰…
 
 #### 📝 提示词
 
 ```
-一段15秒的电影视频。
-
-在一间明亮阳光明媚、晨光明亮的房间里，一张旧木桌上，一只魔法机械鸟通过快速自我组装被创造出来。
-
-这只鸟在视觉上极为醒目：抛光的银色和黄铜身体，发光的蓝色核心，宝石般的眼睛，以及半透明的彩色玻璃翅膀。
-
-保持故事简单：快速组装，鲜明的觉醒，戏剧性的飞行。
-
-小金属部件、齿轮和发光的碎片在空中旋转，最终以一种美丽的延时摄影方式拼接成鸟。
-
-它的核心开始脉动，眼睛发光，翅膀张开充满能量。
-
-然后它爆发出高空，扬起尘埃和闪烁的颗粒，迅速飞向一扇明亮的大窗户。
-
-运用充满活力的电影式摄像机运动：俯视组装镜头、极端微距细节、突然推入、短轨道、低角度上升，以及戏剧性的最后拉回，进入充满阳光的广角镜头。
-
-明亮清澈的晨光，空气清爽的氛围，干净的挑染，清晰的反光，鲜明的光线，优雅的动作，强烈的视觉冲击力，没有文字，没有标志。
-房间应该明亮清新，不是黑暗、阴云密布、灰色或暗淡。
-
-没有背景音乐。只有音效。
+高級品質アニメ。劇場版クラスの、映画的な月夜ダークファンタジー剣劇アニメ。参照画像のキャラクターが、異界の炎を吐く巨大な三つ首の黒いケルベロスと戦う、高密度な2D手描きアニメ戦闘シーン。参照画像は、登場人物の同一人物性、顔、目の形、虹彩色、輪郭、頬、顎、年齢感、肌色、髪型、髪色、前髪、衣装、装飾、体格、シルエット、雰囲気、固有モチーフ、キャラクターカラーの最優先参照。参照画像のキャラクターを参照し、全編で同じ人物として維持する。参照画像はキャラクター固有の造形と世界観だけに使用する。参照画像そのものの背景、部屋、家具、文字、UI、設定表、白背景、ポーズ、画角、カメラ距離、フレーミングは再現しない。変化してよいのは、表情、視線、口元、姿勢、呼吸、戦闘に伴う髪と衣装の自然な揺れだけ。特徴混合、平均顔、別人化、髪型変更、髪色変更、衣装交換、体型変更、年齢変更、クローン化、分身、余計な人物は禁止。【参照キャラクターへの自動調整】固定するのは、月夜の花畑、中央の一輪から始まる炎、三つ首のケルベロス、一本の日本刀による剣劇、最後の衝突直前という物語構造だけ。背景の植物、小物、装飾、炎の色、月光、反射光、煙、灰、粒子、蝶、花びら、結晶などの演出モチーフ、刀の装飾、画面全体の色調と空気感は、参照画像のキャラクターカラー、衣装素材、装飾、固有モチーフ、性格、雰囲気に合わせて自然に変化させる。可憐なキャラクターなら、繊細な花、柔らかな光、透明な粒子、軽い風、上品な光跡。冷たいキャラクターなら、硬質な月光、霜、結晶、鋭い反射、静かな空気。華やかなキャラクターなら、豪華な花、宝石光、装飾的な粒子、鮮やかな残光。暗いキャラクターなら、黒い花、濃霧、煤、重い陰影、抑えた発光。和風なら和花、組紐、紙片、金属装飾。機械的なら金属片、回路状の光、火花、無機質な反射。参照画像に存在しないモチーフを無関係に追加せず、必ずキャラクターの既存要素から背景美術とエフェクトを派生させる。色は参照キャラクターの主色、補助色、アクセント色を抽出し、キャラクターより背景やエフェクトが目立たないように配分する。【絵柄】絵柄固定が最重要。全編で参照画像の高密度な2D手描きアニメ絵柄を維持する。線画の太さ、線色、目の描き方、髪の束感、影の形、彩度、ハイライト、塗り、質感、情報量を参照画像に合わせる。線画は細く繊細。影は透明感のある多層影。髪、瞳、まつ毛、衣装素材、刺繍、宝石、金属、装飾、刀、花畑、煙、灰片まで高い情報量を保つ。劇場版クラスの繊細なキーアニメーション、上質なコンポジット、密度ある背景美術、透明感あるライティング。太線化、厚い輪郭、簡略TVアニメ、低密度背景、平坦なセル塗り、滑らかなCG、3D、半写実、実写質感、画風混合、生成AI的な平均顔は禁止。【ケルベロス】巨大な三つ首の黒い狼犬型魔獣。頭は必ず三つ。鋭い牙、発光する目、燃える口内、黒い筋肉質の胴体、巨大な前脚、長い爪、炎のように流れる首まわりの毛、長い黒い尾。目、口内の炎、首まわりの炎、爪の残光は、参照キャラクターのアクセントカラーと調和させる。ただし本体は黒を基調とし、キャラクターより華美にしない。【固定シーン】冒頭、月夜の花畑。花の種類、色、葉、装飾植物、地面の質感は参照キャラクターに合わせる。画面中央の一輪だけに、キャラクターカラーを反映した青白い系統の異界炎が静かに灯る。花びらの縁が黒く縮れ、花芯から炭化が広がり、その花が崩れて灰片になる。灰片と火の粉が周囲の花へ触れ、炎が円形、同心円状の波紋のように中心から外側へ一段ずつ広がる。花畑全体を同時に燃やさない。発火点は中央の一輪だけ。ランダム発火ではなく、中心から外側へ伝播する因果を明確に見せる。灰と炎の輪の奥からケルベロスが現れ、三つの口を開けて低く唸る。ケルベロスの爪が花畑を裂き、火の粉、土、花びら、灰、参照キャラクターの固有モチーフを反映した微細な粒子が舞う。キャラクターは横方向から低く踏み込む。髪、衣装、装飾、裾、リボン、マントなどは参照画像の構造を維持し、月光と速度に遅れて自然に流れる。この戦闘では一本の日本刀だけを使用する。参照画像に別の武器が描かれていても追加せず、この場面では一本の日本刀に統一する。刀の鍔、柄、鞘、金属装飾、反射光だけを、参照キャラクターの衣装、装飾、固有色に合わせる。二刀流、追加武器、予備刀は禁止。両手は鍔より後ろの柄だけを握る。金属の鍔が手と刀身の間にはっきり見える。空いた手で刀身を支えない。手、指、手首、前腕は刃に触れず、刃と重ならない。刀身を水平に画面前へ横切らせない。キャラクターは低い重心でケルベロスの爪を斜めに受け流す。刀身の反射光、参照キャラクター由来の粒子、花びら、灰片が一瞬だけ画面を横切り、自然な遮蔽ワイプになる。次の瞬間、キャラクターはケルベロスの横へ回り込み、腰、肩、膝、足運びの重心移動が読める連続したアクション作画で、斜め下から斜め上へ切り返す。敵の爪、刀身、足運び、髪、衣装、装飾の遅れを連続させ、攻防の因果が理解できるようにする。終盤、ケルベロスの三つの頭が同時に低く唸り、正面からキャラクターへ襲いかかる。キャラクターは斜め前の低い防御姿勢で一歩踏み込み、両目、鼻先、顎、胸、肩のラインをケルベロス中央の頭へ向ける。視線は敵の発光する目へ固定し、下向き、画面外視線、カメラ目線にしない。一本の日本刀だけを使い、両手は鍔より後ろの柄だけを握る。鍔が手と刀身を明確に分離する。刀身は斜め前方でケルベロスの爪と牙の接触直前に置き、キャラクターの視線、刀、敵の牙と爪が一本の攻防線を作る。最後はキャラクターが切りかかり、ケルベロスが襲いかかる直前で終える。長い静止画にせず、炎、灰片、花びら、髪、衣装、装飾、刀の残光、ケルベロスの爪が動き続ける、短いスローモーションのタメで終わる。【音】環境音中心。異界炎の揺れる音、花びらが炭化して崩れる音、灰が舞う風音、ケルベロスの低い唸り、爪が地面を裂く音、刀が空気を切る澄んだ音。セリフなし、ナレーションなし、歌なし。【禁止】文字、字幕、ロゴ、透かし、余計な人物、衣装交換、髪型変更、髪色変更、別人化、分身、二刀流、追加刀、予備刀、追加武器、刃を握る、刀身を下から支える手、手と刀身が重なる接写、顔前や頭上で刀身と手が重なる構図、敵を見ていない視線、腕を真上へ突き出す決めポーズ、棒立ち、長い静止ホールド、花畑全体の同時発火、発火点不明のランダム炎、ケルベロスの頭が二つまたは四つ以上になることは禁止。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03774.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03774.jpg" width="600" alt="魔法机械鸟诞生" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07676.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07676.jpg" width="600" alt="月夜剑姬战三首魔犬" style="cursor:pointer">
 </a>
 </div>
 
@@ -1764,25 +1731,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 56: 阳台日光短视频
+### No. 56: 银龙凝视恒星
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-视频重建元数据 - 时长：0分15秒 - 宽高比/格式：竖屏智能手机视频，9:16 - 视觉风格：休闲业余社交媒体拍摄，明亮的自然日光 - 场景：带有金属栏杆的阳台，俯瞰着倾斜的红灰色波纹
+一条威严的银龙立于深空中漂浮的碎裂平台上，缓缓调整重心，凝视着一颗巨大的炽热恒星。镜头从右向左环绕场景，并向上倾斜，以突显龙的高贵姿态与恒星的太阳耀斑。零重力环境中，发光的碎片缓缓飘移，龙鳞在次表面散射下闪烁微光，其尾部在宇宙背景下做出细微的平衡动作。
 
 #### 📝 提示词
 
 ```
-视频重建元数据 - 时长：0分15秒 - 宽高比/格式：竖屏智能手机视频，9:16 - 视觉风格：休闲业余社交媒体拍摄，明亮的自然日光 - 场景：带有金属栏杆的阳台，俯瞰着倾斜的红灰色波纹
+一条威严的银龙立于深空中漂浮的碎裂平台上，缓缓调整重心，凝视着一颗巨大的炽热恒星。镜头从右向左环绕场景，并向上倾斜，以突显龙的高贵姿态与恒星的太阳耀斑。零重力环境中，发光的碎片缓缓飘移，龙鳞在次表面散射下闪烁微光，其尾部在宇宙背景下做出细微的平衡动作。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02757.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02757.jpg" width="600" alt="阳台日光短视频" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01986.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01986.jpg" width="600" alt="银龙凝视恒星" style="cursor:pointer">
 </a>
 </div>
 
@@ -1790,7 +1757,92 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 57: 黑沙暴逃亡
+### No. 57: 1975年风
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+1975年のアニメ作品、24Fps、映像質感、BGM、日本語ボイスも1975年を感じさせるクオリティ。 カット1:画面左の主人公女は背後にただならぬ気配を感じる(気配を感じた黄色い稲妻の様なエフェクトあり) 。主人公は振り返りざまに男の顔にパンチ、セリフ「そこぉー！」 カット2:パンチをうけて後ろに吹き飛ぶ男のクロー…
+
+#### 📝 提示词
+
+```
+1975年のアニメ作品、24Fps、映像質感、BGM、日本語ボイスも1975年を感じさせるクオリティ。
+
+カット1:画面左の主人公女は背後にただならぬ気配を感じる(気配を感じた黄色い稲妻の様なエフェクトあり)
+。主人公は振り返りざまに男の顔にパンチ、セリフ「そこぉー！」
+
+カット2:パンチをうけて後ろに吹き飛ぶ男のクローズアップ、メガネがズレて片目から一粒の涙を流している。セリフ「踏まれ…たい」
+
+主人公の素早いアクションシーンと男の哀愁漂うセリフが際立つ仕上がり。
+```
+
+#### 🎬 生成视频（点击播放 ↗）
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03214.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03214.jpg" width="600" alt="1975年风" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 58: 虎尾追猎
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+将上传的图片作为精确的第一帧，制作一段15秒的超写实连续追逐镜头。摄像机物理性地抓握住老虎的尾巴，锁定在僵硬的尾随视角。尾巴占据前景，肌肉紧绷，皮肤起伏，毛发因速度和气流而颤动。前方，一只鹿在草地上惊慌奔逃。它的动作摇摆不定、失去平衡，随着距离迅速缩短，恐惧驱动的步幅变化和急转方向清晰可见。老虎以精准的生物力学加速至…
+
+#### 📝 提示词
+
+```
+将上传的图片作为精确的第一帧，制作一段15秒的超写实连续追逐镜头。摄像机物理性地抓握住老虎的尾巴，锁定在僵硬的尾随视角。尾巴占据前景，肌肉紧绷，皮肤起伏，毛发因速度和气流而颤动。前方，一只鹿在草地上惊慌奔逃。它的动作摇摆不定、失去平衡，随着距离迅速缩短，恐惧驱动的步幅变化和急转方向清晰可见。老虎以精准的生物力学加速至全速冲刺：后腿爆发性伸展，脊柱压缩与释放清晰可见，尾巴为每一步提供平衡。草地被冲击压平，泥土和碎屑自然扬起。地平线因地面力量而微微颤动，而非人为的摄像机晃动。极快的向前速度在环境中产生强烈的运动视差，而尾巴因物理抓握保持相对稳定。微小的振荡与每一步周期完美同步。风声呼啸，毛发持续向后飘动。光线保持自然连续，腿部循环时阴影在身体下方闪烁。无慢动作、无剪辑、无风格化处理。在最后时刻，老虎猛扑，与鹿相撞，将其按倒在地，并锁定决定性的颈部控制。镜头在动作中途结束，重量、张力和动量依然完整。
+```
+
+#### 🎬 生成视频（点击播放 ↗）
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01700.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01700.jpg" width="600" alt="虎尾追猎" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 59: 飞天旅者四城记
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+16:9，30秒，史诗般的超写实奇幻长镜头，原创世界观构建，一镜到底，镜头连续移动，无硬剪辑，且未提及任何现有电影、角色、演员或可辨识的电影场景。整体风格：高预算奇幻电影美学，写实摄影，宏大的世界观，以及一位拥有自然肌肤、真实表情和合理身材比例的美丽女主角。整体基调睿智、优雅、神秘而勇敢，绝非幼稚、卡通或夸张的cos…
+
+#### 📝 提示词
+
+```
+16:9，30秒，史诗般的超写实奇幻长镜头，原创世界观构建，一镜到底，镜头连续移动，无硬剪辑，且未提及任何现有电影、角色、演员或可辨识的电影场景。整体风格：高预算奇幻电影美学，写实摄影，宏大的世界观，以及一位拥有自然肌肤、真实表情和合理身材比例的美丽女主角。整体基调睿智、优雅、神秘而勇敢，绝非幼稚、卡通或夸张的cosplay。四个地点通过一条连续的飞行路线连接：冰岛的黑色海岸线、维多利亚时代的伦敦（架空世界）、雨夜中的巴黎以及未来主义的纽约空中都市。统一的色彩：深黑、银灰和暖金色贯穿全片。冰岛增添了冷蓝色；伦敦增添了灰绿色和琥珀色；巴黎增添了深蓝色和湿金色；纽约的色彩以深蓝绿色、银白色和金色为主。保持逼真的大气透视效果，包括薄雾、雨水、湿润的表面、玻璃反射和立体光。避免使用电子游戏风格、概念艺术风格和塑料材质。主角：整个视频中只有一位女性主角。她大约28岁，身材苗条，容貌出众，聪慧优雅，沉稳内敛。她精致的五官必须完全原创，不得模仿任何真实演员或电影角色。她拥有明亮的双眸、轮廓分明的眉毛、柔和而坚毅的面部线条、自然的肤色和逼真的皮肤纹理，以及内敛专注的神情。她拥有一头温暖的栗棕色长发，发尾自然卷曲。部分头发被风吹拂到肩后。她的发型在整部影片中必须保持不变。她身穿深森林绿长外套、象牙色高领衬衫、深红色针织围巾、棕色皮质护腕、深灰色长裤和磨损的皮靴。她的装束具有精致的英伦奇幻美学，但她没有穿校服或尖顶帽。请勿添加徽章、校徽、魔法学校标志、可辨识的角色服装或任何现有电影中的元素。她在整个场景中都骑着同一把原始的飞行扫帚：深色古旧的木柄，尾部饰有银灰色金属纤维，前端点缀着一盏暖金色小灯。扫帚的形状、大小、颜色和材质都不得改变。她的目标：她飞越不同的城市，将那盏暖金色小灯带到云层边缘。她并非战斗角色。她不会攻击任何人，也不会施放爆炸性魔法。她只是不断地穿越城市、海岸线、雾气、雨水和高空。她的情绪从专注逐渐过渡到惊奇，最终达到自由和坚定。0-5秒：从冰岛黑沙滩起飞。镜头从极低角度拍摄，掠过一片黑色的火山沙滩，使用24毫米广角镜头。左侧是黑色的海浪，右侧是高耸的玄武岩柱，远处是蓝白色的冰川山脉。冰冷的蓝色云朵压在天空，地平线附近留有一圈温暖的金色夕阳。一位美丽的女性旅行者从画面右后方迅速进入，骑着扫帚掠过海面。她栗棕色的头发在海风中向后飘扬。她深红色的围巾在她身后勾勒出一条清晰的动线，而她深绿色的外套则在气流中自然摆动。扫帚前方的暖金色光线照亮了海雾和水滴。镜头以稳定的第一人称视角（FPV）跟随她，使她略微偏右。它不能绕到前面，也不能让她离开画面。她的身体微微前倾；一只手握着扫帚柄，另一只手保持平衡。她飞向一面巨大的蓝色冰墙。第四秒，她进入冰墙下方的自然裂缝。冰块快速掠过镜头两侧。冰冷的蓝色晶体与温暖的金光短暂交汇，形成了第一个自然的过渡。没有爆炸，没有魔法烟雾，也没有突然的转变。5-12秒：雾中的维多利亚时代伦敦 随着冰块从镜头中消失，环境自然而然地变成了夜晚的维多利亚时代城市。主角和扫帚保持着完全相同的方向、速度、服装、外貌和飞行姿势。镜头继续从后方跟随。下方是湿漉漉的深灰色石板路。红砖建筑、黑色铁桥、狭窄的窗户和古老的琥珀色路灯排列在街道两侧。几辆没有文字或品牌标识的深红色双层巴士在雾中缓缓行驶。这座城市应展现维多利亚时代伦敦的风情，但无需重现真实的标志性建筑。镜头从快速的第一人称视角追逐逐渐过渡到流畅的四分之三后方跟踪镜头，向左侧移动约45度。她美丽的侧脸短暂出现。她的眼神始终专注，头发和围巾也保持稳定。温暖的金光在雨雾中只留下一道短暂的痕迹。她从一座黑色高架铁桥下飞过。桥身的钢结构短暂地遮挡了画面顶部。镜头没有切换，当遮挡物消失后，她仍然保持在同一运动轴线上。在第十秒，她飞入一座巨大的拱形火车站。车站的屋顶由黑色钢梁和湿漉漉的玻璃构成，雨水在其表面流淌。屋顶完全覆盖了画面，形成了第二个自然的过渡。12-19秒：雨中的巴黎风情城市 当玻璃屋顶离开镜头时，场景变为一个浪漫而独特的雨夜巴黎风情城市。无需重现真实的标志性建筑。只保留石桥、河流、狭窄街道、古典石砌建筑、锻铁阳台和温暖的窗光所营造的氛围。主人公低空飞越一条宽阔的河流。河水倒映着金色的窗户和深蓝色的夜空。浅灰色的石砌建筑、高而窄的窗户、湿漉漉的屋顶和细细的雨线沿着河岸延伸。她深绿色的外套和暗红色的围巾在蓝色的城市背景下勾勒出清晰的轮廓，栗色的头发向后飘扬。镜头移动到她右侧的平行跟踪位置。扫帚保持在距离河面约三米的高度。镜头略低于肩部，保持了女子、扫帚、河流和建筑之间的空间关系。她穿过一系列古典石桥，桥拱在水中形成连续的倒影。在第十七秒，她进入了一条由湿润的玻璃墙构成的长长的镜面走廊。倒影中只能出现同一个女子、同一把扫帚和同样的暖金色光芒。不要出现重复的人物。雨水、城市灯光和倒影沿着玻璃表面滑落。走廊尽头出现一道强烈的暖金色光芒。她朝着光芒飞去，创造了第三个自然过渡。19-24秒：未来主义纽约风格城市 镜面走廊通向一座原创的未来主义纽约风格大都市。镜头快速而流畅地从四分之三后方视角切换到受控的前视视角，镜头在她前方向后移动。她美丽而专注的脸庞、栗色的头发、深红色的围巾和金色的扫帚灯光短暂地出现在画面中。下方是湿漉漉的街道、玻璃摩天大楼、金属高架桥和巨大的城市峡谷。
+```
+
+#### 🎬 生成视频（点击播放 ↗）
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_11130.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_11130.jpg" width="600" alt="飞天旅者四城记" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 60: 黑沙暴逃亡
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1816,31 +1868,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 58: 阿尔卑斯山居日常
+### No. 61: 风铃崖音
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-“一面旗帜飘扬在阿尔卑斯旅馆的屋顶塔楼顶。 [切换]一个修鞋的人。 [切换]一位妇女正在将苹果分拣进编织篮子。 [切换]一个面包师
+悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
 
 #### 📝 提示词
 
 ```
-“一面旗帜飘扬在阿尔卑斯旅馆的屋顶塔楼顶。
-
-[切换]一个修鞋的人。
-
-[切换]一位妇女正在将苹果分拣进编织篮子。
-
-[切换]一个面包师
+悬崖寺庙挂满百万风铃，海风吹过形成层层声浪。僧人缓步而行，衣袍与云雾一同流动。镜头贴近风铃震动再飞越悬崖海面。空灵庄严，慢镜头，通透自然光。 保持核心角色与场景不变，改成更有氛围的版本，加入航拍开场、中近景切换、动态前景遮挡、体积光、风或雨等环境元素，整体更具情绪张力和视觉反差。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09087.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09087.jpg" width="600" alt="阿尔卑斯山居日常" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09500.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09500.jpg" width="600" alt="风铃崖音" style="cursor:pointer">
 </a>
 </div>
 
@@ -1848,25 +1894,51 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 59: 山海异兽十二变装
+### No. 62: 早安小懒猫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-@图片国风山海异兽变装，0-12秒逐帧切换仙裙，搭配对应灵耳发冠+专属光效，全程柔光特效，灵动萌趣有气场 1. 0-1秒：九尾狐仙裙，狐耳发冠，狐尾飘动，软萌灵动 2. 1-2秒：转身变应龙鳞纹裙，龙角发冠，龙气环绕，贵气灵动 3. 2-3秒：手挡变白泽仙裙，白泽耳饰，手持玉如意，祥瑞仙气 4. 3-4秒：拢臂变凤凰…
+风格： 日常Vlog随手拍风格，iPhone原相机质感，画面略带动态模糊，不经意间的生活感抓拍，低画质颗粒感，真实不做作，日常感十足。 时长：15s 主体： 18岁舞蹈生美少女，笔直光滑的黑色长发自然披散在肩上（刚睡醒的慵懒感），齐眉刘海，精致小巧的鹅蛋脸，皮肤白皙水润，冷白皮。穿着衣领是粉红色，其余部位是白色的短款…
 
 #### 📝 提示词
 
 ```
-@图片国风山海异兽变装，0-12秒逐帧切换仙裙，搭配对应灵耳发冠+专属光效，全程柔光特效，灵动萌趣有气场 1. 0-1秒：九尾狐仙裙，狐耳发冠，狐尾飘动，软萌灵动 2. 1-2秒：转身变应龙鳞纹裙，龙角发冠，龙气环绕，贵气灵动 3. 2-3秒：手挡变白泽仙裙，白泽耳饰，手持玉如意，祥瑞仙气 4. 3-4秒：拢臂变凤凰羽裙，凤羽发冠，流光飞舞，绝美灵动 5. 4-5秒：抬头变麒麟锦裙，麒麟发冠，金光护体，大气可爱 6. 5-6秒：转身变饕餮暗纹裙，兽耳发冠，气场冷峻又萌 7. 6-7秒：扶发变穷风沙裙，风纹发冠，飘逸灵动 8. 7-8秒：提袖变青鸟羽裙，羽冠，轻盈如飞鸟 9. 8-9秒：移手变朱焰火狐裙，火焰狐耳，暖光环绕 10. 9-10秒：甩袖变苍玄青龙裙，青玉发冠，清冷高级 11. 10-11秒：侧身变山海帝裙，山海神兽冠，威压仙气并存 12. 11-12秒：回归九尾狐仙裙，灵韵光效收尾
+风格：
+日常Vlog随手拍风格，iPhone原相机质感，画面略带动态模糊，不经意间的生活感抓拍，低画质颗粒感，真实不做作，日常感十足。 
+
+时长：15s
+
+主体：
+18岁舞蹈生美少女，笔直光滑的黑色长发自然披散在肩上（刚睡醒的慵懒感），齐眉刘海，精致小巧的鹅蛋脸，皮肤白皙水润，冷白皮。穿着衣领是粉红色，其余部位是白色的短款水手服，露着肚脐，粉红色的褶裙，赤着脚。耳侧别着粉色樱花小发夹。气质软糯甜美，少女感十足。 
+
+场景：
+温馨少女卧室，床上堆着毛绒小熊和兔子玩偶，被子有点凌乱，床头柜上有暖黄色台灯和几本漫画书，阳光透过白色窗帘洒进来，充满慵懒的周末早晨氛围。
+
+ [00:00-00:05] 镜头1：
+慵懒苏醒 
+画面：45度侧角上半身特写，光线柔和温暖。她刚睡醒坐在床边，头发有点凌乱但很可爱。
+动作：她缓缓伸了个懒腰，然后低头揉眼睛，打了个小哈欠，动作慵懒自然。 
+表情：眼睛半睁半闭，表情慵懒又带点撒娇。
+
+ [00:05-00:10] 镜头2：
+慵懒撒娇 画面：镜头稍微拉近，晨光洒在她的侧脸上，皮肤白得发光。 
+动作：她抬起头，一只手撑在床上，另一只手自然地整理散落的刘海。然后她侧过脸看镜头，嘴角微微上扬。 
+表情：眼睛里有刚睡醒的迷糊感，但笑得很甜很软。
+
+ [00:10-00:15] 镜头3：早安问候 
+画面：沐沐转向镜头正前方，双手抱着怀里的毛绒小熊。 动作：她把脸贴在小熊头上蹭了蹭，然后对着镜头轻轻挥手，嘴唇微动着说"宝宝，早安"。 
+表情：软糯的笑，眼睛弯成月牙，脸颊粉粉的，整个人像一只刚睡醒的小猫。 
+
+画面质感：iPhone原相机直出感，轻微颗粒感，动态模糊，不经意的抓拍角度，构图随意但真实。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08938.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08938.jpg" width="600" alt="山海异兽十二变装" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01388.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01388.jpg" width="600" alt="早安小懒猫" style="cursor:pointer">
 </a>
 </div>
 
@@ -1874,27 +1946,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 60: 道士竹林诛邪咒
+### No. 63: 星尘少女的思念泪
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-场景为竹林；人物是 图片1 白衣年轻道士，长发半束挑染金色，戴头冠，身着白色古风服饰，无手部变形，一印一个手势，屏幕同步出现对应文字且顺序为 “临兵斗者皆阵列在前诛邪”，总时长 15 秒0-2s【特写】：道士双手胸前急速结印，大喝 “临！”，指尖迸发金光，完成首个手印；音效为环境风声 + 结印空气震鸣2-4s【手部特…
+[视频概念]一个10秒的场景，一个女孩被星尘包围，哭着想着某人。三句日语低语。深紫色和银色。粒子与她的情绪同步。[角色]一个银发飘逸、穿着飘逸长裙的女孩。从沉默到真诚再到泪水。[背景]夜空，满是无尽的星星和星尘。深紫色和银色主题。粒子旋转并下落。[第一枪（0-3秒）]镜头：慢速变焦。女孩站在星尘中。女孩：“漂亮...…
 
 #### 📝 提示词
 
 ```
-场景为竹林；人物是
-图片1
-白衣年轻道士，长发半束挑染金色，戴头冠，身着白色古风服饰，无手部变形，一印一个手势，屏幕同步出现对应文字且顺序为 “临兵斗者皆阵列在前诛邪”，总时长 15 秒0-2s【特写】：道士双手胸前急速结印，大喝 “临！”，指尖迸发金光，完成首个手印；音效为环境风声 + 结印空气震鸣2-4s【手部特写】：手印快速变幻，依次厉喝 “兵！斗！者！”，每字对应金色符文亮强光；音效为密咒吟诵声渐强 + 每字配沉重鼓点 + 金石之音4-7s【中景】：道士踏步转身持续结印，高声念出 “皆！阵！列！在！前！”，七字真言一气呵成，周身金色电芒爆裂游走，天台狂风呼啸；音效延续密咒、鼓点与金石之音7-10s【面部特写 + 升格慢镜】：道士快速喊出最后敕令 “诛邪”，声音如惊雷震撼天地；音效为所有声音瞬间静止，仅 “诛邪” 二字回荡10-15s【大仰角 + 全景】：巨大威严的金色神龙从道士身后冲天而起，道士双手头顶合十后前指，引导神龙直冲镜头，金光驱散黑暗，道士衣发狂舞、保持结印姿态、眼神决绝；音效为神龙出世的宏大交响 + 撕裂长空的龙吟，最后声音渐隐
+[视频概念]一个10秒的场景，一个女孩被星尘包围，哭着想着某人。三句日语低语。深紫色和银色。粒子与她的情绪同步。[角色]一个银发飘逸、穿着飘逸长裙的女孩。从沉默到真诚再到泪水。[背景]夜空，满是无尽的星星和星尘。深紫色和银色主题。粒子旋转并下落。[第一枪（0-3秒）]镜头：慢速变焦。女孩站在星尘中。女孩：“漂亮......”粒子：轻轻舞动。[镜头2（3-6秒）]镜头：脸部特写。女孩：“不过，我真的很想和你一起看看这风景。”粒子：强烈旋转。她的泪水闪闪发光。[镜头3（6-10秒）]摄像机：拉回全身。女孩：“我想见你......我想见你......”泪水顺着她的脸颊滑落。粒子：平静旋转。[禁止内容]颜色突然变化。暴力的移动。角色的移动。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05141.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05141.jpg" width="600" alt="道士竹林诛邪咒" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04506.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04506.jpg" width="600" alt="星尘少女的思念泪" style="cursor:pointer">
 </a>
 </div>
 
@@ -1902,31 +1972,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 61: 穿越东京的无人机之旅
+### No. 64: 黄昏石城集市
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-单一连续FPV无人机穿透 东京 / 无剪辑，无对白，无文字 风格：写实的东京，阳光明媚的下午， 温暖的阳光，锐利的阴影，繁忙的街道，满是 日本行人，用GoPro用FPV无人机拍摄 广角镜头，电影感十足的8K，自然
+格式：电影化连续镜头 / 有动机的摄影机运动 / 15秒 场景：黄昏时分，一座石头城内拥挤的中世纪市场街道。狭窄的鹅卵石路，木质摊位，悬挂的旗帜，牲畜在人群中穿行。温暖的火炬光映照在潮湿的石头上
 
 #### 📝 提示词
 
 ```
-单一连续FPV无人机穿透
-东京 / 无剪辑，无对白，无文字
-
-风格：写实的东京，阳光明媚的下午，
-温暖的阳光，锐利的阴影，繁忙的街道，满是
-日本行人，用GoPro用FPV无人机拍摄
-广角镜头，电影感十足的8K，自然
+格式：电影化连续镜头 / 有动机的摄影机运动 / 15秒 场景：黄昏时分，一座石头城内拥挤的中世纪市场街道。狭窄的鹅卵石路，木质摊位，悬挂的旗帜，牲畜在人群中穿行。温暖的火炬光映照在潮湿的石头上
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08410.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08410.jpg" width="600" alt="穿越东京的无人机之旅" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01242.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01242.jpg" width="600" alt="黄昏石城集市" style="cursor:pointer">
 </a>
 </div>
 
@@ -1934,66 +1998,33 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 62: 惊险丛林鳄口脱险
+### No. 65: 幼龙喷火毁陶
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-高动作丛林逃脱场景，地点在一片崎岖的泥土跑道上，位于浓密沼泽森林边缘。刺眼的白天、湿气朦胧、泥泞的路段、临时的跑道标记、小型螺旋桨飞机怠速。声音：引擎轰鸣，慌乱的喊叫，昆虫声，远处水花声，泥泞中沉重的滑行声。 第一杆（0–3秒）： 三名背包客从茂密的沼泽丛林中冲出，冲上一条临时跑道，满是泥巴，拼命奔跑。 一名飞行员站…
+视觉风格 采用电影级写实风格，16:9画幅，8K分辨率，宽动态范围。真实真人电影质感，精细呈现皮肤、鳞片、黏土与火焰的细节，自然的高光与阴影。模拟手持摄像机轻微晃动，浅景深效果，电影感动态模糊，熔岩提供暖橙色主光，洞穴入口透入冷蓝色轮廓光。 角色与场景 一只体型小巧、解剖结构逼真的幼龙，鳞片细节精致，眼睛水润有光泽，…
 
 #### 📝 提示词
 
 ```
-高动作丛林逃脱场景，地点在一片崎岖的泥土跑道上，位于浓密沼泽森林边缘。刺眼的白天、湿气朦胧、泥泞的路段、临时的跑道标记、小型螺旋桨飞机怠速。声音：引擎轰鸣，慌乱的喊叫，昆虫声，远处水花声，泥泞中沉重的滑行声。
+视觉风格 采用电影级写实风格，16:9画幅，8K分辨率，宽动态范围。真实真人电影质感，精细呈现皮肤、鳞片、黏土与火焰的细节，自然的高光与阴影。模拟手持摄像机轻微晃动，浅景深效果，电影感动态模糊，熔岩提供暖橙色主光，洞穴入口透入冷蓝色轮廓光。
 
-第一杆（0–3秒）：
-三名背包客从茂密的沼泽丛林中冲出，冲上一条临时跑道，满是泥巴，拼命奔跑。
-一名飞行员站在一架小型飞机旁，大声喊道：
-“快点！快上车！”
+角色与场景 一只体型小巧、解剖结构逼真的幼龙，鳞片细节精致，眼睛水润有光泽，皮肤下隐约可见肌肉运动。一位身着朴素亚麻衣物的中年人类陶艺师，双手沾满湿黏土。场景设定：火山洞穴改造的工作坊，远处沟渠中熔岩缓慢流淌，木架上摆满陶罐，热空气微微扭曲，空气中漂浮着薄薄一层烟雾。
 
-身后，积水的森林剧烈波动——一个庞然大物在浅沼泽中快速移动。
-
-第二杆（3–6秒）：
-他们冲向飞机。一名背包客迅速掏出一个小装置，启动后扔到身后的泥泞跑道上。
-其他人爬进飞机，发动机轰鸣声更大。
-
-第三杆（6–9秒）：
-沼泽向外爆发——
-一只巨大的变异鳄鱼冲上跑道，身体滑行并以惊人的速度冲刺。
-
-飞机开始加速沿跑道飞下，车轮在崎岖的地面上弹跳。
-
-生物迅速拉近距离。
-
-第四轮（9–12秒）：
-飞机微微离地——
-
-鳄鱼猛地跃起，张大嘴巴——
-
-它差点就没打到尾巴。
-
-它重重落地，立刻又被推向前，伴随着第二次爆炸冲击——
-
-飞机升高，超出攻击范围。
-
-第5号镜头（12–15秒）：
-鳄鱼滑过跑道——
-
-一瞬间的停顿——
-
-随后，安置的装置在它身后爆炸，释放出巨大的火焰、泥土和碎片。
-
-飞机升空时，生物被爆炸吞没。
-
-广角镜头——飞机飞越沼泽丛林，烟雾升起。
+动作与节奏（约15秒）
+[00:00–00:05] 精准上釉 中近景镜头：陶艺师在平稳旋转的厚重木轮上塑形陶罐。他身后，幼龙小心前倾，朝一排成品陶罐精准喷出一小股火焰，形成逼真的发光釉面，洞穴墙壁映出橙色反光。摄像机缓慢环绕拍摄，展现热浪与空气中细小的火星。
+[00:05–00:08] 静谧时刻 更近的镜头：幼龙蜷缩在陶轮旁的平石上，半闭双眼，呼吸平稳；鼻孔飘出细缕烟雾。陶艺师微微一笑，停下陶轮，伸出沾满黏土的手，递上一颗光滑的红苹果。熔岩发出噼啪声，只有洞穴环境音与陶轮微弱的转动声。
+[00:06–00:10] 突然喷嚏 幼龙鼻部的极端特写。它小心嗅闻苹果，岩石上的灰尘刺激鼻腔，肌肉绷紧，双眼紧闭。硬切至更广的镜头：喷嚏瞬间，幼龙不受控制地喷出强力火焰，直击陶轮与陶罐。木头与黏土瞬间发光、变形、坍塌成一团炽热的熔化物；火花与碎片飞向镜头。
+[00:10–00:13] 后果 中景镜头：陶艺师僵立原地，脸上与衣物覆满薄薄一层黑色烟灰，头发略微烧焦，双眼圆睁。他手中仍握着那颗完整但略微焦黑的苹果。身后，陶轮已化为缓慢冷却、冒烟的熔化物水洼，内部透出微弱的红光。幼龙坐在他身旁，一动不动，将翅膀折叠遮住脸，仿佛躲藏，随后小心探出头，露出愧疚的表情。摄像机缓慢后拉，展现整个洞穴，逼真的体积烟雾与从洞口射入的光线。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04132.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04132.jpg" width="600" alt="惊险丛林鳄口脱险" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01623.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01623.jpg" width="600" alt="幼龙喷火毁陶" style="cursor:pointer">
 </a>
 </div>
 
@@ -2001,135 +2032,7 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 63: 迪奥自信之息
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-风格：超写实奢华广告，电影感十足，阴郁灯光，雨水浸透的城市，戏剧性慢动作，高级调色，4K HDR。 0–4：现代城市的午夜。一名衣着讲究的男子独自走过雨水淋湿的街道，手里提着一个神秘的公文包。突然，四个穿西装的男人从阴影中走出，包围了他。他们的领袖露出一丝冷笑。雷声在头顶隆隆作响，气氛紧张。 4–7：男子冷静地解开领…
-
-#### 📝 提示词
-
-```
-风格：超写实奢华广告，电影感十足，阴郁灯光，雨水浸透的城市，戏剧性慢动作，高级调色，4K HDR。
-
-0–4：现代城市的午夜。一名衣着讲究的男子独自走过雨水淋湿的街道，手里提着一个神秘的公文包。突然，四个穿西装的男人从阴影中走出，包围了他。他们的领袖露出一丝冷笑。雷声在头顶隆隆作响，气氛紧张。
-
-4–7：男子冷静地解开领带，从外套口袋里掏出一瓶时尚的迪奥男士香水。他喷了一次，喷在脖子和手腕上。时间仿佛凝固。雨滴悬挂在空气中，香气缓缓散去。
-
-7–12：他的自信瞬间转变。他动作精准自如，躲避每一拳，在一场优雅流畅的战斗中缴械每一个攻击者。他的外套在雨中潇洒，每一个动作都显得优雅而有控制。
-
-12–15：进攻方被击败。他整理了一下西装，拿起公文包，转身离开，没有回头。镜头停留在放在雨水浸湿石台上的迪奥香水瓶上。一段低沉的旁白说：
-
-“自信是不会被磨损的。令人难忘。”
-
-画面渐隐至带有标语的迪奥标志：“迪奥。自信的气息。”
-```
-
-#### 🎬 生成视频（点击播放 ↗）
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07681.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07681.jpg" width="600" alt="迪奥自信之息" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 64: 黑衣男街头狂奔逃离追捕
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一名穿黑色夹克、脸上满是恐慌的男子，拼命奔跑在宽阔的城市街道上，逃离一群模糊而涌动的警察和平民。一个低角度的跟拍镜头跟踪他疯狂奔跑，保持他作为背景的中心
-
-#### 📝 提示词
-
-```
-一名穿黑色夹克、脸上满是恐慌的男子，拼命奔跑在宽阔的城市街道上，逃离一群模糊而涌动的警察和平民。一个低角度的跟拍镜头跟踪他疯狂奔跑，保持他作为背景的中心
-```
-
-#### 🎬 生成视频（点击播放 ↗）
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09111.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09111.jpg" width="600" alt="黑衣男街头狂奔逃离追捕" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 65: 滑板少女极速穿梭城
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-连续一遍，没有剪辑。单流式跟随摄像机。超写实的电影风格。 跟随镜头锁定滑板手身后，她跳入一条陡峭的旧金山风格街道，城市在她面前延展。风呼啸而过，她迅速加速。 摄像机一直落在她身后，飞速下坡。她跳过一辆停着的车，然后用长扶手沿着陡峭的楼梯滑下，电光在滑板下方飞溅。缆车轨道和色彩斑斓的排屋高速掠过。 追逐镜头俯冲更低，她…
-
-#### 📝 提示词
-
-```
-连续一遍，没有剪辑。单流式跟随摄像机。超写实的电影风格。
-
-跟随镜头锁定滑板手身后，她跳入一条陡峭的旧金山风格街道，城市在她面前延展。风呼啸而过，她迅速加速。
-
-摄像机一直落在她身后，飞速下坡。她跳过一辆停着的车，然后用长扶手沿着陡峭的楼梯滑下，电光在滑板下方飞溅。缆车轨道和色彩斑斓的排屋高速掠过。
-
-追逐镜头俯冲更低，她从一座山顶起飞，飞越远处海湾的交叉口。她平稳落地，划过街道，动作锐利。
-
-镜头逐渐靠近，保持单一连续镜头，她沿着一个倾斜的弯道加速向镜头冲去。金色时光的阳光在她身后形成温暖的镜头光晕和戏剧性的高光。
-
-史诗般的电影管弦乐配乐，强有力的打击乐，逼真的滑板轮子声，呼啸的风，细腻的城市氛围和环境音效。没有对白。
-
-照片级真实视觉、电影动作片美学、自然光、逼真的阴影和反射、高细节纹理、流畅的摄像机运动、稳定的画面、HDR、2K分辨率、清晰对焦、无闪烁、无重影。
-```
-
-#### 🎬 生成视频（点击播放 ↗）
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03523.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03523.jpg" width="600" alt="滑板少女极速穿梭城" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 66: 机甲暴雨狂飙
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-逼真的电影级3D CGI场景，暴雨夹杂着漫天飞雪，雨水飞溅在湿滑昏暗的道路上。一位美丽的年轻女子，一头乌黑长发随风飘扬，戴着黑色面罩，身着红色皮夹克和皮裤，骑在完全变形的巨型黑色摩托车机器人混合体的车头部分。在她身后，巨大的黑色人形战斗机器人已经完全成型，头盔覆盖着头部，双眼闪烁着红光，双臂和肩膀上装备着多挺重机枪。…
-
-#### 📝 提示词
-
-```
-逼真的电影级3D CGI场景，暴雨夹杂着漫天飞雪，雨水飞溅在湿滑昏暗的道路上。一位美丽的年轻女子，一头乌黑长发随风飘扬，戴着黑色面罩，身着红色皮夹克和皮裤，骑在完全变形的巨型黑色摩托车机器人混合体的车头部分。在她身后，巨大的黑色人形战斗机器人已经完全成型，头盔覆盖着头部，双眼闪烁着红光，双臂和肩膀上装备着多挺重机枪。机器人发射子弹，枪口喷出耀眼的橙色火焰。动态追踪镜头略微晃动，火花、烟雾和雨水交织在一起，摩托车高速行驶。超高清8K分辨率，电影级光照，雨水落在镜头上——16:9宽高比——运动时间10秒
-```
-
-#### 🎬 生成视频（点击播放 ↗）
-
-<div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08068.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08068.jpg" width="600" alt="机甲暴雨狂飙" style="cursor:pointer">
-</a>
-</div>
-
-**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
-
----
-
-### No. 67: 画中仙妻扇耳光
+### No. 66: 画中仙妻扇耳光
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2191,63 +2094,29 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 68: 东京暮色慢生活
+### No. 67: 沙堡时光
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-主题：日本年轻女性，二十出头，自然优雅的日常形象。宽大的奶油色开衫配白色T恤，宽腿浅色牛仔裤，素色皮乐福鞋，头发扎成低松松的马尾，几缕柔软的发丝勾勒出脸庞。简约化妆，真实的肌肤，平静温暖的反思气场。保持她的身份、服装和发型始终保持一致。 背景：一个安静的日本下町社区，傍晚时分柔和阴沉。狭窄车道 低矮的房屋之间，门口的…
+《沙堡》 电影感延时摄影，16:9画幅，15秒时长，照片级真实感，海滩黄金时段光线，俯拍与低角度镜头交替。 [0:00–0:04] 一名男子在日出时分抵达空旷的海滩，带着水桶、铲子，以及一种莫名的决心。延时摄影。
 
 #### 📝 提示词
 
 ```
-主题：日本年轻女性，二十出头，自然优雅的日常形象。宽大的奶油色开衫配白色T恤，宽腿浅色牛仔裤，素色皮乐福鞋，头发扎成低松松的马尾，几缕柔软的发丝勾勒出脸庞。简约化妆，真实的肌肤，平静温暖的反思气场。保持她的身份、服装和发型始终保持一致。
-背景：一个安静的日本下町社区，傍晚时分柔和阴沉。狭窄车道
-低矮的房屋之间，门口的盆栽，还有一条带低矮水道的小运河
-人行天桥、头顶的电线、停着的马马查里、安静的角落神龛、一辆红色的
-拐角处的邮箱。有人居住，宁静祥和——没有商店，没有人群，没有游客。
-看：电影化的生活片段视频日志。沉着、有意识的框架，安静且观察力强。
-柔和柔和的自然色调，冷爽温和，逼真的肌肤。浅景深，
-细腻的胶片颗粒，柔和的自然光。全程流畅的电影感镜头运动——
-平静、不急不徐，让每一刻都呼吸。
-序列：[0–3秒]
-她骑着马马查里缓缓沿着安静的小路前行，开衫和散落的发丝随风飘落
-随风而来。摄像机在她身旁移动，电线从头顶滑过。
-声音：轻柔的自行车轮声 / 远处蝉鸣 / 轻风声 / 淡淡的社区氛围
-[3–5]
-她停在运河上的低矮人行桥前，双臂搭在栏杆上，
-目光低垂，望向静止的水面。镜头轻轻地向她靠近，越过她的肩膀
-去水边。
-声音：静水声 / 蝉鸣 / 远方火车 / 轻风
-[5–8s]
-她坐在神社台阶上，打开一本小笔记本，慢慢写下些什么，
-停下来思考。镜头均匀地围绕着她移动，柔和地聚焦在她的手上
-她的脸。
-声音：笔在纸上 / 蝉声柔和 / 树叶间风声 / 远处风铃声
-[8–11岁]
-她蹲在门口，轻轻举起一个红色风铃，看着它转动。
-镜头缓缓从提示音上升到她的脸上。
-声音：单声清澈风铃 / 轻微微风 / 蝉鸣 / 微弱交谈声
-[11–13岁]
-她手里拿着一杯冰冷的罐装茶，沿着小路走着，红色的邮箱轻轻掠过
-在她身后。镜头以均匀的速度在她前方移动，保持她的中心。
-声音：悠闲的脚步声/蝉鸣/远处的自行车铃声/风声
-[13–15岁]
-她来到一条安静的石阶，爬上第一级台阶，回头看了看自己
-肩膀上带着一抹平静的微笑，然后继续走进渐渐柔和的光线中。
-声音：石头上的脚步声 / 蝉鸣 / 轻风 / 缓慢渐弱
-音频：仅有自然环境音——夏日蝉鸣、静谧的运河水、远处的火车声、风声
-电线、一声风铃、悠闲的脚步声、淡淡的邻里氛围。
-感觉：一个宁静沉着的下午，生活在一个安静的日本社区——平滑而温暖
-但语气冷静，是日常生活的悠闲而美丽的切片。
+《沙堡》
+
+电影感延时摄影，16:9画幅，15秒时长，照片级真实感，海滩黄金时段光线，俯拍与低角度镜头交替。
+
+[0:00–0:04] 一名男子在日出时分抵达空旷的海滩，带着水桶、铲子，以及一种莫名的决心。延时摄影。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04728.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04728.jpg" width="600" alt="东京暮色慢生活" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00082.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00082.jpg" width="600" alt="沙堡时光" style="cursor:pointer">
 </a>
 </div>
 
@@ -2255,25 +2124,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 69: 雪崩逃生飞跃
+### No. 68: 粒子传送特效
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一名身穿荧光蓝滑雪服的滑雪者沿着陡峭的高山山脊疾驰而下，身后巨大的雪崩开始崩塌。在第2秒时，他冲上一个天然雪坡，飞跃过一道深深的冰裂缝。摄像机紧随其后，雪崩的巨浪在山坡上炸裂开来。他落在一道狭窄的冰脊上，继续在飞溅的雪屑中向下滑行。雪崩特技逃生、冰裂缝跳跃、高速雪地混乱、电影般的山景规模，4K画质。
+将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。
 
 #### 📝 提示词
 
 ```
-一名身穿荧光蓝滑雪服的滑雪者沿着陡峭的高山山脊疾驰而下，身后巨大的雪崩开始崩塌。在第2秒时，他冲上一个天然雪坡，飞跃过一道深深的冰裂缝。摄像机紧随其后，雪崩的巨浪在山坡上炸裂开来。他落在一道狭窄的冰脊上，继续在飞溅的雪屑中向下滑行。雪崩特技逃生、冰裂缝跳跃、高速雪地混乱、电影般的山景规模，4K画质。
+将@视频1的首帧角色替换为@图片1，角色身体逐渐变换为粒子效果消散，然后在另一个场景重新聚合，展现魔幻的传送效果。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00621.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00621.jpg" width="600" alt="雪崩逃生飞跃" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09427.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09427.jpg" width="600" alt="粒子传送特效" style="cursor:pointer">
 </a>
 </div>
 
@@ -2281,27 +2150,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 70: 机械武士狂暴拆车
+### No. 69: 萌趣探险奇幻之旅
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士 图片1 的身影，他身穿破损白色长袍，外覆精致银色龙纹机械肩甲、颈甲和机械臂铠，手持镜头从低角度向前推进，原本蹲伏在破旧轿车车顶的武士猛然绷紧全身，白色长袍下的肌肉紧绷，双脚（战靴）狠狠踏碎轿车引擎盖 [金属引擎盖…
+可爱的冒险故事：一部风格独特的3D动画奇幻冒险故事，讲述了一位勇敢可爱的小探险家，他有着炯炯有神的大眼睛、背着小背包、穿着色彩鲜艳的服装，置身于神奇的森林环境中，画面采用生动的电影级光影效果，3D动画制作精良，温馨感人，适合全家观看。
 
 #### 📝 提示词
 
 ```
-[0-4s 爆发起手] 昏暗废弃地下停车场，冷白长管顶灯的顶光勾勒出那位留着高顶髻、两侧剃短发的亚洲武士
-图片1
-的身影，他身穿破损白色长袍，外覆精致银色龙纹机械肩甲、颈甲和机械臂铠，手持镜头从低角度向前推进，原本蹲伏在破旧轿车车顶的武士猛然绷紧全身，白色长袍下的肌肉紧绷，双脚（战靴）狠狠踏碎轿车引擎盖 [金属引擎盖瞬间凹陷撕裂，钣金碎片向四周飞溅，刺耳的金属扭曲声炸裂]，他猛地抬起头，眼神锐利凶狠，顶髻在动作中晃动，整个上半身向前俯冲，银色肩甲在冷光下闪烁，镜头快速跟拍，瞬间拉升战斗张力； [4-8s 节奏博弈] 武士覆盖银色机械臂铠的粗壮手臂狠狠砸向轿车车身，连续的重击带着毁灭性的蛮力，镜头快速摇移跟拍每一次重击，第一拳砸烂车前挡风玻璃 [钢化玻璃瞬间呈蛛网状炸裂，无数玻璃碎屑喷涌而出，车内座椅被拳风掀飞]，第二记肘击狠狠撞向车身侧面 [车门钣金直接被砸穿，车轴断裂，轮胎瞬间爆胎瘪陷，车身向一侧剧烈倾斜]，武士借力翻身，强壮的双腿蹬踏车身，镜头环绕跟拍其回旋动作，全程保持动作的连贯性，无画面断裂，每一次攻击都伴随精准的物理反馈，手持镜头的轻微晃动模拟真实战斗的震撼感，灰尘在顶光中弥漫飞舞，白色长袍剧烈飘动，银色盔甲反光强烈； [8-12s 巅峰对垒] 镜头切换为 360 度环绕运镜，同时开启升格慢动作，展现武士的巅峰力量爆发，武士汇聚全身力量，双拳并拢狠狠向下砸向已经严重变形的轿车，全身肌肉线条在慢动作中极致绷紧，青筋暴起，银色机械肩甲和臂铠在冷光中泛着寒芒，面容坚毅短须，顶髻武士表情极度凶狠，拳锋与车身接触的瞬间，极致的破坏力爆发 [整个轿车车身被彻底砸扁，金属框架完全弯折断裂，油箱破裂，汽油混合着机油喷涌而出，地面碎石与金属碎片被冲击波掀飞至半空，灰尘形成环形气浪向四周扩散]，慢动作极致展现力量爆发的每一个细节，布料与金属物理模拟极致； [12-15s 终极定格] 升格结束，镜头快速甩镜拉回低角度仰拍，武士从砸扁的轿车上猛然站直身躯，双脚踏在彻底报废的车身上，仰天发出震慑的怒吼，全身肌肉紧绷，破损的白色长袍在冲击波的余风中猎猎作响 [地面残留的汽油被摩擦火花点燃，微弱的火焰在车身底部蔓延，周围墙体被飞溅的碎片砸出密集的凹痕，灰尘缓缓落下，整个地下停车场回荡着金属余震的嗡鸣]，最终镜头定格在武士极具压迫感的威慑姿态，全局参数：8K 超清画质，电影级暗黑冷色调调色，极端光影对比，全布料与肌肉运动物理模拟，手持镜头模拟真实战斗的震撼感，全程动作连贯无断裂，高细节银色机械盔甲反光与白色长袍动态飘动
+可爱的冒险故事：一部风格独特的3D动画奇幻冒险故事，讲述了一位勇敢可爱的小探险家，他有着炯炯有神的大眼睛、背着小背包、穿着色彩鲜艳的服装，置身于神奇的森林环境中，画面采用生动的电影级光影效果，3D动画制作精良，温馨感人，适合全家观看。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08356.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08356.jpg" width="600" alt="机械武士狂暴拆车" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07744.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07744.jpg" width="600" alt="萌趣探险奇幻之旅" style="cursor:pointer">
 </a>
 </div>
 
@@ -2309,25 +2176,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 71: 巨型章鱼袭击潜水员
+### No. 70: 亿万富翁继承人戏剧
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-逼真的手持手机画面，一只大型棕色章鱼在公海上袭击一名潜水员，站在一艘白色船只的侧面。一名穿着蓝色潜水服、黄色氧气罐的潜水员躺在船甲板上，而一只巨大的章鱼跳向他，紧紧抓住船体，粗壮的触手缠绕着潜水员的腿和身体。章鱼用力拉着潜水员向水中，引发水花和挣扎。潜水员抵抗，但被拖下了悬崖。动态摄像机通过轻微手持摇晃、逼真的海浪、…
+15秒垂直9：16西方TikTok/Reels亿万富翁继承人戏剧，高饱和度，鲜明对比，
 
 #### 📝 提示词
 
 ```
-逼真的手持手机画面，一只大型棕色章鱼在公海上袭击一名潜水员，站在一艘白色船只的侧面。一名穿着蓝色潜水服、黄色氧气罐的潜水员躺在船甲板上，而一只巨大的章鱼跳向他，紧紧抓住船体，粗壮的触手缠绕着潜水员的腿和身体。章鱼用力拉着潜水员向水中，引发水花和挣扎。潜水员抵抗，但被拖下了悬崖。动态摄像机通过轻微手持摇晃、逼真的海浪、自然日光以及章鱼皮肤、潜水服和船只的细致纹理跟随动作。照片级写实、高细节、戏剧张力、纪录片风格
+15秒垂直9：16西方TikTok/Reels亿万富翁继承人戏剧，高饱和度，鲜明对比，
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03391.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03391.jpg" width="600" alt="巨型章鱼袭击潜水员" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08842.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08842.jpg" width="600" alt="亿万富翁继承人戏剧" style="cursor:pointer">
 </a>
 </div>
 
@@ -2335,25 +2202,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 72: 机械鳄鱼组装
+### No. 71: 浮空少女穿越未来夜城
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-第一段 0–15秒：平静组装（铺垫） 【0–5s · 建立】 主体：身着厚重防护装备的工作人员，立于开阔海面之上，姿态沉稳 场景：开阔太平洋海域，海面平静，金 hour 侧光洒在海面，波光粼粼 动作：工作人员静立待命，身下海面微微泛起涟漪，暗钢色机械部件开始从海面下浮现 风格：超写实科幻风格，8K超清，电影级光影，深…
+一个超现实的电影感航拍镜头，展示了一座夜晚的未来巨型城市，充满了高耸的摩天大楼和以不可能的几何形状扭曲的多层循环高速公路。车流的前灯和尾灯形成了发光的运动光带。一位宁静的动漫风格女性，身着飘逸的白袍（灵感源自和服），在循环高速公路之间的空中优雅地漂浮和坠落。她的袖子和织物在慢动作中飘动，赋予一种空灵、失重的感觉。摄像…
 
 #### 📝 提示词
 
 ```
-第一段 0–15秒：平静组装（铺垫） 【0–5s · 建立】 主体：身着厚重防护装备的工作人员，立于开阔海面之上，姿态沉稳 场景：开阔太平洋海域，海面平静，金 hour 侧光洒在海面，波光粼粼 动作：工作人员静立待命，身下海面微微泛起涟漪，暗钢色机械部件开始从海面下浮现 风格：超写实科幻风格，8K超清，电影级光影，深蓝海面与暗钢色机械形成强烈对比 镜头：低空侧拍缓慢推进，贴合海面角度，捕捉机械部件浮现细节 构图：中心构图，工作人员居中，机械部件环绕其周身，海面作为背景铺展 氛围：宁静中暗藏张力，机械组装前的肃穆感 音频：轻柔海浪声，机械部件轻微运转声；配乐：低频弦乐缓缓升起，铺垫氛围 【5–15s · 组装高潮】 主体：工作人员，暗钢色机械鳄鱼机甲（非作战型），机械部件精准拼接 场景：开阔太平洋海域，金 hour 侧光，海雾与微光交织 动作：机械部件逐一组装，装甲板精准咬合锁定，机械鳄口分段闭合并迸发微弱火花，侧边履带结构展开固定，驾驶舱穹顶缓缓闭合，将工作人员包裹其中，完整机甲形态逐渐成型 风格：超写实科幻，电影级光影，细节拉满，暗钢色机甲质感突出 镜头：环绕跟拍，缓慢推进，特写机械组装细节（咬合、锁定、火花） 构图：动态构图，跟随机械组装轨迹，突出机甲成型过程 氛围：震撼有序，机械组装的科技感与仪式感拉满 音频：机械咬合声、火花轻响、履带展开声；配乐：弦乐逐渐增强，节奏贴合组装动作
+一个超现实的电影感航拍镜头，展示了一座夜晚的未来巨型城市，充满了高耸的摩天大楼和以不可能的几何形状扭曲的多层循环高速公路。车流的前灯和尾灯形成了发光的运动光带。一位宁静的动漫风格女性，身着飘逸的白袍（灵感源自和服），在循环高速公路之间的空中优雅地漂浮和坠落。她的袖子和织物在慢动作中飘动，赋予一种空灵、失重的感觉。摄像机从上方追踪她的下落，随着她穿过螺旋立交桥和交织的道路而旋转和漂移。交通在下方自然流动，光轨在深蓝色的城市大气中划过。环境感觉梦幻般且反重力，巨大的弯曲高架桥在太空中形成优雅的弧线。微妙的雾气和大气雾霾增加了深度和尺度。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01264.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01264.jpg" width="600" alt="机械鳄鱼组装" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05023.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05023.jpg" width="600" alt="浮空少女穿越未来夜城" style="cursor:pointer">
 </a>
 </div>
 
@@ -2361,25 +2228,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 73: 长枪武者破空式
+### No. 72: 女侠破雾斩机甲
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。
+荒凉灰色沙滩全景平视固定，迷雾从背景深处向前蔓延，哥特式建筑轮廓在迷雾中若隐若现，沙滩地面覆盖着细碎的灰色砾石与焦黑残骸，整体色调 极低饱和度冷灰压抑。仿生女侠（白色正装西服、银色机械颈甲与义臂、黑色马尾、金色齿轮耳环、红唇，五官电影级写实全程稳定不变形）立于画面中央，西服被海风缓慢鼓起，银色义臂握持法杖 垂立，法杖…
 
 #### 📝 提示词
 
 ```
-参考@图片1 @图片2长枪角色，@图片3 @图片4场景，生成武术动作场景，角色持长枪施展连贯招式，镜头多角度跟拍，展现武术的力量与美感。
+荒凉灰色沙滩全景平视固定，迷雾从背景深处向前蔓延，哥特式建筑轮廓在迷雾中若隐若现，沙滩地面覆盖着细碎的灰色砾石与焦黑残骸，整体色调 极低饱和度冷灰压抑。仿生女侠（白色正装西服、银色机械颈甲与义臂、黑色马尾、金色齿轮耳环、红唇，五官电影级写实全程稳定不变形）立于画面中央，西服被海风缓慢鼓起，银色义臂握持法杖 垂立，法杖顶端三个圆环燃烧橙红色能量，能量光芒将女侠正面白色西服染成暖橙色轮廓光，低沉史诗垫乐在宽阔音场中缓缓铺开，能量燃烧滋滋声与沉重呼吸感交织。 镜头后撤，女侠银色义臂猛然将法杖击向沙地，冲击力激起大量灰色沙尘向四周爆散，沙尘在侧逆光中形成半透明金色尘云，三个橙红能量环脱离法杖顶端悬浮于半空并迅速加速旋转，每个圆环旋转时拖出完整的橙红光尾残影，女侠义臂猛然高举示意出击，斗篷随举臂动作猛然向后展开，马尾发丝被冲击气流向前掀起，法杖撞地沉重轰响与金属震动声、狂风卷沙声同步轰入。 仰视特写快速推进，女侠银色义臂食指向上空猛然挥动，金色火焰在精密金属指尖跳跃燃烧，蓝白电弧沿义臂关节向上蔓延至指尖与火焰交融，背景中巨大机械结构开始崩塌，金属构件在火光中翻滚坠落，指尖划过空气的尖锐呼啸声与高频能量汇聚嗡鸣声骤然刺入。 全景快速横移追踪，第一个巨大能量圆环如飞锯般以极高转速在空中划出完整橙红火光弧线，弧线尾迹在灰暗天空中形成持续发光的轨迹，瞬间切入一艘巨型钢铁飞船的侧翼装甲，切入瞬间装甲板沿切割线从内向外炸裂，橙红熔浆从切口向外喷涌，锯片切割金属的刺耳摩擦声与火花四溅爆裂声将音场撕裂。 俯视追踪镜头压顶，能量圆环穿透侧翼继续切入飞船核心舱室，核心被贯穿瞬间引发连环爆炸，第一波爆炸呈球形膨胀，第二波沿舰体纹路纵向撕裂，金属碎片伴随浓黑烟柱与红色火光向四周高速扩散，金属撕裂声与远处低音轰鸣交织成压顶音浪。 中景平视固定，第二个能量圆环呼啸飞向地面一台巨大双足步行机甲 ，圆环在飞行轨迹中旋转产生的橙色光尾与阴暗背景形成极强冷暖对比，画面色彩饱和度在此刻骤然拉高，能量环高速盘旋的低频嗡鸣声在画面中持续震荡。 仰视中景震动，能量圆环精准击中机甲左膝关节核心，巨大火球从关节内部向外爆发，爆炸冲击波将机甲整个上半身向后推移，火星瀑布从爆炸点向四周喷溅覆盖半径十米，镜头随冲击剧烈震动，沉重金属撞击声与机甲受损电火花连续爆裂声在震动中轰然压入。 全景侧移，机甲 右膝随后被第三个能量圆环击中彻底瘫痪，庞大躯体在两膝连续被毁后向右侧缓缓倾倒，倾倒过程中装甲板持续脱落，哥特式尖顶建筑在迷雾背景中随机甲倒塌的震动而轮廓颤动，机甲彻底倒地的沉闷巨响与瓦砾坠落声由近及远散开，BGM节奏在此刻推至第一阶段高潮。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09756.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09756.jpg" width="600" alt="长枪武者破空式" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00771.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00771.jpg" width="600" alt="女侠破雾斩机甲" style="cursor:pointer">
 </a>
 </div>
 
@@ -2387,35 +2254,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 74: 巨星红毯登场
+### No. 73: 飞车穿越断桥
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一个连续且不中断的电影镜头，没有剪辑，一遍流畅的15秒镜头。名人英雄揭晓的到场序列，阳光明媚的白天，华丽的红毯活动在一座宏伟建筑外举行。超写实的专业胶片风格，逼真的纹理，清晰的自然日光，抛光的表面，鲜艳的色彩，浅景深。绝对没有塑料CGI的效果。 镜头以地面层的亲密特写开场，画面是干净铺装的街道/红地毯边缘，阳光洒在柏…
+超写实电影级15秒动作片段。一辆汽车正全速疾驰在一座正在逐段坍塌的长悬索桥上。白昼强光下，钢索崩断，桥面依次坠落。动作全程保持向前推进，无急转弯。汽车沿直线行驶，路面逐段消失。镜头起始于低角度前向跟拍，以同等速度向后移动，仅允许轻微横向偏移。中段时，一大段桥面坠落形成完整缺口，汽车加速飞跃而过。镜头平滑跟随抛物线轨迹…
 
 #### 📝 提示词
 
 ```
-一个连续且不中断的电影镜头，没有剪辑，一遍流畅的15秒镜头。名人英雄揭晓的到场序列，阳光明媚的白天，华丽的红毯活动在一座宏伟建筑外举行。超写实的专业胶片风格，逼真的纹理，清晰的自然日光，抛光的表面，鲜艳的色彩，浅景深。绝对没有塑料CGI的效果。
-
-镜头以地面层的亲密特写开场，画面是干净铺装的街道/红地毯边缘，阳光洒在柏油路上。一辆豪华亮红色跑车向前驶入画面，正常前进，最终平稳停下。车门打开了。镜头保持低姿态，一双穿着擦得锃亮优雅的正装鞋的脚从车里走到地面——这就是那个男人[图片]，穿着剪裁得体、优雅的西装，风格优雅，风格优雅，宛如电影明星。
-
-他站起身时，镜头缓缓从鞋子往上移，向脸部移动。在这过程中，他顺畅地关上车门，整理西装外套和袖口，神情镇定自信。当镜头拍摄到他脸上时，他动作流畅地摘下墨镜，露出他那富有魅力且沉着的表情。
-
-摄像机随后围绕他旋转，平稳地盘旋，直到停在他身后——映出他面前，一大群新闻摄影师和兴奋的粉丝在栏杆后等待，闪烁着闪光灯，人们欢呼着。那人开始向他们走来。
-
-摄像机停留在他身后，但逐渐向上拉，逐渐升高，直到从上方和他头后以高角度俯视，展示他走在地毯上，挥手向欢呼的粉丝致意，然后继续前进，穿过大门进入宏伟的建筑。
-
-风格：电影感，明亮迷人的自然光，鲜艳的色级，阳光镜头光晕，逼真的动态模糊，浅景深，红毯电影级别的巨片质量。
+超写实电影级15秒动作片段。一辆汽车正全速疾驰在一座正在逐段坍塌的长悬索桥上。白昼强光下，钢索崩断，桥面依次坠落。动作全程保持向前推进，无急转弯。汽车沿直线行驶，路面逐段消失。镜头起始于低角度前向跟拍，以同等速度向后移动，仅允许轻微横向偏移。中段时，一大段桥面坠落形成完整缺口，汽车加速飞跃而过。镜头平滑跟随抛物线轨迹，保持与行进方向一致。结尾处车辆继续向前冲入余下不稳桥段。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03371.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03371.jpg" width="600" alt="巨星红毯登场" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02515.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02515.jpg" width="600" alt="飞车穿越断桥" style="cursor:pointer">
 </a>
 </div>
 
@@ -2423,25 +2280,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 75: 二次元少女动感热舞
+### No. 74: 飞天猫侠夜行记
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-图片1作为首帧，可爱的二次元跪姿少女把摄像头摆好，然后开始了跳舞，采用卡点音乐与动态感强的舞蹈姿势，视角采用低机位仰视视角，人物舞蹈动作可爱有张力，有动态感，动漫风格美术
+写实的超级英雄猫在夜晚从摩天大楼跳下，飞越高楼，红色披风飘扬，电影般的跟踪镜头，逼真的物理效果，流畅的动作，轻微的运动模糊，戏剧性十足。
 
 #### 📝 提示词
 
 ```
-图片1作为首帧，可爱的二次元跪姿少女把摄像头摆好，然后开始了跳舞，采用卡点音乐与动态感强的舞蹈姿势，视角采用低机位仰视视角，人物舞蹈动作可爱有张力，有动态感，动漫风格美术
+写实的超级英雄猫在夜晚从摩天大楼跳下，飞越高楼，红色披风飘扬，电影般的跟踪镜头，逼真的物理效果，流畅的动作，轻微的运动模糊，戏剧性十足。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04801.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04801.jpg" width="600" alt="二次元少女动感热舞" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08691.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08691.jpg" width="600" alt="飞天猫侠夜行记" style="cursor:pointer">
 </a>
 </div>
 
@@ -2449,42 +2306,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 76: Adam香水诱惑时刻
+### No. 75: 金色海岸航拍
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-制作Adam牌香水高级广告片 主体：亚洲风格日系美人，轻熟风，皮肤白皙，身穿极简黑色丝绸裙，手持Adam牌香水，大红唇，五官清晰，面部稳定 动作设计： 0-3s：镜头从人物垂眼特写切入，眼神随发丝微动缓慢抬起，直视镜头锁定观众 3-8s：模特微闭双眼轻嗅颈间，嘴角带出一丝若有若无的迷人微笑，随后缓缓转头看向侧方，动作…
+15秒，16：9的电影镜头，单一连续空中无人机镜头，平滑且不间断的飞行轨迹，没有剪辑。全局配置：史诗级无人机镜头，超平滑万向节稳定，快速动作时带有细微运动模糊的广角航拍镜头。金色的傍晚阳光，长长柔和的阴影。背景设定：悬崖与碧绿海洋相接的壮丽海岸线，蜿蜒的海岸公路，依附山坡的小白墙村庄，散布在水面上的帆船。环境音：风声…
 
 #### 📝 提示词
 
 ```
-制作Adam牌香水高级广告片
-
-主体：亚洲风格日系美人，轻熟风，皮肤白皙，身穿极简黑色丝绸裙，手持Adam牌香水，大红唇，五官清晰，面部稳定
-
-动作设计：
-0-3s：镜头从人物垂眼特写切入，眼神随发丝微动缓慢抬起，直视镜头锁定观众
-3-8s：模特微闭双眼轻嗅颈间，嘴角带出一丝若有若无的迷人微笑，随后缓缓转头看向侧方，动作轻柔连贯
-8-12s：手指轻触香水喷头，眼神重回镜头，展现出一种克制而高级的诱惑
-
-场景：现代高级简约工作室，背景带有柔和虚化效果，侧逆光营造丁达尔效应，光影高级，色彩自然
-
-运镜：景别从面部特写平滑拉开至中景。缓慢环绕运镜（Subtle Orbit），镜头稳定无抖动，丝滑流畅
-
-画质风格：8K超高清，超写实电影质感，细节丰富，锐度清晰。冷调柔光，极具视觉冲击力
-
-品牌结尾：12-15s画面渐隐，屏幕中心渐显艺术感白色Logo "Adam"，伴随优雅感十足的法式旁白 "Adam, l'essence du désir"
-
-技术约束：人体结构正常，动作不僵硬，面部不扭曲，无变脸，无重影
+15秒，16：9的电影镜头，单一连续空中无人机镜头，平滑且不间断的飞行轨迹，没有剪辑。全局配置：史诗级无人机镜头，超平滑万向节稳定，快速动作时带有细微运动模糊的广角航拍镜头。金色的傍晚阳光，长长柔和的阴影。背景设定：悬崖与碧绿海洋相接的壮丽海岸线，蜿蜒的海岸公路，依附山坡的小白墙村庄，散布在水面上的帆船。环境音：风声、远处海浪、柔和的管弦乐/氛围配乐逐渐堆积。[0:00–0:03]无人机从低空近距离开始，掠过波涛汹涌的海浪，水花隐约可见，镜头略微向下。随着滑行，速度加快。[0:03–0:06]无人机平稳上升并向左转弯，露出前方被金色光芒笼罩的高耸悬崖，一条狭窄的海岸公路切入岩壁，只有一辆汽车行驶在路上。海拔持续上升。[0:06–0:09]无人机从悬崖边缘飞过，露出白色粉刷的村庄从山坡蔓延，陶土屋顶映照着光线，狭窄的街道，一个带喷泉的小广场。镜头拉远并向上。[0:09–0:12]无人机缓缓升空旋转，完整的海岸线现在清晰可见，村庄、悬崖、道路和开公的海洋点缀着帆船，长长的影子在陆地上延伸。大范围揭示。[0:12–0:15]无人机继续升空，进入最后一个广角航拍镜头，太阳开始触及地平线，整个景色被温暖的金色和深蓝色光辉笼罩，镜头缓慢停下，优雅地停下。画面渐渐变黑。风格：超写实的电影色级，丰富的黄金时刻色调，史诗级规模，无CGI伪影，远处自然氛围朦胧。限制：无人机运动流畅且无抖动，光影方向一致，飞行路径物理合理，无文字叠加，无突然高度跳跃。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05048.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05048.jpg" width="600" alt="Adam香水诱惑时刻" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04750.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04750.jpg" width="600" alt="金色海岸航拍" style="cursor:pointer">
 </a>
 </div>
 
@@ -2492,31 +2332,25 @@ Netflix电影纪录片，16秒序列，16：9，超写实8K，ARRI Alexa Mini LF
 
 ---
 
-### No. 77: 高尔夫恶作剧偷笑瞬间
+### No. 76: 最后灯塔守护者
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-以未经处理的iPhone手持竖屏视频素材风格呈现，所有相机设置均为自动，无任何后期调色或特效。画面带有真实的操作者呼吸感和轻微不规则手持抖动，自动对焦偶尔出现搜索和短暂失焦，自动白平衡随户外阳光与阴影自然切换。图像整体平坦且略显泛白，保留真实的镜头光晕、轻微运动模糊、边缘轻微压缩感等手机拍摄质感。仅使用画内自然环境音…
+世界上最后一位人类灯塔守护者坐在缅因州海岸外他的灯塔灯室里，望着下方浓雾中无声驶过的全自动航运船队。他已年过七旬，饱经风霜，从容不迫。
 
 #### 📝 提示词
 
 ```
-以未经处理的iPhone手持竖屏视频素材风格呈现，所有相机设置均为自动，无任何后期调色或特效。画面带有真实的操作者呼吸感和轻微不规则手持抖动，自动对焦偶尔出现搜索和短暂失焦，自动白平衡随户外阳光与阴影自然切换。图像整体平坦且略显泛白，保留真实的镜头光晕、轻微运动模糊、边缘轻微压缩感等手机拍摄质感。仅使用画内自然环境音效（高尔夫球场风声、草地摩擦声、轻微脚步声、布料摆动声、球被击中后的轻微破空声），无任何背景音乐，强声时麦克风轻微失真。采用纯第一人称手持POV视角（躺在地上的女生主观视角），镜头运动完全跟随操作者本能反应，构图偶尔不完美，带有真实呼吸抖动。 0-2秒时，镜头以第一人称手持竖屏视角非常低地趴在高尔夫球场草坪上。一位穿着
-图片_20260524221335_225_1403
-的女性
-近距离对着镜头偷笑，露出半张笑脸和肩膀，表情调皮开心。在她臀部中央摆放着一个高尔夫球和球托构图参考
-hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
-。背景中，一位穿着
-站在草坪上，手持高尔夫球杆摆出准备的挥杆姿势参考。阳光明亮，草坪鲜绿，后方有高大树木和蓝天白云。画面带有轻微手持抖动和自然风声。 2-5秒时，后景的黑衣女性用力做完整挥杆动作。强劲的气流瞬间带动地面气流，前景趴着的旗袍女性臀部和背部被气流猛烈震动，白色旗袍裙摆出现剧烈而明显的波动。高尔夫球被“击中”后从她臀部中央弹飞出去。她继续笑着看镜头，但身体明显被气流和球飞走的影响。自动对焦在挥杆动作、身体波动和飞走的球上短暂搜索后重新锁定，画面轻微晃动。 5-7秒时，黑衣女性完成收杆姿势，微微喘气。前景旗袍女性仍然笑着看镜头，臀部中央的高尔夫球和球托已经不见了。自动对焦在两人身上来回切换，画面保持低角度，真实手机自拍的压缩感和呼吸声贯穿始终。 7-9秒时，一位穿着白色高尔夫衫、白色短裤、白色帽子的中年男性高尔夫球手从左后方走进画面，站在草坪边看着她们，手里拿着球杆，表情困惑又好笑。两个女生同时发现他，前景旗袍女性瞬间大笑，后景黑衣女性也破功蹲下来笑。自动对焦激烈搜索后重新锁定在中年男性的出现上，画面晃动明显。 9-10秒时，两个女生完全笑场，前景旗袍女性把手机贴得更近大笑，后景黑衣女性蹲在地上笑得前仰后合。镜头继续轻微晃动，真实记录下两人自然大笑的瞬间，视频自然结束。 画面呈现出真实的未经处理手持竖屏视频质感，纪录片级别的自然不完美感，无任何后期调色、特效或夸张表演。所有相机行为均符合iPhone自动拍摄的物理特性。
+世界上最后一位人类灯塔守护者坐在缅因州海岸外他的灯塔灯室里，望着下方浓雾中无声驶过的全自动航运船队。他已年过七旬，饱经风霜，从容不迫。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03541.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03541.jpg" width="600" alt="高尔夫恶作剧偷笑瞬间" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00228.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00228.jpg" width="600" alt="最后灯塔守护者" style="cursor:pointer">
 </a>
 </div>
 
@@ -2524,25 +2358,29 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 78: 机甲变身特效
+### No. 77: 旋转夜轮忧郁凝视
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-使用Arri Alexa Mini LF拍摄的电影级科幻变身特效，采用低角度稳定器环绕运镜。场景中，一名粗犷的美国士兵站在尘土飞扬的沙漠机库里；当他激活手腕上的神经触发器时，厚重的哑光黑色工业装甲板和液压活塞从靴子处向上涌起，将他的身体包裹在军事化机甲框架中。镜头紧密环绕，铜线与钢架以暴烈的精准度相互咬合，捕捉到他因…
+成人和儿童各张照片：我想要一张脸部和上半身的特写，晚上坐在旋转的游乐场轮子上。不要改变她的合身度。画面中只露出脸和肩膀。整个背景快速旋转，形成令人眩晕的旋转幻觉——模糊的夜晚游乐场，灯光、树木和建筑在黑暗的天空下闪烁。背景上有轻微的运动模糊以强调高速。受试者保持严肃而忧郁的表情，直视镜头却没有移动。电影感、情绪化的灯…
 
 #### 📝 提示词
 
 ```
-使用Arri Alexa Mini LF拍摄的电影级科幻变身特效，采用低角度稳定器环绕运镜。场景中，一名粗犷的美国士兵站在尘土飞扬的沙漠机库里；当他激活手腕上的神经触发器时，厚重的哑光黑色工业装甲板和液压活塞从靴子处向上涌起，将他的身体包裹在军事化机甲框架中。镜头紧密环绕，铜线与钢架以暴烈的精准度相互咬合，捕捉到他因身体承受压力而扭曲的表情。随着厚重的胸甲砰然闭合，肩关节处喷出高压蒸汽，变身过程加速推进。最后，强化战术头盔锁定就位时发出沉重的金属共鸣声。整个氛围粗粝而充满实感，伴随着金属碰撞声和加压空气的节奏性渐强，最终以充满力量感的稳固姿态收尾。
+成人和儿童各张照片：我想要一张脸部和上半身的特写，晚上坐在旋转的游乐场轮子上。不要改变她的合身度。画面中只露出脸和肩膀。整个背景快速旋转，形成令人眩晕的旋转幻觉——模糊的夜晚游乐场，灯光、树木和建筑在黑暗的天空下闪烁。背景上有轻微的运动模糊以强调高速。受试者保持严肃而忧郁的表情，直视镜头却没有移动。电影感、情绪化的灯光，写实风格。背景高度强调水平旋转
+
+视频：整个背景快速旋转，形成令人眩晕的旋转幻觉，模糊的夜晚游乐场，灯光、树木和建筑在黑暗的天空下闪烁。背景上有轻微的运动模糊以强调高速。头发因快速旋转而向外甩动，强烈反应，仿佛被某种力量牵动。受试者保持严肃而忧郁的表情，直视镜头，几乎不动。电影感十足，阴郁的灯光，写实风格。背景高度强调水平旋转
+
+自然的人体动作，呼吸时细微的胸口起伏，自然不规则的眨眼，轻柔的微头运动，放松的姿势调整，头发随着动作自然流动，有机的非剧本动作，栩栩如生的存在感。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00975.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00975.jpg" width="600" alt="机甲变身特效" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08992.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08992.jpg" width="600" alt="旋转夜轮忧郁凝视" style="cursor:pointer">
 </a>
 </div>
 
@@ -2550,25 +2388,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 79: 街角甜心漫步
+### No. 78: 斩仙墨刃破冰
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-仅将{{图片1}}作为角色A身份参考。仅将{{图片2}}作为字符B的身份参考。两张图片只用于面部、发型、服装、配饰、颜色和轮廓。只有角色A和角色B是动漫风格。环境、道具、路人、灯光、反射和摄像机光学必须是逼真的实景。动画中只有两个主要角色：角色A和角色B。允许出现背景行人，但必须是写实的真人临时演员，略带模糊，仅在中…
+0-3秒：混沌初开，玉意潜涌画面从绝对纯黑开始，无任何光源。随着低沉的玉磬声与冰裂音效响起，画面中心开始浮现极淡的青蓝色粒子流，如深海暗流般缓慢汇聚，形成一道若有若无的环形光带，光带边缘伴随细碎的冰晶飞溅特效，粒子密度逐渐提升，营造出“冰封千年”的压迫感。 3-6秒：墨意破局，笔意初现粒子流突然加速，从环形光带中爆发…
 
 #### 📝 提示词
 
 ```
-仅将{{图片1}}作为角色A身份参考。仅将{{图片2}}作为字符B的身份参考。两张图片只用于面部、发型、服装、配饰、颜色和轮廓。只有角色A和角色B是动漫风格。环境、道具、路人、灯光、反射和摄像机光学必须是逼真的实景。动画中只有两个主要角色：角色A和角色B。允许出现背景行人，但必须是写实的真人临时演员，略带模糊，仅在中景或远景，绝不能成为焦点。没有额外的动漫角色。没有克隆人。没有看到无人机。没有动漫背景。没有文字叠加。没有标志。这是一段15秒的欢快音乐视频，背景设定在明亮逼真的白天购物街。场景：中午热闹的购物街，色彩斑斓的店面、柔和的阳光、横幅、路牌和许多行人经过。观众感觉忙碌而有趣。镜头1：宽阔开场。角色A和角色B站在一条繁忙的购物街中央。镜头滑过人群。镜头2：角色A的近景。她兴奋地指着一个甜点或小吃摊。镜头3：角色B的近景镜头。她微笑点头，然后走近了一步。镜头4：中等双人镜头。两人并肩穿过人群，手里拿着零食，享受着热闹的氛围。镜头5：走路时鞋子附近的低角度镜头。阳光和流逝的影子在人行道上移动。镜头6：快速特写：角色A兴奋地微笑，角色B轻声笑着，身后人群移动。镜头7：跟踪镜头。他们轻盈穿梭在繁忙的街道上，路人自然地绕过他们。镜头8：中广角镜头。角色A对橱窗里的东西反应开心，角色B也在看。镜头9：可爱的双人镜头。他们比较零食，笑着说。镜头10：最后一枪。两人站在明亮的人群中，朝镜头微笑，身后是热闹的购物街。风格：明亮、可爱、繁忙的白天街头MV，电影感十足的24帧。
+0-3秒：混沌初开，玉意潜涌画面从绝对纯黑开始，无任何光源。随着低沉的玉磬声与冰裂音效响起，画面中心开始浮现极淡的青蓝色粒子流，如深海暗流般缓慢汇聚，形成一道若有若无的环形光带，光带边缘伴随细碎的冰晶飞溅特效，粒子密度逐渐提升，营造出“冰封千年”的压迫感。 3-6秒：墨意破局，笔意初现粒子流突然加速，从环形光带中爆发出一道贯穿画面的凌厉青蓝光刃，如天罚之剑瞬间撕裂黑暗。蓝光所过之处，“斩”字的左侧偏旁以水墨泼洒的方式快速成型，笔画边缘带有锋利的冰刃锯齿光效，墨色由深黑渐变为冰蓝，笔画内部流动着细碎的玉质反光粒子，整体呈现出“墨刃破冰”的动态张力。 6-9秒：仙意凝形，字体渐成“斩”字成型后，画面下方爆发出第二道更具冲击力的蓝光，从画面底部向上延伸，“仙”字的竖笔以“玉柱擎天”的姿态骤然成型，笔锋锐利如冰刃，末端带有冰晶星屑飞溅特效。“仙”字的横画与撇画以水墨拖尾的方式从竖笔中衍生而出，笔画边缘伴随青蓝色的能量涟漪，整体呈现出“仙意凝形、玉质天成”的视觉效果，两个字的笔画在黑暗中相互呼应,形成强烈的视觉平衡。 9-12秒：锋芒毕露，特效叠加“斩仙”二字完全成型后，字体表面开始浮现出流动的青蓝色辉光，辉光从笔画中心向边缘扩散，形成“玉气环绕”的动态效果。同时，画面中开始飘落细碎的冰晶与墨色粒子，粒子在字体周围旋转、碰撞，产生短暂的冰爆特效，字体边缘的锯齿光效逐渐强化，整体亮度提升30%,背景由纯黑渐变为冰蓝水墨纹理，营造出“锋芒毕露、仙意凛然”的冲击力。 12-15秒：定格终局，余韵悠长所有动态特效逐渐收敛，“斩仙”二字的辉光稳定为柔和的青蓝色，粒子流停止流动，冰晶缓缓飘落至画面底部消失。最终定格为：冰蓝水墨纹理背景下，“斩仙”二字以厚重书法字体呈现，左侧“斩”字笔锋凌厉如冰刃，右侧“仙”字竖笔挺拔如玉柱，字体边缘带有细微的玉质光晕，整体呈现出“斩仙问道、玉意长存”的终局效果。 技术参数补充(Seedance 2.0适配)运动强度：0.75(保证丝滑过渡，避免过度抖动)特效强度：0.85(强化水墨粒子与冰玉特效的视觉冲击力)色彩校正：青蓝色主色调，辅以墨黑与暗红点缀，对比度提升20%镜头语言：全程固定镜头，聚焦画面中心，无运镜变化，突出字体本身的动态张力
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03587.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03587.jpg" width="600" alt="街角甜心漫步" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01439.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01439.jpg" width="600" alt="斩仙墨刃破冰" style="cursor:pointer">
 </a>
 </div>
 
@@ -2576,25 +2414,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 80: 种子之舞解谜特效
+### No. 79: 虎牢关三英战吕布
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-从@image-1的上限开始，参考@video-1的解谜效果进行过渡，将“BELIEVE”字体替换为“Seedance”，参考@image-2的字体
+时长：20秒 | 16:9 | 24帧/秒 《三国演义》中的虎牢关之战，汉末。参考图片：图1 — 吕布；图2 — 关羽；图3 — 张飞。仅用于辨识人物：面部、胡须、发型、头饰、盔甲、披风颜色、体型、比例。请忽略他们白色的摄影棚背景、平淡的灯光和站姿——这些元素均未出现在本作中。所有镜头均为户外拍摄，三人均骑马作战。风…
 
 #### 📝 提示词
 
 ```
-从@image-1的上限开始，参考@video-1的解谜效果进行过渡，将“BELIEVE”字体替换为“Seedance”，参考@image-2的字体
+时长：20秒 | 16:9 | 24帧/秒 《三国演义》中的虎牢关之战，汉末。参考图片：图1 — 吕布；图2 — 关羽；图3 — 张飞。仅用于辨识人物：面部、胡须、发型、头饰、盔甲、披风颜色、体型、比例。请忽略他们白色的摄影棚背景、平淡的灯光和站姿——这些元素均未出现在本作中。所有镜头均为户外拍摄，三人均骑马作战。风格（所有场景）：黄昏时分，一座巨大的石山隘口前，尘土飞扬的平原。两侧是庞大的军队，旗帜飘扬，尘土飞扬。阴云密布，低垂的铜色太阳穿透云层。色调：铁灰色、赭石色、血红色、青铜色。低饱和度，质朴自然。 50毫米镜头，浅焦距，浓重雾霾，胶片颗粒感，高对比度，尘土中透出硬朗的轮廓光。写实历史史诗，汗水和污垢，磨损的盔甲。没有奇幻的光晕，没有魔法。武器——无参考资料。以此为基础制作，并保持完全一致。每件武器的高度是其主人身高的1.5倍。切勿互换。呂​​布：戟——直矛尖，一侧下方有弯月形侧刃，长长的深色柄，青铜配件。关羽：关刀——一把厚重宽阔的弯刀，刀背带钩，通过青铜龙头与长长的深色柄相连。张飞：蛇枪——纤细的钢制刀身，锻造成S形波浪状，安装在用绳索缠绕的素色深色柄上。马匹——无参考资料。符合解剖学原理，四肢，关节正确。呂布：一匹高大的红栗色骏马，黑色鬃毛，青铜配件，红色穗子。関羽：高大的深棕色马，黑色鬃毛和小腿，朴素的皮质马具。张飞：体型庞大，通体黑色，脖子粗壮，毛茸茸的蹄子，破旧的铁制马具。第一拍（0-4秒）：吕布——剃须干净，头戴饰有两根雉鸡羽毛的金色头饰，身披红色斗篷，手持戟，骑着栗红色骏马——独自坐在两军之间，戟横放在马鞍上。骏马跺脚，转身半步。他举起戟，指向敌军阵线。镜头：低角度远景，缓慢推进。第二拍（4-8秒）：张飞——蓄着浓密的胡须，身穿黑色铁甲，身披黑色斗篷，手持蛇形长矛，骑着黑色骏马——咆哮着从阵线中疾驰而出，将长矛刺向吕布。吕布将戟横过身前，将其击落。火花四溅，尘土飞扬。马匹互相呼啸而过。镜头：以马匹高度跟随拍摄，随着冲锋移动。第三拍（8-12秒）：関羽——长长的黑色胡须，红润的脸庞，深绿色长袍外罩铠甲，绿色头巾，手持关刀，骑着深棕色骏马——从远处策马而来，起身跃起，从头顶劈下。吕布用刀柄接住刀刃。两人用力，刀刃相扣，马匹肩并肩。镜头：中景，围绕着交错的武器旋转一周。第四拍（12-16秒）：三人扬起尘土，刀剑交锋，互相击打，马匹扬蹄。吕布身着红金战袍，関羽身着绿色战袍，张飞身披黑铁战袍。镜头拉近拍摄。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04234.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04234.jpg" width="600" alt="种子之舞解谜特效" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10953.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10953.jpg" width="600" alt="虎牢关三英战吕布" style="cursor:pointer">
 </a>
 </div>
 
@@ -2602,25 +2440,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 81: 巨狼与骑士之战
+### No. 80: 威尔·史密斯厨房吃面
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-镜头震动，特写动态中世纪战斗，骑士们攻击巨大的狼，狼践踏、咬人，并将骑士抛向空中，镜头跟随骑士飞行后又回到狼身边，躲避、格挡、军队战斗，树木倒下，飞散的碎片，尘埃颗粒，阳光穿过树叶和树木， 超写实、电影感、照片级写实、超写实电影感、超写实、电影感、照片级真实、超写实电影感、4K、8K、复杂细节、细节丰富、HDR、锐利…
+写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
 
 #### 📝 提示词
 
 ```
-镜头震动，特写动态中世纪战斗，骑士们攻击巨大的狼，狼践踏、咬人，并将骑士抛向空中，镜头跟随骑士飞行后又回到狼身边，躲避、格挡、军队战斗，树木倒下，飞散的碎片，尘埃颗粒，阳光穿过树叶和树木， 超写实、电影感、照片级写实、超写实电影感、超写实、电影感、照片级真实、超写实电影感、4K、8K、复杂细节、细节丰富、HDR、锐利、体积光、精准细致、泡沫朋克、Rob Liefeld、虚幻引擎5、辛烷值渲染、柔和色彩
+写实电影镜头：Will Smith 坐在现代家庭厨房的白色中岛台前吃意大利面。背景是居中的不锈钢冰箱、白色橱柜和台面小家电，侧窗自然日光。人物正对镜头，穿黑色 T 恤，自然卷面、咀嚼和吞咽。镜头以稳定中近景为主，可轻微推进；保持真实手部动作、表情和食物细节，不要夸张变形，24fps 电影级写实。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03918.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03918.jpg" width="600" alt="巨狼与骑士之战" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09367.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09367.jpg" width="600" alt="威尔·史密斯厨房吃面" style="cursor:pointer">
 </a>
 </div>
 
@@ -2628,31 +2466,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 82: 超英风暴对决
+### No. 81: 雨夜追车虐心名场面
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一段电影感十足、超写实的15秒动作戏。特写一位女性超级英雄，戴着复杂的金属银色细工盔甲面具，霓虹蓝的眼睛炯炯有神地凝视着。画面切换到远景，她悬浮在现代城市街道上方，身后有巨大的龙卷风旋转。她交叉双臂，猛地向外伸出，释放出一股强烈的白烟和动能冲击波，波纹遍及周围建筑。8K分辨率，照片级写实，动态光影，复杂的PBR纹理，…
+【风格】国产爆款短剧（Viral Short Drama），竖屏构图（9:16 Portrait Ratio），极致虐心（Melodramatic），雨夜街头，高对比度霓虹光影，手持摄影晃动感。 【时长】15秒 【角色】卑微男主（浑身湿透，头发凌乱，欲哭无泪）VS 决绝女主“燕子”（妆容精致，冷漠脸）。 [00:00…
 
 #### 📝 提示词
 
 ```
-一段电影感十足、超写实的15秒动作戏。特写一位女性超级英雄，戴着复杂的金属银色细工盔甲面具，霓虹蓝的眼睛炯炯有神地凝视着。画面切换到远景，她悬浮在现代城市街道上方，身后有巨大的龙卷风旋转。她交叉双臂，猛地向外伸出，释放出一股强烈的白烟和动能冲击波，波纹遍及周围建筑。8K分辨率，照片级写实，动态光影，复杂的PBR纹理，景深，35mm镜头，巨型视觉特效。
-
-画面切换到一段高能的电影序列，出现一位身穿哑光黑铬装甲、戴着相配面罩的潜行超级英雄。她那长长的黑发在风中狂野飘扬，低空飞翔，穿过城市的街道峡谷。摄像机动态地围绕她旋转，身后跟着一串浓厚的白烟。她在半空中停下，张开双臂，面对镜头。特写她的脸，头发被风吹起，露出黑色金属面罩左侧出现裂纹。照片级真实感、高端CGI、电影感光影、清晰对焦、180mm定焦镜头、f/2.0光圈。
-
-最终战斗场面：一场现代城市史诗级的科幻超级英雄对决。一名身穿复杂银网盔甲的战士释放出巨大的空气与烟雾冲击波。画面切换到一名身穿黑色战衣的潜行战士，轻松穿梭于浓烟中。快速跟踪镜头捕捉了飘逸的头发、戏剧性的风力物理和高度细致的盔甲纹理。8K分辨率，逼真的动态模糊，电影级色彩分级，戏剧性光影，顶级CGI质量。
-
-在所有场景中使用参考图像中的准确面部特征。每张照片都要保持相同的面部表情、身份和面部结构。
+【风格】国产爆款短剧（Viral Short Drama），竖屏构图（9:16 Portrait Ratio），极致虐心（Melodramatic），雨夜街头，高对比度霓虹光影，手持摄影晃动感。 【时长】15秒 【角色】卑微男主（浑身湿透，头发凌乱，欲哭无泪）VS 决绝女主“燕子”（妆容精致，冷漠脸）。 [00:00-00:05] 镜头1：决绝登车（The Departure）。 暴雨夜的繁华街头。一辆黑色劳斯莱斯（或迈克尔巴赫）停在路边，后座车门打开。女主冷漠地甩开男主拉扯的手，头也不回地坐进豪车后排。男主扒着车窗哭喊，被保镖无情拉开。车门重重关上。 【男主状态】满脸泪水与雨水交织，眼神绝望。 [00:05-00:10] 镜头2：撕心裂肺的追逐（The Chase & The Meme Line）。 豪车起步加速驶离。男主不顾一切地在后面狂奔追赶，踉踉跄跄，鞋子都跑掉一只。镜头紧跟男主脸部特写，疯狂晃动。他一边跑一边冲着远去的车尾灯嘶吼。 【核心台词口型指导】男主崩溃大喊：“燕子！燕子！你不要走！你走了我可怎么办啊！”（表情极其痛苦扭曲）。 [00:10-00:15] 镜头3：绝望跪地（The Despair）。 豪车的尾灯消失在街角尽头。男主体力不支，重重地跪倒在湿漉漉的柏油马路上，对着空荡荡的街道捶胸顿足，嚎啕大哭。镜头慢慢拉高俯拍，显得他无比渺小和凄凉。雨水不断打在他身上。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03436.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03436.jpg" width="600" alt="超英风暴对决" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08575.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08575.jpg" width="600" alt="雨夜追车虐心名场面" style="cursor:pointer">
 </a>
 </div>
 
@@ -2660,25 +2492,32 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 83: 修女变女武神
+### No. 82: 战火长镜头实录
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-1-2秒 一座冷色调蓝灰哥特式教堂内，高耸的石柱直指天际。微弱的冷光透过彩色玻璃窗洒落。一位白发女子闭目低头立于祭坛前，身着黑白修女袍，额间有一道细小的红色竖纹，颈间挂着银色十字架吊坠。2-3.5秒 她缓缓睁眼，神情冷峻克制。一只金色圣杯降入画面，杯身翻涌着猩红光芒，照亮她的面容与指尖。3.5-5秒 她双手捧起圣杯饮…
+15秒连续单镜头动作序列。 没有割伤。没有场景转换。 现代战争现实主义电影。 色彩搭配：去饱和色调、尘米色、混凝土灰、温暖的枪口闪光。 场景： 战火纷飞的城市街道。建筑被毁，碎片四处飞溅，烟雾飘散。
 
 #### 📝 提示词
 
 ```
-1-2秒 一座冷色调蓝灰哥特式教堂内，高耸的石柱直指天际。微弱的冷光透过彩色玻璃窗洒落。一位白发女子闭目低头立于祭坛前，身着黑白修女袍，额间有一道细小的红色竖纹，颈间挂着银色十字架吊坠。2-3.5秒 她缓缓睁眼，神情冷峻克制。一只金色圣杯降入画面，杯身翻涌着猩红光芒，照亮她的面容与指尖。3.5-5秒 她双手捧起圣杯饮下。杯沿溢出红色雾气，胸口燃起赤红核心，冷蓝色调被血光吞没。5-6.5秒 黑白修女袍被红色能量撕裂。银色尖刺铠甲迅速覆盖她的肩、胸与手臂。深红披风在她身后翻飞展开。6.5-8秒 一顶缀着暗红玫瑰的银色荆棘冠冕在她头顶成型。她起身化为银红交织的暗黑战斗女武神，胸口核心灼灼生辉。8-9.5秒 红色金属碎片与光芒在她手中凝聚成长矛或战戟，刃锋泛着血光。她低角度举起武器，铠甲映着教堂的冷光。9.5-11秒 教堂尽头的祭坛碎裂。一个巨大的暗影首领从碎石与黑雾中现身，身披破碎黑甲，胸口嵌着红黑核心，背后展开残破骨翼。11-12.5秒 首领挥动巨爪，石柱崩塌，烛火熄灭。她冲锋向前，红黑披风曳地，长矛擦过地面留下红色轨迹。12.5-14秒 她跃起、旋身、突刺。红矛劈开雾气，刺穿首领肩甲，爆出银色火花与红黑能量碎片。14-15秒 首领胸口核心骤亮，准备反击。她双手握矛，直刺核心。画面定格在矛尖即将命中的瞬间，无字幕或对白。
+15秒连续单镜头动作序列。
+没有割伤。没有场景转换。
+
+现代战争现实主义电影。
+色彩搭配：去饱和色调、尘米色、混凝土灰、温暖的枪口闪光。
+
+场景：
+战火纷飞的城市街道。建筑被毁，碎片四处飞溅，烟雾飘散。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02033.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02033.jpg" width="600" alt="修女变女武神" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09042.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09042.jpg" width="600" alt="战火长镜头实录" style="cursor:pointer">
 </a>
 </div>
 
@@ -2686,25 +2525,47 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 84: 沙漏超模时尚大片
+### No. 83: 花刃破晓
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-制作一个时尚杂志风格视频，使用上传的图片模特。保持角色 100% 一致。她是一位丰满的沙漏型模特。通过各种感性的时尚姿势展示她的美。进行多角度拍摄、特写、身体变焦、面部特写、行走。
+地点<image_1><<>> 主角女孩<image_6><<>> 主角骑士男孩<image_5><<>> массовые огры <image_3><<<image_2>>> <<>> Main огр крип <image_4><<>> 史诗级的黑暗奇幻电影时刻，聚焦美感，单一连续感觉的序列。照片级特效胶片…
 
 #### 📝 提示词
 
 ```
-制作一个时尚杂志风格视频，使用上传的图片模特。保持角色 100% 一致。她是一位丰满的沙漏型模特。通过各种感性的时尚姿势展示她的美。进行多角度拍摄、特写、身体变焦、面部特写、行走。
+地点<image_1><<>>
+
+主角女孩<image_6><<>>
+
+主角骑士男孩<image_5><<>>
+
+массовые огры <image_3><<<image_2>>> <<>>
+
+Main огр крип <image_4><<>>
+
+史诗级的黑暗奇幻电影时刻，聚焦美感，单一连续感觉的序列。照片级特效胶片，变形宽银幕2.39：1，浅景深，柔和的泥土绿灰色渐次绽放成柔和的粉色阴天，云后柔和的阳光。影片的重点是盛开花朵的宏观美感。
+
+布局：一座巨大的腐朽哥特式宫殿矗立在骑士新娘和骑士身后;怪物军团从开阔的草原冲向这对情侣和摄像机，群山在地平线上耸立。镜头始终停留在宫殿一侧——没有轴心翻转。
+
+[0.0–3.0秒] 18毫米宽，摄像机低至脚踝高度：一群千人组成的丑陋灰色地精爬行者和庞大的蓝色食人魔大军冲过迷雾的草原，向镜头冲来，身后是山脉，尘土和强烈的运动模糊。其中有一位高大的紫罗兰色皮肤、带角的食人魔军阀，发着白光的眼睛，熔岩裂纹的手臂。
+
+[3.0–5.0]画面切换到站在田野中的骑士新娘，背景中骑士身旁——破损的象牙色新娘束腹裙，蕾丝面纱，湿漉漉的黑发，受伤却坚定。冲锋的人群看到她停下。她缓慢而坚定地举起剑刃，狠狠刺入地面。地面脉动。
+
+[5.0–10.0年代]微观中心——缓慢优雅地推进到极高倍微距，覆盖她的盔甲和身体：从插剑和板甲的缝隙中，美丽的粉色花朵开始绽放生长——花苞缓缓膨胀展开，细腻的藤蔓爬过抛光的金属，花朵在胸前绽放， 肩膀、手臂和护手，露水花瓣颤抖，花粉和细小颗粒在光线中漂浮闪烁，柔和的粉色充满了褪色的身躯。每一片花瓣、每条静脉和每一滴水都锋利得像剃刀一样美丽。最美、最细致的宏。
+
+[10.0–15.0s]突然快速且激烈地拉远——镜头从微距拉回高广角天拍，猛烈的径向冲击波和狂风从她身上爆发——这千人的敌军被猛烈掀起，掀起巨浪，猛烈的摄像机震动，花瓣和光线掠过镜头。中场这位紫色军阀双臂交叉，顶住风力——然后露出笑容。画面切换到黑。
+
+角色一致，规模宏大，美感电影感，照片级真实，没有文字。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/0/SD2_04855.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/0/SD2_04855.jpg" width="600" alt="沙漏超模时尚大片" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_05228.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_05228.jpg" width="600" alt="花刃破晓" style="cursor:pointer">
 </a>
 </div>
 
@@ -2712,25 +2573,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 85: 永夜破晓：第一缕阳光
+### No. 84: 阿努比斯被挠痒
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一部电影级情感科幻短片，设定在一个永夜笼罩的世界。0-3秒：寂静无声，城市在永恒的黑暗中冻结。路灯微弱闪烁，雪一般的灰烬缓缓飘落在空荡的街道上。人们站在屋顶，凝视着漆黑的地平线。3-6秒：特写镜头对准疲惫的面孔——人们相互依偎，静静等待。收音机里传来静电的嘶嘶声。空气中掠过一阵微弱的、无法解释的震颤。6-9秒：天空在…
+经典的唐·布鲁斯动画风格。场景一：在埃及宫殿内，我们看到两个人类盗贼带着一顶金冠逃跑，一位人类法老在几米外注视着他们，愤怒地指着他们大声喊道：“阿努比斯，追上去！”然而我们只听到阿努比斯的咯咯笑声，这让法老大吃一惊。法老转过头，看到以下景象：稳住镜头，威猛的胡狼神阿努比斯跪倒在地，双臂高举，双手抱头，闭着眼睛咯咯地笑…
 
 #### 📝 提示词
 
 ```
-一部电影级情感科幻短片，设定在一个永夜笼罩的世界。0-3秒：寂静无声，城市在永恒的黑暗中冻结。路灯微弱闪烁，雪一般的灰烬缓缓飘落在空荡的街道上。人们站在屋顶，凝视着漆黑的地平线。3-6秒：特写镜头对准疲惫的面孔——人们相互依偎，静静等待。收音机里传来静电的嘶嘶声。空气中掠过一阵微弱的、无法解释的震颤。6-9秒：天空在多年后首次开始变化。地平线上出现一道细薄、不可思议的温暖橙色光线。鸟儿突然振翅起飞。风势渐起。9-12秒：情绪升级——人们跪倒在地，哭泣、欢笑、遮住眼睛。第一缕阳光冲破黑暗，触及那些多年未见光明的建筑。12-15秒：最终宽幅电影镜头。太阳完全升起，金色光芒淹没整个世界。冰雪融化，阴影退却，城市在寂静与敬畏中缓缓苏醒。风格：极致电影写实主义，情感基调，柔和金色体积光，慢动作人类反应，高细节环境，电影级调色，充满希望与变革的氛围。
+经典的唐·布鲁斯动画风格。场景一：在埃及宫殿内，我们看到两个人类盗贼带着一顶金冠逃跑，一位人类法老在几米外注视着他们，愤怒地指着他们大声喊道：“阿努比斯，追上去！”然而我们只听到阿努比斯的咯咯笑声，这让法老大吃一惊。法老转过头，看到以下景象：稳住镜头，威猛的胡狼神阿努比斯跪倒在地，双臂高举，双手抱头，闭着眼睛咯咯地笑着。一个人类盗贼蹲在地上，用羽毛轻柔流畅地在阿努比斯的腋窝上上下拂动。场景二：盗贼继续用羽毛挠阿努比斯的腋窝，阿努比斯咯咯地笑着，盗贼一边说着“咯咯咯”，一边扭动着上半身，但双手仍然抱在头上，腋窝敞开着，任由羽毛挠痒。场景三：盗贼继续用羽毛挠阿努比斯的腋窝，阿努比斯咯咯地笑着，扭动着身体。场景四：盗贼停止挠阿努比斯的腋窝，阿努比斯还发出几声咯咯的笑声。人类盗贼也逃走了，阿努比斯慢慢坐起身，双臂环抱着自己，脸上仍带着一丝被挠痒痒的坏笑，略显疲惫。场景5：镜头切换到法老，阿努比斯双手背在身后，以威严的姿态出现在他身边，神情既漫不经心又严肃，对法老说：“看来他们逃走了，主人。”法老失望地低下头，说道：“我看到了。”阿努比斯是一只黑色的拟人化肌肉发达的胡狼，手臂和脖子上都戴着环。对话为英语。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02904.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02904.jpg" width="600" alt="永夜破晓：第一缕阳光" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03137.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03137.jpg" width="600" alt="阿努比斯被挠痒" style="cursor:pointer">
 </a>
 </div>
 
@@ -2738,25 +2599,26 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 86: 夸张惊讶爆笑瞬间
+### No. 85: 未来科幻摩托
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
+一段10秒、照片级真实感8K画质的AI生成电影感视频，采用Workshop Motor Legends 工业科幻风格： 一辆未来感银灰色概念摩托车，搭载全外露式精密多缸发动机、镀铬排气管、黑色大轮胎配金色轮毂，车身带有贴纸与空气动力学导流罩。
 
 #### 📝 提示词
 
 ```
-@图片1作为画面首帧，镜头旋转并推进，角色做出夸张的惊讶表情，喜剧效果，配合搞笑音效。
+一段10秒、照片级真实感8K画质的AI生成电影感视频，采用Workshop Motor Legends 工业科幻风格：
+一辆未来感银灰色概念摩托车，搭载全外露式精密多缸发动机、镀铬排气管、黑色大轮胎配金色轮毂，车身带有贴纸与空气动力学导流罩。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09800.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09800.jpg" width="600" alt="夸张惊讶爆笑瞬间" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08111.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08111.jpg" width="600" alt="未来科幻摩托" style="cursor:pointer">
 </a>
 </div>
 
@@ -2764,25 +2626,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 87: 钢琴追鼠战
+### No. 86: 雨夜双雄狂飙
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-月光下的钢琴追逐战，老鼠把整架乐器变成了陷阱。故事是这样的：老鼠在琴键上奔跑，奏出俏皮的音符。猫悄悄爬过琴盖，猛地扑向老鼠，但老鼠溜进了钢琴里。猫差点被合上的琴盖夹住。在钢琴内部，老鼠穿梭于琴弦和音锤之间。猫的尾巴被拨动，像乐器般发出声响。猫撞进键盘区，引发了一场混乱的音乐爆炸。最后的笑点是：老鼠按下一个干净利落的尾…
+[摄影]：从追逐车辆拍摄的电影级低角度追逐摄像机，手持街头摄影师风格，具有真实的摄像机震动和逼真的动态模糊。单镜头，纪录片风格的真实画面，采用4K分辨率拍摄，带有原始、非CGI美学。[主题]：一辆鲜艳的黄色兰博基尼Aventador和一辆流线型红色法拉利SF90，拥有真实车辆物理、真实轮胎抓地力和动态悬挂运动。[动作…
 
 #### 📝 提示词
 
 ```
-月光下的钢琴追逐战，老鼠把整架乐器变成了陷阱。故事是这样的：老鼠在琴键上奔跑，奏出俏皮的音符。猫悄悄爬过琴盖，猛地扑向老鼠，但老鼠溜进了钢琴里。猫差点被合上的琴盖夹住。在钢琴内部，老鼠穿梭于琴弦和音锤之间。猫的尾巴被拨动，像乐器般发出声响。猫撞进键盘区，引发了一场混乱的音乐爆炸。最后的笑点是：老鼠按下一个干净利落的尾音，而猫顶着一张乐谱纸从钢琴里冒了出来。
+[摄影]：从追逐车辆拍摄的电影级低角度追逐摄像机，手持街头摄影师风格，具有真实的摄像机震动和逼真的动态模糊。单镜头，纪录片风格的真实画面，采用4K分辨率拍摄，带有原始、非CGI美学。[主题]：一辆鲜艳的黄色兰博基尼Aventador和一辆流线型红色法拉利SF90，拥有真实车辆物理、真实轮胎抓地力和动态悬挂运动。[动作]：两辆超级跑车进行逼真的高速竞速，顺滑漂移过弯，伴随着细微的轮胎烟雾，并经历激动人心的险些擦肩而过的瞬间，因为平民车辆自然让开。[背景]：一条夜晚的现代城市高速公路，湿滑的沥青营造出城市灯光和尾灯的清晰真实反射。[风格与氛围]：超写实、高速街头赛车美学。戏剧性而自然的路灯照亮了湿滑的道路，营造出肾上腺素激增、沉浸式的氛围，充满真实的夜晚都市风情。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00653.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00653.jpg" width="600" alt="钢琴追鼠战" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03767.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03767.jpg" width="600" alt="雨夜双雄狂飙" style="cursor:pointer">
 </a>
 </div>
 
@@ -2790,25 +2652,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 88: 视频香水换面霜教程
+### No. 87: 暗黑奇幻激战预告
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-将视频左上角礼盒中的香水替换为左下角图片中的面霜，同时保持动作和摄像机运动不变。
+高速黑暗奇幻动作预告片，所有角色和标志均使用图片。[0-2s] 超低空无人机镜头掠过废墟幻想堡垒，风暴，闪电照亮墙壁，低沉弦乐拨弦开始;[2-4秒] 英雄从黑暗中浮现的眼睛极近特写，缓慢而坚定的拔剑动作;[4-5秒]低角度——英雄举剑喊着日语“出发！”，刀刃闪烁，黄铜爆炸;[5-9秒] 四次硬斩，每秒一秒——（a）法…
 
 #### 📝 提示词
 
 ```
-将视频左上角礼盒中的香水替换为左下角图片中的面霜，同时保持动作和摄像机运动不变。
+高速黑暗奇幻动作预告片，所有角色和标志均使用图片。[0-2s] 超低空无人机镜头掠过废墟幻想堡垒，风暴，闪电照亮墙壁，低沉弦乐拨弦开始;[2-4秒] 英雄从黑暗中浮现的眼睛极近特写，缓慢而坚定的拔剑动作;[4-5秒]低角度——英雄举剑喊着日语“出发！”，刀刃闪烁，黄铜爆炸;[5-9秒] 四次硬斩，每秒一秒——（a）法师用爆发特效爆发巨大魔法，（b）狼人挥斧将敌人重重撞飞，（c）弓箭手连射箭矢，连续锐利，（d）英雄慢动作斩击，带刃轻轨;[9-11s] 广角镜头——四位英雄并肩站立，面对巨大的敌人身影，法师用日语说“我们将携手作战”;[11-13.5秒] 四人同时冲锋，炽热剑击，光柱，屏幕爆炸;[13.5-15秒] 画面切换至黑屏，标题标志伴随着金色光芒爆发，深沉的低音下降，回响的铜管刺耳，寂静。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08560.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08560.jpg" width="600" alt="视频香水换面霜教程" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04543.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04543.jpg" width="600" alt="暗黑奇幻激战预告" style="cursor:pointer">
 </a>
 </div>
 
@@ -2816,33 +2678,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 89: 客厅地板上的惊险追逐
+### No. 88: 绿幕打斗特效
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一段15秒的电影式追逐，穿过温暖的下午客厅地板，连续镜头，无剪辑。整个视频就像沿着同一条木地板小径向前逃脱。每一次危险都是那条路上连锁反应——而不是独立的场景。 摄像头：非常低的地面追逐摄像头，拍摄女孩肩膀高度，紧贴她身后或稍近。摄像机从不重置位置，从不跳跃到新角度，也从不瞬移。它随着冲刺加速，转弯时倾斜，滑行时下沉…
+让图1和图2中的角色使用绿幕参考视频中的动作进行打斗。场景设定：废弃停车场。在打斗过程中添加视觉效果。
 
 #### 📝 提示词
 
 ```
-一段15秒的电影式追逐，穿过温暖的下午客厅地板，连续镜头，无剪辑。整个视频就像沿着同一条木地板小径向前逃脱。每一次危险都是那条路上连锁反应——而不是独立的场景。
-
-摄像头：非常低的地面追逐摄像头，拍摄女孩肩膀高度，紧贴她身后或稍近。摄像机从不重置位置，从不跳跃到新角度，也从不瞬移。它随着冲刺加速，转弯时倾斜，滑行时下沉，擦肩而过时颤抖。从头到尾，一个连续的物理镜头移动。极浅的宏观景深——她保持锐利，巨大的世界在流逝时隐隐时现。
-
-事件链：镜头从小女孩身后低处开始，她正从书桌（第一集的降落点）飞奔，穿过阳光照射的地板，尘埃在她膝盖高度飘落如雪花。——一道阴影从背后掠过她：猫发现了她。它的爪子声沉重落地。——她用力剪断掉落的铅笔;猫的第一爪拍在她身后几英寸，铅笔翻转旋转——她跳过旋转铅笔，步伐未曾停下。——铅笔滚进一叠杂志里，顶层那本像冰川一样滑过地板，挡在她面前——她滑进滑梯，滑板式的滑梯，继续奔跑。——杂志撞落一团毛线;它在她身旁展开，线头从她脸旁呼啸而过——她跃过交叉线。——猫从侧面超车，完全“乌다”式地疾驰，先行，蹲下准备扑向她的路径，后腿扭动——在最后一刻，她转向沙发下的黑暗缝隙，跪地滑动，猫爪扫过她身后的入口，爪子收回，拍打黑暗。——在昏暗的沙发下隧道里，她继续前行;在她身后明亮的入口缝隙中，猫的脸侧向视线中，一只巨大的琥珀色眼睛探头，尾巴轻轻摆动。她退得更深，呼吸急促——眼睛缓缓眨动。不是威胁——而是好奇。视频以那场悬浮的对峙结束，短暂的“安全......暂时如此。”
-
-猫的行为：是玩心的狩猎本能，不是邪恶——爪子从不伸出，动作是典型的家猫游戏（拍打、扑击、扭动、奔跑、缓慢眨眼）。猫的身体保持稳定——它会不断穿过房间，从不瞬移。
-
-音频：前三秒没有背景音乐——只有她飞奔的脚步声（轻微、快速）和巨大的爪子敲击声（缓慢、深沉、越来越近）：节奏对比就是紧张感所在。然后紧急弦从低音进入。逼真的比例音效：铅笔如坠落木头般碰撞，杂志如雪崩般滑动，纱线飞舞，猫咪的呼噜声回荡，呼吸声贴近镜头。在沙发缝隙逃生处，所有音乐戛然而止——沙发下：闷闷不乐
+让图1和图2中的角色使用绿幕参考视频中的动作进行打斗。场景设定：废弃停车场。在打斗过程中添加视觉效果。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04646.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04646.jpg" width="600" alt="客厅地板上的惊险追逐" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01736.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01736.jpg" width="600" alt="绿幕打斗特效" style="cursor:pointer">
 </a>
 </div>
 
@@ -2850,25 +2704,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 90: 飞越古印度王国
+### No. 89: 炫彩产品动态展示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-以极快节奏、电影级超写实第一人称视角飞越古印度羯陵伽王国。连续长镜头从东海岸线起始，俯冲穿越内陆茂密丛林、河流与农田，进入一座繁华城市——城中遍布精雕细琢的庙宇、宫殿、集市、大象、战车与士兵。建筑呈现纯正古印度风格，砂岩纹理与繁复雕刻细节毕现。黄金时刻的光线中，体积光、尘埃与大气雾霭交织。镜头伴随急转俯冲，物理效果逼…
+0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
 
 #### 📝 提示词
 
 ```
-以极快节奏、电影级超写实第一人称视角飞越古印度羯陵伽王国。连续长镜头从东海岸线起始，俯冲穿越内陆茂密丛林、河流与农田，进入一座繁华城市——城中遍布精雕细琢的庙宇、宫殿、集市、大象、战车与士兵。建筑呈现纯正古印度风格，砂岩纹理与繁复雕刻细节毕现。黄金时刻的光线中，体积光、尘埃与大气雾霭交织。镜头伴随急转俯冲，物理效果逼真，景深与电影级调色贯穿始终。
+0-2秒：快速四格闪切，红色、粉色、紫色、蓝色背景，@图片1的产品在画面中央旋转展示，每格0.5秒。2-4秒：@图片1产品特写，镜头环绕360度，展示细节。4-6秒：产品logo特写，品牌名称淡入。全程配合节奏感强的电子音乐。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01996.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01996.jpg" width="600" alt="飞越古印度王国" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_09849.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_09849.jpg" width="600" alt="炫彩产品动态展示" style="cursor:pointer">
 </a>
 </div>
 
@@ -2876,25 +2730,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 91: 猫咪米其林主厨
+### No. 90: 电脑办公特写
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-“标题”：“视角：你的猫经营米其林餐厅”，“时长”：“15秒”，“风格”：“皮克斯级电影现实主义与混乱的TikTok表情包节奏和温馨的Reddit幽默”，“提示：”一段电影感极强的15秒视频，展示一只毛茸茸的橙在晚宴混乱期间经营一家豪华米其林星级餐厅。视频开场是一幕戏剧性的低角度英雄镜头，猫咪自信地站在厨房台面上，戴…
+一个人物手臂在电脑桌前移动的特写镜头，桌面上显示器显示文字。
 
 #### 📝 提示词
 
 ```
-“标题”：“视角：你的猫经营米其林餐厅”，“时长”：“15秒”，“风格”：“皮克斯级电影现实主义与混乱的TikTok表情包节奏和温馨的Reddit幽默”，“提示：”一段电影感极强的15秒视频，展示一只毛茸茸的橙在晚宴混乱期间经营一家豪华米其林星级餐厅。视频开场是一幕戏剧性的低角度英雄镜头，猫咪自信地站在厨房台面上，戴着一顶小白厨师帽和黑色围裙，温暖的电影灯光，蒸汽四处升腾，逼真的毛发物理效果，浅景深。快速的剪辑展示了猫用精准的爪子动作激烈切菜，慢动作翻转意面锅，像名厨一样戏剧性地撒盐，并默默对着惊慌失措的人类厨师大喊。厨房里充满了火焰爆炸、飞溅的食材、滋滋作响的牛排特写镜头和浓烈的餐厅氛围。带有夸张的戈登·拉姆齐式字幕，比如“帕尔马干酪在哪里？！”和“4号桌又哭了”。场景中，猫戏剧性地停顿，直视镜头，眼睛发光，歌剧音乐渐强。最后一幕，猫咪慢动作完美地摆盘美食意面，顾客们情绪激动地站起来鼓掌，喜极而泣。超写实电影灯光，混乱的手持摄像机运动，美丽的暖色调调，既可爱又史诗般的氛围，高度细致的纹理，热门TikTok AI视频美学。“，”镜头“：”低角度英雄镜头，“微距食物特写”，“手持厨房混乱镜头”，“慢动作戏剧性摆盘镜头”，“眼神交流时电影式推入镜头”，“灯光”：“温暖的电影餐厅灯光，蒸汽光辉戏剧性，柔和橙色高光”， “音频”：“戏剧性的意大利歌剧音乐”、“厨房滋滋声”、“人群恐慌氛围”、“喜剧低音增强冲击”、“情感掌声结束”]、“特效”：“蒸汽模拟”、“逼真的毛发动作”、“慢动作食物镜头”、“电影级动态模糊”、“病毒表情包字幕”、“炉火爆发声]}
+一个人物手臂在电脑桌前移动的特写镜头，桌面上显示器显示文字。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03957.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03957.jpg" width="600" alt="猫咪米其林主厨" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10003.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10003.jpg" width="600" alt="电脑办公特写" style="cursor:pointer">
 </a>
 </div>
 
@@ -2902,25 +2756,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 92: 太极幻境镇乾坤
+### No. 91: 巨型蜘蛛袭城
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-顶级国风动漫奇幻 CG。极高饱和度的色彩爆炸，超现实主义，瑰丽的视觉体验。 场景：苍茫浩瀚云海之巅，天地化作巨大的太极幻境。 第一镜（特写转中景）：【琴音化莲】角色凌空盘膝，抚动流光幻化的古琴，音波化作实质的金色水滴，在云海荡开层层碧水生莲的涟漪，伴随铮铮清冽的古琴音效。 第二镜（大远景广角）：【棋阵封天】琴音骤疾，…
+超逼真的现代城市黄昏时分，交通因恐慌而冻结。巨大的金属蜘蛛生物爬下摩天大楼，砸碎玻璃，腿部喷射火花。镜头在废弃车辆之间街道平飞奔，车辆停靠在附近。最后一帧：巨型蜘蛛映在办公楼窗户上。
 
 #### 📝 提示词
 
 ```
-顶级国风动漫奇幻  CG。极高饱和度的色彩爆炸，超现实主义，瑰丽的视觉体验。 场景：苍茫浩瀚云海之巅，天地化作巨大的太极幻境。 第一镜（特写转中景）：【琴音化莲】角色凌空盘膝，抚动流光幻化的古琴，音波化作实质的金色水滴，在云海荡开层层碧水生莲的涟漪，伴随铮铮清冽的古琴音效。 第二镜（大远景广角）：【棋阵封天】琴音骤疾，角色单手食中二指凝出刺目白光棋子，重重向云海虚按。落子刹那，天穹云海齐亮，直径万丈的金色立体围棋网格瞬锁天地，黑白棋子如流星陨石砸落，引发空间扭曲，伴沉闷震心的落子回音。 第三镜（环绕运镜转特写）：【狂草镇魔】陨石雨中，角色并指为剑，以苍穹为纸，凌空快速书写狂草金文。巨大的金色古字燃起狂暴雷火，化作秩序锁链穿梭于棋阵与琴音之间，伴随雷霆轰鸣。 第四镜（俯拍极远景）：【泼墨吞世】光芒鼎盛之时，角色大袖一挥，磅礴的黑白泼墨从袖口狂涌而出，化作水墨长龙吞噬天地。琴、棋、书的能量被尽数收入墨色之中，翻涌云海最终被镇平成一幅遮天蔽日的黑白水墨画卷。角色负手立于画卷之上，衣摆狂风中纹丝不动，尽显冰冷算计与绝对力量。
+超逼真的现代城市黄昏时分，交通因恐慌而冻结。巨大的金属蜘蛛生物爬下摩天大楼，砸碎玻璃，腿部喷射火花。镜头在废弃车辆之间街道平飞奔，车辆停靠在附近。最后一帧：巨型蜘蛛映在办公楼窗户上。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_07823.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_07823.jpg" width="600" alt="太极幻境镇乾坤" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03732.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03732.jpg" width="600" alt="巨型蜘蛛袭城" style="cursor:pointer">
 </a>
 </div>
 
@@ -2928,25 +2782,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 93: 巨幅广告震撼全城
+### No. 92: 卡丁车飞跃悬崖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-把这张图片放在巨大的广告牌上，让周围的人都仰头注视、惊叹不已，每个人都说'哇'、'太棒了'。
+主题：下坡卡丁车赛 风格：超写实、动作冒险、GoPro美学 动作：一群孩子驾驶卡丁车在领先集团中展开高速下坡竞速。他们冲下草坡，在崎岖地形中漂移，尘土与草屑飞扬。疯狂转折：当卡丁车抵达山谷边缘时，领先车手拉动隐藏拉杆。瞬间，卡丁车展开临时改装的火箭推进器与滑翔翼。卡丁车并未在悬崖边停下，而是腾空而起，引擎轰鸣中蓝色火…
 
 #### 📝 提示词
 
 ```
-把这张图片放在巨大的广告牌上，让周围的人都仰头注视、惊叹不已，每个人都说'哇'、'太棒了'。
+主题：下坡卡丁车赛 风格：超写实、动作冒险、GoPro美学 动作：一群孩子驾驶卡丁车在领先集团中展开高速下坡竞速。他们冲下草坡，在崎岖地形中漂移，尘土与草屑飞扬。疯狂转折：当卡丁车抵达山谷边缘时，领先车手拉动隐藏拉杆。瞬间，卡丁车展开临时改装的火箭推进器与滑翔翼。卡丁车并未在悬崖边停下，而是腾空而起，引擎轰鸣中蓝色火焰从排气管喷涌而出，飞越下方村庄。 镜头运动：动态追踪视角。镜头快速前推，在赛车手之间穿梭。当车队冲过悬崖边缘时，镜头无缝切换为令人眩晕的自由落体视角，向下倾斜展现万丈深渊，随后恢复水平跟随滑翔的卡丁车。 环境：阳光明媚的乡村景观，鲜绿与湛蓝交织。宁静的谷底已在千米之下，村庄宛如微缩模型。 细节：画面边缘的运动模糊，卡丁车的剧烈震动。新增细节：火箭推进器散发的热浪 shimmering，金属滑翔翼在阳光下产生的镜头光晕，以及赛车手透过护目镜可见的震惊表情——当突破音障时，风声中突然爆出清脆的爆裂声。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_01505.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_01505.jpg" width="600" alt="巨幅广告震撼全城" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02484.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02484.jpg" width="600" alt="卡丁车飞跃悬崖" style="cursor:pointer">
 </a>
 </div>
 
@@ -2954,31 +2808,70 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 94: 宝莱坞街头热舞
+### No. 93: 热带逃亡：纵身跃入碧海
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一部舞蹈短片，宝莱坞电影风格，节奏明快的快速剪辑，24帧每秒。 拍摄地点：实景风格，1980年代印度西部的商业街。 角色：共25名舞者兼演员。图片以2×2网格形式展示了每4人的外貌，需忠实还原。 剧情结构：主角（@ image1）独自开始一段利落的宝莱坞风格舞蹈。随后，街上的居民（@ image2, @ image3…
+【核心概念：终极热带逃亡】 1. 场景与动作 引言： 视角是第三人称跟踪镜头，跟随一位棕发的可爱20岁日本女性。 她穿着优雅的度假风格，搭配热带风格露腹背心、紧身牛仔裤和热裤，轻松拉出粉色Rimowa风格的铝制随身包。 皮肤微微晒黑。 地点是一个木制码头（木质甲板），漂浮在翡翠绿的海面上。 她无法抑制自己的期待，从一…
 
 #### 📝 提示词
 
 ```
-一部舞蹈短片，宝莱坞电影风格，节奏明快的快速剪辑，24帧每秒。
+【核心概念：终极热带逃亡】
 
-拍摄地点：实景风格，1980年代印度西部的商业街。
+1. 场景与动作
+引言：
 
-角色：共25名舞者兼演员。图片以2×2网格形式展示了每4人的外貌，需忠实还原。
+视角是第三人称跟踪镜头，跟随一位棕发的可爱20岁日本女性。
+她穿着优雅的度假风格，搭配热带风格露腹背心、紧身牛仔裤和热裤，轻松拉出粉色Rimowa风格的铝制随身包。 皮肤微微晒黑。
+地点是一个木制码头（木质甲板），漂浮在翡翠绿的海面上。
+她无法抑制自己的期待，从一开始就以极大的势头向前冲刺。
+它步伐宽大，移动灵活，携带包的轮子随着速度灵活滑行。
+她的头发和上衣下摆在风中飘动，满怀期待的兴奋感从全身散发出来。
 
-剧情结构：主角（@ image1）独自开始一段利落的宝莱坞风格舞蹈。随后，街上的居民（@ image2, @ image3, @ image4, @ image5, @ image6, @ image7）陆续加入主角一起跳舞，众人边舞边行穿过街道。轻快而热情的宝莱坞音乐与幽默且充满活力的编舞相融合，构成动感十足的影像。
+中段（房间参观）：
+
+当她打开现代水上别墅的木门时，眼前展开的是一幅广阔的海景。
+摄像机与她的动作同步，无缝快速地穿梭于客厅、圆形走廊和浴室之间。
+即使进了房间，她几乎没有放慢脚步，轻快地跑了起来。
+动作充满期待，仿佛你正被直接吸引到目的地。
+走到一半时，她自然而迅速地松开了随身行李的把手，包靠惯性沿着墙滑动，悄悄停下。 她毫不犹豫地加速向露台飞去。
+
+高潮：
+
+她从别墅露台跳下，几乎没有减速地跑下楼梯，毫不犹豫地跳入碧蓝的海洋。
+此时，她已经空手而归，双手自由张开，跳跃着。
+这是一个大胆而宽广的跳跃，助跑的惯性直冲空中。
+在空中张开手脚，捕捉水花美妙升起的瞬间。
+
+2. 视觉与技术细节
+摄影：
+超动态跟拍：以最小震动的方式跟踪，类似使用万向节，同时保持与被摄物的恒定距离，同时营造出强烈的速度感。
+一镜到底：无缝衔接，看起来像是一镜到底拍出来的。
+镜头紧随她的奔跑速度，最大化速度感、沉浸感和兴奋感。
+放开随身包的那一刻连接得很顺畅，强调自然的流程，保持动作的连续性。
+灯光与色彩：
+晴朗的热带白昼：晴朗无云的天空。 阳光从上方倾泻而下，海面闪耀如钻石。
+色彩调色板：
+海洋的渐变：“青色”、“绿松石色”和“钴蓝”
+天空是“天空蓝”
+“天然木”和“白色”别墅
+她的服装是“纯白”
+发色：“浅棕色”
+这些照片被设置为更高饱和度以最大化视觉满足感。
+质地与质地：
+水质：水质极为清澈，底部可见沙质斑纹。 当你跳入水中时，每一处水花都以晶莹剔透的细节呈现。
+建筑风格：别墅外墙采用现代设计，配有白色垂直格栅。 地板上的木质甲板细节传达出阳光干燥木材的质感。
+衣橱与发型：棕色头发在热带微风中自然飘动，白色露脐背心和热裤则强调开阔健康的夏日氛围。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_00107.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_00107.jpg" width="600" alt="宝莱坞街头热舞" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08486.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08486.jpg" width="600" alt="热带逃亡：纵身跃入碧海" style="cursor:pointer">
 </a>
 </div>
 
@@ -2986,36 +2879,33 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 95: 少年奇幻大陆冒险
+### No. 94: 五百万？买你的棺材
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-16:9横屏，赛璐璐渲染与水彩手绘融合的开放世界游戏画面风格，明亮清透的色彩，柔和的描边轮廓，15秒奇幻 大陆冒险。0-4秒：大远景，黎明时分，金色晨光从远处雪山山脊线后缓缓升起，光线渐渐铺满广袤的绿色原野 原野上点缀着风格化的低多边形树木和野花，远处可见一座被藤蔓缠绕的古代石塔矗立在悬崖边，空气中飘浮着 淡蓝色的光…
+画面（0-5秒）： 奢华宴会厅中心，特写男主（豪门少爷，嚣张跋扈）正搂着女配（娇弱白莲花），不耐烦地将一张黑卡扔在地上，卡片滑到女主脚边。女主穿着看似朴素的礼服，低头看着卡，面无表情。周围是宾客嘲讽的嘴脸（快速蒙太奇剪辑）。 台词1（男主，嫌弃且高傲）： 拿着这五百万滚出沈家！像你这种身份低微的女人，根本不配站在这里…
 
 #### 📝 提示词
 
 ```
-16:9横屏，赛璐璐渲染与水彩手绘融合的开放世界游戏画面风格，明亮清透的色彩，柔和的描边轮廓，15秒奇幻
-大陆冒险。0-4秒：大远景，黎明时分，金色晨光从远处雪山山脊线后缓缓升起，光线渐渐铺满广袤的绿色原野
-原野上点缀着风格化的低多边形树木和野花，远处可见一座被藤蔓缠绕的古代石塔矗立在悬崖边，空气中飘浮着
-淡蓝色的光点粒子，镜头从高处缓缓下推穿过云层，清晨鸟鸣与风声；5-9秒：跟拍镜头，一个身穿蓝色冒险者
-腰外衣的金发少年站在山崖边俯瞰大地，披风被风吹得猎猎飘动，他纵身跳下悬崖展开一把布质滑翔伞，镜头从
-侧面跟拍少年在气流中滑翔，脚下是广阔的赛璐璐风格风景——蜿蜒的河流、密林、废墟城堡、远处火山冒着橙红
-色烟雾，阳光在滑翔伞布面上投下通透的光影；10-15秒：少年收起滑翔伞落在一片草地上，随手拔起地上一把
-锈的剑，前方草丛中突然跳出一只圆滚滚的蓝色果冻状小怪物，少年侧身摆出战斗姿态，小怪物怒气冲冲地弹跳
-着冲过来，少年灵巧闪避后轻轻一剑将小怪物击飞化为紫色烟雾消散，少年收剑望向远方巨大的城堡废墟轮廓，
-风吹草浪如绿色海洋翻涌。音效：清晨风声与鸟鸣开场，滑翔时呼呼的气流声与布面震动声，落地时草地沙沙声
-，拔剑金属摩擦声，战斗时清脆的打击音效，全程叠加轻快的管弦乐与钢琴旋律。禁止：任何文字、字幕、LOGO
-或水印。
+画面（0-5秒）： 奢华宴会厅中心，特写男主（豪门少爷，嚣张跋扈）正搂着女配（娇弱白莲花），不耐烦地将一张黑卡扔在地上，卡片滑到女主脚边。女主穿着看似朴素的礼服，低头看着卡，面无表情。周围是宾客嘲讽的嘴脸（快速蒙太奇剪辑）。 台词1（男主，嫌弃且高傲）： 拿着这五百万滚出沈家！像你这种身份低微的女人，根本不配站在这里碍我的眼！
+
+画面（6-10秒）： 女主没有捡卡，而是缓缓抬起头，眼神瞬间变得凌厉深邃。她打了一个响指。宴会厅大门轰然打开，两排黑衣保镖迅速涌入，分开人群。一位西装革履的财团特助快步走到女主面前，九十度深深鞠躬，双手奉上一份文件。 台词2（财团特助，无比恭敬）： 大小姐，收购沈氏集团的合同已经准备好了，请您过目。
+
+画面（11-15秒）： 男主和女配的表情瞬间凝固，瞳孔地震，男主惊恐地后退一步差点跌倒。女主接过文件看都没看一眼，直接甩在男主僵硬的胸口，文件散落一地。女主越过男主，走向主位，留下一个霸气侧影。 台词3（女主，冷艳且蔑视）： 沈少爷，现在破产的是你。这五百万，留着给你自己买棺材吧。
+
+音效： 开场喧闹的宴会背景音，黑卡扔在地上的清脆声响；中段大门打开的震撼音效，整齐的脚步声；后段极具压迫感的BGM骤然响起，文件甩在身上的闷响，男主倒吸凉气的声音，女主高跟鞋离去的哒哒声。
+
+时长： 精准15秒（身份惊天反转，极致打脸，爽点密集爆发）
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08368.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08368.jpg" width="600" alt="少年奇幻大陆冒险" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08831.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08831.jpg" width="600" alt="五百万？买你的棺材" style="cursor:pointer">
 </a>
 </div>
 
@@ -3023,25 +2913,58 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 96: 赛博朋克雨夜
+### No. 95: 偶像后台妆发
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-垂直屏9：16，赛博朋克未来城市雨夜，高密度摩天大楼，青蓝色霓虹主色调，少量品红色高光，湿润街道有明显镜面反射，车灯反射和地面水面反射，薄雾和空气中的体积光，丰富的未来建筑细节，整体氛围冷峻、孤独、梦幻、沉浸感强，带有高层次的电影感。
+相机：现代全画幅数字电影摄影机，由RENA手持拍摄，偶尔靠在梳妆台上。手持动作自然，细微的摄像机抖动，构图不完美，偶尔延迟自动对焦，轻柔变焦，面部偶尔裁剪。相机从未显现。 外观：干净、高端的数字图像，配柔和的个性化灯光。梳妆灯的细微泛光，逼真的皮肤质感，浅景深，电影般的动态范围，自然色彩，优质无反相机。 风格：休闲美…
 
 #### 📝 提示词
 
 ```
-垂直屏9：16，赛博朋克未来城市雨夜，高密度摩天大楼，青蓝色霓虹主色调，少量品红色高光，湿润街道有明显镜面反射，车灯反射和地面水面反射，薄雾和空气中的体积光，丰富的未来建筑细节，整体氛围冷峻、孤独、梦幻、沉浸感强，带有高层次的电影感。
+相机：现代全画幅数字电影摄影机，由RENA手持拍摄，偶尔靠在梳妆台上。手持动作自然，细微的摄像机抖动，构图不完美，偶尔延迟自动对焦，轻柔变焦，面部偶尔裁剪。相机从未显现。
+
+外观：干净、高端的数字图像，配柔和的个性化灯光。梳妆灯的细微泛光，逼真的皮肤质感，浅景深，电影般的动态范围，自然色彩，优质无反相机。
+
+风格：休闲美妆vlog。轻松、健谈、节奏缓慢，伴有安静的镜子时刻。
+
+角色：RENA，韩国二十出头的女爱偶像，长直的乌黑发，中间自然分型，白皙水润的皮肤，柔和的棕色眼睛，自然妆容，嘴唇有光泽珊瑚色。她穿着一套华丽的黑色K-pop舞台服装，饰以水晶和金属细节，披着专业的黑色化妆披风，肩上披着专业化妆披风，领口、袖子和下半身仅能隐约看到闪亮的舞台服装。未露面的造型师偶尔会进入画面，帮她梳理、分区、卷发和造型。
+
+场景：表演前的专业K-pop偶像化妆间，配备大型灯泡梳妆台、造型椅、吹风机、卷发棒、刷子、造型喷雾、化妆产品、装满舞台服装的衣架、镜子和真实的后台氛围。
+
+故事板：
+1. 摄像机靠在梳妆台上。蕾娜温暖地微笑着向摄像机挥手。
+韩语：“安녕하세요 여러분！오늘 헤어랑 메이크업 받으러 왔어요."
+
+2. 手持特写，发型师在准备发型时轻轻分开并拉扯RENA的头发部分。
+韩语：“准备하는 데 总是시간이 오래 걸려요.”
+
+3. 插入发型师用专业工具剪发和整理头发的特写镜头。
+仅播放后台沙龙的环境音效。
+
+4. 相机又被靠在梳妆台上。RENA自然地微笑着，看着镜子。
+韩语：“现在几乎다 됐어요。”
+
+5. 手持特写，RENA静静地透过镜子看着造型师，微笑着完成最后的修饰。
+只有环境音。
+
+6. 手持镜头，RENA用手持镜从多个角度检查自己发型的背面。
+韩语：“뒤也한번 볼게요.”
+
+7. 紧凑特写，RENA看到完成的发型后表情明亮起来。
+韩语：“太心에 들어요！”
+
+8. 自拍。RENA竖起大拇指，热情地向镜头挥手，露出灿烂的笑容。
+韩语：“完成！다음에 또 만나요.안녕!"
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04550.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04550.jpg" width="600" alt="赛博朋克雨夜" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10856.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10856.jpg" width="600" alt="偶像后台妆发" style="cursor:pointer">
 </a>
 </div>
 
@@ -3049,52 +2972,57 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 97: 过山车穿越异世界
+### No. 96: 耐克水星蒸汽足球鞋广告
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一个第一人称过山车场景。 屏幕底部，你可以看到一只手握着安全杆。 完全无缝的一镜到底。 完全没有剪辑或过渡。 过山车沿轨道高速运行，包括陡峭的下坡、环形和急转弯。 从乘客视角拍摄的镜头自然震动，伴随着震动和运动模糊。 赛道内有多条隧道。 在每条隧道内，世界的下一个“标志”逐渐出现： ·以下环境的元素出现在墙壁和天花板…
+耐克水星蒸汽足球鞋 — 30年代电影广告（16：9） 用上传的女性参考图片作为Jessy。保持面部特征和身份的准确性。只会更换发型、足球服和造型。 服装：受巴塞罗那启发的女装，#27，背后写着“JESSY”，耐克Mercurial Vapor靴子，运动马尾。 地点：诺营黄昏时分，照明灯亮起，体育场座无虚席。 0：00…
 
 #### 📝 提示词
 
 ```
-一个第一人称过山车场景。 屏幕底部，你可以看到一只手握着安全杆。
+耐克水星蒸汽足球鞋 — 30年代电影广告（16：9）
 
-完全无缝的一镜到底。 完全没有剪辑或过渡。
+用上传的女性参考图片作为Jessy。保持面部特征和身份的准确性。只会更换发型、足球服和造型。
 
-过山车沿轨道高速运行，包括陡峭的下坡、环形和急转弯。 从乘客视角拍摄的镜头自然震动，伴随着震动和运动模糊。
+服装：受巴塞罗那启发的女装，#27，背后写着“JESSY”，耐克Mercurial Vapor靴子，运动马尾。
 
-赛道内有多条隧道。
+地点：诺营黄昏时分，照明灯亮起，体育场座无虚席。
 
-在每条隧道内，世界的下一个“标志”逐渐出现：
-·以下环境的元素出现在墙壁和天花板上，仿佛正在被侵蚀。
-- 霓虹灯泄漏，雪或霜粘附，灰尘和沙子渗入，等等。
-·向下一个世界的光线和色温变化
-·空间略微扭曲，不同世界开始重叠。
+0：00–0：15 |前奏
+• 无人机俯冲诺坎普，进入喧嚣的人群。
+• 杰西从隧道走到球场。
+• 水星靴子踩在草地上的微距特写。
+• 杰西系紧鞋带，表情专注。
+• 接球后加速突破防守球员。
+• 极近距离的着地脚和有力的打击。
+• 击球时闪光到白球。
 
-当你穿过隧道时，那些预兆突然成真，周围的景色也变成了一个完全不同的世界。
-
-第一个隧道出口：霓虹灯熄灭后，这里完全变成了赛博朋克城市。 一个发光的标志和一个飞行物体。
-第二个隧道出口：沙子和裂缝铺满墙壁，通向一个广阔的山谷。
-第三个隧道出口：霜冻和冷空气扩散，一旦出口，你会发现暴风雪中的雪山。
-第四个隧道出口：几何光线和色彩噪音倍增，出口处形成抽象超现实的空间。
-
-光照会根据不同环境动态变化。 强调风压、速度和沉没感。
-
-轨道结构始终保持一致，只有周围环境发生变化。
-
-超高清、电影级质量、流畅的动作和逼真的身体行为。
-
-视频没有停止，车辆仍在运行时结束。
+0：15–0：30 |回报
+• 球以超慢动作发射。
+• 守门员在球飞奔球门时飞身扑救。
+• 球顶角射门，网爆开。
+• 杰西膝盖滑行庆祝。
+• 队友们加入，体育场沸腾。
+• 英雄镜头：耐克水星蒸汽靴踩在发光草坪上。
+• 杰西上前一步，看着镜头，用自然的英国口音说：
+“梦想要大。快点玩。让每一刻都变得重要。”
+没有文字叠加。没有字幕。
+风格：
+4K超高清，照片级真实感，高端耐克风格体育广告，电影级青绿色金色调色，变形镜头光晕，逼真的皮肤质感，稳定的面部一致性，流畅自然运动，专业转播质量。
+音频：
+轻柔的足球国歌风格管弦乐，逼真的观众氛围，踢球声，球击声，球门声，球场氛围，结尾带有英国口音的对白。
+否定提示：
+面部扭曲、身份变化、面部不一致、解剖结构不佳、多余肢体、闪烁、模糊、重影、低质量、卡通风格、不稳定的运动、错误的球衣、错误的球衣、错误的球衣、字幕、字幕、水印、标志伪影。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08063.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08063.jpg" width="600" alt="过山车穿越异世界" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_03498.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_03498.jpg" width="600" alt="耐克水星蒸汽足球鞋广告" style="cursor:pointer">
 </a>
 </div>
 
@@ -3102,25 +3030,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 98: 浮岛旅人唤遗迹
+### No. 97: 360度疯狂下坡楼梯骑行
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一位孤独的旅人站在夕阳下巨大的漂浮悬崖边，俯瞰无尽的云朵和古老的漂浮岛屿。金色的光芒穿透暴风雨的天空，发光的鸟儿飞翔在头顶。旅行者缓缓升起一颗神秘水晶，发出耀眼的蓝色能量，使巨大的古代遗迹苏醒，从云层中升起。电影般的无人机镜头过渡为史诗般的特写，伴随着戏剧性的风、逼真的布料模拟、体积光影、超细致的环境、HDR、超写实…
+格式：15秒 / 180 次/分钟 / 连续镜头 / 360视角下坡楼梯跑，病毒式能量，极度混乱 主题：第一人称骑行者，车把和前轮在下坡和急转弯时低屏闪烁。小贩、洗衣店、滑板车、狗、鸡、汽车和行人在骑手周围突如其来地形成障碍。环境：密集的巴西山坡街道、涂漆混凝土楼梯、狭窄的平台、铺有瓷砖的角落、悬挂的电线、壁画、遮阳…
 
 #### 📝 提示词
 
 ```
-一位孤独的旅人站在夕阳下巨大的漂浮悬崖边，俯瞰无尽的云朵和古老的漂浮岛屿。金色的光芒穿透暴风雨的天空，发光的鸟儿飞翔在头顶。旅行者缓缓升起一颗神秘水晶，发出耀眼的蓝色能量，使巨大的古代遗迹苏醒，从云层中升起。电影般的无人机镜头过渡为史诗般的特写，伴随着戏剧性的风、逼真的布料模拟、体积光影、超细致的环境、HDR、超写实贴图、奇幻现实主义、720p、流畅的电影式摄像机运动、情感氛围、奥斯卡级别的视觉质量。
+格式：15秒 / 180 次/分钟 / 连续镜头 / 360视角下坡楼梯跑，病毒式能量，极度混乱 主题：第一人称骑行者，车把和前轮在下坡和急转弯时低屏闪烁。小贩、洗衣店、滑板车、狗、鸡、汽车和行人在骑手周围突如其来地形成障碍。环境：密集的巴西山坡街道、涂漆混凝土楼梯、狭窄的平台、铺有瓷砖的角落、悬挂的电线、壁画、遮阳篷、水坑、炎热的傍晚阳光、深邃的小巷阴影、城市在下方广袤无垠。情绪：肾上腺素激增，极致混乱，街头高速，四面八方充满暴力空间强度。色彩逻辑：超现实流行风格 镜头细节：360度动作摄像机视角，地平线稳定但凶猛，持续不断前进，最小滚动，剧烈楼梯震动，侧后视差锐利，全球体混乱，无释放。时间线：0：00-0：03：视角从陡峭楼梯间自由落体。前轮越过第一级台阶，车架下方的横杆像电锤一样，整个球体每次撞击都震动着，而一个孩子从左侧猛扑，猛地从骑手的线上拉出滚动的足球，墙壁、轨道、阳台和脸部从两侧呼啸而过。剧烈的前下坠伴随着剧烈的楼梯震动。音效：（城市嗡鸣，远处放克节拍，轮胎杂音，呼吸声，快速楼梯声，框架震动）。头顶是烈日，下面是深深的阴影。0：03-0：0：视角左划过一个小平台，跳过一个破碎的箱子，再次下落，衣服在前半球裂开，肩膀差几英寸擦过涂漆混凝土，侧面包裹的旁观者后退。剧烈的横向抖动，立刻猛地回到楼梯跑中。音效：（布料拍打声、滑行声、人群喊叫声、链条嗡嗡声、楼梯杂音）0：05-0：0：视角猛敲下一个楼梯，一只流浪狗切入中央框架，惊恐的鸡群从侧台阶冲出，翅膀张开。骑手甩动把手，后轮滑板松动，然后在水果车和扶手之间穿梭，几乎没有间隙，球体因每一次楼梯撞击而颤抖。快速震动的连续射击混乱。音效：（轮胎吱吱声、箱子碰撞声、翅膀拍打声、尖叫声、爪子滑行声、楼梯撞击声、窗外低音、金属碰撞声）。0：08-0：10：POV从一段楼梯中冲出，跳过两段楼梯间的短沥青缝隙却没有减速，猛地撞上对面的路缘，直接跳进下一个下楼梯。只有当骑手完全回到楼梯上时，车尾才会响起喇叭声，而经过的车辆则会撕裂侧面的包裹。全速穿越，侧视差强，零释放。音效：（发动机怠速、轮胎嗡嗡声、链条震动、路缘石撞击声、汽车喇叭声）0：10-0：13：POV继续攻击沥青缝隙后紧接的楼梯段，用机枪扫射穿过两个狭窄的平台和另一条陡峭的阶梯小路，每一击都像叠叠的“ho”一样穿透了球体
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10120.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10120.jpg" width="600" alt="浮岛旅人唤遗迹" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08390.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08390.jpg" width="600" alt="360度疯狂下坡楼梯骑行" style="cursor:pointer">
 </a>
 </div>
 
@@ -3128,25 +3056,25 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 99: 晨光健身广告
+### No. 98: 霓虹夜街街舞对决
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-电影感十足的晨间健身广告，一个年轻女孩在现代极简卧室里进行平静的室内锻炼，柔和的金色日出光线透过窗户洒进来，宁静而充满动力的氛围，干净的美学搭配运动披肩换装，结局简洁美丽 第一场（0–3秒）：睁开眼睛的特写，阳光洒在脸上，深呼吸，平静专注 第二场（3–6秒）： 窗边伸展手臂，光线照射身体，慢动作 第三场（6–10分）…
+生成一场15秒的写实夜晚街舞对决。城市街道上有反光湿润的路面、霓虹灯和薄雾。一群年轻舞者组成半圆。前5秒聚焦于一名舞者表演具有挑战性的独舞舞步。剩余的10秒展示了全组成员结合breaking、popping、locking和hip-hop的同步编舞。使用流畅、稳定的电影摄像机，拥有真实的物理和准确的身体比例。
 
 #### 📝 提示词
 
 ```
-电影感十足的晨间健身广告，一个年轻女孩在现代极简卧室里进行平静的室内锻炼，柔和的金色日出光线透过窗户洒进来，宁静而充满动力的氛围，干净的美学搭配运动披肩换装，结局简洁美丽 第一场（0–3秒）：睁开眼睛的特写，阳光洒在脸上，深呼吸，平静专注 第二场（3–6秒）： 窗边伸展手臂，光线照射身体，慢动作 第三场（6–10分）：锻炼序列：俯卧撑、深蹲、轻瑜伽体式、平滑过渡、自然动作、放松但专注的能量 第四场（10–13分）：喝水、擦汗、温柔微笑、满意表情 第五场（13–15分）：站在窗边，自信地望向窗外，呼吸平稳 灯光：温暖的金色日出色调， 柔和阴影 镜头：电影感，慢动作，特写+广角镜头，平滑的摄像机运动，浅景深 风格：干净、极简，激励健身广告，宁静氛围 文本叠加：“强势开始。保持冷静。”结尾画面：标志揭晓 + 标语“拥有你的早晨”。时长：15秒，超写实，4K，电影级色彩分级，细腻的胶片颗粒感
+生成一场15秒的写实夜晚街舞对决。城市街道上有反光湿润的路面、霓虹灯和薄雾。一群年轻舞者组成半圆。前5秒聚焦于一名舞者表演具有挑战性的独舞舞步。剩余的10秒展示了全组成员结合breaking、popping、locking和hip-hop的同步编舞。使用流畅、稳定的电影摄像机，拥有真实的物理和准确的身体比例。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_04062.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04062.jpg" width="600" alt="晨光健身广告" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/1/SD2_08774.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/1/SD2_08774.jpg" width="600" alt="霓虹夜街街舞对决" style="cursor:pointer">
 </a>
 </div>
 
@@ -3154,37 +3082,486 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 ---
 
-### No. 100: 火山矿车生死逃亡
+### No. 99: 云端美甲气象预报
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-在一座古老的火山矿井内，一名探险者被困在一辆失控的矿车里，穿梭于狭窄的隧道中，熔岩在下方升腾。矿井黑暗、危险且不稳定，有木质支撑梁、旧矿轨、破碎区段下发光的熔岩通道、蒸汽喷口、落石、火花、尘埃和橙色火光映照在隧道墙壁上。 宽广开场镜头：矿车高速穿过隧道，旧轨道剧烈晃动。探险者紧握着马车边缘，隧道震动着，熔岩般的光芒从…
+超现实未来主义美妆广告，场景设定在云端之上的奢华气象演播室。一位金发主持人通过全息屏幕播报“美甲天气预报”，屏幕上显示着光泽指数、水润风暴和柑橘亮泽预警。她打开一台流线型金属控制台扫描双手，指甲瞬间从哑光变为闪耀的柑橘黄渐变，并伴有动态漂浮的UI粒子特效。高端指甲油瓶在旋转玻璃舱中如气象胶囊般陈列，与演播室内倾泻的金…
 
 #### 📝 提示词
 
 ```
-在一座古老的火山矿井内，一名探险者被困在一辆失控的矿车里，穿梭于狭窄的隧道中，熔岩在下方升腾。矿井黑暗、危险且不稳定，有木质支撑梁、旧矿轨、破碎区段下发光的熔岩通道、蒸汽喷口、落石、火花、尘埃和橙色火光映照在隧道墙壁上。 
-
-宽广开场镜头：矿车高速穿过隧道，旧轨道剧烈晃动。探险者紧握着马车边缘，隧道震动着，熔岩般的光芒从地下裂缝中透出。 
-
-跟踪镜头：马车飞驰过木梁和狭窄的岩壁。蒸汽从侧面通风口喷涌而出，小石块从上方落下，随着推车冲进矿井深处，轨道微微弯曲。 
-
-侧面提示：隧道开在一个宽敞的熔岩洞室上。矿车穿过一座受损的铁路桥，桥上方是发光的熔岩。随着熔岩涌上，桥的部分区域在马车后方摇晃断裂。 
-
-最后5秒：动作变得极端。前方轨道部分断裂。推车加速下陡坡，跳过缺失的铁轨，重重落回轨道，火花从车轮中飞溅，然后飞奔向一条明亮的出口隧道，矿井在后方坍塌。 
-
-最后时刻：矿车冲出隧道，出现在火山坡附近的露天，矿井入口处冒出烟雾、火花和橙色熔岩光芒。 
-
-风格：超写实、电影感、节奏快、紧张、紧张、动作清晰易读、强烈的速度感和危险感、老火山矿井、失控矿车、下方发光的熔岩、蒸汽、火花、落石、动态但可读的摄像机运动、无文字、无标志、无卡通风格、无慢动作、无著名名人面孔、无可辨认演员、无电影明星相似度、无公众人物肖像， 没有清晰的面部特写。保持比例。保持风格和特征。宽高比为16：9。
+超现实未来主义美妆广告，场景设定在云端之上的奢华气象演播室。一位金发主持人通过全息屏幕播报“美甲天气预报”，屏幕上显示着光泽指数、水润风暴和柑橘亮泽预警。她打开一台流线型金属控制台扫描双手，指甲瞬间从哑光变为闪耀的柑橘黄渐变，并伴有动态漂浮的UI粒子特效。高端指甲油瓶在旋转玻璃舱中如气象胶囊般陈列，与演播室内倾泻的金色光芒共同呼应“晴空闪耀预报”主题。采用电影级ARRI Alexa质感，全息科幻美学，极致洁净的灯光设计，柔和金色与霓虹点缀，微距美甲特写，流畅的悬浮镜头运动，高定时尚大片风格。配乐：优雅的未来主义电子原声带，包含空灵合成器音色、数字脉冲、闪烁风铃，以及精致昂扬的终章。
 ```
 
 #### 🎬 生成视频（点击播放 ↗）
 
 <div align="center">
-<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_10557.mp4" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_10557.jpg" width="600" alt="火山矿车生死逃亡" style="cursor:pointer">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02665.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02665.jpg" width="600" alt="云端美甲气象预报" style="cursor:pointer">
+</a>
+</div>
+
+**[🐵 在悟空提示词 Hub 中查看](https://prompthub.gokuscraper.com)**
+
+---
+
+### No. 100: 仙侠姐妹抬价记
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+Seedance 提示词｜抬价 一、核心定位 电影级写实质感，纯古风中国仙侠美学。 整体采用： 高级群像冷面喜剧 古典武侠人物调度 逐级加码的谈判节奏 三拍法则 精准反应镜头 Arri Alexa 电影机质感 清晰稳定的面部微细节 细腻胶片颗粒 自然体积光 本段喜剧核心是一次清楚的身份与立场反转： 敌人企图用银子收买…
+
+#### 📝 提示词
+
+```
+Seedance 提示词｜抬价
+
+一、核心定位
+
+电影级写实质感，纯古风中国仙侠美学。
+整体采用：
+高级群像冷面喜剧
+
+古典武侠人物调度
+逐级加码的谈判节奏
+三拍法则
+精准反应镜头
+Arri Alexa 电影机质感
+清晰稳定的面部微细节
+细腻胶片颗粒
+自然体积光
+本段喜剧核心是一次清楚的身份与立场反转：
+
+敌人企图用银子收买小师妹，让她出卖师姐的弱点。
+前几秒先让观众短暂怀疑小师妹是不是真的准备收钱。
+随后才揭晓，这两个女人竟然极其默契地一起帮敌人“抬价”。
+
+所有配角只作为：
+喜剧见证者
+节奏补刀者
+
+真正主体始终只属于：
+
+图一师姐
+图二小师妹
+
+二、参考控制
+
+1. 人物身份锚点
+@图片 1 严格锁定角色 ID A：剑仙师姐
+
+@图片 2 严格锁定角色 ID B：小师妹
+
+2. 环境参考
+
+本轮新上传的全部背景与地点参考图，共同决定同一套环境 DNA。
+
+正式构图前，先无声整合彼此兼容的：
+真实地形
+
+建筑语言
+
+空间尺度
+
+材质
+
+植被
+水体
+天气
+山雾
+云层
+主光方向
+反光关系
+空气纵深
+真实可行走路线
+然后重新规划成一个：
+本轮独有
+完整统一
+物理合理
+
+空间连续
+
+的新空间。
+3. 环境原则
+环境必须从头到尾持续鲜活，但在叙事上绝对中立。
+允许自然持续运动的元素包括：
+
+风
+
+水体
+
+山雾
+
+植被
+
+倒影
+远处弟子
+空间环境声
+但必须遵守以下原则：
+环境不能触发剧情
+环境不能解决问题
+环境不能替角色制造包袱
+
+环境不能打断谈判
+
+环境只能提供真实世界存在感
+三、角色设定
+角色 ID A｜剑仙师姐
+同一个 @图片 1 剑仙师姐。
+25–30 岁东亚女性，椭圆脸，白皙肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。
+固定造型：
+
+白色刺绣真丝汉服
+
+半透明宽袖
+
+银色腰封
+
+玉佩
+白色布靴
+
+唯一一柄银色长剑
+
+人物气质：
+冷静
+端庄
+逻辑稳定
+一本正经
+对荒诞局面毫不脸红
+
+关键表演要求：
+
+听到小师妹说“太少”时，必须非常缓慢地转头看她
+说“八十”时要像报一个合理公价
+说“我的弱点，不能卖便宜”时必须完全严肃
+推银子给小师妹时，态度要像处理正事
+角色 ID B｜小师妹
+
+同一个 @图片 2 小师妹。
+20–25 岁东亚女性，圆润灵动的脸，黑发编辫，身形娇小。
+
+固定造型：
+青绿色亚麻汉服
+深色腰带
+木簪
+
+黑色布鞋
+
+唯一一柄深色钢剑
+
+人物气质：
+聪明
+
+反应快
+
+情绪克制
+和师姐有天然默契
+喜剧功能主要来自“认真得离谱”
+关键表演要求：
+她先观察银子时，必须让观众短暂怀疑她可能真的会卖
+
+说“太少”时平静认真，不能嬉皮笑脸
+
+对“八十”点头时要像认可专业报价
+最后掂银子、说“怕我吃亏”时必须自然到像在陈述事实
+配角 1｜敌方剑客
+一名
+负责发起收买
+
+起初自信，以为自己掌控局面
+
+中段开始不理解
+后段彻底僵住
+关键表演要求：
+“三十两，告诉我她的弱点”要直接、务实
+
+“五十”时要明显觉得自己在加码
+
+“八十！她到底怕什么？”要带失去耐性的压迫感
+
+最后看着空掉的双手时，要像整个人都被绕进去了
+配角 2｜年长师父
+一名
+只在最后负责一记权威补刀
+出场不能抢戏
+
+语气要像顺手处理宗门账务
+
+关键表演要求：
+“教训。” 要像客观结论
+“银子上交宗门三成。” 必须像宣布正常门规
+走路不能停
+
+不能转成明显搞笑表演
+
+远景环境人物
+
+可有远处尺寸很小的弟子
+只承担世界存在感
+不能加入主剧情
+不能明显围观主角
+
+不能因笑点而反应过大
+
+四、核心道具
+银锭
+同一批银子
+几锭即可
+
+明确摆在三人之间自然存在的石面上
+
+三个镜头内连续稳定
+
+必须有真实金属重量感与反光
+长剑
+师姐：唯一一柄银色长剑
+小师妹：唯一一柄深色钢剑
+全程作为身份道具存在
+
+本段不以打斗为主，重点在谈判与关系反转
+
+五、喜剧结构
+
+第一拍｜误导
+
+敌人出价三十两。
+小师妹没有立刻拒绝，而是认真看银子，并说：
+“太少。”
+观众短暂怀疑她真的会接。
+第二拍｜递进
+敌人加价到五十。
+师姐突然亲自下场抬价：
+
+“八十。”
+
+局面从“收买”变成“共同议价”。
+第三拍｜回马枪
+敌人最终成交，追问师姐的弱点。
+小师妹认真回答：
+“怕我吃亏。”
+
+原来这场交易从头到尾都不是背叛，而是这两个人一起顺势“宰”了他一笔。
+
+权威补刀
+
+师父最后一句：
+
+“教训。”
+“银子上交宗门三成。”
+把整场荒诞谈判正式盖章成宗门事务。
+
+六、分镜脚本
+
+0–5s｜全景或远景
+
+角色 ID A 始终是同一个 @图片 1 剑仙师姐。
+角色 ID B 始终是同一个 @图片 2 小师妹。
+
+一名敌方剑客把几锭银子放在三人之间自然存在的石面上，
+看着同一个小师妹说道：
+“三十两，告诉我她的弱点。”
+
+同一个小师妹没有立刻拒绝，
+而是极其认真地观察那几锭银子，
+然后平静回答：
+
+“太少。”
+
+同一个白衣剑仙闻言，
+非常缓慢地转头看向她。
+
+镜头要求
+先建立稳定空间与三人位置关系
+
+银子必须清楚可见
+
+小师妹观察银子时，要让观众误判她可能心动
+
+师姐转头必须慢而有分量
+
+保持一丝安静，让包袱先发酵
+
+5–10s｜中景或牛仔景
+保持同样两名女子、同一个敌人、同一批银子和完全一致的地理空间。
+
+敌人明显以为有戏，又增加银子：
+
+“五十。”
+
+同一个小师妹认真思考，刚准备开口，
+同一个剑仙师姐却先一步非常平静地说道：
+
+“八十。”
+
+完整安静半拍。
+敌人难以置信地盯着她：
+
+“我在买你的弱点，你还帮她抬价？”
+师姐面不改色回答：
+
+“我的弱点，不能卖便宜。”
+
+同一个小师妹竟然一本正经地点头，
+仿佛非常认可这个价格。
+完整保留一个干净的反应停顿。
+镜头要求
+
+“八十”必须像理所当然的报价
+
+敌人要明显被逻辑打断
+小师妹点头要非常认真，进一步加强荒诞
+
+保留停顿，不急着推进下一句
+
+背景继续自然运动，但绝不抢戏
+10–15s｜特写或极近特写
+敌人终于失去耐性，
+把全部银子向前一推：
+“八十！她到底怕什么？”
+同一个小师妹拿起唯一一锭银子，
+在掌心认真掂了一下，
+然后极其自然地指向师姐：
+
+“怕我吃亏。”
+
+完整停顿半拍。
+
+同一个剑仙师姐立刻把银子全部推到小师妹那边，平静说道：
+
+“所以钱留下，人可以走了。”
+
+敌人彻底僵住：
+
+“那我买了什么？”
+镜头焦点转移到数步之外恰好经过的同一个年长师父。
+师父脚步完全不停，随口回答：
+
+“教训。”
+
+又走两步后，
+他以处理宗门正事一样的严肃语气补上一句：
+
+“银子上交宗门三成。”
+
+极近特写：
+
+同一个师姐和同一个小师妹第一次同时猛地转头看向他，异口同声：
+
+“师父？”
+
+师父却仿佛什么都没有发生一样继续往前走。
+敌人则缓慢低头看看自己已经空掉的双手，
+再看看这两个女人，
+完全说不出话。
+
+精准切黑。
+
+镜头要求
+
+小师妹“怕我吃亏”必须自然且一锤定音
+师姐推银子时要迅速、合理、干净
+师父补刀必须像顺手抽成
+“师父？” 这一句要同步、干净、短促
+最后切在敌人彻底无语的脸上
+
+七、表演节奏要求
+
+师姐
+
+全程完全严肃
+越像在处理正经交易越好笑
+
+不主动笑
+
+不解释荒诞
+抬价和收尾都必须带一种公事公办感
+小师妹
+
+前半段负责误导观众
+
+中段负责和师姐形成默契合谋
+
+后半段一句“怕我吃亏”完成身份反转
+
+神情始终聪明克制
+
+敌人
+
+开始时掌控感强
+
+中段迷惑
+后段彻底失去理解能力
+
+反应要层层升级，但不能浮夸失真
+
+师父
+只负责最后两句
+
+要像宗门长辈顺手处理账目
+
+越平静，越有杀伤力
+
+八、摄影与空间要求
+
+16:9 横屏
+
+三个连续清晰镜头
+
+Arri Alexa 电影机观感
+画面清晰稳定
+面部细节清楚可读
+
+自然体积光
+
+细腻胶片颗粒
+
+喜剧停顿必须留够
+反应镜头要精准
+前景、中景、远景保持自然视差
+银锭、人物站位、地理关系必须稳定连续
+九、声音要求
+
+原生同步普通话对白
+
+口型精准
+
+喜剧停顿明确
+
+真实空间环境声
+背景风、水体、山雾、植被、远处弟子声持续自然存在
+不生成字幕
+十、技术规格
+总时长：15 秒
+
+画幅：16:9 横屏
+
+三个连续清晰镜头
+原生同步普通话对白
+口型精准
+喜剧停顿明确
+
+人物身份、服装、长剑、银锭道具、配角位置和地理空间全程稳定
+
+视线与手部动作清楚可信
+真丝衣料与头发物理效果真实
+前景、中景、远景保持自然视差与真实空间声音
+整体按照 Seedance 2.0 官方 15 秒多镜头音视频生成与多模态参考连续性能力进行组织
+
+十一、Negative
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+#### 🎬 生成视频（点击播放 ↗）
+
+<div align="center">
+<a href="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/2/SD2_11379.mp4" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/2/SD2_11379.jpg" width="600" alt="仙侠姐妹抬价记" style="cursor:pointer">
 </a>
 </div>
 
@@ -3220,6 +3597,6 @@ hf_20260602_045742_a9ce1037-381a-4dff-89c6-488fbd282b8c
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年8月29日星期六 UTC 05:59:23</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年8月30日星期日 UTC 04:05:09</sub>
 
 </div>
