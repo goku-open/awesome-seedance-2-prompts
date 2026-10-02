@@ -50,7 +50,7 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **undefined** |
-| 🔄 最后更新 | **2026年10月1日星期四 UTC 04:36:15** |
+| 🔄 最后更新 | **2026年10月2日星期五 UTC 04:28:29** |
 
 </div>
 
@@ -5219,6 +5219,6 @@ Seedance 2.0 Fast
 
 **[🌐 在网页图库中查看](https://prompthub.gokuscraper.com)** • **[⭐ 给仓库点星](https://github.com/goku-open/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026年10月1日星期四 UTC 04:36:15</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026年10月2日星期五 UTC 04:28:29</sub>
 
 </div>
